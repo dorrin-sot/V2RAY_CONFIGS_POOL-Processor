@@ -40,6 +40,9 @@ jobs:
             | sed 's/^🆔@v2ray_configs_pool//' \
             | sort | uniq > concatenated_v2ray.txt
           rm -rf foreign-repo
+          
+      - name: Preview first 10 lines
+        run: head concatenated_v2ray.txt
 
       # Step 4: Split by country
       - name: Split by country

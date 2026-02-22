@@ -31,12 +31,22 @@ jobs:
           # Sort numerically to preserve order
           cat $(ls foreign-repo/v2ray_configs_*.txt | sort -V) | sort | uniq > concatenated_v2ray.txt
 
-      # Step 4: Commit and push to your repo
+      # Step 4: Split by country
+      - name: Split by country
+        run: |
+          mkdir -p countries
+      
+          grep -oP '®️\K[^©️]+' concatenated_v2ray.txt | sort -u | while read country; do
+            filename=$(echo "$country" | tr ' ' '_' | tr -d '()')
+            grep "®️$country©️" concatenated_v2ray.txt > "countries/${filename}.txt"
+          done
+
+      # Step 5: Commit and push to your repo
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add concatenated_v2ray.txt
+          git add .
           git commit -m "Update concatenated V2Ray configs" || echo "No changes to commit"
           git remote set-url origin https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/dorrin-sot/V2RAY_CONFIGS_POOL-Processor.git
           git push origin main

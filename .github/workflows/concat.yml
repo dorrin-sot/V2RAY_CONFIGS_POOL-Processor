@@ -29,6 +29,8 @@ jobs:
           path: foreign-repo
           ref: main
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          submodules: false
+          fetch-depth: 1
 
       # Step 3: Concatenate matching files
       - name: Concatenate v2ray_configs_*.txt

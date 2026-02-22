@@ -36,7 +36,9 @@ jobs:
       - name: Concatenate v2ray_configs_*.txt
         run: |
           # Sort numerically to preserve order
-          cat $(ls foreign-repo/v2ray_configs_*.txt | sort -V) | sort | uniq > concatenated_v2ray.txt
+          cat $(ls foreign-repo/v2ray_configs_*.txt | sort -V) \
+            | sed 's/^🆔@v2ray_configs_pool//' \
+            | sort | uniq > concatenated_v2ray.txt
           rm -rf foreign-repo
 
       # Step 4: Split by country

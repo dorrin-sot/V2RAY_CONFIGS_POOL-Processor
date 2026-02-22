@@ -1,0 +1,41 @@
+name: Concatenate V2Ray Configs
+
+on:
+  workflow_dispatch:  # manual trigger
+  repository_dispatch:  # triggered from foreign repo
+    types: [v2ray-update]
+
+jobs:
+  concat_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout your repository
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # allows push
+
+      # Step 2: Checkout the foreign repository
+      - name: Checkout foreign repo
+        uses: actions/checkout@v4
+        with:
+          repository: V2RAYCONFIGSPOOL/V2RAY_SUB
+          path: foreign-repo
+          ref: main
+          # token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # needs access to the repo
+
+      # Step 3: Concatenate matching files
+      - name: Concatenate v2ray_configs_*.txt
+        run: |
+          # Sort numerically to preserve order
+          cat $(ls foreign-repo/v2ray_configs_*.txt | sort -V) > concatenated_v2ray.txt
+
+      # Step 4: Commit and push to your repo
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add concatenated_v2ray.txt
+          git commit -m "Update concatenated V2Ray configs" || echo "No changes to commit"
+          git push

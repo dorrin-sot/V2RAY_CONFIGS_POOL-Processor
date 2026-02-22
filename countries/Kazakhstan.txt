@@ -1,1 +1,2 @@
-vless://d95e192e-1050-48ae-ae54-6fd8f6c389a3@45.136.128.184:443?type=tcp&security=reality&pbk=08TPrmO6ClQQvBeWPVKuotkRZ_WKD6jL3aFeeRlVVVM&fp=chrome&sni=yahoo.com&sid=0bee&spx=%2F#👉📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:231ms
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#👉📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:115.44ms
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#👉📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:91.38ms

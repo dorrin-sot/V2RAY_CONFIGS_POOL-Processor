@@ -1,8 +1,11 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#👉📡🇮🇷®️Iran©️Isfahan🅿️ping:101.71ms
-vless://3bd43011-8ccf-4e38-b94c-d31afc145ed9@s1.oxira.site:9990?security=none&type=tcp&headerType=http&path=%2Fpath&host=soft98.ir#👉📡🇮🇷®️Iran©️Farrāshband🅿️ping:202.47ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#👉📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:150ms
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ1.FASTSPEEDS.IR:210?security=&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehran🅿️ping:231ms
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ3.FASTSPEEDS.IR:212?security=&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehran🅿️ping:125ms
-vless://6b060748-eacb-d0dd-3231-e07f5c99fced@s-4.wolf-service.top:8478?security=&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Ahvāz🅿️ping:233ms
-vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?&fp=chrome&type=ws&headerType=none&path=%2F#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:29ms
-vless://f5409195-0cae-410e-a4ce-f671347c06aa@94.182.129.246:22838?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Karaj (Mehrshahr)🅿️ping:100.29ms
+vless://1043eecd-a217-4681-a314-453a74128380@94.184.13.2:5358?security=reality&encryption=none&pbk=LX5xXGMnMyrGl7gjHbZEzcRclDnsTKg2uZBSYwKp9iY&headerType=none&fp=firefox&type=tcp&sni=refersion.com#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:188.5ms
+vless://1043eecd-a217-4681-a314-453a74128380@94.184.13.37:5368?security=reality&encryption=none&pbk=NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc&headerType=none&fp=firefox&type=tcp&sni=refersion.com#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:202.46ms
+vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@srv99.radargame.site:41128?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:129.33ms
+vless://65ea1867-ee13-41ad-819e-098553a3db2e@sr2.qirvo.fun:2082?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:124.03ms
+vless://90826ad0-5ad0-4758-bc6f-72e029bb274d@tr.webira.net:36279?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:140.37ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.lv.fx2hub.ir:54233?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:132.18ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.no.fx2hub.ir:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:135.82ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ru.zopli.ir:23209?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:138.96ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:138.3ms
+vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#👉📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:168.82ms
+vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehran🅿️ping:217.14ms

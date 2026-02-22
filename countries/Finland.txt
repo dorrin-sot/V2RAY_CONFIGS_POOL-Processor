@@ -1,3 +1,4 @@
-vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tcp&security=reality&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=174c6cf22e22#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:89ms
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop2.ahoohost2.top:7343?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:64.92ms
-vless://c5fcc644-839d-4fbd-a2ee-421ca728751a@45.12.135.99:443?type=tcp&security=reality&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&fp=chrome&sni=yahoo.com&sid=822d&spx=%2F#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:52ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@65.109.200.234:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:42.93ms
+vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:67.58ms
+vless://b1b25fba-c0d0-48ea-971b-5cf4aee373d1@shop2.afraserver4.top:7335?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:68.89ms
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@93.152.207.254:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=tcp&headerType=none#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:56.69ms

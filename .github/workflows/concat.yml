@@ -14,7 +14,7 @@ jobs:
       - name: Checkout this repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # allows push
+          persist-credentials: false
 
       # Step 2: Checkout the foreign repository
       - name: Checkout foreign repo

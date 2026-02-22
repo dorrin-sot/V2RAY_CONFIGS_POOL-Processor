@@ -3,6 +3,5 @@
 This repository processes the latest commit on [V2RAYCONFIGSPOOL/V2RAY_SUB](https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB).
 
 Features:
-- [ ] Concatenate all files.
-- [ ] Filter by Country.
-- [ ] Return a fixxed number of configs.
+- [x] Concatenate all files.
+- [x] Filter by Country.

@@ -30,6 +30,7 @@ jobs:
         run: |
           # Sort numerically to preserve order
           cat $(ls foreign-repo/v2ray_configs_*.txt | sort -V) | sort | uniq > concatenated_v2ray.txt
+          rm -rf foreign-repo
 
       # Step 4: Split by country
       - name: Split by country

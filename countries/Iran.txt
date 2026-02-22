@@ -1,0 +1,8 @@
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan🅿️ping:101.71ms
+vless://3bd43011-8ccf-4e38-b94c-d31afc145ed9@s1.oxira.site:9990?security=none&type=tcp&headerType=http&path=%2Fpath&host=soft98.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Farrāshband🅿️ping:202.47ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:150ms
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ1.FASTSPEEDS.IR:210?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:231ms
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ3.FASTSPEEDS.IR:212?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:125ms
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@s-4.wolf-service.top:8478?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz🅿️ping:233ms
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?&fp=chrome&type=ws&headerType=none&path=%2F#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:29ms
+vless://f5409195-0cae-410e-a4ce-f671347c06aa@94.182.129.246:22838?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Karaj (Mehrshahr)🅿️ping:100.29ms

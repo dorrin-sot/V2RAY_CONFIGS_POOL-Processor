@@ -4,6 +4,11 @@ on:
   workflow_dispatch:  # manual trigger
   repository_dispatch:  # triggered from foreign repo
     types: [v2ray-update]
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/**
 
 jobs:
   concat_and_commit:

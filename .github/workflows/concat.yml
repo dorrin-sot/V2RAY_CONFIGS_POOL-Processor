@@ -23,7 +23,7 @@ jobs:
           repository: V2RAYCONFIGSPOOL/V2RAY_SUB
           path: foreign-repo
           ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       # Step 3: Concatenate matching files
       - name: Concatenate v2ray_configs_*.txt

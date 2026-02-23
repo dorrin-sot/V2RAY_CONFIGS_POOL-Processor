@@ -1,1 +1,1 @@
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#📡🇦🇱®️Albania©️Tirana🅿️ping:76ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.177.238.3:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#📡🇦🇱®️Albania©️Elbasan🅿️ping:33ms

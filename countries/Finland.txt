@@ -1,6 +1,5 @@
-ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:47ms
-ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#📡🇫🇮®️Finland©️Helsinki🅿️ping:117.21ms
-vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:72ms
-vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:87ms
-vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?path=/UdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=http.tostar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=http.tostar.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:68.02ms
+vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#📡🇫🇮®️Finland©️Helsinki🅿️ping:48.77ms
+vless://7bf5480b-a130-4e9d-a9d2-07f354653853@37.27.91.234:7335?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:42ms
+vless://95e3a7e6-ff2b-4554-b107-8ff4c58b7981@83.147.252.165:443/?type=tcp&encryption=none&flow=&sni=sun6-20.userapi.com&fp=chrome&security=reality&pbk=C1ZoKW-5BWP4D6hQwpF4X-5TMI2HkevyJMo-FletEQs&sid=a196aa52#📡🇫🇮®️Finland©️Helsinki🅿️ping:42ms
+vless://96cf6955-1dbb-4fe3-a96c-03381b93ef7f@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:42ms
+vless://96cf6955-1dbb-4fe3-a96c-03381b93ef7f@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:46ms

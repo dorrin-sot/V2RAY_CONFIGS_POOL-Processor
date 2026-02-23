@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#📡🇮🇹®️Italy©️Milan🅿️ping:31.07ms
-ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#📡🇮🇹®️Italy©️Milan🅿️ping:31.22ms
+vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#📡🇮🇹®️Italy©️Arezzo🅿️ping:44.33ms

@@ -1,1 +1,1 @@
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/#📡🇨🇼®️Curacao©️Willemstad (Pietermaai)🅿️ping:21.9ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2=&host=sni.jpmj.dev&ed=2560&eh=Sec-WebSocket-Protocol#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22.09ms

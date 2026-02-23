@@ -1,2 +1,1 @@
-vless://108940ab-48de-4bee-a018-f9b9a36dd851@194.62.122.141:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#📡🇷🇴®️Romania©️Bucharest (Bucureşti Sectorul 3)🅿️ping:26.93ms
-vless://108940ab-48de-4bee-a018-f9b9a36dd851@194.62.122.142:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#📡🇷🇴®️Romania©️Bucharest (Bucureşti Sectorul 3)🅿️ping:26.95ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#📡🇷🇴®️Romania©️Voluntari🅿️ping:72.97ms

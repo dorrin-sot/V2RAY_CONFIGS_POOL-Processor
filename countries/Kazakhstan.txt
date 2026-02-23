@@ -1,1 +1,1 @@
-vless://4dc57933-5067-41fd-b318-a877ca9d6221@data.cloudvibe.ir:8443?security=tls&type=ws&headerType=&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-nm134.netsnap.ir&sni=data-nm134.netsnap.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:59ms
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#📡🇰🇿®️Kazakhstan©️Astana🅿️ping:95ms

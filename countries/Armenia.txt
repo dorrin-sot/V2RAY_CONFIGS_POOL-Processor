@@ -1,1 +1,1 @@
-vless://b824f264-8cc3-4669-9f60-47b51ed1aa11@185.234.57.216:443?type=tcp&security=reality&pbk=2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ&fp=chrome&sni=yahoo.com&sid=f9fe&spx=%2F#👉📡🇦🇲®️Armenia©️Yerevan🅿️ping:63ms
+vless://d50ef9ea-7adf-4b45-977a-16bca0f11584@185.234.57.216:443?security=reality&encryption=none&pbk=2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f9fe#📡🇦🇲®️Armenia©️Yerevan🅿️ping:69ms

@@ -1,2 +1,1 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.10.52:443?security=reality&type=tcp&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&encryption=none#📡🇰🇷®️South Korea©️Seoul🅿️ping:271.78ms
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443?security=reality&type=tcp&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#📡🇰🇷®️South Korea©️Seoul🅿️ping:246.49ms
+vless://ddb913e5-492f-42e8-baec-93c9c5d333d6@45.136.149.145:443?security=reality&encryption=none&pbk=83ZRQEAaJx3rV-EDhk5TFnBoDjTr7TfGKlq7FgA-WRY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=58a3#📡🇰🇷®️South Korea©️Seoul🅿️ping:257ms

@@ -1,9 +1,4 @@
-ss://010c8bf7-0a43-404f-a6c5-2427acb4d476@38.180.112.88:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#📡🇹🇷®️Turkey©️Istanbul🅿️ping:58.33ms
-ss://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=reality&encryption=none&pbk=tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=2gis.kz&sid=63d80d5199a2bc#📡🇹🇷®️Turkey©️Yakuplu🅿️ping:61.05ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377%40freenettir#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:76.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISWlkV3dYcUI0ellMNlJtZ0tBQlVI@62.133.63.21:65262#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:58.8ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISWlkV3dYcUI0ellMNlJtZ0tBQlVI@62.133.63.21:65262#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:60.06ms
-vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@38.180.112.88:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#📡🇹🇷®️Turkey©️Istanbul🅿️ping:58.33ms
-vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=reality&encryption=none&pbk=tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=2gis.kz&sid=63d80d5199a2bc#📡🇹🇷®️Turkey©️Yakuplu🅿️ping:61.05ms
-vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Izmir🅿️ping:56.41ms
-vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Izmir🅿️ping:57.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:59.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:68.48ms
+vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#📡🇹🇷®️Turkey©️Izmir🅿️ping:56.52ms
+vless://c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb@103.231.75.185:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&sid=0bce#📡🇹🇷®️Turkey©️Izmir🅿️ping:56.04ms

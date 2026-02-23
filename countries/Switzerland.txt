@@ -1,2 +1,1 @@
-ss://916ee625-3b9d-4d6d-a7d0-9ef76e0ebf28@84.234.28.75:9003?security=none&encryption=none&headerType=none&type=tcp#📡🇨🇭®️Switzerland©️Geneva🅿️ping:34.71ms
-vless://916ee625-3b9d-4d6d-a7d0-9ef76e0ebf28@84.234.28.75:9003?security=none&encryption=none&headerType=none&type=tcp#📡🇨🇭®️Switzerland©️Geneva🅿️ping:34.71ms
+vless://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d515d6cfdfe60b02#📡🇨🇭®️Switzerland©️Zurich🅿️ping:48.95ms

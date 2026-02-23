@@ -1,2 +1,2 @@
-vless://Telegram-ipV2Ray@185.146.173.59:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=www.cafebazaar.ir.www.myket.ir.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.site.&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:22ms
-vless://e3edc64f-b585-47b6-a8b4-6febc65a60b8@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#📡🇸🇪®️Sweden©️Stockholm🅿️ping:64.4ms
+vless://a92ff4a9-8e31-4b8b-88c7-7c99454e25b6@45.248.37.51:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=a3wxOmmJ95RHcuVYvxGusowLy8c6a4amlbS2OxMNTHc&sid=52ad#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.04ms
+vless://a92ff4a9-8e31-4b8b-88c7-7c99454e25b6@45.248.37.51:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=a3wxOmmJ95RHcuVYvxGusowLy8c6a4amlbS2OxMNTHc&sid=52ad#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.0ms

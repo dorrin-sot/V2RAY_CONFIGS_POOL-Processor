@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#👉📡🇯🇵®️Japan©️Shibuya City🅿️ping:254ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#👉📡🇯🇵®️Japan©️Shibuya City🅿️ping:272ms
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=cdn77.api.userway.org&sid=6ba85179e30d4fc2#👉📡🇯🇵®️Japan©️Shibuya City🅿️ping:252ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.5.34:45681?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram#جاوید نام سعید ابراهیمی🌹📡🇯🇵®️Japan©️Minoh (Saitoaokita)🅿️ping:260ms

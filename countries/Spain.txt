@@ -1,2 +1,1 @@
-vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?type=tcp&security=reality&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&fp=chrome&sni=yahoo.com&sid=a0cb&spx=%2F#👉📡🇪🇸®️Spain©️Madrid🅿️ping:57ms
-vless://c91a30da-c1a7-4bd6-ad67-d25dae6aa14f@45.147.251.170:443?type=tcp&security=reality&pbk=WH0kgqh8uI7zBktvnmEhMOKqmxWMfgspWUzXtDlW3Qk&fp=chrome&sni=yahoo.com&sid=cafe&spx=%2F#👉📡🇪🇸®️Spain©️Alcobendas🅿️ping:48ms
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#جاوید نام محمدرضا خانی🌹📡🇪🇸®️Spain©️Madrid🅿️ping:22.18ms

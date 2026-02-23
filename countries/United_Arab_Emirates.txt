@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:40.87ms
-vless://a3c624bd-3183-4f66-b1d1-35914fc9867c@94.140.0.74:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2096&host=a10x.vslbsh.pro#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:21.82ms
+vless://a3c624bd-3183-4f66-b1d1-35914fc9867c@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:21.93ms

@@ -1,1 +1,1 @@
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#جاوید نام محمدرضا خانی🌹📡🇪🇸®️Spain©️Madrid🅿️ping:22.18ms
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:22.18ms

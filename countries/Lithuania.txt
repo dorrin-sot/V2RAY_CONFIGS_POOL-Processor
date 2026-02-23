@@ -1,1 +1,1 @@
-vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@CF8.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=de3.roshdadcollection.ir#جاوید نام نازنین اسمی‌خانی🌹📡🇱🇹®️Lithuania©️Vilnius🅿️ping:82ms
+vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@CF8.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=de3.roshdadcollection.ir#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:82ms

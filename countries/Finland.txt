@@ -1,6 +1,6 @@
-ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#جاوید نام سعید حیدری🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:65ms
-ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#جاوید نام مجید بویری🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:47ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#جاوید نام علیرضا مقدسی نیکو🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:117.21ms
-vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#جاوید نام امیر قمی🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:87ms
-vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#جاوید نام بهنام میرزایی🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:72ms
-vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?path=/UdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=http.tostar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=http.tostar.ir#جاوید نام محمد رضا مسکین نواز🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:68.02ms
+ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:47ms
+ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:65ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#📡🇫🇮®️Finland©️Helsinki🅿️ping:117.21ms
+vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:72ms
+vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:87ms
+vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?path=/UdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=http.tostar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=http.tostar.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:68.02ms

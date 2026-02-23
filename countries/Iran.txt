@@ -1,13 +1,13 @@
-vless://23ac1183-736e-4473-bb0b-8f06af71ce99@curt240.curtvjix.ir:2381?type=grpc&mode=gun&security=tls&encryption=none&sni=speedtest.net&allowInsecure=1#جاوید نام قاسم وکیلی🌹📡🇮🇷®️Iran©️Tehran🅿️ping:142.62ms
-vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=&encryption=none&headerType=none&type=tcp#جاوید نام محمدمهدی روستا🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:115ms
-vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?encryption=none&security=none&type=tcp&headerType=http&host=filmnet.ir#جاوید نام پانته‌آ شیاسی🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:147ms
-vless://3cd9422c-4dc8-4726-d2dc-14ceace09668@dlpack.hbsado.ir:44284?security=reality&encryption=none&pbk=2TcH-J4HyfgQzmIRPOGDsHJosweeCBXguY_a0gX-NWc&fp=chrome&spx=/&type=grpc&sni=yahoo.com#جاوید نام میلاد حسن‌زاده🌹📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:152ms
-vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#جاوید نام علیرضا جواهری🌹📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:26ms
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#جاوید نام عرفان قلی‌پور🌹📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:143ms
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#جاوید نام یزدان تمنا🌹📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:126ms
-vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&headerType=none&type=tcp#جاوید نام امیرمحمد کرمی🌹📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:161ms
-vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#جاوید نام مرتضی اژدری🌹📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:133ms
-vless://e75ebf47-a4c4-4e32-92a5-f9123d70c665@grdt.dtsantoor.com:40786/?encryption=none&security=tls&sni=grdt.dtsantoor.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=http&host=skyroom.online#جاوید نام بهنام درویش🌹📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:126ms
-vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=none&encryption=none&host=yahoo.com&headerType=http&type=tcp#جاوید نام میعاد ساده میری‌نژاد🌹📡🇮🇷®️Iran©️Tehran🅿️ping:472ms
-vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=/wp-admin%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=getasa.ir&amp%3Btype=ws#جاوید نام حمیدرضا باقری🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:22ms
-vless://f91b9e49-0cea-4793-9cb8-2d8d41690f47@info.speedtest2028.com:3289?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#جاوید نام امیرحسین جوادزاده🌹📡🇮🇷®️Iran©️Tehran🅿️ping:203ms
+vless://23ac1183-736e-4473-bb0b-8f06af71ce99@curt240.curtvjix.ir:2381?type=grpc&mode=gun&security=tls&encryption=none&sni=speedtest.net&allowInsecure=1#📡🇮🇷®️Iran©️Tehran🅿️ping:142.62ms
+vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:115ms
+vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:115.95ms
+vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?encryption=none&security=none&type=tcp&headerType=http&host=filmnet.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:147ms
+vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:26ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:126ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:143ms
+vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:161ms
+vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:133ms
+vless://e75ebf47-a4c4-4e32-92a5-f9123d70c665@grdt.dtsantoor.com:40786/?encryption=none&security=tls&sni=grdt.dtsantoor.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=http&host=skyroom.online#📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:126ms
+vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=none&encryption=none&host=yahoo.com&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:472ms
+vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=/wp-admin%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=getasa.ir&amp%3Btype=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:22ms
+vless://f91b9e49-0cea-4793-9cb8-2d8d41690f47@info.speedtest2028.com:3289?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:203ms

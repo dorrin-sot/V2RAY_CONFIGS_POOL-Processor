@@ -1,1 +1,2 @@
-trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?security=tls&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Central🅿️ping:289.14ms
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:207.15ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@175.29.22.45:35549?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:205.83ms

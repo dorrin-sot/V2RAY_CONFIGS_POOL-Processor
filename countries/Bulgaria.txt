@@ -1,1 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#📡🇧🇬®️Bulgaria©️Sofia (Sofia Center)🅿️ping:21.77ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&path=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&host=sni.111000.v6.navy#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:29.34ms

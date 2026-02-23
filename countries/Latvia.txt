@@ -1,2 +1,5 @@
-vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:53ms
-vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:56.9ms
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.34.165:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#📡🇱🇻®️Latvia©️Riga🅿️ping:53.46ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.143:443?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇱🇻®️Latvia©️Riga🅿️ping:49.61ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.143:443?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇱🇻®️Latvia©️Riga🅿️ping:53.09ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.143:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇱🇻®️Latvia©️Riga🅿️ping:51.93ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.34.165:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#📡🇱🇻®️Latvia©️Riga🅿️ping:50.29ms

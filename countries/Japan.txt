@@ -1,4 +1,2 @@
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ@46.250.254.170:443#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:259ms
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.144.208:3423?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:278.07ms
-vless://18d6752a-47b8-423f-9428-c9020761cd88@sgskb.osaip.net:25055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=0&sni=#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:319ms
-vless://80edbcfe-a5dd-4efc-b494-dc1b7aa5b9a3@218.33.108.33:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#📡🇯🇵®️Japan©️Shibuya City🅿️ping:271.1ms
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:288.9ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.80.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:22.05ms

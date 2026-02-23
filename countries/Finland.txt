@@ -1,1 +1,1 @@
-vless://108940ab-48de-4bee-a018-f9b9a36dd851@2.56.173.227:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:51.52ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.112.82.28:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇫🇮®️Finland©️Artjärvi🅿️ping:47.67ms

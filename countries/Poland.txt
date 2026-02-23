@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:40ms
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#📡🇵🇱®️Poland©️Warsaw🅿️ping:65ms
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#📡🇵🇱®️Poland©️Warsaw🅿️ping:67ms
+vless://9ac48f4e-0316-4d0b-919f-12717d11b1ab@main.gsupport.support:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=video.intfreed.ru&sid=7755e972daf8eec8&fp=qq&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:94.96ms

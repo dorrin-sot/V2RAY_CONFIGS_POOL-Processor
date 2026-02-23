@@ -1,0 +1,1 @@
+vless://25ad52db-ccf9-4c5b-92b6-41d4050a6607@166.0.199.109:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=jxnIcYoHutaEO6RrAi8LEDpiUVjjUUX0aHeEJBKtDhw&sni=www.microsoft.com&servername=www.microsoft.com&spx=%2F&fp=safari#📡🇹🇼®️Taiwan©️Taipei🅿️ping:244ms

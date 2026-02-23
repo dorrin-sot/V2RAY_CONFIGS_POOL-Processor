@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:2083?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:22ms
+vless://1d6705da-0790-49bf-bf47-b166d2e945cf@144.31.178.150:443?encryption=none&fp=chrome&pbk=8tmYXQZuVTmrJNLUAL4KKPgCVNd_UdHaxAoC2L3AL2U&security=reality&serviceName=xyz&sni=eh.vk.ru&type=grpc#📡🇪🇪®️Estonia©️Tallinn🅿️ping:74.2ms

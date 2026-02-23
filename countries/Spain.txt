@@ -1,1 +1,2 @@
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:22.18ms
+vless://38e0568d-d405-440d-8041-0e6c923a803d@212.227.95.106:443?security=reality&encryption=none&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=a0cb#📡🇪🇸®️Spain©️Madrid🅿️ping:55ms
+vless://38e0568d-d405-440d-8041-0e6c923a803d@212.227.95.106:443?security=reality&encryption=none&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=a0cb#📡🇪🇸®️Spain©️Madrid🅿️ping:59ms

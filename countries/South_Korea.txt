@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@106.251.70.75:50001?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳 @WangCai2#📡🇰🇷®️South Korea©️Yongsan-dong (Hangang-daero)🅿️ping:312ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:299ms
+vless://ddb913e5-492f-42e8-baec-93c9c5d333d6@45.136.149.145:443?security=reality&encryption=none&pbk=83ZRQEAaJx3rV-EDhk5TFnBoDjTr7TfGKlq7FgA-WRY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=58a3#📡🇰🇷®️South Korea©️Seoul🅿️ping:239.11ms

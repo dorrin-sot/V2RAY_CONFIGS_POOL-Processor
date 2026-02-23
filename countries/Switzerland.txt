@@ -1,1 +1,1 @@
-vless://e96b31ba-7120-45a0-abfc-c5611049af75@ae-rlt.hexo-music.ir:2087?security=reality&encryption=none&pbk=7s9-nH4hYMtQH5vUCzUFEeyGsb6WCl2E4Qgk13R80A0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f85554dfada636a4#📡🇨🇭®️Switzerland©️Geneva🅿️ping:61ms
+vless://2ab537a3-484b-4546-b3f9-42524fdc7ce9@84.234.28.75:8276?security=reality&encryption=none&pbk=34tAykdTer8UPMP8u4yK9oOWG0qaoRp91Ge_yqTsKiw&headerType=none&fp=firefox&type=tcp&sni=aparat.com&sid=11fc5f260a203f63#📡🇨🇭®️Switzerland©️Geneva🅿️ping:34.78ms

@@ -1,2 +1,2 @@
-vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#📡🇱🇻®️Latvia©️Olaine🅿️ping:146.73ms
-vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#📡🇱🇻®️Latvia©️Olaine🅿️ping:164.74ms
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#📡🇱🇻®️Latvia©️Riga🅿️ping:50.57ms
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#📡🇱🇻®️Latvia©️Riga🅿️ping:50.8ms

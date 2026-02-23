@@ -1,1 +1,1 @@
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?path=%2F&security=&encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&type=ws#📡🇨🇾®️Cyprus©️Káto Lakatámeia🅿️ping:22.18ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:22.06ms

@@ -1,4 +1,1 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.34.165:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#📡🇱🇻®️Latvia©️Riga🅿️ping:53.46ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.143:443?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇱🇻®️Latvia©️Riga🅿️ping:49.61ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.143:443?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇱🇻®️Latvia©️Riga🅿️ping:53.09ms
-vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#📡🇱🇻®️Latvia©️Riga🅿️ping:52.72ms
+vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#📡🇱🇻®️Latvia©️Olaine🅿️ping:78.35ms

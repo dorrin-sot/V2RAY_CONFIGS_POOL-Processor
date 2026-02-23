@@ -1,2 +1,1 @@
-vless://05a8561f-54f5-4e62-822a-02aca0831666@190.93.247.155:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&sni=Punisher-V2rayCnc.radiotehran.org#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.89ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22.82ms
+vless://ff932085-992a-4a05-9361-6f6f9ddd56d9@190.93.244.96:2087?security=tls&amp;sni=fb.lightningc.ir&amp;type=ws&amp;host=fa.lightningc.ir.&amp;path=@mehrosaboran,@mehrosaboran&amp;fp=chrome#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms

@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇨🇿®️Czechia©️Prague🅿️ping:21.88ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇨🇿®️Czechia©️Prague🅿️ping:22.14ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#📡🇨🇿®️Czechia©️Prague🅿️ping:21.85ms

@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?security=tls&type=ws&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:21.83ms
+ss://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=data-sm12.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-sm12.netsnap.ir#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:44.3ms

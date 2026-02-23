@@ -1,9 +1,8 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8388#📡🇫🇷®️France©️Roubaix🅿️ping:40.16ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8390#📡🇫🇷®️France©️Roubaix🅿️ping:39.95ms
-ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E@195.154.202.112:18292?#📡🇫🇷®️France©️Chenôve🅿️ping:31.11ms
-ss://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reality&encryption=none&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=47ee5c592c1672cf#📡🇫🇷®️France©️Paris🅿️ping:30.58ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.162.245:22224?encryption=none&security=tls&type=ws&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:63.06ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.162.245:22224?encryption=none&security=tls&type=ws&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:78.81ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=/vless/#📡🇫🇷®️France©️Gravelines🅿️ping:29.83ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:56.76ms
-vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@141.101.120.10:80?type=ws&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO&path=%2F%3Fed&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:22.13ms
+ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#📡🇫🇷®️France©️Chenôve🅿️ping:30.96ms
+trojan://telegram-id-privatevpns@51.44.96.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:30.04ms
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@fr.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#📡🇫🇷®️France©️Paris🅿️ping:55ms
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@fr.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#📡🇫🇷®️France©️Paris🅿️ping:56ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.96.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:30.01ms
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@141.101.120.21:80?type=ws&host=ggbnh.1x5.indevs.in&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:21.88ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#📡🇫🇷®️France©️Paris🅿️ping:21.87ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.207:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:22.16ms

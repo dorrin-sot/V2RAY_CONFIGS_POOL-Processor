@@ -1,1 +1,2 @@
-vless://6824d622-0f9f-4327-9201-87e59808d0de@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#📡🇵🇱®️Poland©️Warsaw🅿️ping:60.73ms
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.36:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=plcdn13.suio.me#📡🇵🇱®️Poland©️Warsaw🅿️ping:39ms
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=plcdn14.suio.me#📡🇵🇱®️Poland©️Warsaw🅿️ping:39ms

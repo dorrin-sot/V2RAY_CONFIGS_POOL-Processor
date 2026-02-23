@@ -1,1 +1,7 @@
-vless://25ad52db-ccf9-4c5b-92b6-41d4050a6607@166.0.199.109:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=jxnIcYoHutaEO6RrAi8LEDpiUVjjUUX0aHeEJBKtDhw&sni=www.microsoft.com&servername=www.microsoft.com&spx=%2F&fp=safari#📡🇹🇼®️Taiwan©️Taipei🅿️ping:244ms
+trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?sni=green2.cdntencentmusic.com#📡🇹🇼®️Taiwan©️Neihu District��️ping:490.42ms
+trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?sni=green2.cdntencentmusic.com#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:490.42ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?security=tls&sni=45.32.28.232&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:312ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?security=tls&sni=45.32.28.232&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:322ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?security=tls&sni=45.32.28.232&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:325ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#📡🇹🇼®️Taiwan©️Shiding District🅿️ping:301.51ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?security=tls&sni=45.32.28.232#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:347ms

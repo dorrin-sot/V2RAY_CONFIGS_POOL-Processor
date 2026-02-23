@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#📡🇸🇪®️Sweden©️Stockholm🅿️ping:42.0ms
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#📡🇸🇪®️Sweden©️Spånga🅿️ping:44ms
+vless://e8f5aa1c-3509-4c61-b1cb-5c2f71d8f1a9@fps.bestiedowni.com:2052?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=UAkU6Q9oT-rjVYEm8FyMGcwq_Fho7s6nbTrFrbAMB0A&sid=b168690371333b2a#📡🇸🇪®️Sweden©️Stockholm🅿️ping:67.82ms

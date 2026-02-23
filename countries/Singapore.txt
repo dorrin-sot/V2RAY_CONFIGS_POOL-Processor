@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:288ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:22.15ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.128.80.43:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:181.81ms
+vless://79287e1d-5ca0-4198-a19d-ccd1eea17c1f@free-lk-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&allowInsecure=1&sni=android.googleapis.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:357.47ms
 vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?path=/#📡🇸🇬®️Singapore©️Singapore🅿️ping:182.14ms

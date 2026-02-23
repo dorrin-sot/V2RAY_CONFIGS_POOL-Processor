@@ -1,1 +1,1 @@
-vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.246.225:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.85ms
+vless://05caabef-7d81-4500-b0ac-03400d98298a@C3.PRODNSSPEED10.IR:2053?path=/love&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=rfr.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:49.19ms

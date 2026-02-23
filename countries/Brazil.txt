@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#📡🇧🇷®️Brazil©️Barueri🅿️ping:226ms
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#📡🇧🇷®️Brazil©️São Paulo🅿️ping:225ms
+vless://c21e5b51-8b9a-448e-9043-85db7604aa42@poli.appleseraj.ir:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=duseldorf.appleseraj.ir&type=ws&allowInsecure=0&sni=duseldorf.appleseraj.ir#📡🇧🇷®️Brazil©️Casa Verde🅿️ping:48.07ms

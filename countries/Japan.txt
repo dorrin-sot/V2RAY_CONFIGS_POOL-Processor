@@ -1,5 +1,5 @@
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.105.192:193?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#📡🇯🇵®️Japan©️Osaka🅿️ping:263.51ms
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.116.227:1281?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:265ms
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?sni=www.nintendogames.net&path=%2f#📡🇯🇵®️Japan©️Osaka🅿️ping:272.05ms
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.89.176:1281?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:263ms
-trojan://Go5e2nKM8P@45.95.241.101:2083?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#📡🇯🇵®️Japan©️Osaka🅿️ping:263ms
+ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:251ms
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:289ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.144.208:3423?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:262.58ms
+vless://c41313a3-68f9-4569-982e-4a2306665f71@pq.vmjp2.yydjc.top:443?security=reality&encryption=none&pbk=asLJREsp9L0JbURQPIhFxc6bZIgpunEOjOJeHv3YcEs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=b0fbe0f0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:288.24ms
+vless://c41313a3-68f9-4569-982e-4a2306665f71@pq.vmjp2.yydjc.top:443?security=reality&encryption=none&pbk=asLJREsp9L0JbURQPIhFxc6bZIgpunEOjOJeHv3YcEs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=b0fbe0f0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.99ms

@@ -2,8 +2,8 @@ name: Concatenate V2Ray Configs
 
 on:
   workflow_dispatch:  # manual trigger
-  repository_dispatch:  # triggered from foreign repo
-    types: [v2ray-update]
+  schedule:
+    - cron: '*/5 * * * *'
   push:
     branches:
       - main

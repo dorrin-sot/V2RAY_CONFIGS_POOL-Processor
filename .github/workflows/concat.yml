@@ -40,7 +40,7 @@ jobs:
           wc -l foreign-repo/v2ray_configs_full.txt
           # Sort numerically to preserve order
           cat $(ls foreign-repo/v2ray_configs_*.txt | sort -V) \
-            | sed 's/🆔@v2ray_configs_pool//g' \
+            | sed 's/#.*📡/#📡/' \
             | sort | uniq > concatenated_v2ray.txt
           rm -rf foreign-repo
           

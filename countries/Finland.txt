@@ -1,4 +1,5 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@65.109.200.234:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:42.93ms
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:67.58ms
-vless://b1b25fba-c0d0-48ea-971b-5cf4aee373d1@shop2.afraserver4.top:7335?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:68.89ms
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@93.152.207.254:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=tcp&headerType=none#👉📡🇫🇮®️Finland©️Helsinki🅿️ping:56.69ms
+ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#جاوید نام سعید حیدری🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:65ms
+ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#جاوید نام مجید بویری🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:47ms
+vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#جاوید نام علیرضا سلمانی🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:45ms
+vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#جاوید نام امیر قمی🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:87ms
+vless://5ef655fa-2673-b270-3d94-7cf976fb17a3@fi1.mahboob.top:2086?security=&encryption=none&headerType=none&type=tcp#جاوید نام بهنام میرزایی🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:72ms

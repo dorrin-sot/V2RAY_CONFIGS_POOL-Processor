@@ -1,2 +1,1 @@
-ss://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&sid=cd620180&type=tcp&headerType=none#👉📡🇱🇻®️Latvia©️Riga🅿️ping:49.62ms
-vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&sid=cd620180&type=tcp&headerType=none#👉📡🇱🇻®️Latvia©️Riga🅿️ping:49.62ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.239.23.197:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.v6.navy#جاوید نام پروانه خجندی‌راد🌹📡🇱🇻®️Latvia©️Riga🅿️ping:50ms

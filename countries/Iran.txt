@@ -1,11 +1,11 @@
-vless://1043eecd-a217-4681-a314-453a74128380@94.184.13.2:5358?security=reality&encryption=none&pbk=LX5xXGMnMyrGl7gjHbZEzcRclDnsTKg2uZBSYwKp9iY&headerType=none&fp=firefox&type=tcp&sni=refersion.com#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:188.5ms
-vless://1043eecd-a217-4681-a314-453a74128380@94.184.13.37:5368?security=reality&encryption=none&pbk=NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc&headerType=none&fp=firefox&type=tcp&sni=refersion.com#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:202.46ms
-vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@srv99.radargame.site:41128?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:129.33ms
-vless://65ea1867-ee13-41ad-819e-098553a3db2e@sr2.qirvo.fun:2082?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:124.03ms
-vless://90826ad0-5ad0-4758-bc6f-72e029bb274d@tr.webira.net:36279?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Tehrān🅿️ping:140.37ms
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.lv.fx2hub.ir:54233?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:132.18ms
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.no.fx2hub.ir:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:135.82ms
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ru.zopli.ir:23209?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:138.96ms
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:138.3ms
-vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#👉📡🇮🇷®️Iran©️Tehrān (Tehrān Now)🅿️ping:168.82ms
-vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?security=none&encryption=none&headerType=none&type=tcp#👉📡🇮🇷®️Iran©️Tehran🅿️ping:217.14ms
+vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=&encryption=none&headerType=none&type=tcp#جاوید نام محمدمهدی روستا🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:115ms
+vless://38cc3dff-5114-429f-9a45-fed484086c47@en2.persianhostnet.ir:3123?encryption=none&security=none&type=tcp&headerType=http&host=filmnet.ir#جاوید نام پانته‌آ شیاسی🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:147ms
+vless://3cd9422c-4dc8-4726-d2dc-14ceace09668@dlpack.hbsado.ir:44284?security=reality&encryption=none&pbk=2TcH-J4HyfgQzmIRPOGDsHJosweeCBXguY_a0gX-NWc&fp=chrome&spx=/&type=grpc&sni=yahoo.com#جاوید نام امیرحسام خدایاری‌فرد🌹📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:138.18ms
+vless://3cd9422c-4dc8-4726-d2dc-14ceace09668@dlpack.hbsado.ir:44284?security=reality&encryption=none&pbk=2TcH-J4HyfgQzmIRPOGDsHJosweeCBXguY_a0gX-NWc&fp=chrome&spx=/&type=grpc&sni=yahoo.com#جاوید نام میلاد حسن‌زاده🌹📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:152ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.flicknet.ir:40019?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#جاوید نام محمدامین سلامی🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:133ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.flicknet.ir:40019?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#جاوید نام نیما تاجیک🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:124.02ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#جاوید نام عرفان قلی‌پور🌹📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:143ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#جاوید نام یزدان تمنا🌹📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:126ms
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?encryption=none&type=tcp&headerType=http&host=skyroom.online&security=none#جاوید نام امیر شادرو🌹📡🇮🇷®️Iran©️Bāghestān (Shahrak-e-Shahab Sang)🅿️ping:131.04ms
+vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=/wp-admin%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=getasa.ir&amp%3Btype=ws#جاوید نام حمیدرضا باقری🌹📡🇮🇷®️Iran©️Tehrān🅿️ping:22ms
+vless://f91b9e49-0cea-4793-9cb8-2d8d41690f47@info.speedtest2028.com:3289?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#جاوید نام امیرحسین جوادزاده🌹📡🇮🇷®️Iran©️Tehran🅿️ping:203ms

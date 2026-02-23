@@ -1,8 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU21mbDRUcTFyUmxCN2JvRFkzamx0@94.131.123.86:35361#👉📡🇹🇷®️Turkey©️Izmir🅿️ping:56.2ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#👉📡🇹🇷®️Turkey©️Istanbul🅿️ping:68.58ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685%40freenettir%20%E2%9B%B5#👉📡🇹🇷®️Turkey©️Istanbul🅿️ping:67.72ms
-vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=2gis.kz&sid=63d80d5199a2bc#👉📡🇹🇷®️Turkey©️Yakuplu🅿️ping:66.98ms
-vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#👉📡🇹🇷®️Turkey©️Istanbul🅿️ping:56.28ms
-vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.15:80?security=none&amp;type=ws&amp;host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir&amp;path=%2F%40Proxy_MTM-%40Proxy_MTM-%40Proxy_MTM-Proxy_%40MTM%3Fed%3D2056#👉📡🇹🇷®️Turkey©️Istanbul🅿️ping:22ms
-vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.15:80?security=none&amp;type=ws&amp;host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir&amp;path=%2F%40Proxy_MTM-%40Proxy_MTM-%40Proxy_MTM-Proxy_%40MTM%3Fed%3D2056#👉📡🇹🇷®️Turkey©️Istanbul🅿️ping:28ms
-vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.23:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#👉📡🇹🇷®️Turkey©️Istanbul🅿️ping:21.83ms
+vless://4bc83a84-d4d2-43f8-8ee4-45b08a190162@mtn-tm1.ip-venzo.com:6870?security=reality&encryption=none&pbk=sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY&headerType=none&fp=chrome&type=tcp&sni=ip-venzo.com&sid=a3ec090d35b64be8#جاوید نام محسن آراستی🌹📡🇹🇷®️Turkey©️Esenler🅿️ping:446ms
+vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&fp=chrome&type=tcp&sni=yahoo.com&sid=0bce#جاوید نام خانی اسدی🌹📡🇹🇷®️Turkey©️Izmir🅿️ping:56ms

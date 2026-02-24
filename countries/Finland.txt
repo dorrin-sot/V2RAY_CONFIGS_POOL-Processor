@@ -1,2 +1,3 @@
-vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#📡🇫🇮®️Finland©️Helsinki🅿️ping:86.12ms
-vless://6c1e7b2f-7376-4658-98e6-3a2d0f582c51@fi.divinevpnconnect.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&path=%2F&pbk=fygfmVgp2H6Y4ECbiDODx57Zz4CTNGFLYGtCqC31xiM&sid=1da66e71#📡🇫🇮®️Finland©️Helsinki🅿️ping:70.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#📡🇫🇮®️Finland©️Helsinki🅿️ping:49.65ms
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#📡🇫🇮®️Finland©️Helsinki🅿️ping:48.35ms
+vless://e3432a7a-d3fb-4bfa-8f05-df9d5aea638d@shop2.afraserver4.top:7335/?encryption=none&flow=&host=cafeariel.ir&type=tcp&headerType=http#📡🇫🇮®️Finland©️Helsinki🅿️ping:66.06ms

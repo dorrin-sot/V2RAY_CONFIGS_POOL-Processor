@@ -1,3 +1,1 @@
-ss://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:32.24ms
-vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:32.24ms
-vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:34.4ms
+vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msn.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:31.9ms

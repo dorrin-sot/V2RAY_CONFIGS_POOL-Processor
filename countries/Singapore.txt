@@ -1,1 +1,4 @@
-vless://9facecdd-1be7-433c-d698-764767f9cb06@47.82.2.222:23651?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:184.75ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.96ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.81ms
+vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?type=tcp&security=none&encryption=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:176.74ms
+vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:176.11ms

@@ -1,1 +1,1 @@
-tuic://ce247dd9-adb8-465b-8e6a-3f841eccfd70:ce247dd9-adb8-465b-8e6a-3f841eccfd70@115.187.16.7:61425?congestion_control=bbr&udp_relay_mode=native&alpn%5B0%5D=h3&sni=www.python.org&allow_insecure=1&allowInsecure=1#📡🇮🇳®️India©️Secunderabad (Venkateswara Nagar)🅿️ping:320ms
+vless://1b0ad61b-1be2-4cda-9979-984a965b0da5@45.89.105.24:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#📡🇮🇳®️India©️New Delhi🅿️ping:226.43ms

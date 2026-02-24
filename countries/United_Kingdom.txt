@@ -1,10 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:121.26ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:60.38ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:63.56ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#📡🇬🇧®️United Kingdom©️Steventon🅿️ping:34.64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:61.47ms
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Erith🅿️ping:57.4ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?path=t.me%2Fv2Line&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#📡🇬🇧®️United Kingdom©️London🅿️ping:36.08ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.235:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇬🇧®️United Kingdom©️London🅿️ping:21.56ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇬🇧®️United Kingdom©️Southport🅿️ping:22.37ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.182.234:8443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇬🇧®️United Kingdom©️Erith🅿️ping:35.13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:65ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:70.99ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:60ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:61.45ms
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Erith🅿️ping:67.42ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.182.234:8443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇬🇧®️United Kingdom©️Erith🅿️ping:35ms
+vless://8d4a8cc8-b4f6-411e-b0ce-b7172bcbcfd2@fr.devfather.org:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=payeer.smmfather.org&sid=6ba85179e30d4fc2#جاوید نام محسن رشیدی خانی‌آبادی🌹���🇬🇧®️United Kingdom©️Erith🅿️ping:58.76ms
+vless://ac754349-a3d5-4eca-990e-1119c0cff4d5@57.128.191.90:8443?security=reality&encryption=none&pbk=FFMIZGGtmpMeCKluwyQ2qjgReo6EU8xwM7oLB-ysa2k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.chatgpt.com&sid=59611200#📡🇬🇧®️United Kingdom©️Stratford🅿️ping:34.73ms

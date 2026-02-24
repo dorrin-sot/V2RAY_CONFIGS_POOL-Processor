@@ -1,1 +1,1 @@
-vless://775d80e6-8c95-4049-a6f3-0665f414acc1@185.146.173.32:80?security=none&type=ws&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D1024#📡🇸🇪®️Sweden©️Stockholm🅿️ping:22.2ms
+vless://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@45.82.13.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.darknet.run&fp=chrome&pbk=bIrjdFXa11enXVcWEvxVbSXwiNgUdatvw4Htn8xBxTw&sid=a1b323d4&type=tcp&headerType=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:32.1ms

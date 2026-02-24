@@ -1,4 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#📡🇧🇷®️Brazil©️Barueri🅿️ping:226.75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#📡🇧🇷®️Brazil©️Barueri🅿️ping:227ms
-tuic://ce247dd9-adb8-465b-8e6a-3f841eccfd70:ce247dd9-adb8-465b-8e6a-3f841eccfd70@194.58.38.116:53614?congestion_control=bbr&udp_relay_mode=native&alpn%5B0%5D=h3&sni=www.python.org&allow_insecure=1&allowInsecure=1#📡🇧🇷®️Brazil©️São Paulo🅿️ping:212ms
-tuic://ce247dd9-adb8-465b-8e6a-3f841eccfd70:ce247dd9-adb8-465b-8e6a-3f841eccfd70@194.58.38.116:53614?congestion_control=bbr&udp_relay_mode=native&alpn%5B0%5D=h3&sni=www.python.org&allow_insecure=1&allowInsecure=1#📡🇧🇷®️Brazil©️São Paulo🅿️ping:215.01ms

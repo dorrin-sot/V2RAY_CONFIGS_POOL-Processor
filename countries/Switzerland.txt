@@ -1,0 +1,1 @@
+vless://monacoVPN@83.228.228.44:22?security=none&allowInsecure=0&encryption=none&type=tcp&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http#📡🇨🇭®️Switzerland©️Geneva🅿️ping:34.59ms

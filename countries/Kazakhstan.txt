@@ -1,1 +1,1 @@
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&sni=hls-svod.itunes.apple.com&spx=/#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:143.17ms
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&sni=hls-svod.itunes.apple.com&spx=/#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:124.71ms

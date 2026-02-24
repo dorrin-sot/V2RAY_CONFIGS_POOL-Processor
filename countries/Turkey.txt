@@ -1,7 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:67ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISWlkV3dYcUI0ellMNlJtZ0tBQlVI@h110vpntr.outlinekeys.net:65262#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:93.05ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#📡🇹🇷®️Turkey©️Istanbul🅿️ping:73.5ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#📡🇹🇷®️Turkey©️Istanbul🅿️ping:91ms
-ss://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&amp;encryption=none&amp;pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yandex.ru&amp;sid=2aa4fcbeaed2ad23#📡🇹🇷®️Turkey©️Istanbul🅿️ping:58ms
-ss://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&amp;encryption=none&amp;pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=0bce#📡🇹🇷®️Turkey©️Izmir🅿️ping:1090ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISWlkV3dYcUI0ellMNlJtZ0tBQlVI@62.133.63.21:65262#📡🇹🇷®️Turkey©️Sultangazi🅿️ping:70.22ms
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:83ms
+vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#📡🇹🇷®️Turkey©️Istanbul🅿️ping:57.69ms
+vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#📡🇹🇷®️Turkey©️Istanbul🅿️ping:58.12ms

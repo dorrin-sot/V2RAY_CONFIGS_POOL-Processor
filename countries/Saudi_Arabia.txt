@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#📡🇸🇦®️Saudi Arabia©️Jeddah🅿️ping:89.75ms
+vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500/?type=grpc&encryption=none&flow=&sni=www.ebay.com&fp=chrome&security=reality&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e#📡🇸🇦®️Saudi Arabia©️Jeddah (Al Fayha'a)🅿️ping:84.97ms

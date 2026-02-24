@@ -1,1 +1,3 @@
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@sg.singaporenodeserverone.co.ua:443?type=raw&headerType=none&security=tls&sni=45.32.28.232#📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:211.08ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@27.122.59.45:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=45.32.28.232#📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:178ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.167.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram+@wangcai2#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:21.77ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.167.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram+@wangcai2#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:21.96ms

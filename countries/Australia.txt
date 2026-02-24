@@ -1,1 +1,1 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.239:443?security=tls&amp;sni=xin626.ylks.link&amp;type=ws&amp;path=%2Fblue#📡🇦🇺®️Australia©️Surry Hills🅿️ping:22ms
+vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=&encryption=none&headerType=none&type=tcp#📡🇦🇺®️Australia©️Alexandria🅿️ping:293ms

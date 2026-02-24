@@ -1,4 +1,4 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:278.98ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.87ms
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:253.52ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@132.145.127.203:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:270ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.248.181.189:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:281ms

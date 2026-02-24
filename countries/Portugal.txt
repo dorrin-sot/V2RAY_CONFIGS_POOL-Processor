@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=%2F%3FJoin-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-%3Fed%3D2560&fp=chrome#📡🇵🇹®️Portugal©️Lisbon🅿️ping:21.89ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.238:2096?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=%2F#📡🇵🇹®️Portugal©️Lisbon🅿️ping:21.91ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#📡🇵🇹®️Portugal©️Lisbon🅿️ping:21.77ms

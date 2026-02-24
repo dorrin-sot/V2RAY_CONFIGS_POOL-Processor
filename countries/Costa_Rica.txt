@@ -1,1 +1,1 @@
-vless://ff932085-992a-4a05-9361-6f6f9ddd56d9@190.93.244.96:2087?security=tls&amp;sni=fb.lightningc.ir&amp;type=ws&amp;host=fa.lightningc.ir.&amp;path=@mehrosaboran,@mehrosaboran&amp;fp=chrome#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?type=ws&security=tls&sni=sni.111000.indevs.in&path=%2F#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.76ms

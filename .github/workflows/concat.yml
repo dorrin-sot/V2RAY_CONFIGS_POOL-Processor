@@ -59,12 +59,12 @@ jobs:
       - name: Split by country
         run: |
           rm -rf countries
-          mkdir -p countries
+          # mkdir -p countries
       
-          grep -oP '®️\K[^©️]+' concatenated_v2ray.txt | sort -u | while read country; do
-            filename=$(echo "$country" | tr ' ' '_' | tr -d '()')
-            grep "®️$country©️" concatenated_v2ray.txt > "countries/${filename}.txt"
-          done
+          # grep -oP '®️\K[^©️]+' concatenated_v2ray.txt | sort -u | while read country; do
+          #   filename=$(echo "$country" | tr ' ' '_' | tr -d '()')
+          #   grep "®️$country©️" concatenated_v2ray.txt > "countries/${filename}.txt"
+          # done
 
       # Step 5: Commit and push to your repo
       - name: Commit and push

@@ -3,7 +3,7 @@ name: Concatenate V2Ray Configs
 on:
   workflow_dispatch:  # manual trigger
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/15 * * * *'
   push:
     branches:
       - main

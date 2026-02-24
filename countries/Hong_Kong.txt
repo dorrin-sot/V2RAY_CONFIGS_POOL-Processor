@@ -1,2 +1,1 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@192.142.4.76:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:211.96ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@219.76.13.177:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇰®️Hong Kong©️Central🅿️ping:182.52ms
+vless://b7468146-0852-4d52-98bd-27ebd2f7c062@hkt1.xn--9kqp42aims.top:20417?security=reality&type=tcp&sni=buylite.music.apple.com&fp=edge&flow=xtls-rprx-vision&sid=4b070735&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI#📡🇭🇰®️Hong Kong©️Central🅿️ping:633.47ms

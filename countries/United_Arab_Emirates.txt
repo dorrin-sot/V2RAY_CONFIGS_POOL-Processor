@@ -1,1 +1,1 @@
-vless://05b4b2a2-d9f1-46f1-848b-79f61585cf27@94.183.175.172:1313?encryption=none&security=none&type=tcp&headerType=none#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:126.72ms
+vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@fr.apikeder.ir.onvanet.com:8952?security=reality&encryption=none&pbk=R_OoHDE8DiBiroU4UrI-V5d8Dr42QgU2mlKKjpMSSBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d3650411ff51ef76#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:183.81ms

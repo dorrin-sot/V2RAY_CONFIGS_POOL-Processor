@@ -1,9 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc5M2MxYTFkMmUyNTFi@54.38.78.165:14186#📡🇬🇧®️United Kingdom©️Erith🅿️ping:34.77ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:60ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:61.45ms
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443/?type=ws&host=hl-freedom-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-2.undef.network&allowInsecure=1#📡🇬🇧®️United Kingdom©️Coventry🅿️ping:63.0ms
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Erith🅿️ping:67.42ms
-vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&sid=#📡🇬🇧®️United Kingdom©️Erith🅿️ping:57.09ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇬🇧®️United Kingdom©️Southport🅿️ping:21.91ms
-vless://8d4a8cc8-b4f6-411e-b0ce-b7172bcbcfd2@fr.devfather.org:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=payeer.smmfather.org&sid=6ba85179e30d4fc2#📡🇬🇧®️United Kingdom©️Erith🅿️ping:57.09ms

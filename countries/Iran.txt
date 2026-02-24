@@ -1,5 +1,0 @@
-ss://5002c25a-fe2a-4973-ad5c-d3b424e75ab6@45.84.157.14:9092?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Kerman🅿️ping:123.71ms
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0%3D@46.38.143.236:60633#📡🇮🇷®️Iran©️Isfahan🅿️ping:101.04ms
-vless://7b87bb24-062c-44f2-ac8e-76b4bbcf1fef@cloud.tele-webion.site:2054?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:157ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:1264ms
-vless://ff741be3-2e01-474d-955b-0370e3f29a3e@94.184.17.223:400?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.11ms

@@ -1,1 +1,1 @@
-trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?sni=green2.cdntencentmusic.com#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:490.42ms
+vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@114.32.9.249:16443?encryption=none&security=tls&sni=mc2-1rw.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mc2-1rw.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo#📡🇹🇼®️Taiwan©️Taipei🅿️ping:347ms

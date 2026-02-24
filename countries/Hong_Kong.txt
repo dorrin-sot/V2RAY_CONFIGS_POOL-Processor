@@ -1,3 +1,5 @@
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@27.122.59.45:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=45.32.28.232#📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:178ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.167.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram+@wangcai2#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:21.77ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.167.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram+@wangcai2#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:21.96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:219.0ms
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#📡🇭��®️Hong Kong©️Hong Kong🅿️ping:206.06ms
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:206.06ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.192.179.132:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:208ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.194.107.166:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇭🇰®️Hong Kong©️Mid Levels🅿️ping:196ms

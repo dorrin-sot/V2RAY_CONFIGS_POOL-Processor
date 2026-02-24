@@ -1,1 +1,1 @@
-vless://6d490cef-0b49-459d-a72c-0bb0210f3dd0@213.21.222.169:8448?type=grpc&security=reality&encryption=none&pbk=HmwN8oi777opOr9k07wavuqiDt8axjC3pdpwt0-hoGk&sid=c5670edd&sni=www.dropbox.com&mode=gun&serviceName=northern&authority=#📡🇱🇻®️Latvia©️Riga (Centra rajons)🅿️ping:50.15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg@213.21.222.169:8080?#📡🇱🇻®️Latvia©️Riga (Centra rajons)🅿️ping:50.6ms

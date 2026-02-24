@@ -1,1 +1,1 @@
-vless://b7468146-0852-4d52-98bd-27ebd2f7c062@hkt-home.xn--9kqp42aims.top:1314?security=reality&type=tcp&sni=buylite.music.apple.com&fp=edge&flow=xtls-rprx-vision&sid=4b070735&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI#📡🇭🇰®️Hong Kong©️Central🅿️ping:258.01ms
+tuic://ce247dd9-adb8-465b-8e6a-3f841eccfd70:ce247dd9-adb8-465b-8e6a-3f841eccfd70@45.38.42.204:47954?congestion_control=bbr&udp_relay_mode=native&alpn%5B0%5D=h3&sni=python.org&allow_insecure=1&allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:213ms

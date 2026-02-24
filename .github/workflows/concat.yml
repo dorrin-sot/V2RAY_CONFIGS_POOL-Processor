@@ -35,6 +35,7 @@ jobs:
       # Step 3: Concatenate matching files
       - name: Concatenate v2ray_configs_*.txt
         run: |
+          touch foreign-repo/v2ray_configs_full.txt
           if curl -fsS "https://manager.farsonline24.ir" -o tmp_manager.txt; then
             cat tmp_manager.txt >> foreign-repo/v2ray_configs_full.txt
             rm tmp_manager.txt

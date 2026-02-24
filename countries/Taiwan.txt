@@ -1,4 +1,1 @@
-vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@114.32.9.249:16443?encryption=none&security=tls&sni=mc2-1rw.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mc2-1rw.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo#📡🇹🇼®️Taiwan©️Taipei🅿️ping:332.96ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇹🇼®️Taiwan©️Kaohsiung City🅿️ping:317ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@114.33.57.170:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇹🇼®️Taiwan©️Fongshan District🅿️ping:309ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@188.253.6.173:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:214ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.196.239.238:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:262.13ms

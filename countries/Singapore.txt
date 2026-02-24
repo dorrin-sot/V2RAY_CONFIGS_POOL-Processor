@@ -1,12 +1,3 @@
-ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.038.node-for-bigairport.win:16689#📡🇸🇬®️Singapore©️Singapore🅿️ping:293.88ms
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:366.56ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.98ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.77.35.218:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Queenstown Estate)🅿️ping:176ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.77.114.70:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore🅿️ping:199ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.251.137.92:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore🅿️ping:185ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@129.150.33.222:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:176ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@149.104.28.14:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:208ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@164.52.2.100:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:178ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@168.138.189.91:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:177ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@213.35.100.31:47112/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:276ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@91.192.81.154:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:260ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#📡🇸🇬®️Singapore©️Singapore🅿️ping:22.43ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.81.28.95:30503?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇸🇬®️Singapore©️Singapore🅿️ping:177.11ms
+vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:175.86ms

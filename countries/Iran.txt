@@ -1,8 +1,9 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#📡🇮🇷®️Iran©️Isfahan🅿️ping:104.47ms
-vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=%2F&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:29.02ms
-vless://a68f795d-a69b-4e89-b2b0-a611453e7f34@A1tun.diesevip.shop:2080?security=&encryption=none&headerType=&type=tcp#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:120.88ms
-vless://e4bd3863-ef9f-4e39-9478-2003575d3380@45.11.187.120:2020?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Ahvāz🅿️ping:290.47ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.131:9000?security=&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:198ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:187.21ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:190.1ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:204.64ms
+vless://4b1abd53-a23a-4af4-c132-f0aa44a08ce6@46.38.138.221:8081?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:121.55ms
+vless://5002c25a-fe2a-4973-ad5c-d3b424e75ab6@217.60.238.167:8083?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:107.77ms
+vless://5002c25a-fe2a-4973-ad5c-d3b424e75ab6@217.60.238.167:8083?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:172.72ms
+vless://5002c25a-fe2a-4973-ad5c-d3b424e75ab6@217.60.238.167:8084?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:131.2ms
+vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@you2.configyous.site:2002?security=none&encryption=none&host=skyroom.online, gharar.ir, igap.net&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:129.44ms
+vless://e4bd3863-ef9f-4e39-9478-2003575d3380@45.11.187.120:2020?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Ahvāz🅿️ping:299.19ms
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.145.156:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:194.93ms
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:211.04ms
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.94:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:192.45ms

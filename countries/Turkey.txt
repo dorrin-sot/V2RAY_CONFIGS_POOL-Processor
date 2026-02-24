@@ -1,2 +1,2 @@
-vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#📡🇹🇷®️Turkey©️Izmir🅿️ping:56.18ms
-vless://id8114764549@5.180.45.245:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&sid=68&spx=%2fadB8OIp9onEQkMQ&type=tcp&headerType=none&path=%2f#📡🇹🇷®️Turkey©️Izmir🅿️ping:54.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#📡🇹🇷®️Turkey©️Istanbul🅿️ping:104.72ms
+vless://c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#📡🇹🇷®️Turkey©️Izmir🅿️ping:61.35ms

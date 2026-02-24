@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.8ms
+vless://12ec6fe7-b8ea-4f7b-b7fc-e936da472605@190.93.244.17:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=howdy-fr-chanel.highposhako.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.66ms

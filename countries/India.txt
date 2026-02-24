@@ -1,6 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.195.137.107:22473?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇮🇳®️India©️Bengaluru🅿️ping:217.05ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@13.200.192.197:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Mumbai🅿️ping:150ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@152.70.75.80:15805/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Hyderabad🅿️ping:227ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.154.123.52:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Mumbai🅿️ping:146ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.225.204.3:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Navi Mumbai (Rabale)🅿️ping:234ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@98.70.26.236:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Pune🅿️ping:183ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@65.20.84.107:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Mumbai🅿️ping:229.14ms

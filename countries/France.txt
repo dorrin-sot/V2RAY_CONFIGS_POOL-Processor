@@ -1,6 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cXlFZEd5c0tROUZrV0hrUG5vd19mQk5BTmNNUnNOSA%3D%3D@45.95.233.133:8388#📡🇫🇷®️France©️Paris🅿️ping:29.94ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#📡🇫🇷®️France©️Gravelines🅿️ping:30ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:21.86ms
+trojan://telegram-id-privatevpns@35.181.181.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:30.22ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.120.0:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=divine-term-f5b2.olav95.workers.dev&type=ws&allowInsecure=0&sni=divine-term-f5b2.olav95.workers.dev#📡🇫🇷®️France©️Paris🅿️ping:22ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:64ms
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053?path=%2F&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#📡🇫🇷®️France©️Paris🅿️ping:22ms
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.194:2053?path=%2F&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#📡🇫🇷®️France©️Paris🅿️ping:22.24ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.194:2053?path=%2F&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#📡🇫🇷®️France©️Paris🅿️ping:22ms

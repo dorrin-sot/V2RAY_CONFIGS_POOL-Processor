@@ -1,4 +1,1 @@
-vless://5002c25a-fe2a-4973-ad5c-d3b424e75ab6@my.kiomars.shop:6664?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:65.0ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@109.120.185.37:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇫🇮®️Finland©️Helsinki🅿️ping:41.84ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.104.250.9:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.21ms
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@188.215.31.134:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇫🇮®️Finland©️Helsinki🅿️ping:49.63ms

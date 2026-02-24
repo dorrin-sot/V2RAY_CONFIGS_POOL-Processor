@@ -1,2 +1,0 @@
-trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=1#📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:40.82ms
-trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=1#📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:41.58ms

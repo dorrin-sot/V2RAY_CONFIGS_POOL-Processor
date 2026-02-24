@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@13.200.192.197:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇮🇳®️India©️Mumbai🅿️ping:150.34ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@134.195.137.107:22473/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇳®️India©️Bengaluru🅿️ping:239.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44236#📡🇮🇳®️India©️Mumbai🅿️ping:190.06ms

@@ -1,3 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802#📡🇸🇬®️Singapore©️Singapore🅿️ping:258ms
-vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757/?type=ws&encryption=none&flow=#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:178ms
-vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757/?type=ws&encryption=none&flow=#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:193ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#📡🇸🇬®️Singapore©️Singapore🅿️ping:258.32ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.83ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.82ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.179.17:2053?type=ws&security=tls&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&sni=sni.111000.v6.navy&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:181.37ms
+vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#📡🇸🇬®️Singapore©️Singapore🅿️ping:194.21ms

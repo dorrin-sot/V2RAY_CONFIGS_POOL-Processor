@@ -1,1 +1,1 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.196.239.238:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:262.13ms
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?security=tls&sni=45.32.28.232&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:320.3ms

@@ -1,4 +1,0 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.128.227.27:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇲🇾®️Malaysia©️Johor Bahru🅿️ping:175ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@198.20.153.112:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:183ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.89.107.8:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:250ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@47.250.212.59:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:186ms

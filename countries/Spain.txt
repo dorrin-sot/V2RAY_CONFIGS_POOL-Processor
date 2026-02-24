@@ -1,3 +1,3 @@
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#📡🇪🇸®️Spain©️Madrid🅿️ping:21.92ms
-vless://38e0568d-d405-440d-8041-0e6c923a803d@212.227.95.106:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&sid=a0cb#📡🇪🇸®️Spain©️Madrid🅿️ping:58.18ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40vpnbaz#📡🇪🇸®️Spain©️Valencia🅿️ping:22.3ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#📡🇪🇸®️Spain©️Madrid🅿️ping:69.06ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#📡🇪🇸®️Spain©️Madrid🅿️ping:21.96ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram+@WangCai2#📡🇪🇸®️Spain©️Madrid🅿️ping:21.83ms

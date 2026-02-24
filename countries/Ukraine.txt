@@ -1,1 +1,2 @@
-vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msn.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:33ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.180.21.2:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:42ms
+vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msn.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:38.24ms

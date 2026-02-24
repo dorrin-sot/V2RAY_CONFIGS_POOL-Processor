@@ -1,2 +1,1 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#📡🇧🇿®️Belize©️Belize City🅿️ping:21.84ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.138:2096?path=/?ed=2560&telegram+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#📡🇧🇿®️Belize©️Belize City🅿️ping:21.81ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms

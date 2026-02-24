@@ -50,6 +50,7 @@ jobs:
       # Step 4: Split by country
       - name: Split by country
         run: |
+          rm -rf countries
           mkdir -p countries
       
           grep -oP '®️\K[^©️]+' concatenated_v2ray.txt | sort -u | while read country; do

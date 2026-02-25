@@ -34,7 +34,7 @@ jobs:
 
       # Step 3: Run concatenation script
       - name: Run concatenation script
-        run: bash ./script.sh --manager --countries -n 5
+        run: ./script.sh --manager --countries -n 5
 
       # Step 4: Commit and push to your repo
       - name: Commit and push

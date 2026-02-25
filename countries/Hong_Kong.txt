@@ -1,9 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.200:8388#📡🇭🇰®️Hong Kong©️Mong Kok🅿️ping:208.88ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.10:8388#📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:199.03ms
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:200ms
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:209ms
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:198ms
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:320ms
-vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#📡🇭🇰®️Hong Kong©️San Po Kong🅿️ping:48.04ms
-vless://9684357D-8B15-42BF-97CA-21F2B09DB68E@hk2-r.link-t7.com:10127?type=grpc&encryption=none&security=reality&flow=&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&serviceName=update&mode=gun&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:241.99ms
-vless://9684357D-8B15-42BF-97CA-21F2B09DB68E@hk4-r.link-t7.com:10129?type=grpc&encryption=none&security=reality&flow=&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&serviceName=movie&mode=gun&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:240.48ms
+ss://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@38.147.172.154:443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇭🇰®️Hong Kong©️Mong Kok🅿️ping:213ms
+vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:221.55ms

@@ -1,19 +1,2 @@
-trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#📡🇯🇵®️Japan©️Ishikari🅿️ping:567ms
-trojan://18844%40zxcvbn@49.212.204.123:443?security=tls&allowInsecure=1&type=tcp#📡🇯🇵®️Japan©️Osaka🅿️ping:272ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193/?type=tcp&security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:268ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?allowInsecure=0&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:263ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:257ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:251ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281/?type=tcp&security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:265ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?allowInsecure=0&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:254ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:279ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:255ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?allowInsecure=1&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:254ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:264ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:284ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#📡🇯🇵®️Japan©️Shibuya City🅿️ping:246ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&sni=iepl.jpz2.cat.bilibili.com#📡🇯🇵®️Japan©️Shibuya City🅿️ping:238ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=iepl.usq1.cat.bilibili.com#📡🇯🇵®️Japan©️Shibuya City🅿️ping:235ms
-trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&type=tcp#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:261ms
-vless://9684357D-8B15-42BF-97CA-21F2B09DB68E@jp2-r.link-t7.com:10032?type=grpc&encryption=none&security=reality&flow=&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&serviceName=update&mode=gun&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:281.87ms
-vless://9684357D-8B15-42BF-97CA-21F2B09DB68E@jp3-r.link-t7.com:10033?type=grpc&encryption=none&security=reality&flow=&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&serviceName=update&mode=gun&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:296.91ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281?sni=www.nintendogames.net&path=/#📡🇯🇵®️Japan©️Osaka🅿️ping:263.97ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:258ms

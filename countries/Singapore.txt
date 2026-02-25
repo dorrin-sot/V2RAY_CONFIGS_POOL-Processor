@@ -1,5 +1,3 @@
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:179ms
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:189ms
-vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:264.47ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:22.11ms
-vless://9684357D-8B15-42BF-97CA-21F2B09DB68E@sg1-r.link-t7.com:10036?type=grpc&encryption=none&security=reality&flow=&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&serviceName=update&mode=gun&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:201.68ms
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:264.9ms
+vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:284.04ms
+vless://d89c3a42-81f5-4904-a9e7-3883b2d074e6@onhit.netfusionx.qzz.io:443?type=ws&path=/onhitadmin-team-dark-evil&host=&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=aka.ms#📡🇸🇬®️Singapore©️Singapore (Outram)🅿️ping:210.47ms

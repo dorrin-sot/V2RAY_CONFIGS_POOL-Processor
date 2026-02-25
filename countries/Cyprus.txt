@@ -1,2 +1,0 @@
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#📡🇨🇾®️Cyprus©️Nicosia (Agioi Omologites)🅿️ping:22ms
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1&type=tcp#📡🇨🇾®️Cyprus©️Nicosia (Agioi Omologites)🅿️ping:22ms

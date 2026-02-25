@@ -1,15 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:40.03ms
-ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ@54.36.174.140:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:39.94ms
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.70:9024#📡🇵🇱®️Poland©️Warsaw🅿️ping:39.71ms
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.70:9006#📡🇵🇱®️Poland©️Warsaw🅿️ping:39.41ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@217.30.10.70:9014#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.33ms
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@217.30.10.18:9043#📡🇵🇱®️Poland©️Warsaw🅿️ping:41.73ms
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.33ms
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.70:9045#📡🇵🇱®️Poland©️Warsaw🅿️ping:44.11ms
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#📡🇵🇱®️Poland©️Warsaw🅿️ping:39.66ms
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@217.30.10.18:9046#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.85ms
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.18:9097#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.15ms
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.70:9097#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.33ms
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042#📡🇵🇱®️Poland©️Warsaw🅿️ping:41.74ms
-ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ@217.30.10.70:9032#📡🇵🇱®️Poland©️Warsaw🅿️ping:42.26ms
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@217.30.10.18:9025#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.14ms
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.18:9005#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.17ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.195:443#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:40.09ms
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.70:9010#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.54ms
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.70:9056#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.52ms

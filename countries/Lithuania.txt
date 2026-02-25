@@ -1,2 +1,0 @@
-vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z8.PRODNSSPEED10.IR:2096?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan1.sodogodping.ir#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:44.39ms
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@free.spectrum.vu:444?type=grpc&security=reality&encryption=none&fp=chrome&pbk=LJTHmUvqSjZYFFuBciADA0e3zObJD1PPwN_dyOAU7AQ&sid=a1b2c3d4e5f6&sni=free.spectrum.vu&serviceName=vless#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:50.73ms

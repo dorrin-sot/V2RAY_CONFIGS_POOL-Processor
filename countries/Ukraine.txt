@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:58.87ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:66.12ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:64.83ms
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:22ms

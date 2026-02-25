@@ -12,7 +12,6 @@ FOREIGN_DIR="foreign-repo"
 OUTPUT_FILE="concatenated_v2ray.txt"
 MANAGER_URL="https://manager.farsonline24.ir"
 
-rm -rf "$FOREIGN_DIR" countries
 
 ########################################
 # Argument parsing
@@ -98,7 +97,7 @@ fi
 | uniq \
 > "$OUTPUT_FILE"
 
-rm -f "$TMP_MANAGER"
+rm -rf "$FOREIGN_DIR" "$TMP_MANAGER"
 
 echo "Created $OUTPUT_FILE"
 wc -l "$OUTPUT_FILE"

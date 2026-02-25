@@ -1,3 +1,4 @@
-ss://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:336ms
-vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:312ms
-vless://c05ec0f8-dadc-4c0c-b2a9-19b2ab5a20cf@159.223.93.44:13395?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:176.83ms
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:185.48ms
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=&encryption=none&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:179.12ms
+vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:178.47ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:22.0ms

@@ -1,4 +1,0 @@
-vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z8.PRODNSSPEED10.IR:2096?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan1.sodogodping.ir#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:69ms
-vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z8.PRODNSSPEED10.IR:2096?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan1.sodogodping.ir#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:70ms
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@uk.boot-lee.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z6CAPj_1mjwtCGxurOmLSggT1Y9acF5lgvQCmk4IJXk&security=reality&sid=d1f04de066138f7f&sni=api-maps.yandex.ru&type=tcp#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:89.87ms
-vless://c501c66b-c6c2-456b-b604-80393b83d67f@lt.appav.online:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=goya.rutube.ru&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:109ms

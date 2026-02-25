@@ -1,2 +1,0 @@
-vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@fr.apikeder.ir.onvanet.com:8952?security=reality&encryption=none&pbk=R_OoHDE8DiBiroU4UrI-V5d8Dr42QgU2mlKKjpMSSBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d3650411ff51ef76#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:152.74ms
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#📡🇦🇪®️United Arab Emirates©️Motor City🅿️ping:22ms

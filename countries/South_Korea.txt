@@ -1,0 +1,2 @@
+vless://ddb913e5-492f-42e8-baec-93c9c5d333d6@45.136.149.145:443?security=reality&encryption=none&pbk=83ZRQEAaJx3rV-EDhk5TFnBoDjTr7TfGKlq7FgA-WRY&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=58a3#📡🇰🇷®️South Korea©️Seoul🅿️ping:238.06ms
+vless://ddb913e5-492f-42e8-baec-93c9c5d333d6@45.136.149.145:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=83ZRQEAaJx3rV-EDhk5TFnBoDjTr7TfGKlq7FgA-WRY&sid=58a3#📡🇰🇷®️South Korea©️Seoul🅿️ping:238.06ms

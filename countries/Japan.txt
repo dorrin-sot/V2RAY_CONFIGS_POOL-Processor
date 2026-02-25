@@ -1,2 +1,3 @@
-ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:261.39ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.180.61.239:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#📡🇯🇵®️Japan©️Shibuya City🅿️ping:371.85ms
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp#📡🇯🇵®️Japan©️Osaka🅿️ping:258.81ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.104.30:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#📡🇯🇵®️Japan©️Minoh (Saitoaokita)🅿️ping:276.89ms
+vless://dd4b5754-dd1b-4b13-8b7a-ff6dd2cdc545@jp-gy1.xem.lat:35999?security=reality&encryption=none&pbk=ti4SZ-6JvyprdnQ5HmRw-ofTOGsNEMWhnN6c6gyeVyk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=749bb889ae#📡🇯🇵®️Japan©️Shibuya City🅿️ping:294.25ms

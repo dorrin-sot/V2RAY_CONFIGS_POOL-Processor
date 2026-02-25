@@ -1,3 +1,0 @@
-vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#📡🇮🇹®️Italy©️Arezzo🅿️ping:42ms
-vless://d443fb54-207c-4fa4-b9d8-3ae2a2957532@80.211.133.156:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#📡🇮🇹®️Italy©️Arezzo🅿️ping:44ms
-vless://f79f95f8-86a7-4210-b9ec-392391fbd77e@ips.checklist.nonpath.ir:42538?flow=&type=tcp&headerType=http&host=cdn-apple.com&path=/&security=none#📡🇮🇹®️Italy©️Ponte San Pietro🅿️ping:62.08ms

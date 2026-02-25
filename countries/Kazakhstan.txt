@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=/?telegram+@wangcai2=&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:22ms
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&encryption=none#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:22ms

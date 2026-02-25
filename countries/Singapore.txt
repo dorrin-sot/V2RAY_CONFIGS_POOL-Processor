@@ -1,4 +1,9 @@
-vless://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@140.245.46.100:25001?security=reality&encryption=none&pbk=5MvE55sHm_m1gELvk4PRRsPU1NEPyBI955o4djmDzEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&sid=5a226d27#📡🇸🇬®️Singapore©️Singapore (Jurong East)🅿️ping:177.31ms
-vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&amp;sni=aka.ms&amp;type=grpc&amp;alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:265ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#📡🇸🇬®️Singapore©️Singapore🅿️ping:22ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#📡🇸🇬®️Singapore©️Singapore🅿️ping:283.08ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883#📡🇸🇬®️Singapore©️Singapore🅿️ping:250.5ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#📡🇸🇬®️Singapore©️Singapore🅿️ping:284.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27885#📡🇸🇬®️Singapore©️Singapore🅿️ping:283.01ms
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:181.03ms
+vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:333ms
+vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:181ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.89ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.89ms

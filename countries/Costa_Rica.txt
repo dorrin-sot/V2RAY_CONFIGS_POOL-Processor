@@ -1,1 +1,1 @@
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.246.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z3.PRODNSSPEED10.IR:2096?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan4.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:47.31ms

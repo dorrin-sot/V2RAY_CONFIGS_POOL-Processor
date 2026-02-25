@@ -1,2 +1,2 @@
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281?sni=www.nintendogames.net&path=/#📡🇯🇵®️Japan©️Osaka🅿️ping:263.97ms
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:258ms
+ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:261.39ms
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.180.61.239:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#📡🇯🇵®️Japan©️Shibuya City🅿️ping:371.85ms

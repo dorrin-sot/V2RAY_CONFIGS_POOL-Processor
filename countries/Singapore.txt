@@ -1,3 +1,5 @@
-ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:264.9ms
-vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:284.04ms
-vless://d89c3a42-81f5-4904-a9e7-3883b2d074e6@onhit.netfusionx.qzz.io:443?type=ws&path=/onhitadmin-team-dark-evil&host=&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=aka.ms#📡🇸🇬®️Singapore©️Singapore (Outram)🅿️ping:210.47ms
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg%3D%3D@194.233.94.119:80#📡🇸🇬®️Singapore©️Singapore🅿️ping:261.88ms
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:266ms
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:296ms
+vless://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@140.245.46.100:25001?security=reality&encryption=none&pbk=5MvE55sHm_m1gELvk4PRRsPU1NEPyBI955o4djmDzEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&sid=5a226d27#📡🇸🇬®️Singapore©️Singapore (Jurong East)🅿️ping:183.18ms
+vless://c05ec0f8-dadc-4c0c-b2a9-19b2ab5a20cf@159.223.93.44:13395?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:266.21ms

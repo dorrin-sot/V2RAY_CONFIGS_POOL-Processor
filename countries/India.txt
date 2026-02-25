@@ -1,2 +1,2 @@
-ss://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443/?type=ws&encryption=none&flow=&host=g.sandesh.qzz.io&path=/vless&security=tls&sni=g.sandesh.qzz.io&allowInsecure=1#📡🇮🇳®️India©️Navi Mumbai (Rabale)🅿️ping:236.16ms
-vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443/?type=ws&encryption=none&flow=&host=g.sandesh.qzz.io&path=/vless&security=tls&sni=g.sandesh.qzz.io&allowInsecure=1#📡🇮🇳®️India©️Navi Mumbai (Rabale)🅿️ping:236.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MzU1ODJlNTEzMjhhZjk5@163.171.206.24:28028#📡🇮🇳®️India©️Mumbai🅿️ping:188.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44236#📡🇮🇳®️India©️Mumbai🅿️ping:205.12ms

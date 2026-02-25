@@ -1,2 +1,0 @@
-vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.113:2083/?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#📡🇵🇪®️Peru©️Lima🅿️ping:21.86ms
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&amp;sni=third.pinocchio1.ir&amp;type=grpc&amp;fp=firefox&amp;alpn=http%2F1.1#📡🇵🇪®️Peru©️Lima🅿️ping:22ms

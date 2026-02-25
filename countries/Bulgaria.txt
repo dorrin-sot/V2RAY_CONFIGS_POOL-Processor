@@ -1,0 +1,2 @@
+vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.222:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:49.56ms
+vless://a0c5e6d9-519e-4fc1-8b51-27188a2452fe@nodka6.uzuk.pro:2346?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xI_kMYKPKvGzm4tLU4MVISDWsB-R75f592qyh2Rz2yM&sid=2d31751153534a8b&sni=kinopoisk.ru#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:75.43ms

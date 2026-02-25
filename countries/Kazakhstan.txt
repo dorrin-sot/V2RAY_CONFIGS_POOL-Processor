@@ -1,0 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=/?telegram🇨🇳+@wangcai2=&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:22.13ms
+vless://7affe6ed-3783-4570-b1c7-c8049a94bb9f@kzt.vpnspacev.com:443?type=tcp&security=reality&encryption=none&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=bc8ceae578236c&sni=yandex.ru#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:119.19ms

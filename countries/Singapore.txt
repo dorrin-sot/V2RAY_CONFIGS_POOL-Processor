@@ -1,9 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#📡🇸🇬®️Singapore©️Singapore🅿️ping:283.08ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883#📡🇸🇬®️Singapore©️Singapore🅿️ping:250.5ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#📡🇸🇬®️Singapore©️Singapore🅿️ping:284.77ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27885#📡🇸🇬®️Singapore©️Singapore🅿️ping:283.01ms
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:181.03ms
-vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:333ms
-vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:181ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.89ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.89ms
+ss://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:336ms
+vless://08e279aa-0ff9-4986-bdfc-5c28cbec1d23@ultravpn.bestprovider.site:443?encryption=none&security=tls&sni=aka.ms&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=tcp#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:312ms
+vless://c05ec0f8-dadc-4c0c-b2a9-19b2ab5a20cf@159.223.93.44:13395?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:176.83ms

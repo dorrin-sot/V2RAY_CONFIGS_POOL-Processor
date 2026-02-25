@@ -1,2 +1,1 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegramv2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.de5.net&type=ws&allowInsecure=1&sni=sni.111000.de5.net#📡🇵🇱®️Poland©️Warsaw🅿️ping:22ms
-vless://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#📡🇵🇱®️Poland©️Warsaw🅿️ping:46ms
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=423bccc9c13fb509#📡🇵🇱®️Poland©️Warsaw🅿️ping:43.82ms

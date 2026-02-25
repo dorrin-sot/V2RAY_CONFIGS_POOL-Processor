@@ -1,2 +1,0 @@
-trojan://92953fc6-f497-43af-9d6d-f3b5589df318@220.130.58.136:31102?security=tls&sni=green2.cdntencentmusic.com#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:758.8ms
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:332.26ms

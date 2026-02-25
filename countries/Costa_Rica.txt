@@ -1,1 +1,3 @@
-vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z3.PRODNSSPEED10.IR:2096?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan4.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:47.31ms
+vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z3.PRODNSSPEED10.IR:2096?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=dan4.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:71ms
+vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z3.PRODNSSPEED10.IR:2096?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan4.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:69ms
+vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z3.PRODNSSPEED10.IR:2096?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan4.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:70ms

@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram+@WangCai2#📡🇪🇸®️Spain©️Madrid🅿️ping:22.05ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@213.182.199.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇪🇸®️Spain©️Estepona🅿️ping:21.88ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#📡🇪🇸®️Spain©️Madrid🅿️ping:87ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.247:443?security=tls&sni=Sanjeshp.Ir&type=ws&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#📡🇪🇸®️Spain©️Madrid🅿️ping:49.36ms

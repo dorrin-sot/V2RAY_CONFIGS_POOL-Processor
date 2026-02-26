@@ -1,2 +1,0 @@
-vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:2443?security=reality&encryption=none&pbk=JFH7VGFCRMqGlws74mHl_Psgpz3v4WxYOWew5GAN5Ec&fp=chrome&type=xhttp&sni=alfabank.ru&sid=08fe891c223a6827#📡🇭🇺®️Hungary©️Szeged🅿️ping:59.72ms
-vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:443?security=reality&encryption=none&pbk=ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=0669a3e6b300d069#📡🇭🇺®️Hungary©️Szeged🅿️ping:59.88ms

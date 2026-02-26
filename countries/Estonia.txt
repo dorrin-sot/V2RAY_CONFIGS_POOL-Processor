@@ -1,1 +1,1 @@
-vless://b15b627e-18d8-4d21-8409-cab0e8e17b7b@185.159.247.12:2082?security=none&type=ws&host=Cloudflare.com.com.comCDNjH4vyy3nBv3jNj3Kn4kNkj7V2ray5U93nfR8.Cheshmsabz.Top.&path=%2F#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:22.04ms
+vless://6d490cef-0b49-459d-a72c-0bb0210f3dd0@185.223.168.238:8448?mode=gun&security=reality&encryption=none&pbk=HmwN8oi777opOr9k07wavuqiDt8axjC3pdpwt0-hoGk&fp=chrome&type=grpc&serviceName=northern&sni=www.dropbox.com&sid=c5670edd#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:55.38ms

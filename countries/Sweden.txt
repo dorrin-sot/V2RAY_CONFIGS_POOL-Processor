@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#📡🇸🇪®️Sweden©️Stockholm🅿️ping:41.74ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.49.159.193:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#📡🇸🇪®️Sweden©️Stockholm🅿️ping:43.2ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.49.159.193:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#📡🇸🇪®️Sweden©️Stockholm🅿️ping:82.37ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@176.97.77.225:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#📡🇸🇪®️Sweden©️Stockholm🅿️ping:47.06ms
+vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?security=tls&amp;sni=fifth.pinocchio1.ir&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:22ms

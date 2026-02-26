@@ -1,9 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.0.51:443#📡🇬🇧®️United Kingdom©️London🅿️ping:39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:63.36ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:60.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:62.77ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:39.63ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me%2Fv2Line#📡🇬🇧®️United Kingdom©️London🅿️ping:35.97ms
-vless://Telegram%3A%40Free_VPN_CH@143.20.236.93:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#📡🇬🇧®️United Kingdom©️London🅿️ping:28ms
-vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?security=reality&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:47ms
-vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb25.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#📡🇬🇧®️United Kingdom©️Erith🅿️ping:57.48ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.43.72:443#📡🇬🇧®️United Kingdom©️London🅿️ping:41.71ms
+vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Erith🅿️ping:60.1ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@25.25.25.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇬🇧®️United Kingdom©️Northwood🅿️ping:21.96ms
+vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb25.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#📡🇬🇧®️United Kingdom©️Erith🅿️ping:59.98ms
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#📡🇬🇧®️United Kingdom©️London🅿️ping:27.51ms

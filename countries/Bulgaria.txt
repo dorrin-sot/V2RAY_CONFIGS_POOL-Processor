@@ -1,1 +1,0 @@
-vless://d9bf58f0-74a1-4e40-bd09-12cab94636cb@f18.amydoodles.com:2096?security=tls&type=xhttp&headerType=&path=/&host=&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&sni=sess.magicdriveman.com&fp=chrome&alpn=h2,http/1.1#📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:59.63ms

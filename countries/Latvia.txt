@@ -1,3 +1,1 @@
-ss://bnVsbDpudWxs@176.120.67.95:8443#📡🇱🇻®️Latvia©️Riga🅿️ping:53ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.231:8443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#📡🇱🇻®️Latvia©️Riga🅿️ping:54ms
-vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?security=reality&encryption=none&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=google.com&sid=cd620180#📡🇱🇻®️Latvia©️Riga🅿️ping:48.09ms
+vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?security=reality&encryption=none&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=cd620180#📡🇱🇻®️Latvia©️Riga🅿️ping:53.02ms

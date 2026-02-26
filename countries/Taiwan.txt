@@ -1,2 +1,0 @@
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.248.240.224:3462?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=45.32.28.232#📡🇹🇼®️Taiwan©️Taipei🅿️ping:323ms
-vless://699fca60-533f-4436-38db-7881c2150fe2@166.0.198.81:28080?encryption=none&security=tls&sni=53e5ab44.lfree.cn.mt&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=53e5ab44.lfree.cn.mt&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#📡🇹🇼®️Taiwan©️Taipei🅿️ping:250.46ms

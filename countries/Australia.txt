@@ -1,2 +1,0 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.239:443?security=tls&amp;sni=xin626.ylks.link&amp;type=ws&amp;path=%2Fblue#📡🇦🇺®️Australia©️Surry Hills🅿️ping:22ms
-vless://Telegram%253A%2540Free_VPN_CH@185.207.197.8:2096?path=%2Fsg-lnd&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tn1rr.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=tn1rr.qzz.io#📡🇦🇺®️Australia©️Sydney🅿️ping:22ms

@@ -1,2 +1,2 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@176.97.77.225:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#📡🇸🇪®️Sweden©️Stockholm🅿️ping:47.06ms
 vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?security=tls&amp;sni=fifth.pinocchio1.ir&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:22ms
+vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?security=tls&sni=fifth.pinocchio1.ir&type=grpc&fp=chrome&alpn=http/1.1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:21.87ms

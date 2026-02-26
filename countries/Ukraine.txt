@@ -1,1 +1,0 @@
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#📡🇺🇦®️Ukraine©️Kyiv (Holosiivs'kyi district)🅿️ping:65.92ms

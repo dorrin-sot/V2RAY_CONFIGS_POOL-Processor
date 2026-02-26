@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#📡🇷🇴®️Romania©️Bucharest🅿️ping:60ms
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#📡🇷🇴®️Romania©️Bucharest🅿️ping:70.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#📡🇷🇴®️Romania©️Bucharest🅿️ping:65ms

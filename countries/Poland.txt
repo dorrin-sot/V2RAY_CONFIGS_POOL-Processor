@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#📡🇵🇱®️Poland©️Warsaw🅿️ping:21.72ms
+vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@pl.connect-opengate.cv:443?security=reality&encryption=none&pbk=O3LtvHzQVl80Kov-E6KHcYqJRIsePq6wFtooNPL9uSc&fp=qq&type=xhttp&sni=hello.opengate.tech&sid=55a1e5996847bcaa#📡🇵🇱®️Poland©️Warsaw🅿️ping:64ms
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&headerType=none&type=tcp&sni=plcdn14.suio.me#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.54ms

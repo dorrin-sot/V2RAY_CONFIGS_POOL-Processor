@@ -1,1 +1,3 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.215.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇦🇲®️Armenia©️Yerevan🅿️ping:21.91ms
+vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@am.connect-opengate.cv:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#📡🇦🇲®️Armenia©️Gavar Municipality🅿️ping:140ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#📡🇦🇲®️Armenia©️Yerevan🅿️ping:22ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇦🇲®️Armenia©️Yerevan🅿️ping:22ms

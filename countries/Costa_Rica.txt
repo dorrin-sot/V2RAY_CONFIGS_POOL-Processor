@@ -1,2 +1,4 @@
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.247.166:80?type=ws&amp;host=us1.rtacg.com&amp;path=%2F#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?path=%2F&security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.88ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?path=%2F&security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.8ms

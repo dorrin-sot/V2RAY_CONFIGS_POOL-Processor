@@ -1,4 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#📡🇸🇬®️Singapore©️Singapore🅿️ping:267.86ms
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#📡🇸🇬®️Singapore©️Singapore🅿️ping:262ms
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?encryption=none&security=none&type=tcp&headerType=none#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:175.29ms
+vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&amp;sni=aka.ms&amp;type=grpc&amp;alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:178ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.88ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.9ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.171.70:23280/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:184.03ms

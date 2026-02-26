@@ -1,3 +1,0 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@14.102.228.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇿®️Czechia©️Prague🅿️ping:21.84ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@14.102.229.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇿®️Czechia©️Prague🅿️ping:22.05ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@195.85.23.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇿®️Czechia©️Prague🅿️ping:21.89ms

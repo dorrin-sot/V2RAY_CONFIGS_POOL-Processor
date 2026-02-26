@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:73ms
-vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?security=reality&encryption=none&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9f35da6c9412b832#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:91.97ms
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.14:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#📡🇺🇦®️Ukraine©️Kyiv (Holosiivs'kyi district)🅿️ping:40ms
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#📡🇺🇦®️Ukraine©️Kyiv (Holosiivs'kyi district)🅿️ping:65.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:61.97ms
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#📡🇺🇦®️Ukraine©️Kyiv (Holosiivs'kyi district)🅿️ping:66.67ms

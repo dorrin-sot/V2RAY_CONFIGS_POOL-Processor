@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:48ms
+vless://d9bf58f0-74a1-4e40-bd09-12cab94636cb@f18.amydoodles.com:2096?security=tls&type=xhttp&headerType=&path=/&host=&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&sni=sess.magicdriveman.com&fp=chrome&alpn=h2,http/1.1#📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:59.63ms

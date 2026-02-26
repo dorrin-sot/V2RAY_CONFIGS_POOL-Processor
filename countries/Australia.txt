@@ -1,2 +1,1 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.207.196.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇦🇺®️Australia©️Sydney🅿️ping:21.87ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.207.199.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇦🇺®️Australia©️Sydney🅿️ping:21.77ms
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?security=tls&sni=sdfee4.azurewebsites.net&type=ws&host=sdfee4.azurewebsites.net&path=/#📡🇦🇺®️Australia©️Melbourne🅿️ping:292.59ms

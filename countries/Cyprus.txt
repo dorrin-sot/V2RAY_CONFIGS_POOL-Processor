@@ -1,4 +1,1 @@
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@195.26.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:22ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@77.75.199.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:22ms
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080/?encryption=none&security=none&type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#📡🇨🇾®️Cyprus©️Káto Lakatámeia🅿️ping:22.2ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.59.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇾®️Cyprus©️Káto Lakatámeia🅿️ping:22ms
+vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@195.85.59.95:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#📡🇨🇾®️Cyprus©️Káto Lakatámeia🅿️ping:22.22ms

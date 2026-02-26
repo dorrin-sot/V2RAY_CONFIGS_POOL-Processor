@@ -1,6 +1,1 @@
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.228.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇿®️Czechia©️Prague🅿️ping:22ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇿®️Czechia©️Prague🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.228.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇿®️Czechia©️Prague🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#📡🇨🇿®️Czechia©️Prague🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇿®️Czechia©️Prague🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.63:8880?encryption=none&security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇿®️Czechia©️Prague🅿️ping:22ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=%2F&fp=chrome#📡🇨🇿®️Czechia©️Prague🅿️ping:21.85ms

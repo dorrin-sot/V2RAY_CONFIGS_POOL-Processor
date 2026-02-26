@@ -1,5 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720#📡🇦🇺®️Australia©️Sydney🅿️ping:314.62ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.239:443?security=tls&amp;sni=xin626.ylks.link&amp;type=ws&amp;path=%2Fblue#📡🇦🇺®️Australia©️Surry Hills🅿️ping:22ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.207.196.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇦🇺®️Australia©️Sydney🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.196.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇦🇺®️Australia©️Sydney🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.198.29:8880?encryption=none&security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#📡🇦🇺®️Australia©️Sydney🅿️ping:21ms
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.239:443?security=tls&sni=xin626.ylks.link&type=ws&path=%2Fblue#📡🇦🇺®️Australia©️Surry Hills🅿️ping:21.87ms
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.64:443?security=tls&sni=xind.ylks.link&type=ws&path=/blue#📡🇦🇺®️Australia©️Surry Hills🅿️ping:21.84ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.207.197.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇦🇺®️Australia©️Sydney🅿️ping:21.81ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.207.199.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇦🇺®️Australia©️Sydney🅿️ping:22.05ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.29:8880?encryption=none&security=none&type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#📡🇦🇺®️Australia©️Sydney🅿️ping:21.96ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.199.29:8880?encryption=none&security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#📡🇦🇺®️Australia©️Sydney🅿️ping:21.91ms
+vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp #📡🇦🇺®️Australia©️Alexandria🅿️ping:366ms
+vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp#📡🇦🇺®️Australia©️Alexandria🅿️ping:295.57ms

@@ -1,4 +1,4 @@
-vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560#📡🇪🇸®️Spain©️Madrid🅿️ping:22.04ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.251.81.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇪🇸®️Spain©️Valencia🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇪🇸®️Spain©️Estepona🅿️ping:22ms
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#📡🇪🇸®️Spain©️Madrid🅿️ping:21.77ms
+vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560#📡🇪🇸®️Spain©️Madrid🅿️ping:21.84ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.213:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM78&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#📡🇪🇸®️Spain©️Madrid🅿️ping:51.08ms
+vless://b653c3fb-e95e-5ed9-86d5-c169d6a4f2b9@199.232.32.165:443?security=tls&sni=JoinBede-ELiV2rAY.ai&type=ws&host=JoinBede-eliv2ray.ai&path=%2F%3Fed%3D2048&fp=edge#📡🇪🇸®️Spain©️Madrid🅿️ping:48.91ms

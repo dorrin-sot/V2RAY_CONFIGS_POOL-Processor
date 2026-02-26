@@ -1,4 +1,0 @@
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.66.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.244.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.66.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.67.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms

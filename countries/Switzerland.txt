@@ -1,0 +1,2 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#📡🇨🇭®️Switzerland©️Zurich🅿️ping:34.13ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.212.95:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#📡🇨🇭®️Switzerland©️Oberengstringen🅿️ping:27.08ms

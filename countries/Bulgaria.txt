@@ -1,3 +1,1 @@
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@147.78.140.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇧🇬®️Bulgaria©️Sofia (Sofia Center)🅿️ping:22ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@89.117.112.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:22ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:44.24ms

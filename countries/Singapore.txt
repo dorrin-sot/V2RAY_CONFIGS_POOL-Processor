@@ -1,0 +1,10 @@
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.036.node-for-bigairport.win:16688#📡🇸🇬®️Singapore©️Singapore🅿️ping:204.57ms
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@c0qv5uiudxnbgypm61zm.02.karyl.top:32103?allowInsecure=1&sni=jp.karyl.cc&ws=1&wspath=%2F#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:212.06ms
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=&encryption=none&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:174.88ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.85ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.136.94.186:443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:177ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.136.94.186:443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:181ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.8.211.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:21.83ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@47.128.223.32:443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:176ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@54.169.254.130:8443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:178ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@54.169.254.130:8443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇬®️Singapore©️Singapore🅿️ping:180ms

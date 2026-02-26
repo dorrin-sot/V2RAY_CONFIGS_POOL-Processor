@@ -1,2 +1,2 @@
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.57.238:193?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:265.46ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.180.107.11:8443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇯🇵®️Japan©️Shibuya City🅿️ping:281.14ms
+vless://a5db5a13-1bf2-4b28-88d4-5b385ece52ed@jp-gy2.xem.lat:35999?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=XcqltzdRYOAM1fw3Vjmb5h1n-S-Te4XS6eKJucipaXA&sid=ac2f2c&sni=swdist.apple.com&servername=swdist.apple.com&spx=/&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:298.44ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.197.108.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:22ms

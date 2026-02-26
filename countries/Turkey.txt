@@ -1,1 +1,3 @@
-vless://c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0bce#📡🇹🇷®️Turkey©️Izmir🅿️ping:73.37ms
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&amp;sni=fourth.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#📡🇹🇷®️Turkey©️Istanbul🅿️ping:22ms
+vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.15:80?security=none&amp;type=ws&amp;host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir&amp;path=%2F%40Proxy_MTM-%40Proxy_MTM-%40Proxy_MTM-Proxy_%40MTM%3Fed%3D2056#📡🇹🇷®️Turkey©️Istanbul🅿️ping:22.21ms
+vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#📡🇹🇷®️Turkey©️Izmir🅿️ping:56.24ms

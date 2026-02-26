@@ -1,3 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:52.3ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.180.21.2:2053?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:32.88ms
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@deu666.lackerdeu.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.fh-aachen.de&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:56.26ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:53.95ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@194.152.44.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:22ms

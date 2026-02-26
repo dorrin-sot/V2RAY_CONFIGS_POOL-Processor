@@ -1,0 +1,7 @@
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=&encryption=none&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:184.48ms
+vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&amp;sni=aka.ms&amp;type=grpc&amp;alpn=h2%2Chttp%2F1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:179ms
+vless://7f86227e-c630-4a24-9160-b80d16bb37c8@weirdoweb.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.weirdoweb.xyz&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇸🇬®️Singapore©️Singapore (Queenstown Estate)🅿️ping:220.43ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.8.211.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇸🇬®️Singapore©️Singapore🅿️ping:25ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@91.124.127.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇸🇬®️Singapore©️Singapore🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.53.53.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.8.211.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇸🇬®️Singapore©️Singapore🅿️ping:22ms

@@ -1,1 +1,11 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?encryption=none&type=ws&security=tls&sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22.28ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.220:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.88ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.244.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.245.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.247.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.245.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.245.63:8880?encryption=none&security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.246.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.247.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.247.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms

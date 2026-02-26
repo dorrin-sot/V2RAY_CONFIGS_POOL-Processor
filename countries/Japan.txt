@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.248.75.19:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#📡🇯🇵®️Japan©️Shibuya City🅿️ping:257ms
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:282.37ms
+vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@jp.connect-opengate.cv:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#📡🇯🇵®️Japan©️Shibuya City🅿️ping:321ms

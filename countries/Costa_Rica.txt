@@ -1,0 +1,2 @@
+vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z3.PRODNSSPEED10.IR:2096?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dan4.sodogodping.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:48.91ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.88ms

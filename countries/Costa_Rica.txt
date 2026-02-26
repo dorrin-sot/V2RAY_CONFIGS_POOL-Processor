@@ -1,5 +1,2 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.149:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.73ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.82:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.84ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.213:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22.24ms
-vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@190.93.247.155:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.79ms
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.43:443?security=tls&sni=lc.kpcloud.eu.org&type=ws&host=lc.kpcloud.eu.org&path=%2F%3Fed%3D2048#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.87ms
+vless://066f5a08-cdd6-42a5-85a8-1f676db64656@190.93.245.72:2082?security=none&encryption=none&host=speedtest.net&type=httpupgrade&note=@FreeOnlineVPN #📡🇨🇷®️Costa Rica©️Pozos🅿️ping:21.84ms
+vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?encryption=none&security=tls&sni=vbox.ping-box.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms

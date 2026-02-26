@@ -1,33 +1,9 @@
-vless://042bcb1f-23dd-4ae9-9dc0-e301f89a5359@193.151.143.138:201?security=none&encryption=none&headerType=none&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:103.75ms
-vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none&headerType=http&host=speedtest.net #📡🇮🇷®️Iran©️Tehrān (District 5)🅿️ping:131.44ms
-vless://116980b3-d4dc-49cc-acae-30c08766b060@85.133.197.114:2083?security=&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:111.95ms
-vless://3c54640f-3194-40ee-a885-1e231c17bdc2@azinsite.amir777.sbs:2010?security=none&path=%2f#📡🇮🇷®️Iran©️Shiraz🅿️ping:138.73ms
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?type=raw&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:98.45ms
-vless://9b79496c-89b9-4284-a2b2-345bf7d30ae7@mnext.pingstore.net:8080?encryption=none&security=none&type=tcp&headerType=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:129.03ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.145.156:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:213ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.145.178:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:200ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:216ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?encryption=none&type=tcp&headerType=http&security=none #📡🇮🇷®️Iran©️Tehran🅿️ping:217ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:213ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=none&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:205ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:216ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.131:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:201ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.131:9000?security=none&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:191ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:332ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:1350ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&amp%3Bencryption=none&amp%3BheaderType=http&amp%3Btype=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:1318ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:1320ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:326ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.161:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:209ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:192ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?encryption=none&type=tcp&headerType=http&security=none #📡🇮🇷®️Iran©️Tehran🅿️ping:190ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?security=&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:189ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?security=none&amp%3Bencryption=none&amp%3BheaderType=http&amp%3Btype=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:183ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?security=none&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:177ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?encryption=none&security=none&type=tcp&headerType=http #📡🇮🇷®️Iran©️Tehran🅿️ping:209ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?encryption=none&type=tcp&headerType=http&security=none #📡🇮🇷®️Iran©️Tehran🅿️ping:205ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:207ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:199ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #📡🇮🇷®️Iran©️Tehran🅿️ping:209ms
-vless://ff741be3-2e01-474d-955b-0370e3f29a3e@94.184.17.223:200?security=none&encryption=none&headerType=none&type=tcp #📡🇮🇷®️Iran©️Tehrān🅿️ping:101ms
-vless://ff741be3-2e01-474d-955b-0370e3f29a3e@94.184.17.223:200?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp #📡🇮🇷®️Iran©️Tehrān🅿️ping:99ms
+vless://3c54640f-3194-40ee-a885-1e231c17bdc2@188.212.97.195:2010?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Shiraz🅿️ping:99.63ms
+vless://8fd91cea-f51b-442b-9f36-e932f1eb7476@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp&headerType=none#📡🇮🇷®️Iran©️Shiraz🅿️ping:135.47ms
+vless://90826ad0-5ad0-4758-bc6f-72e029bb274d@tr.webira.net:36279?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:121.79ms
+vless://af7d5ef7-53dc-40f1-af60-da121169bf05@94.184.3.183:8080?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:190.14ms
+vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@217.60.238.167:8083?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:90ms
+vless://e23b0e79-f297-40cf-e853-9180680121fb@selolez.gamezoone.ir:8880?path=%2F&security=none&encryption=none&host=selolez.gamezoone.ir&type=ws#📡🇮🇷®️Iran©️Tehran🅿️ping:179ms
+vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:90ms
+vless://e8ecf744-2ff1-4560-bfab-024f7c69e3cb@slide.driverabundant.info:43477?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:159ms
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:199.91ms

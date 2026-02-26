@@ -1,0 +1,1 @@
+vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.94:2053?encryption=none&security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F#📡🇵🇭®️Philippines©️Manila🅿️ping:21.84ms

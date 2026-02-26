@@ -1,1 +1,0 @@
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@195.85.59.95:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#📡🇨🇾®️Cyprus©️Káto Lakatámeia🅿️ping:22.22ms

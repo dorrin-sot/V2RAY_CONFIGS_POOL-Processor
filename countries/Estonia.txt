@@ -1,0 +1,1 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=%2F&fp=chrome#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:22.19ms

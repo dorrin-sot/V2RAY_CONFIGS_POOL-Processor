@@ -1,4 +1,0 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@141.11.202.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@141.11.203.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@74.49.214.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@74.49.215.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest🅿️ping:22ms

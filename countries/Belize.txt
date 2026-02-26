@@ -1,8 +1,0 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.208.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.209.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.210.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.211.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.5.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.6.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.7.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belize City🅿️ping:23ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.135.235.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇧🇿®️Belize©️Belmopan🅿️ping:22ms

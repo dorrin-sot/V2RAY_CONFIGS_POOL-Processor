@@ -1,9 +1,0 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.146.201.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.244.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.245.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.246.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.247.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@62.72.166.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@88.216.66.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@88.216.67.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@92.60.74.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad (Pietermaai)🅿️ping:22ms

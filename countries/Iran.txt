@@ -1,8 +1,4 @@
-ss://4fba7439-6209-4e62-b8df-dd2bdc222ef5@193.151.147.26:213?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:106.07ms
-ss://4fba7439-6209-4e62-b8df-dd2bdc222ef5@193.151.147.26:213?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:106.32ms
-vless://082e42ac-ebae-433f-9c38-3aa67e962511@roham3.hamoon.sbs:50593?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:140.15ms
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:97.4ms
-vless://86050618-e9d9-417a-a415-87a066355906@188.121.105.151:8081?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:178.22ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.4.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇮🇷®️Iran©️Tehrān🅿️ping:22ms
-vless://a2112196-be88-4ef3-b737-0f971166f8b5@193.151.134.102:201?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:120.58ms
-vless://a7c40ddd-ceb7-4836-a657-62cd5a7795c6@elipii11.elipii-shopping.com:443?security=tls&type=tcp&headerType=http&path=%2F&host=google.com&sni=film-doon.ir&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#📡🇮🇷®️Iran©️Tehrān🅿️ping:58.07ms
+vless://232f398c-40b2-4c29-a912-d08c1a8fdd24@193.151.134.102:201?security=&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:113.93ms
+vless://232f398c-40b2-4c29-a912-d08c1a8fdd24@193.151.134.102:201?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:113.93ms
+vless://287c459f-43d0-43c6-95ee-07afe75faa59@s4.nettool.ovh:34221?encryption=none&security=none&type=tcp&headerType=http&host=igap.net#📡🇮🇷®️Iran©️Tehrān🅿️ping:122.95ms
+vless://33bb7e7c-ff37-49cd-b199-402d8f8bc1e3@94.184.13.37:8368?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:187.38ms

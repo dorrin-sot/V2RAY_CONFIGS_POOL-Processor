@@ -1,2 +1,0 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@211.198.136.117:30017?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇰🇷®️South Korea©️Suwon (Jangan-gu)🅿️ping:297.09ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@211.238.83.146:26354?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇰🇷®️South Korea©️Incheon (Juanseo-ro)🅿️ping:259.09ms

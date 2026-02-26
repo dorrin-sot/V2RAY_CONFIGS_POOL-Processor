@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram+@WangCai2#📡🇪🇸®️Spain©️Madrid🅿️ping:21.87ms
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#📡🇪🇸®️Spain©️Moraira🅿️ping:70.01ms

@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#📡🇷🇴®️Romania©️Bucharest🅿️ping:59.68ms
+vless://50a33aab-ee44-4de0-a29d-987a4612d80f@pq-romania1.09vpn.com:8443?path=%2Fvless%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=pq-romania1.09vpn.com&fp=chrome&type=ws&allowInsecure=1&sni=pq-romania1.09vpn.com#📡🇷🇴®️Romania©️Bucharest🅿️ping:81ms

@@ -1,0 +1,1 @@
+vless://Telegram%253A%2540Free_VPN_CH@46.202.30.8:2096?path=%2Fsg-lnd&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tn1rr.qzz.io&fp=chrome&type=ws&allowInsecure=1&sni=tn1rr.qzz.io#📡🇲🇹®️Malta©️Valletta🅿️ping:22ms

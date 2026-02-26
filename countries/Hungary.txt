@@ -1,1 +1,4 @@
-ss://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&amp;encryption=none&amp;pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=4ae260#📡🇭🇺®️Hungary©️Budapest🅿️ping:38ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@141.11.202.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:22ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@141.11.203.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:22ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@74.49.214.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest🅿️ping:22ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@74.49.215.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇭🇺®️Hungary©️Budapest🅿️ping:22ms

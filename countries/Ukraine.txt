@@ -1,1 +1,0 @@
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@deu666.lackerdeu.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.fh-aachen.de&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:99ms

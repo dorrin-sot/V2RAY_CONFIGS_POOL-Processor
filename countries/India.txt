@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#📡🇮🇳®️India©️Mumbai🅿️ping:178.94ms
-vless://e21a049b-3c52-445c-8463-bda32e6c2a93@ind.hackkcah.xyz:1443?mode=stream-one&path=%2Fvless-xhttp%2F&security=none&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=ind.hackkcah.xyz&type=xhttp#📡🇮🇳®️India©️Mumbai🅿️ping:265ms
+ss://1027b850-de79-4a94-b337-eccdac28e141@g.sandesh.qzz.io:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=g.sandesh.qzz.io&amp;path=%2Fvless&amp;security=tls&amp;sni=g.sandesh.qzz.io&amp;allowInsecure=1#📡🇮🇳®️India©️Navi Mumbai (Rabale)🅿️ping:423ms

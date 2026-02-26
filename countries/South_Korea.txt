@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:306.02ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@144.24.72.29:627?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇰🇷®️South Korea©️Chuncheon-si🅿️ping:293.68ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@146.56.119.234:8443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇰🇷®️South Korea©️Chuncheon-si🅿️ping:295.74ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@211.198.136.117:30017?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇰🇷®️South Korea©️Suwon (Jangan-gu)🅿️ping:297.09ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@211.238.83.146:26354?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇰🇷®️South Korea©️Incheon (Juanseo-ro)🅿️ping:259.09ms

@@ -1,1 +1,1 @@
-vless://08441466-dcf2-4445-9f44-62bd5c51dd54@84.32.108.128:443?security=reality&encryption=none&pbk=4DbBqJS710XxPuhKE2SRd1q_ZQDqduZdhTcvwIY_NF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=0ab29580#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:27.96ms
+ss://ae5bca85-e20f-45bb-a5cd-4ac80bb8b052@X8.PRODNSSPEED10.IR:2053?path=/love&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cup.mehrsazi.ir#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:49.43ms

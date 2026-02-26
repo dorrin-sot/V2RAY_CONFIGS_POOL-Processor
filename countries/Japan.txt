@@ -1,1 +1,2 @@
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:274.38ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?type=tcp&security=tls&sni=iepl.jpz2.cat.bilibili.com&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:239.6ms
+vless://00000000-0000-4000-8000-000000000000@8.209.220.50:21273/?type=ws&encryption=none&flow=&host=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&path=/@Marisa_kristi&security=tls&sni=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.11ms

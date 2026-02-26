@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:282.37ms
-vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@jp.connect-opengate.cv:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#📡🇯🇵®️Japan©️Shibuya City🅿️ping:321ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net#📡🇯🇵®️Japan©️Osaka🅿️ping:274.38ms

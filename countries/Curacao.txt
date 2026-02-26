@@ -1,0 +1,2 @@
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.244.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:21.92ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@5.10.245.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#📡🇨🇼®️Curacao©️Willemstad🅿️ping:22.0ms

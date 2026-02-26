@@ -1,3 +1,2 @@
-ss://c1875fe7-b19a-4160-ab68-93df6e70eb0b@103.25.85.182:443?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:41.54ms
-vless://-DIGIV2RAY-@185.146.173.68:2095?type=ws&amp%3Bhost=QUENTIN--_--DiG.radiotehran.org.&amp%3Bpath=/DigiconnecT%3Fed%3D1024&amp%3Bsecurity=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:21.81ms
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@172.232.129.211:443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=1&host=tn1rr.qzz.io&type=ws&allowInsecure=1&sni=tn1rr.qzz.io#📡🇸🇪®️Sweden©️Stockholm🅿️ping:43.94ms
+vless://Telegram%3A%40Free_VPN_CH@193.53.40.219:8443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.95ms
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2@172.232.129.211:443?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#📡🇸🇪®️Sweden©️Stockholm🅿️ping:43.96ms

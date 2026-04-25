@@ -1,1 +1,4 @@
-trojan://1234567890@144.31.191.159:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇩🇪®️Germany©️Werda🅿️ping:28.23ms
+trojan://1234567890@148.253.210.141:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt II)🅿️ping:29.72ms
+trojan://1234567890@152.53.119.132:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F#📡🇩🇪®️Germany©️Nuremberg🅿️ping:27.17ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:44.78ms
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?allowInsecure=1&encryption=none&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.76ms

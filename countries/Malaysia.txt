@@ -1,0 +1,2 @@
+trojan://7212418a-c4e9-4378-8722-b34bda5f0467@t1.entrance.app.tdns.men:56401?allowInsecure=1&sni=work.weixin.qq.com&type=grpc&serviceName=weixin#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:331.84ms
+trojan://7212418a-c4e9-4378-8722-b34bda5f0467@t1.entrance.app.tdns.men:56401?mode=gun&security=tls&insecure=1&type=grpc&serviceName=weixin&allowInsecure=1&sni=work.weixin.qq.com#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:331.84ms

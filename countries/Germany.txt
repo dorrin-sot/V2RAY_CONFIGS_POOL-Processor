@@ -1,8 +1,4 @@
-trojan://1234567890@152.53.118.28:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F#📡🇩🇪®️Germany©️Nuremberg🅿️ping:27.43ms
-trojan://1234567890@193.23.218.192:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:31.64ms
-trojan://1234567890@194.87.77.2:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.54ms
-trojan://1234567890@207.154.208.9:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#📡🇩🇪®️Germany©️Eisenach🅿️ping:24.8ms
-trojan://1234567890@94.141.123.243:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:24.42ms
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online&peer=nextstepcareer.online&security=tls#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.39ms
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?sni=sni.111000.dynv6.net&peer=sni.111000.dynv6.net&security=tls#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.54ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.215.38:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt II)🅿️ping:24.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.83ms
+trojan://1234567890@57.129.47.47:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.35ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:44.21ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇩🇪®️Germany©️Falkenstein🅿️ping:30.23ms

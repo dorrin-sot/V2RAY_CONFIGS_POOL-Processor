@@ -1,3 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.146.201.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#📡🇨🇼®️Curacao©️Willemstad🅿️ping:43.9ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.146.201.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#📡🇨🇼®️Curacao©️Willemstad🅿️ping:44.99ms
-vless://8703c844-375d-4d1f-9221-b5d1fc17869a@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#📡🇨🇼®️Curacao©️Willemstad🅿️ping:44.99ms

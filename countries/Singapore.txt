@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.229.121.78:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇸🇬®️Singapore©️Singapore🅿️ping:298.63ms
+vless://26524cce-d514-4014-a426-365fb266a14d@168.138.165.174:443?&security=tls&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:179.7ms
+vless://26524cce-d514-4014-a426-365fb266a14d@168.138.165.174:443?&security=tls&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:186.76ms

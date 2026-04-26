@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#📡🇮🇳®️India©️Hyderabad🅿️ping:178.14ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#📡🇮🇳®️India©️Hyderabad🅿️ping:178.14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#📡🇮🇳®️India©️Bengaluru🅿️ping:190.4ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.149.114.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#📡🇮🇳®️India©️New Delhi🅿️ping:169.94ms

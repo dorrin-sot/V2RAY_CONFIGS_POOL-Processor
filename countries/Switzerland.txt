@@ -1,0 +1,2 @@
+trojan://1234567890@144.31.216.160:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇭®️Switzerland©️Bern🅿️ping:26.33ms
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#📡🇨🇭®️Switzerland©️Bern🅿️ping:36.12ms

@@ -1,1 +1,2 @@
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#📡🇵🇱®️Poland©️Warsaw🅿️ping:28.74ms
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?security=reality&sni=vk.ru&type=grpc&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#📡🇵🇱®️Poland©️Warsaw🅿️ping:40.38ms
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?security=reality&sni=vk.ru&type=grpc&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#📡🇵🇱®️Poland©️Warsaw🅿️ping:41.05ms

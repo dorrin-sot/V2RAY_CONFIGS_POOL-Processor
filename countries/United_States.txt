@@ -1,6 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#📡🇺🇸®️United States©️Lincolndale🅿️ping:104.07ms
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng@66.94.125.178:80#📡🇺🇸®️United States©️St Louis (Downtown)🅿️ping:172.83ms
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw@154.53.60.212:80#📡🇺🇸®️United States©️Seattle🅿️ping:170.89ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️Wilmington🅿️ping:42.89ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.185.161.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇺🇸®️United States©️Palo Alto (Downtown North)🅿️ping:43.81ms
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&encryption=none&alpn=h2&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&sni=vercel.com#📡🇺🇸®️United States©️Walnut🅿️ping:53.36ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.100:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:43.93ms

@@ -1,1 +1,1 @@
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@45.146.89.35:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.69ms
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=/&security=none&type=ws#📡🇳🇱®️The Netherlands©️Haarlem (Haarlem-Oost)🅿️ping:85.98ms

@@ -1,1 +1,0 @@
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@193.219.99.196:8443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:50.47ms

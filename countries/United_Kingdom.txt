@@ -1,2 +1,1 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:34.95ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.220.88.180:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/techbod?ed=2560&Telegram🇨🇳@techbod#📡🇬🇧®️United Kingdom©️Islington🅿️ping:35.73ms
+vless://d341b2f2-b328-46a1-8907-27d759344750@185.143.234.235:8080?type=ws&encryption=none&path=%2F&host=io.binping.lol&security=none#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:46.3ms

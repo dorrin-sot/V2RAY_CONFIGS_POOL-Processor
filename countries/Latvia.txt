@@ -1,1 +1,1 @@
-vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#📡🇱🇻®️Latvia©️Riga🅿️ping:34.26ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.209.62:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇱🇻®️Latvia©️Riga🅿️ping:33.61ms

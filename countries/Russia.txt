@@ -1,2 +1,0 @@
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&security=none&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:46.43ms
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none&security=none&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:45.73ms

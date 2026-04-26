@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.42ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.26ms
-vless://45488c15-cf24-4f8b-8a13-d37c580b8984@s1.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:128.74ms
-vless://fecdbda8-69b2-449a-b8d5-e798ff1c1e6d@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=ukamanaji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:128.74ms
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=%2F&security=none&type=ws#📡🇳🇱®️The Netherlands©️Haarlem (Haarlem-Oost)🅿️ping:59.43ms

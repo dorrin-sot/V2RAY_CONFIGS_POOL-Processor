@@ -1,0 +1,1 @@
+trojan://1234567890@138.124.230.45:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#📡🇳🇴®️Norway©️Oslo🅿️ping:25.1ms

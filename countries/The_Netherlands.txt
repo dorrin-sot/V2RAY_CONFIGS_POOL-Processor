@@ -1,1 +1,4 @@
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=%2F&security=none&type=ws#📡🇳🇱®️The Netherlands©️Haarlem (Haarlem-Oost)🅿️ping:59.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.6ms
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#📡🇳🇱®️The Netherlands©️Haarlem (Haarlem-Oost)🅿️ping:57.88ms
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?path=%2F&security=none&encryption=none&type=ws#📡🇳🇱®️The Netherlands©️Haarlem (Haarlem-Oost)🅿️ping:57.88ms
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?path=%2F&security=none&encryption=none&type=ws#📡🇳🇱®️The Netherlands©️Haarlem (Haarlem-Oost)🅿️ping:69.98ms

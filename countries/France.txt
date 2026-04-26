@@ -1,0 +1,1 @@
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=/vless/&security=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:35.54ms

@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:48.11ms
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:47.49ms
+vless://872624ac-aa40-39b1-8232-f7270812c234@s720.okgfw.top:443?type=tcp&security=tls&sni=u711541ue091s720.okgfw.top&fp=random&flow=xtls-rprx-vision#📡🇧🇬®️Bulgaria©️Veliko Tarnovo🅿️ping:161.81ms

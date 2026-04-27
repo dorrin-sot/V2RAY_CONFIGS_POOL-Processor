@@ -1,11 +1,5 @@
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=%2F&security=none&encryption=none&host=my.zivorae.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:39.02ms
-vless://40f5634b-e552-49aa-a2d3-5c20bd88059d@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.97ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.97ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.69ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:44.86ms
-vless://621a1818-ccbc-4203-aca9-af379b4d2ab4@arvancloud.ir:8080?type=ws&encryption=none&path=%2F&host=health.xrevenant.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.52ms
-vless://a6a57835-a142-4ad1-8178-a73ae046a5c5@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.06ms
-vless://d7adfbc7-9a40-4eb1-8bb7-a432dbb9fa27@snapp.ir:8880?path=%2Fw&security=none&encryption=none&host=p.mofidserver.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.69ms
-vless://dad1f560-fb08-43a8-af8f-f1deb303f2ed@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.97ms
-vless://ea9cea52-89c6-4943-b744-b93791d19a06@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.01ms
-vless://f116782d-00f5-4068-a422-99eaa058e5b8@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.97ms
+vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?encryption=none&type=ws&path=%2F&host=my.zivorae.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:34.49ms
+vless://19c1104a-077c-4008-8df1-15c8fd488330@s2.tehranionliine.ir:80?type=ws&path=/&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:135.11ms
+vless://7d8212ef-d86b-4f75-9ab9-1f2bdb4e9f41@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=https://t.me/drvpn7#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.41ms
+vless://907e392a-9f2d-4356-8968-5ffe46c8c340@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:105.85ms
+vless://ea9cea52-89c6-4943-b744-b93791d19a06@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.44ms

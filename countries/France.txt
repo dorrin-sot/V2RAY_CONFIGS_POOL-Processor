@@ -1,0 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#📡🇫🇷®️France©️Paris🅿️ping:57.1ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇫🇷®️France©️Paris🅿️ping:53.89ms

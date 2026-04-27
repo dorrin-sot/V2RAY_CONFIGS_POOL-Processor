@@ -1,1 +1,3 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:76.54ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Basingstoke🅿️ping:56.92ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.227:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:54.34ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.73:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:54.21ms

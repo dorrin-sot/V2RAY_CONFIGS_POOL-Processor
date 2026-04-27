@@ -1,3 +1,3 @@
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv18.datatowers.net:64534?fp=qq#📡🇹🇷®️Turkey©️Ankara🅿️ping:118.04ms
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv18.datatowers.net:64534?fp=qq#📡🇹🇷®️Turkey©️Ankara🅿️ping:131.91ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#📡🇹🇷®️Turkey©️Osmangazi🅿️ping:63.09ms
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.238:2083?security=reality&type=grpc&mode=gun&serviceName=UpdateService&sni=apple.com&fp=qq&sid=6da16b1335651b38&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&encryption=none#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:99.43ms
+vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@mouse2.1lil1.de:443?security=reality&type=tcp&sni=www.stackoverflow.com&fp=firefox&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:101ms
+vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@mouse2.1lil1.de:443?security=reality&type=tcp&sni=www.stackoverflow.com&fp=firefox&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:99.43ms

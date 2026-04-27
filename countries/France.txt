@@ -1,2 +1,8 @@
+trojan://telegram-id-directvpn@13.38.248.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:47.22ms
+trojan://telegram-id-directvpn@13.38.248.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:49.54ms
+trojan://telegram-id-privatevpns@13.38.248.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:43.69ms
+trojan://telegram-id-privatevpns@13.38.248.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:50.02ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.248.91:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:44.65ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.248.91:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:46.3ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#📡🇫🇷®️France©️Paris🅿️ping:57.1ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇫🇷®️France©️Paris🅿️ping:53.89ms

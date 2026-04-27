@@ -1,2 +1,0 @@
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@avstrianoda.normbot.ru:443?security=reality&type=tcp&sni=avstrianoda.normbot.ru&fp=qq&flow=xtls-rprx-vision&sid=6aa2d2e950441a9a&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&encryption=none#📡🇦🇹®️Austria©️Vienna🅿️ping:65.82ms
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@avstrianoda.normbot.ru:443?security=reality&type=tcp&sni=avstrianoda.normbot.ru&fp=qq&flow=xtls-rprx-vision&sid=6aa2d2e950441a9a&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&encryption=none#📡🇦🇹®️Austria©️Vienna🅿️ping:69ms

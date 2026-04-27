@@ -1,1 +1,2 @@
-vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=/sequre/grpc/&fp=chrome&security=tls#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:67.36ms
+trojan://1234567890@138.124.28.173:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.4ms
+trojan://1234567890@138.124.28.173:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇵🇱®️Poland©️Warsaw🅿️ping:37.4ms

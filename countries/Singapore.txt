@@ -1,1 +1,1 @@
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:222.17ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.229.121.78:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇸🇬®️Singapore©️Singapore🅿️ping:263.43ms

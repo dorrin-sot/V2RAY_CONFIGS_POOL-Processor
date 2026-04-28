@@ -1,4 +1,3 @@
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.08ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.19ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.24ms
-vless://e40b4a6b-9bf1-49c5-8768-e79359aafbc8@arvancloud.ir:80?encryption=none&type=ws&path=%2F&host=parmin20.passer01.ir#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.08ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@104.238.167.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=889dad4baac2436f&sni=www.zalando.de&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.6ms
+vless://82b5b465-3307-4a25-acef-abd1649bbedf@se1.samovargate.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&security=reality&sid=f04729f65b9ea261&sni=www.microsoft.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:78.31ms
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.77ms

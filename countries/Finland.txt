@@ -1,0 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQcEdEMFhYYVF0Zm5QWGhub3I1VTBVc3FlVThDZ2JYaA==@138.124.118.94:8080#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.65ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQcEdEMFhYYVF0Zm5QWGhub3I1VTBVc3FlVThDZ2JYaA==@138.124.118.94:8080#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.93ms
+vless://0d82de91-be9c-4800-b31a-b6dc173f983f@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.95ms
+vless://0d82de91-be9c-4800-b31a-b6dc173f983f@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#📡🇫🇮®️Finland©️Helsinki🅿️ping:30.08ms

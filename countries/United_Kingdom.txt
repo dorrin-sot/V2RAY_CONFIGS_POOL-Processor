@@ -1,5 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#📡🇬🇧®️United Kingdom©️Felixstowe🅿️ping:48.22ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:49.64ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.145.63.59:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:44.52ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.145.63.59:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:48.86ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.73:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:49.15ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.176.239.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Folkestone🅿️ping:57.04ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.176.239.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Folkestone🅿️ping:58.03ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.54.161.101:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:45.66ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.54.161.101:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:48.93ms

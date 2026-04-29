@@ -1,2 +1,0 @@
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:328.95ms
-vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#📡🇯🇵®️Japan©️Shibuya City🅿️ping:290.13ms

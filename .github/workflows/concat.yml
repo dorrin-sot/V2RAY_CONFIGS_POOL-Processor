@@ -48,4 +48,4 @@ jobs:
           git push origin main
 
       - name: Sleep?
-        run: sleep
+        run: sleep infinity

@@ -1,8 +1,1 @@
-vless://Telegram-Parsashonam@blog.helm.sh:443?encryption=none&security=tls&sni=blog.helm.sh&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=client1033-1gb.netlify.app&path=%2Fp4r34m&mode=auto#📡🇨🇦®️Canada©️Montreal🅿️ping:67.69ms
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.61:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.33ms
-vless://a8eb76c0-d100-42a6-87c0-53b107603e72@snapp.ir:2086?type=ws&path=%2F&host=connect.pardisvps.ir&encryption=none#📡🇨🇦®️Canada©️Toronto🅿️ping:41.03ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#📡🇨🇦®️Canada©️Toronto🅿️ping:95.52ms
-vless://bfa614c0-f3b5-4a1f-b304-edbb5ec6451f@snapp.ir:80?encryption=none&type=ws&host=fbi.mj-netplus.ir&path=/&security=none#📡🇨🇦®️Canada©️Toronto🅿️ping:73.53ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=%2Fassets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:73.53ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=%2Fassets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:82.72ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=/assets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:82.72ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.25ms

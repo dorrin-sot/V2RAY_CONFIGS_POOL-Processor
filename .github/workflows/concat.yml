@@ -46,6 +46,3 @@ jobs:
           git commit -m "Update concatenated V2Ray configs" || echo "No changes to commit"
           git remote set-url origin https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/dorrin-sot/V2RAY_CONFIGS_POOL-Processor.git
           git push origin main
-
-      - name: Sleep?
-        run: sleep infinity

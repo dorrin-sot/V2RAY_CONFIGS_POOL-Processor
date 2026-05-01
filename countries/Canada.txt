@@ -1,4 +1,8 @@
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/#📡🇨🇦®️Canada©️Toronto🅿️ping:56.03ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:54.29ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2&security=tls&sni=sni.111000.dynv6.net#📡🇨🇦®️Canada©️Toronto🅿️ping:54.45ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#📡🇨🇦®️Canada©️Toronto🅿️ping:51.3ms
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A744...&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&allowinsecure=1&type=ws&sni=2026.hhhhh.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:44.83ms
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A744...&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&allowinsecure=1&type=ws&sni=2026.hhhhh.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:45.0ms
+vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?allowInsecure=1&encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.15ms
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&host=snippet.danfeng.rr.kg&fp=chrome&type=ws&sni=snippet.danfeng.rr.kg#📡🇨🇦®️Canada©️Toronto🅿️ping:44.76ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:44.96ms
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#📡🇨🇦®️Canada©️Toronto🅿️ping:42.68ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:42.99ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?path=/?Telegram🇨🇳#📡🇨🇦®️Canada©️Toronto🅿️ping:45.39ms

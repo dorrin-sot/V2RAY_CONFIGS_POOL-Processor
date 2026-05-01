@@ -1,1 +1,5 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@8.222.85.166:443?allowInsecure=1&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:281.52ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.63ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.54ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:259.63ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:327.2ms
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#📡🇯🇵®️Japan©️Shibuya City🅿️ping:263.41ms

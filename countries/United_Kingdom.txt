@@ -1,4 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:45.2ms
-trojan://8r%3C%5B9%27l6hAO%238ZQi@193.219.99.159:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:40.26ms
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@2.26.21.32:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&security=reality&sid=c6118398&sni=gateway.icloud.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:142.77ms
-vless://ec131d46-da6a-4080-b37f-5b42aaf9a464@snapp.ir:80?path=%2Findex.html&security=none&encryption=none&host=ert.lamponzizs.ir&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:142.77ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️London (North Acton)🅿️ping:45.48ms

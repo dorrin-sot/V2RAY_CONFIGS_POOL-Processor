@@ -1,0 +1,1 @@
+vless://26524cce-d514-4014-a426-365fb266a14d@8.222.85.166:443?allowInsecure=1&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:281.52ms

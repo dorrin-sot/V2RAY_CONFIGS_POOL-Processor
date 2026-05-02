@@ -1,0 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇰🇷®️South Korea©️Yangcheondong🅿️ping:282.51ms
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇰🇷®️South Korea©️Yangcheondong🅿️ping:282.51ms

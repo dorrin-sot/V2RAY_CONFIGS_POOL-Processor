@@ -1,5 +1,0 @@
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.54ms
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#📡🇹🇷®️Turkey©️Istanbul🅿️ping:59.21ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&security=reality&sid=d4356669ea880400&sni=store.steampowered.com&type=tcp#📡🇹🇷®️Turkey©️Izmir🅿️ping:64.06ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#📡🇹🇷®️Turkey©️Osmangazi🅿️ping:60.39ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.54ms

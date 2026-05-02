@@ -1,3 +1,0 @@
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:38.13ms
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&alpn=http%2F1.1%2Ch2&allowInsecure=1&fp=chrome#📡🇮🇹®️Italy©️Rome🅿️ping:37.74ms
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&fp=chrome#📡🇮🇹®️Italy©️Rome🅿️ping:68.39ms

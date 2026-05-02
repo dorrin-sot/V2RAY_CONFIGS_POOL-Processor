@@ -1,1 +1,2 @@
-vless://bafacd98-136a-4530-838d-4e5c51838dac@139.59.107.148:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Fad%2Fjuzibaipiao%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:188.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cHVZYVliYTkxRHlfbmhqUG5PbE1R@172.236.150.119:51515#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:178.76ms
+vless://26524cce-d514-4014-a426-365fb266a14d@168.138.165.174:443?&security=tls&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:198.49ms

@@ -1,5 +1,4 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&host=snippet.danfeng.rr.kg&fp=chrome&type=ws&sni=snippet.danfeng.rr.kg#📡🇨🇦®️Canada©️Toronto🅿️ping:45.01ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.163:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:42.76ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.163:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:42.96ms
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&alpn=http%2F1.1&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#📡🇨🇦®️Canada©️Toronto🅿️ping:37.72ms
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&alpn=http%2F1.1&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#📡🇨🇦®️Canada©️Toronto🅿️ping:44.02ms
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#📡🇨🇦®️Canada©️Toronto🅿️ping:42.77ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:42.79ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.4.130:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.09ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:42.41ms

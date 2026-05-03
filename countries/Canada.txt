@@ -1,6 +1,4 @@
-trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#📡🇨🇦®️Canada©️Toronto🅿️ping:42.15ms
-trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#📡🇨🇦®️Canada©️Toronto🅿️ping:45.45ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.9ms
-vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@172.66.44.161:443?allowInsecure=1&encryption=none&host=e1-f55.pages.dev&security=tls&sni=e1-f55.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:44.85ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.47.161:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:42.72ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@162.159.152.188:2087?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.0ms
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#📡🇨🇦®️Canada©️Toronto🅿️ping:42.07ms
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#📡🇨🇦®️Canada©️Toronto🅿️ping:45.41ms
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#📡🇨🇦®️Canada©️Toronto🅿️ping:43.06ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:42.19ms

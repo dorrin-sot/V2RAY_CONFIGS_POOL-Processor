@@ -1,2 +1,10 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#📡🇺🇸®️United States©️Dallas🅿️ping:143.09ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#📡🇺🇸®️United States©️Denver🅿️ping:138.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#📡🇺🇸®️United States©️Chicago🅿️ping:131.94ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#📡🇺🇸®️United States©️Dallas🅿️ping:150.22ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#📡🇺🇸®️United States©️Dallas🅿️ping:154.47ms
+vless://26524cce-d514-4014-a426-365fb266a14d@104.167.196.91:2053?security=tls&type=ws&path=%2Fdanfeng&host=xfxl35a.node-edge.gfw.hidns.co&allowInsecure=1&sni=xfxl35a.node-edge.gfw.hidns.co#📡🇺🇸®️United States©️Miami🅿️ping:133ms
+vless://26524cce-d514-4014-a426-365fb266a14d@104.167.196.91:2053?security=tls&type=ws&path=%2Fdanfeng&host=xfxl35a.node-edge.gfw.hidns.co&allowInsecure=1&sni=xfxl35a.node-edge.gfw.hidns.co#📡🇺🇸®️United States©️Miami🅿️ping:136.18ms
+vless://26524cce-d514-4014-a426-365fb266a14d@217.28.130.84:443?security=tls&type=ws&path=%2Fdanfengfp%3Dchrome&host=xfxl35a.node-edge.gfw.hidns.co&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#📡🇺🇸®️United States©️New York🅿️ping:98ms
+vless://26524cce-d514-4014-a426-365fb266a14d@64.23.137.172:443?security=tls&type=ws&path=%2Fdanfengfp%3Dchrome&host=xfxl35a.node-edge.gfw.hidns.co&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#📡🇺🇸®️United States©️Santa Clara🅿️ping:170.02ms
+vless://26524cce-d514-4014-a426-365fb266a14d@64.23.137.172:443?security=tls&type=ws&path=%2Fdanfengfp%3Dchrome&host=xfxl35a.node-edge.gfw.hidns.co&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#📡🇺🇸®️United States©️Santa Clara🅿️ping:172ms
+vless://57d24033-f998-45c1-b973-16747ea76ce9@69.84.182.13:443?security=tls&type=ws&path=%2Fkbjc%2Fjp1&host=jp1-jp1.aiopen.sbs&sni=jp1-jp1.aiopen.sbs&fp=chrome&encryption=none#📡🇺🇸®️United States©️Boca Raton🅿️ping:44.77ms
+vless://57d24033-f998-45c1-b973-16747ea76ce9@69.84.182.13:443?security=tls&type=ws&path=%2Fkbjc%2Fjp1&host=jp1-jp1.aiopen.sbs&sni=jp1-jp1.aiopen.sbs&fp=chrome&encryption=none#📡🇺🇸®️United States©️Boca Raton🅿️ping:46ms

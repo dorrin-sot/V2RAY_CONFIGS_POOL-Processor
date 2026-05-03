@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.76ms
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443?type=grpc&security=reality&sni=raw.githubusercontent.com&fp=chrome&pbk=GdCtxJAti3DA8oTu9KkFHjCz1yRGGZB_4NZIBuQxc28&sid=abc5168218c8749c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.75ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.64ms

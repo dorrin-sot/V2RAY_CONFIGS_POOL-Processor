@@ -1,6 +1,6 @@
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng@66.94.125.178:80#📡🇺🇸®️United States©️St Louis (Downtown)🅿️ping:174.16ms
-ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw@154.53.60.197:80#📡🇺🇸®️United States©️Seattle🅿️ping:173.26ms
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw@154.53.60.212:80#📡🇺🇸®️United States©️Seattle🅿️ping:191.6ms
-vless://7d96ea7b-3ebd-4280-841c-51c3d6c210d6@nextjs.org:443?mode=auto&path=%2Fxhttp&security=tls&encryption=none&insecure=0&host=vercel-xhttp-omega-eight.vercel.app&type=xhttp&allowInsecure=0&sni=nextjs.org#📡🇺🇸®️United States©️Cleveland (Downtown)🅿️ping:54.88ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.81:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:46.27ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.81:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:46.46ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.89:2053?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.62ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.89:2053?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.84ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.90:2087?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.65ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.90:2087?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:47.84ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.21:2096?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.29ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.21:2096?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.76ms

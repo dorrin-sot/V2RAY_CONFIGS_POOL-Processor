@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:78.31ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:90.23ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.129.33:443?security=tls&type=ws&host=2-eox.pages.dev&fp=chrome&sni=2-eox.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:89.66ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.129.33:443?security=tls&type=ws&host=2-eox.pages.dev&fp=chrome&sni=2-eox.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.61ms

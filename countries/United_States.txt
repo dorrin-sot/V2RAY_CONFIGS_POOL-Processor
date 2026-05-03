@@ -1,4 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#📡🇺🇸®️United States©️Lincolndale🅿️ping:99.21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#📡🇺🇸®️United States©️Santa Clara🅿️ping:155.21ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.09ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇺🇸®️United States©️Council Bluffs🅿️ping:249.9ms
+ss://Y2hhY2hhMjAtcG9seTEzMDU6RnpuRVRTOERVODBNU3czbnlTM2hRU25V@199.195.254.136:23851#📡🇺🇸®️United States©️Staten Island🅿️ping:95.97ms
+ss://Y2hhY2hhMjAtcG9seTEzMDU6RnpuRVRTOERVODBNU3czbnlTM2hRU25V@199.195.254.136:23851#📡🇺🇸®️United States©️Staten Island🅿️ping:96.77ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#📡🇺🇸®️United States©️New York🅿️ping:103.91ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#📡🇺🇸®️United States©️Denver🅿️ping:138.01ms
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:44.84ms
+vless://c860d7b8-99e8-43f5-89d4-49ad1c2c695b@snapp.ir:80?type=ws&encryption=none&path=/&host=s.softguide.ir&security=none#📡🇺🇸®️United States©️Denver🅿️ping:138.01ms
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0#📡🇺🇸®️United States©️North Bergen🅿️ping:111.22ms
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0#📡🇺🇸®️United States©️North Bergen🅿️ping:111.59ms
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:109.64ms

@@ -1,0 +1,4 @@
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:443?security=tls&type=ws&host=1-5js.pages.dev&fp=chrome&sni=1-5js.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:53ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:443?security=tls&type=ws&host=1-5js.pages.dev&fp=chrome&sni=1-5js.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:54.89ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:8443?security=tls&type=ws&host=2-7fc.pages.dev&fp=chrome&sni=2-7fc.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:53.9ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:8443?security=tls&type=ws&host=2-7fc.pages.dev&fp=chrome&sni=2-7fc.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:54ms

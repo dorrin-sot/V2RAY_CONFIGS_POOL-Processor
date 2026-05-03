@@ -1,0 +1,2 @@
+vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&type=xhttp&security=tls&path=%2Fp4r34m&host=mzze.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#📡🇩🇪®️Germany©️Falkenstein🅿️ping:25.94ms
+vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&type=xhttp&security=tls&path=%2Fp4r34m&host=mzze.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#📡🇩🇪®️Germany©️Falkenstein🅿️ping:26.06ms

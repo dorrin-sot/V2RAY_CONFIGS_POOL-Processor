@@ -1,2 +1,9 @@
-trojan://strong-secret-pass-777@45.12.146.179:4443?security=tls#📡🇫🇮®️Finland©️Helsinki🅿️ping:46.93ms
-vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#📡🇫🇮®️Finland©️Helsinki🅿️ping:22.07ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOG1lUWRWcG1hN0prQ3RzRVVXY1M2Z2llS21GWGlhd0N3Z0ZNY0pxQ1hNcVMyZDlXckdwdWN5bk5haXk2bVVhc2Ria01pUlZESjVCaFNyckF1Z0N1Q0puWHViUkJIZXo@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOG1lUWRWcG1hN0prQ3RzRVVXY1M2Z2llS21GWGlhd0N3Z0ZNY0pxQ1hNcVMyZDlXckdwdWN5bk5haXk2bVVhc2Ria01pUlZESjVCaFNyckF1Z0N1Q0puWHViUkJIZXo@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHFpeXExTDR2S3NUZWdjZ0RkYXNUVW5iQ3Y0QjY2Y3g3dVdKZkh0MjRUaTNyeTlmZ2dtOWM0Smc0aXpqRUNmV1dSbWNOZm9HQ0FSRHk5Q2FDVm11Wmk4b3ZvUERMQ0g@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHFpeXExTDR2S3NUZWdjZ0RkYXNUVW5iQ3Y0QjY2Y3g3dVdKZkh0MjRUaTNyeTlmZ2dtOWM0Smc0aXpqRUNmV1dSbWNOZm9HQ0FSRHk5Q2FDVm11Wmk4b3ZvUERMQ0g@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQm55dUJ4WUZnSkYzUnJRWWlSVlFtaFlGdWZYTUdSMXp3cVI1TUxKQUtwYzNRTDRHRjNpTkM3eTJFM2t2UFFxWXg2ajdwbUNEV0R6dnV6Yk5GTGRyQjdhejdmN3lzM0M@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQm55dUJ4WUZnSkYzUnJRWWlSVlFtaFlGdWZYTUdSMXp3cVI1TUxKQUtwYzNRTDRHRjNpTkM3eTJFM2t2UFFxWXg2ajdwbUNEV0R6dnV6Yk5GTGRyQjdhejdmN3lzM0M@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQm55dUJ4WUZnSkYzUnJRWWlSVlFtaFlGdWZYTUdSMXp3cVI1TUxKQUtwYzNRTDRHRjNpTkM3eTJFM2t2UFFxWXg2ajdwbUNEV0R6dnV6Yk5GTGRyQjdhejdmN3lzM0M@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:63.09ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWEhWWVg2TDVFb2ZWb0ppN1pkQ0F4SmZWTVhIZGoxMmRRUkVrUkNGUU1QY3NyRlhYV3FIeDNXUlVhellaVkM4dlo0N1h0SDVzRGtHbzFyTlpyaTZTV3hobnJ4NUNmVno@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWEhWWVg2TDVFb2ZWb0ppN1pkQ0F4SmZWTVhIZGoxMmRRUkVrUkNGUU1QY3NyRlhYV3FIeDNXUlVhellaVkM4dlo0N1h0SDVzRGtHbzFyTlpyaTZTV3hobnJ4NUNmVno@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.2ms

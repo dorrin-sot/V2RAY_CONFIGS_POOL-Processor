@@ -1,3 +1,1 @@
-vless://3556d424-6456-4799-b2c9-3531b5d779e9@193.233.201.13:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#📡🇷🇺®️Russia©️St Petersburg🅿️ping:78ms
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:78.7ms
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:78ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RUFzb3JiazhUYkNjOUNWQV9yd3hB@89.23.101.65:8388#📡🇷🇺®️Russia©️Vladivostok🅿️ping:51.05ms

@@ -1,3 +1,5 @@
-trojan://telegram-id-directvpn@15.188.230.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:46.63ms
-trojan://telegram-id-privatevpns@15.188.230.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:45.88ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.230.176:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:45.49ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.159.99.137:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3mzvB6oezGe8hhBCVkXs4HIH1nkiPc3QCMurERaB_Ro&security=reality&sid=b87063a35aaa942e&sni=www.cdiscount.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:40.33ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=/vless/&security=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:40.84ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=/vless/&security=none&type=ws#📡🇫🇷®️France©️Roubaix🅿️ping:41.82ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.22:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇫🇷®️France©️Roubaix🅿️ping:43.74ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.60:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇫🇷®️France©️Roubaix🅿️ping:41.82ms

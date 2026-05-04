@@ -1,2 +1,0 @@
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:276.67ms
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Furdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#📡🇸🇬®️Singapore©️Singapore🅿️ping:106.17ms

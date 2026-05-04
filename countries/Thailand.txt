@@ -1,0 +1,7 @@
+trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#📡🇹🇭®️Thailand©️Bangkok🅿️ping:441.17ms
+trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#📡🇹🇭®️Thailand©️Bangkok🅿️ping:332.3ms
+trojan://80a47c4e-33c0-49f1-a5d1-618c35fc9c92@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#📡🇹🇭®️Thailand©️Bangkok🅿️ping:340.68ms
+trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#📡🇹🇭®️Thailand©️Bangkok🅿️ping:441.17ms
+trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#📡🇹🇭®️Thailand©️Bangkok🅿️ping:332.3ms
+trojan://e3f77b93-c8ac-42b6-871a-c565c4b96fd5@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#📡🇹🇭®️Thailand©️Bangkok🅿️ping:340.68ms
+vless://2f7ef484-3403-4032-8ad6-43b44385a5ed@varzesh3.com:80?path=%2Fapps&security=none&encryption=none&host=pro.lezzata.ir&type=ws#📡🇹🇭®️Thailand©️Bangkok🅿️ping:441.17ms

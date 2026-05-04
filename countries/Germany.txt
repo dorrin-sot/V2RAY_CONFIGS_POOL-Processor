@@ -1,8 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3ZXlfOHVYMFRjajBDRzV0UmhmQWtR@92.119.166.33:1080#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3ZXlfOHVYMFRjajBDRzV0UmhmQWtR@92.119.166.33:1080#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.93ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3ZXlfOHVYMFRjajBDRzV0UmhmQWtR@92.119.166.33:1080#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:30.6ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.33ms
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:24.96ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.22.80.22:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.32ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.123:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.77ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:30.6ms
+vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&security=reality&sni=hypixel.net&type=grpc#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:44.34ms

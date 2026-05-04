@@ -1,1 +1,0 @@
-vless://3556d424-6456-4799-b2c9-3531b5d779e9@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#📡🇨🇭®️Switzerland©️Zurich🅿️ping:30.75ms

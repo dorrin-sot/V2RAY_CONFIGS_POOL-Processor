@@ -1,10 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.79ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:39.85ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSzEyN21PQ3U2Q0NpaFFTYVlRdHZx@5.253.59.156:32140#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.26ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43.02ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:54.04ms
-vless://4649d442-74df-47ef-9ac9-881117598d99@nl.rush-server.com:443?type=tcp&security=reality#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:62.67ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:29.93ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.118.52.236:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.28ms
-vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@94.156.117.239:30086?encryption=none&security=none&serviceName=gprc&type=grpc#📡🇳🇱®️The Netherlands©️Meppel🅿️ping:36.3ms
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?type=grpc&security=reality&sni=www.microsoft.com&fp=chrome&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:50.83ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.52ms

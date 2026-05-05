@@ -1,4 +1,4 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:44.81ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:47ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.130:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:45.71ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#📡🇺🇸®️United States©️Kent🅿️ping:147.38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#📡🇺🇸®️United States©️Santa Clara🅿️ping:155.83ms
+trojan://1991@8.35.211.159:2087?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&security=tls#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.03ms
+trojan://humanity@208.103.161.110:443?allowInsecure=1&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#📡🇺🇸®️United States©️San Francisco (Mission San Rafael)🅿️ping:45.43ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:112.3ms

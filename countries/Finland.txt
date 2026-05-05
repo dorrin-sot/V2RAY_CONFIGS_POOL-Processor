@@ -1,0 +1,16 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.53.54.84:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:60.65ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.53.54.84:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:60.67ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.218:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:27.58ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.218:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:51.36ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.218:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:54.48ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@65.21.182.84:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.19ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@65.21.182.84:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.32ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@95.164.55.242:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:26.12ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@95.164.55.242:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:27.94ms
+trojan://8r<[9'l6hAO#📡🇫🇮®️Finland©️Helsinki🅿️ping:47ms
+trojan://8r<[9'l6hAO#📡🇫🇮®️Finland©️Helsinki🅿️ping:86ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560#📡🇫🇮®️Finland©️Helsinki🅿️ping:27.58ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560#📡🇫🇮®️Finland©️Helsinki🅿️ping:27ms
+vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&sid=96#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.19ms
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@45.38.143.216:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#📡🇫🇮®️Finland©️Helsinki🅿️ping:57.23ms
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@45.38.143.216:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#📡🇫🇮®️Finland©️Helsinki🅿️ping:69.91ms

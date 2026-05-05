@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#📡🇨🇦®️Canada©️Toronto🅿️ping:308.54ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:60.51ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@freeyx.cloudflare88.eu.org:443?fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:664.9ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=/assets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:104.99ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#📡🇨🇦®️Canada©️Toronto🅿️ping:284.1ms
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@104.21.55.47:2095?path=%3Fed%3D2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#📡🇨🇦®️Canada©️Toronto🅿️ping:177.52ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.36ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:47.06ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.13.31:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sany.tara132.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sany.tara132.workers.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.13ms

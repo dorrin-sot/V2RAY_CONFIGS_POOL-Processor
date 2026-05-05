@@ -1,3 +1,2 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@23.27.52.79:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250ms
-trojan://8r%3C%5B9%27l6hAO%238ZQi@23.27.52.79:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:255.72ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.245.62.4:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇯🇵®️Japan©️Shibuya City🅿️ping:269.73ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.51ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#📡🇯🇵®️Japan©️Minato🅿️ping:286.71ms

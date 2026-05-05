@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#📡🇨🇳®️China©️Lanzhou (Chengguan District, Lanzhou)🅿️ping:45.18ms
-vless://be473af0-2a23-41d8-9dcf-9532aa65dd33@melllipen.shop:2095?path=%2Fxs&security=&encryption=none&host=melllipen.shop&type=ws#📡🇨🇳®️China©️Lanzhou (Chengguan District, Lanzhou)🅿️ping:45.18ms

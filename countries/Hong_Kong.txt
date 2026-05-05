@@ -1,2 +1,0 @@
-trojan://162534@217.60.248.94:8443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:211.7ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:335.9ms

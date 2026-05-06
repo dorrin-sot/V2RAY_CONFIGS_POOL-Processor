@@ -1,1 +1,2 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.233.232.9:443?encryption=none&fp=chrome&host=3-2h8.pages.dev&security=tls&sni=3-2h8.pages.dev&type=ws#📡🇦🇹®️Austria©️Vienna🅿️ping:36.02ms
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@50.7.113.162:443?encryption=none&fp=&pbk=6_rpeumu-IKDzYPxNBgBJ0NT9ReeApZMLguTppqTs1Q&security=reality&sni=steamcommunity.com&type=grpc#📡🇦🇹®️Austria©️Vienna🅿️ping:35.51ms
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=%2F&security=none&type=ws#📡🇦🇹®️Austria©️Vienna (Floridsdorf)🅿️ping:45.93ms

@@ -1,6 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.233.56:443#📡🇬🇧®️United Kingdom©️London🅿️ping:39.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:151.76ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.62.25.163:443?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇬🇧®️United Kingdom©️Slough🅿️ping:45.07ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:36.77ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.225:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:36.84ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Ashtead🅿️ping:39.67ms
+trojan://8r<[9'l6hAO#📡🇬🇧®️United Kingdom©️Bakewell🅿️ping:41ms

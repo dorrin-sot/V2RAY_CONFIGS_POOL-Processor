@@ -1,7 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#📡🇺🇸®️United States©️Dallas🅿️ping:130.66ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.02ms
-vless://5a0cc3c8-787c-472b-9c64-75072da41a6d@react.dev:443?mode=auto&path=%2Fv1%2Fvideo&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=lovr-gaamole.digielipan.store&fp=randomized&type=xhttp&allowInsecure=0&sni=react.dev#📡🇺🇸®️United States©️Walnut (Valle Lindo)🅿️ping:60.87ms
-vless://5a0cc3c8-787c-472b-9c64-75072da41a6d@react.dev:443?mode=auto&path=%2Fv1%2Fvideo&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=lovr-gaamole.digielipan.store&fp=randomized&type=xhttp&allowInsecure=0&sni=react.dev#📡🇺🇸®️United States©️Walnut🅿️ping:62.63ms
-vless://5a0cc3c8-787c-472b-9c64-75072da41a6d@react.dev:443?mode=auto&path=/v1/video&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=lovr-gaamole.digielipan.store&fp=randomized&type=xhttp&allowInsecure=0&sni=react.dev#📡🇺🇸®️United States©️Walnut (Valle Lindo)🅿️ping:60.87ms
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#📡🇺🇸®️United States©️San Francisco (South of Market)🅿️ping:44.98ms
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@franklinandwillow.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:89.96ms
+trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️North Bergen🅿️ping:119ms
+trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:172ms
+trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:173ms
+trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:174ms
+trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:175ms

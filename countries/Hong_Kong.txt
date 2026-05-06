@@ -1,2 +1,0 @@
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:242.79ms
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:290ms

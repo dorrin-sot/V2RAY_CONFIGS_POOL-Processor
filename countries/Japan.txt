@@ -1,2 +1,0 @@
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#📡🇯🇵®️Japan©️Shibuya City🅿️ping:286.36ms
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#📡🇯🇵®️Japan©️Shibuya City🅿️ping:290ms

@@ -1,2 +1,0 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@5.45.122.10:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#📡🇪🇪®️Estonia©️Jõhvi🅿️ping:62ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@109.206.241.125:443?encryption=none&security=tls&sni=3-93f.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=3-93f.pages.dev&path=%2F#📡🇪🇪®️Estonia©️Tallinn🅿️ping:56ms

@@ -1,5 +1,8 @@
-trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️North Bergen🅿️ping:119ms
-trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:172ms
-trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:173ms
-trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:174ms
-trojan://8r<[9'l6hAO#📡🇺🇸®️United States©️Santa Clara🅿️ping:175ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#📡🇺🇸®️United States©️Dallas🅿️ping:136.71ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#📡🇺🇸®️United States©️Ashburn🅿️ping:106.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#📡🇺🇸®️United States©️Santa Clara🅿️ping:156.22ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#📡🇺🇸®️United States©️Phoenix🅿️ping:166.23ms
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#📡🇺🇸®️United States©️Roma🅿️ping:45.56ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:109.01ms
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.44.235:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:111.02ms
+vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@82.38.63.246:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#📡🇺🇸®️United States©️Roma🅿️ping:45.56ms

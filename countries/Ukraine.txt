@@ -1,1 +1,0 @@
-vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&sid=96#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:30.18ms

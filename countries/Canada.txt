@@ -1,9 +1,12 @@
-trojan://1111@173.245.59.64:2083?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:42.19ms
-trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?sni=CVFgTrE4.222560.XyZ&peer=CVFgTrE4.222560.XyZ&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:44.12ms
-trojan://IhLV5UtHu0@www.visa.com.sg:2087?sni=welfare-2.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-2.yycx.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:76ms
-trojan://IhLV5UtHu0@www.visa.com.sg:2087?sni=welfare-2.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-2.yycx.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:86.46ms
-trojan://Mojtaba-shieldheart@104.16.211.9:8443?sni=broken-bread-6ba6.shieldheart4.workers.dev&peer=broken-bread-6ba6.shieldheart4.workers.dev&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:41.83ms
-trojan://NsRNdbS7x2@www.visa.com.sg:2087?sni=welfare-1.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-1.yycx.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:76ms
-trojan://NsRNdbS7x2@www.visa.com.sg:2087?sni=welfare-1.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-1.yycx.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:86.46ms
-trojan://dVdxnSY23c@www.visa.com.sg:2087?sni=welfare-3.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-3.yycx.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:86.46ms
-vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@104.18.26.90:2087?security=tls&encryption=none&insecure=0&host=aza002.vaslbash.site&type=ws&allowInsecure=0&sni=aza002.vaslbash.site#📡🇨🇦®️Canada©️Toronto🅿️ping:43.17ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:43.8ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:41.58ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:43.65ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#📡🇨🇦®️Canada©️Toronto🅿️ping:42.91ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.93ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:46.12ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:43.52ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:42.36ms
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#📡🇨🇦®️Canada©️Toronto🅿️ping:38.26ms
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#📡🇨🇦®️Canada©️Toronto🅿️ping:42.36ms
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&alpn=http%2F1.1&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#📡🇨🇦®️Canada©️Toronto🅿️ping:38.26ms
+vless://db487de4-7e8f-4b3b-b5e8-1e7337ea7954@172.64.152.23:443?type=ws&amp;encryption=none&amp;path=%2F%40asrnovin_ir&amp;host=asrnovin.8par.site&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=asrnovin.8par.site#📡🇨🇦®️Canada©️Toronto🅿️ping:45.05ms

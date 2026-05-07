@@ -1,2 +1,6 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:261.67ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:261.67ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:265.21ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:265.21ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?allowInsecure=1&sni=ewgruiehoe.pages.dev&type=ws&host=ewgruiehoe.pages.dev&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Koto-ku (Tōyō)🅿️ping:286.13ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.170.95:443?&security=tls&fp=chrome&sni=gogo7.kmj.qzz.io&type=ws&headerType=none&host=gogo7.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:252.56ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.197.79:443?&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&type=ws&headerType=none&host=gogo8.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:260.42ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@57.182.243.203:443?&security=tls&fp=chrome&sni=gogo4.kmj.qzz.io&type=ws&headerType=none&host=gogo4.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:269.42ms

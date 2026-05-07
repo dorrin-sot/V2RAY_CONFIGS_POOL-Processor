@@ -1,0 +1,1 @@
+vless://cf5718f5-c0f3-4b63-8fbf-1de69c1299c5@90.156.218.67:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun2-11.userapi.com&fp=chrome&security=reality&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=#📡🇷🇺®️Russia©️Moscow🅿️ping:40.93ms

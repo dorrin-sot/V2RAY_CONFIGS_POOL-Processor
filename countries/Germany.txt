@@ -1,0 +1,3 @@
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:25.05ms
+vless://7bb17026-87d7-4792-b595-a91d78a14332@v7.madussgameshop.com:80?type=ws&encryption=none&path=/&host=v7.madussgameshop.com&security=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:23.5ms
+vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@153.76.112.172:7443?type=tcp&security=reality&sni=chat.deepseek.com&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:23.5ms

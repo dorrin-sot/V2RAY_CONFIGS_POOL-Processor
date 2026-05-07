@@ -1,9 +1,0 @@
-trojan://bpb-trojan@www.speedtest.net:443?sni=10-bpb-wORkER-paNel.pAGEs.DeV&peer=10-bpb-wORkER-paNel.pAGEs.DeV&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:78.52ms
-trojan://bpb-trojan@www.speedtest.net:443?sni=10-bpb-wORkER-paNel.pAGEs.DeV&peer=10-bpb-wORkER-paNel.pAGEs.DeV&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:80.53ms
-trojan://humanity@104.21.40.34:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:38.58ms
-trojan://humanity@104.21.40.34:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:43.34ms
-trojan://humanity@172.67.180.92:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:35.44ms
-trojan://humanity@172.67.180.92:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:44.08ms
-vless://6e3046df-37d2-40e2-af24-281ec3a6ec9f@188.114.98.0:443?mode=auto&path=%2FSoonTeam&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xso.u3er1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=xso.u3er1.ir#📡🇨🇦®️Canada©️Toronto🅿️ping:36.71ms
-vless://6e3046df-37d2-40e2-af24-281ec3a6ec9f@188.114.98.0:443?mode=auto&path=%2FSoonTeam&security=tls&alpn=h2%2Chtt…#📡🇨🇦®️Canada©️Toronto🅿️ping:36.71ms
-vless://cc49ff13-bb0d-476e-ae08-41dfd79a9d37@188.114.98.0:80?encryption=none&type=ws&host=cdn2095.dgclix.ir&path=/&security=none#📡🇨🇦®️Canada©️Toronto🅿️ping:41.27ms

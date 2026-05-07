@@ -1,1 +1,2 @@
-vless://0c821f70-e814-40de-98be-4a0758255769@137.220.57.240:48292?security=none&encryption=none&headerType=none&type=tcp#📡🇺🇸®️United States©️Elk Grove Village🅿️ping:113.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#📡🇺🇸®️United States©️Santa Clara🅿️ping:156.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvam9BUTBhQU4tOHRPamdURThVcWRR@45.63.5.74:8388#📡🇺🇸®️United States©️Piscataway🅿️ping:101.87ms

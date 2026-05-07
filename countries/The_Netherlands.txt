@@ -1,6 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.131:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.72ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.134:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.135:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.99ms
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=1&sni=HL-FREEDOM-1.UNDEF.NETWORK#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:71.35ms
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:54.51ms
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:57ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.93ms
+vless://0434e8cc-8ed5-4aec-8327-5bc884684d29@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin10.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin10.8lack.ir#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.93ms

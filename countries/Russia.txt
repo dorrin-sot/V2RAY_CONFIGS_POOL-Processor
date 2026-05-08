@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA@46.17.41.191:60129#📡🇷🇺®️Russia©️Moscow🅿️ping:69.6ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.23:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:33.21ms
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.23:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:33ms

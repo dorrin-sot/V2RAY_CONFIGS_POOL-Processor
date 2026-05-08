@@ -1,1 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:208.6ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:43.04ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:43.16ms

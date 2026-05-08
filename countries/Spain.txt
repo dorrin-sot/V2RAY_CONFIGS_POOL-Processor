@@ -1,0 +1,2 @@
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#📡🇪🇸®️Spain©️Madrid🅿️ping:42ms
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#📡🇪🇸®️Spain©️Madrid🅿️ping:45.1ms

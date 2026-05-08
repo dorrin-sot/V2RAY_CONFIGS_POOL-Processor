@@ -1,4 +1,2 @@
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.21ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇺🇸®️United States©️Wilmington (Mid-town Brandywine)🅿️ping:44.28ms
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#📡🇺🇸®️United States©️North Bergen🅿️ping:113.24ms
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#📡🇺🇸®️United States©️North Bergen🅿️ping:115ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@86.104.72.16:443?security=tls&type=ws&host=3-vud.pages.dev&fp=chrome&sni=3-vud.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️Austin🅿️ping:105.91ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@86.104.72.16:443?security=tls&type=ws&host=3-vud.pages.dev&fp=chrome&sni=3-vud.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️Austin🅿️ping:111ms

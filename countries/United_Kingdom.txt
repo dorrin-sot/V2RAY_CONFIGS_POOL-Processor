@@ -1,2 +1,2 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:35.3ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.121.48.77:443?security=tls&type=ws&host=3-2h8.pages.dev&fp=chrome&sni=3-2h8.pages.dev&path=%2F&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:36.29ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.121.48.77:443?security=tls&type=ws&host=3-2h8.pages.dev&fp=chrome&sni=3-2h8.pages.dev&path=%2F&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:37ms

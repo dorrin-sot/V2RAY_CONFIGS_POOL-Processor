@@ -1,2 +1,2 @@
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:232.92ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:253.98ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.197.79:443?&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&type=ws&headerType=none&host=gogo8.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253.9ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@89.125.244.207:443?security=tls&type=ws&host=2-4jq.pages.dev&fp=chrome&sni=2-4jq.pages.dev&path=%2F&encryption=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:254.82ms

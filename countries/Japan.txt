@@ -1,2 +1,0 @@
-vless://3607844f-78a8-4426-b781-ab627735399f@jp1.d7bb845f-5d62-09fc-d487-aa1331a21675.272a1519.the-best-airport.com:443?type=tcp&encryption=none&host=&path=&security=tls&flow=xtls-rprx-vision&sni=new.download.the-best-airport.com#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:320ms
-vless://3607844f-78a8-4426-b781-ab627735399f@jp2.d7bb845f-5d62-09fc-d487-aa1331a21675.a9b0b718.the-best-airport.com:443?type=tcp&encryption=none&host=&path=&security=tls&flow=xtls-rprx-vision&sni=new.download.the-best-airport.com#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:298ms

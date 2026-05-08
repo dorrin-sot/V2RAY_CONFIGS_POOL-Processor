@@ -1,2 +1,4 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@86.104.72.16:443?security=tls&type=ws&host=3-vud.pages.dev&fp=chrome&sni=3-vud.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️Austin🅿️ping:105.91ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@86.104.72.16:443?security=tls&type=ws&host=3-vud.pages.dev&fp=chrome&sni=3-vud.pages.dev&path=%2F&encryption=none#📡🇺🇸®️United States©️Austin🅿️ping:111ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:45.0ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:111.27ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:47.61ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.74:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:42.94ms

@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:265.21ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:265.21ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?allowInsecure=1&sni=ewgruiehoe.pages.dev&type=ws&host=ewgruiehoe.pages.dev&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Koto-ku (Tōyō)🅿️ping:286.13ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.170.95:443?&security=tls&fp=chrome&sni=gogo7.kmj.qzz.io&type=ws&headerType=none&host=gogo7.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:252.56ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.197.79:443?&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&type=ws&headerType=none&host=gogo8.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:260.42ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@57.182.243.203:443?&security=tls&fp=chrome&sni=gogo4.kmj.qzz.io&type=ws&headerType=none&host=gogo4.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:269.42ms
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:60129#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.94ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:274.48ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:274.48ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:276.56ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@20.18.204.189:443?sni=gogo7.kmj.qzz.io&type=ws&host=gogo7.kmj.qzz.io&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.94ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.197.79:443?&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&type=ws&headerType=none&host=gogo8.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:267.0ms

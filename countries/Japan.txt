@@ -1,6 +1,5 @@
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:60129#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.94ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:274.48ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:274.48ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:276.56ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@20.18.204.189:443?sni=gogo7.kmj.qzz.io&type=ws&host=gogo7.kmj.qzz.io&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.94ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.197.79:443?&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&type=ws&headerType=none&host=gogo8.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:267.0ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:299.63ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:318ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:339ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#📡🇯🇵®️Japan©️Minato🅿️ping:296.78ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.149.114.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#📡🇯🇵®️Japan©️Minato🅿️ping:296.78ms

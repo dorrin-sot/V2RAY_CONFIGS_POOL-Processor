@@ -1,0 +1,1 @@
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@1.161.63.21:443?allowInsecure=0&sni=gogo2.kmj.qzz.io&type=ws&host=gogo2.kmj.qzz.io&path=/flow=-udp443&fp=chrome&security=tls#📡🇹🇼®️Taiwan©️Taipei🅿️ping:313.08ms

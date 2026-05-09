@@ -1,6 +1,0 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.130.149.114:443?#📡🇬🇧®️United Kingdom©️London🅿️ping:35ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#📡🇬🇧®️United Kingdom©️Southport🅿️ping:44.04ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.206:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:36.46ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.24:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.25ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.90:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.64ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.83:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Ashtead🅿️ping:39.27ms

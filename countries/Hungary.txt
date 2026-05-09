@@ -1,1 +1,1 @@
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#📡🇭🇺®️Hungary©️Budapest (District III.)🅿️ping:42.94ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@141.11.203.120:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:42.95ms

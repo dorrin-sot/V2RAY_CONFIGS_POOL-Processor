@@ -1,1 +1,1 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&security=reality&sid=d4356669ea880400&sni=store.steampowered.com&type=tcp#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:60.94ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.cc.cd&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:43.69ms

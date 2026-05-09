@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@13.36.88.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:33.99ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇫🇷®️France©️Paris🅿️ping:43.89ms

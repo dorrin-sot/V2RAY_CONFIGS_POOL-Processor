@@ -1,1 +1,1 @@
-vless://0eab3e6d-7202-40b4-9577-a01ef670a368@138.124.99.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ozon.ru&pbk=DtzDK8MLwfzqwHqvXWJ3IgBdP9IfylggM_RxbyPcjgI&sid=8a9d&spx=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.86ms
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.89ms

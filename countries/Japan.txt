@@ -1,5 +1,0 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:251.52ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:251.89ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:285.92ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@57.182.243.203:443?&security=tls&fp=chrome&sni=gogo4.kmj.qzz.io&type=ws&headerType=none&host=gogo4.kmj.qzz.io&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:271.99ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:254.64ms

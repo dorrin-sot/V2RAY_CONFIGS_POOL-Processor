@@ -1,5 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#📡🇺🇸®️United States©️Elk Grove Village🅿️ping:120.31ms
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.31:2096?allowInsecure=1&encryption=none&fp=chrome&host=tristandeng.cc.cd&path=%2F&security=tls&sni=tristandeng.cc.cd&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.09ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇺🇸®️United States©️Wilmington (Mid-town Brandywine)🅿️ping:44.36ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇺🇸®️United States©️Kent🅿️ping:143.48ms
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@82.38.63.246:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#📡🇺🇸®️United States©️Roma🅿️ping:44.43ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#📡🇺🇸®️United States©️Dallas🅿️ping:157.27ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:104.15ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:45.73ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:112.11ms
+vless://57f6b3fc-c103-42f8-baad-d23c3ee9180a@Snapp.ir:80?path=%2F&security=none&encryption=none&host=down.speedtell.ir&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:45.73ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Atlanta🅿️ping:43.2ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:43.98ms

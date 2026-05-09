@@ -1,5 +1,6 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.82.25:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️Slough🅿️ping:38.98ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:38.37ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@185.238.228.54:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:45.19ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@91.193.58.1:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:46.01ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@91.193.59.237:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:42.92ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.130.149.114:443?#📡🇬🇧®️United Kingdom©️London🅿️ping:35ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#📡🇬🇧®️United Kingdom©️Southport🅿️ping:44.04ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.206:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:36.46ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.24:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.25ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.90:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.64ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.83:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇬🇧®️United Kingdom©️Ashtead🅿️ping:39.27ms

@@ -1,6 +1,5 @@
-trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#📡🇨🇦®️Canada©️Toronto🅿️ping:42.1ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.4.130:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:48.87ms
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#📡🇨🇦®️Canada©️Toronto (Old Toronto)🅿️ping:91.06ms
-vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?path=%2F%3Fed&security=none&encryption=none&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.04ms
-vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?path=%2F%3Fed&security=none&encryption=none&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.53ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.19.46.52:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.53ms
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#📡🇨🇦®️Canada©️Toronto🅿️ping:41.99ms
+vless://TIGNAL@blog.helm.sh:443/?type=tcp&encryption=none&flow=&security=tls&sni=blog.helm.sh&alpn=h2%2Chttp%2F1.1#📡🇨🇦®️Canada©️Montreal🅿️ping:68.04ms
+vless://TIGNAL@blog.helm.sh:443/?type=tcp&encryption=none&flow=&security=tls&sni=blog.helm.sh&alpn=h2%2Chttp%2F1.1#📡🇨🇦®️Canada©️Montreal🅿️ping:72.36ms
+vless://TIGNAL@kubernetes.io:443/?type=tcp&encryption=none&flow=&security=tls&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1#📡🇨🇦®️Canada©️Montreal🅿️ping:54.0ms
+vless://TIGNAL@kubernetes.io:443/?type=tcp&encryption=none&flow=&security=tls&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1#📡🇨🇦®️Canada©️Montreal🅿️ping:54.97ms

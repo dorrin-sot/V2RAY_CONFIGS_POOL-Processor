@@ -1,1 +1,1 @@
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:60.38ms
+vless://0eab3e6d-7202-40b4-9577-a01ef670a368@138.124.99.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ozon.ru&pbk=DtzDK8MLwfzqwHqvXWJ3IgBdP9IfylggM_RxbyPcjgI&sid=8a9d&spx=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.86ms

@@ -1,6 +1,0 @@
-vless://0e00a082-b093-467d-b0a4-ec7b17e89f6d@nord.ashen.cfd:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=m.youtube.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.85ms
-vless://0e00a082-b093-467d-b0a4-ec7b17e89f6d@nord.ashen.cfd:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=t.me#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.85ms
-vless://0e00a082-b093-467d-b0a4-ec7b17e89f6d@nord.ashen.cfd:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=teams.microsoft.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.85ms
-vless://0e00a082-b093-467d-b0a4-ec7b17e89f6d@nord.ashen.cfd:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=www.googleapis.cn#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.85ms
-vless://0e00a082-b093-467d-b0a4-ec7b17e89f6d@nord.ashen.cfd:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=www.tiktok.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.85ms
-vless://0e00a082-b093-467d-b0a4-ec7b17e89f6d@nord.ashen.cfd:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=zoom.us#📡🇸🇬®️Singapore©️Singapore🅿️ping:230.85ms

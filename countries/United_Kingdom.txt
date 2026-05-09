@@ -1,2 +1,2 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36.67ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.142.165:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️Slough🅿️ping:43.14ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:45.27ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.142:443?encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:47.59ms

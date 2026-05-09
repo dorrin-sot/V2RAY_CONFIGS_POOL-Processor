@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.13ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#📡🇩🇪®️Germany©️Herdecke🅿️ping:25.92ms
-vless://dfdd43f0-4bcd-49ee-dbb2-99e0a9973679@185.143.235.200:80?path=%2F&security=none&encryption=none&host=auio-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#📡🇩🇪®️Germany©️Herdecke🅿️ping:25.92ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.29:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.7ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:46.01ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.247.186.199:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.82ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:42.42ms

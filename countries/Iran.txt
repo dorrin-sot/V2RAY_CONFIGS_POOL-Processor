@@ -1,9 +1,0 @@
-vless://33bc377e-ea6f-4eb5-a1d1-b00010336fd5@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=M1.snllshop.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.46ms
-vless://4de0a7e0-f1c7-4c70-95d0-2b2435fb52a2@snapp.ir:80/?type=ws&encryption=none&flow=&host=1.jojo.avenflow.ir&path=%2F%3Fed%3D2080#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.57ms
-vless://4de0a7e0-f1c7-4c70-95d0-2b2435fb52a2@snapp.ir:80/?type=ws&encryption=none&flow=&host=1.jojo.avenflow.ir&path=/?ed=2080#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.57ms
-vless://4de0a7e0-f1c7-4c70-95d0-2b2435fb52a2@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.57ms
-vless://4de0a7e0-f1c7-4c70-95d0-2b2435fb52a2@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:97.48ms
-vless://7cd11ffb-1ebe-4ec8-ae1d-08b36f17e87d@185.143.233.200:2086?path=%2F&security=none&encryption=none&host=nima.hayalco.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:37.78ms
-vless://7cd11ffb-1ebe-4ec8-ae1d-08b36f17e87d@185.143.233.200:2086?path=%2F&security=none&encryption=none&host=nima.hayalco.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:42.88ms
-vless://8bc2a1ac-66a1-46d1-9f77-7bd66bd7d73c@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:97.48ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@38.244.31.27:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.57ms

@@ -1,2 +1,2 @@
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@195.85.23.107:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇨🇿®️Czechia©️Prague🅿️ping:43ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@195.85.23.107:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇨🇿®️Czechia©️Prague🅿️ping:45.35ms
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#📡🇨🇿®️Czechia©️Veselí nad Lužnicí🅿️ping:39.5ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@195.85.23.107:443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#📡🇨🇿®️Czechia©️Prague🅿️ping:46.64ms

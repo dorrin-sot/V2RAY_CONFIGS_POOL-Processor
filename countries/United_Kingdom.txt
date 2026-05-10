@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:51.46ms
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?flow=&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#📡🇬🇧®️United Kingdom©️Slough🅿️ping:46.04ms
-vless://fee4dd67-a4ed-446d-add2-3615d1c8d40d@SnaPp.ir:2082?path=/&security=none&encryption=none&host=Mamad.mobilesubasa.com&type=ws#📡🇬🇧®️United Kingdom©️Slough🅿️ping:46.04ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:99.23ms
+vless://8ff0547b-5e12-4c3d-ac93-e5984cc01547@snapp.ir:80?path=/&security=&encryption=none&host=striker.starferi.ir&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:99.23ms

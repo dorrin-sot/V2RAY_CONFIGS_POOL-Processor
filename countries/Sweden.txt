@@ -1,1 +1,1 @@
-vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?type=tcp&security=reality&sni=readthedocs.org&fp=chrome&flow=xtls-rprx-vision&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&sid=a1590469acbe31#📡🇸🇪®️Sweden©️Spånga🅿️ping:48.08ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#📡🇸🇪®️Sweden©️Spånga🅿️ping:24.05ms

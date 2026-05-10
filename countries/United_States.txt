@@ -1,19 +1,4 @@
-ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:443#📡🇺🇸®️United States©️Seattle🅿️ping:165.73ms
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@54.196.98.148:80#📡🇺🇸®️United States©️Ashburn🅿️ping:121.53ms
-trojan://IcmHM26RLwKqSGSBYAOHfw@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#📡🇺🇸®️United States©️Los Angeles🅿️ping:165.23ms
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#📡🇺🇸®️United States©️Ashburn🅿️ping:110.89ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:124.91ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:109.29ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:124.91ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.89ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.96ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.89ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇺🇸®️United States©️Council Bluffs🅿️ping:246.75ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#📡🇺🇸®️United States©️Council Bluffs🅿️ping:246.75ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#📡🇺🇸®️United States©️Council Bluffs🅿️ping:248.41ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@38.244.31.27:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇺🇸®️United States©️Los Angeles🅿️ping:162.83ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#📡🇺🇸®️United States©️Kent🅿️ping:149.9ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇺🇸®️United States©️Kent🅿️ping:149.9ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#📡🇺🇸®️United States©️Kent🅿️ping:149.9ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@69.164.245.25:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇺🇸®️United States©️New York🅿️ping:101.73ms
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:110.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#📡🇺🇸®️United States©️Dallas🅿️ping:136.49ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#📡🇺🇸®️United States©️New York🅿️ping:105.69ms
+trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#📡🇺🇸®️United States©️Dallas🅿️ping:136.49ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.207:2087?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:45.77ms

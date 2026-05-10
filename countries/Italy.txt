@@ -1,5 +1,0 @@
-vless://71ddb413-7686-4372-aebc-e8c9b65e90cd@snapp.ir:80?path=%2F&security=none&encryption=none&host=badboybi2.yeksancloud.ir&type=ws#📡🇮🇹®️Italy©️Siziano🅿️ping:45.92ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:45.92ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:45.92ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:47.56ms
-vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443?encryption=none&security=none&type=tcp#📡🇮🇹®️Italy©️Milan🅿️ping:53.36ms

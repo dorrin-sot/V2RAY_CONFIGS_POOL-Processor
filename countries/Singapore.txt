@@ -1,2 +1,1 @@
-vless://4e79b72b-434a-4ae9-9169-ef3170ebf94a@shadownetxfree.zorox.store:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=telegram.us&fp=chrome&headerType=none&alpn=h2,http/1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:303.45ms
-vless://58a0cf9e-14b1-452c-b888-1397ca746f76@shadownetxfree.zorox.store:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=zoom.us&fp=chrome&headerType=none&alpn=h2,http/1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:303.45ms
+vless://ae2244bc-902b-45cc-b2ac-773c49049b9c@shadownetxfree.zorox.store:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=web.facebook.com&fp=chrome&headerType=none&alpn=h2,http/1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:230.68ms

@@ -1,7 +1,1 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:262.22ms
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:249.47ms
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:313.57ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:294.57ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#📡🇯🇵®️Japan©️Minato🅿️ping:292.91ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:266.1ms
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.co.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#📡🇯🇵®️Japan©️Chiyoda🅿️ping:272.65ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:252.79ms

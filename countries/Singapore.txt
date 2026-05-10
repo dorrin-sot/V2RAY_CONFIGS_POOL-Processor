@@ -1,1 +1,0 @@
-vless://ae2244bc-902b-45cc-b2ac-773c49049b9c@shadownetxfree.zorox.store:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=web.facebook.com&fp=chrome&headerType=none&alpn=h2,http/1.1#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:230.68ms

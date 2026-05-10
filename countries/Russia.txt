@@ -1,2 +1,1 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:55.18ms
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.38:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:61.92ms
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#📡🇷🇺®️Russia©️St Petersburg🅿️ping:45.6ms

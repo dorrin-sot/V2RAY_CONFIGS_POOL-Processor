@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#📡🇩🇪®️Germany©️Düsseldorf🅿️ping:144.3ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?type=tcp&security=reality&sni=www.booking.com&flow=xtls-rprx-vision&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&sid=a1b2c3d4e5f67890#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:23.48ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=fp=chrome&security=tls#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.43ms
+trojan://telegram-id-privatevpns@52.58.203.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.28ms

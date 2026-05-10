@@ -1,1 +1,2 @@
-vless://97575979-0e0c-46cd-8d40-4ca8572ab364@185.243.240.111:443?encryption=none&security=tls&sni=scqr.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=godotengine.org%2Budp%3A%2F%2F149.112.112.112%3A9953&type=ws&host=scqr.pages.dev&path=%2Fshare%2Fthread%3Fed%3D2560#📡🇭🇰®️Hong Kong©️Tseung Kwan O🅿️ping:187ms
+trojan://BxceQaOe@bb.bejkn.cn:11233?allowInsecure=1&sni=t.me%2Fripaojiedian#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:627.86ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.3ms

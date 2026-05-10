@@ -1,3 +1,0 @@
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003?#📡🇯🇵®️Japan©️Shibuya City🅿️ping:269.25ms
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003?#📡🇯🇵®️Japan©️Shibuya City🅿️ping:275ms
-vless://c9a94f26-cef3-4728-bf49-1201b994841a@192.204.34.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apps.apple.com&fp=chrome&pbk=RQ9PEH2tbO673G0Kw0A8s0gD4GIqhMgoLR-2xe5-FCI&type=tcp&headerType=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:275ms

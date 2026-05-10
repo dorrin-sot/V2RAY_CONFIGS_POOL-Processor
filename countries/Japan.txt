@@ -1,1 +1,9 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:252.79ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:289.62ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:300ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:302ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:304ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:307ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s.nodelist-airport.com:53431#📡🇯🇵®️Japan©️Shibuya City🅿️ping:309ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s2.nodelist-airport.com:20002#📡🇯🇵®️Japan©️Shibuya City🅿️ping:290.43ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node1.s2.nodelist-airport.com:20002#📡🇯🇵®️Japan©️Shibuya City🅿️ping:310ms
+ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s2.nodelist-airport.com:20002#📡🇯🇵®️Japan©️Shibuya City🅿️ping:290.43ms

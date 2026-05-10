@@ -1,15 +1,2 @@
-vless://0f95774d-79e4-4b83-9b79-e9db84adb794@Ikco.ir:2082?security=none&type=ws&headerType=&path=/cdn&host=dl5.movizdl.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:106.16ms
-vless://0f95774d-79e4-4b83-9b79-e9db84adb794@jobinja.ir:8080?security=none&type=ws&headerType=&path=%2Fcdn&host=dl4.movizdl.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.74ms
-vless://0f95774d-79e4-4b83-9b79-e9db84adb794@snappfood.ir:8880?security=none&type=ws&headerType=&path=/cdn&host=dl4.movizdl.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.3ms
-vless://4e3f6a5b-acd3-4566-8349-bc71602b99c1@vpnxvpn.nazincup.ir:8080?path=%2Fapi&security=none&encryption=none&host=vpnxvpn.nazincup.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:1110.83ms
-vless://4e3f6a5b-acd3-4566-8349-bc71602b99c1@vpnxvpn.nazincup.ir:8080?path=%2Fapi&security=none&encryption=none&host=vpnxvpn.nazincup.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:130.61ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.15ms
-vless://6b37101e-ff81-4c2c-8df0-4b14c01789db@s20.mrjori.site:80?path=%2Fw0A7arFCWh1n07bLCPY2sRPzhX533Aa&security=none&encryption=none&host=try.serveraf.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:100.1ms
-vless://9fb3b971-748f-49d8-95f7-f5c10aa1aa13@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.17ms
-vless://9fb3b971-748f-49d8-95f7-f5c10aa1aa13@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.98ms
-vless://9fb3b971-748f-49d8-95f7-f5c10aa1aa13@snapp.ir:80?security=none&type=ws&headerType=&path=/?ed=2080&host=1.jojo.avenflow.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.17ms
-vless://a2b89010-b65a-492c-a0a6-5cec15ae5a24@eco.gymplusplus.com:2052?path=%2F&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:1106.93ms
-vless://b7b2d7f3-47b2-4871-9c75-f1b99e148e4e@snapp.ir:8080/?type=ws&encryption=none&path=/&host=db.r6sq.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:68.37ms
-vless://b7b2d7f3-47b2-4871-9c75-f1b99e148e4e@snapp.ir:8080?path=%2F&security=none&encryption=none&host=db.r6sq.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:68.37ms
-vless://b7b2d7f3-47b2-4871-9c75-f1b99e148e4e@snapp.ir:8080?path=%2F&security=none&encryption=none&host=db.r6sq.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.15ms
-vless://fee145fc-d517-4e14-a2d5-9bd2580bb760@snapp.ir:80?path=/&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.17ms
+vless://35371adf-5667-4e73-8b7c-794a742fd82b@digipay.ir:80?type=ws&encryption=none&path=%2F&host=asd.pixserver.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.39ms
+vless://62438d25-5114-4b70-89e1-2b59c3ae3a7a@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.39ms

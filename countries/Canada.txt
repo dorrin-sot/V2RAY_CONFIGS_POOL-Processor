@@ -1,7 +1,8 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#📡🇨🇦®️Canada©️Vancouver🅿️ping:166.66ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.6ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.56ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/%20@ProxyVPN11#📡🇨🇦®️Canada©️Toronto🅿️ping:46.56ms
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:41.67ms
 vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.86ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:76.8ms
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.150.241:443?&security=tls&fp=chrome&sni=juzi.qea.ccwu.cc&type=ws&headerType=none&host=juzi.qea.ccwu.cc&path=%2F#📡🇨🇦®️Canada©️Toronto🅿️ping:43.56ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#📡🇨🇦®️Canada©️Toronto🅿️ping:126.25ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=%2Fassets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:85.83ms

@@ -1,2 +1,1 @@
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:119.15ms
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.74:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:42.07ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:114.22ms

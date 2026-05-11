@@ -1,0 +1,1 @@
+vless://c30c6850-5651-46a6-a4b6-295a59d5cc13@130.49.189.40:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#📡🇦🇱®️Albania©️Tirana🅿️ping:59.48ms

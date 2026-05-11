@@ -1,7 +1,0 @@
-trojan://162534@198.13.37.176:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#📡🇯🇵®️Japan©️Shinagawa🅿️ping:248.04ms
-trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%2Fripaojiedian#📡🇯🇵®️Japan©️Chiyoda🅿️ping:263.29ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:249.76ms
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:234.55ms
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:283.23ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:285.15ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#📡🇯🇵®️Japan©️Minato🅿️ping:284.55ms

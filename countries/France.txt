@@ -1,1 +1,1 @@
-vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4dd1&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224#📡🇫🇷®️France©️Vélizy-Villacoublay🅿️ping:49.27ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇫🇷®️France©️Paris🅿️ping:58.93ms

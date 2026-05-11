@@ -1,1 +1,1 @@
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=none&encryption=none&host=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz&type=ws#📡🇩🇰®️Denmark©️Asperup🅿️ping:47.66ms
+vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#📡🇩🇰®️Denmark©️Taastrup🅿️ping:40.23ms

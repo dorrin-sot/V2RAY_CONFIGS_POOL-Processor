@@ -1,1 +1,10 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#📡🇹🇼®️Taiwan©️Taipei🅿️ping:328.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.87.102:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:313.92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.45.153.188:50099#📡🇹🇼®️Taiwan©️Danshui🅿️ping:318.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.45.153.188:50099#📡🇹🇼®️Taiwan©️Danshui🅿️ping:323.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.132.218:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:315.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.228.140.86:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:314.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.228.140.86:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:320.36ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:310.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.107.101:990#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:297.09ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.107.101:990#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:305.64ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?allowInsecure=0&sni=gogo3.kmj.qzz.io&type=ws&host=gogo3.kmj.qzz.io&path=/fp=chrome&security=tls#📡🇹🇼®️Taiwan©️Taipei🅿️ping:327.13ms

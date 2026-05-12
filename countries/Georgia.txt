@@ -1,2 +1,0 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇬🇪®️Georgia©️Tbilisi🅿️ping:29.57ms
-vless://de3a66c6-d587-4724-8b10-a1a3da47368c@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇬🇪®️Georgia©️Tbilisi🅿️ping:29.57ms

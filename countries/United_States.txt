@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206U003V1l0QXd2Qk9SWEtqSQ@154.53.63.42:443#📡🇺🇸®️United States©️Seattle🅿️ping:164.63ms
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:43.33ms
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:48.69ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️Redwood City🅿️ping:43.18ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.66:443?encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Atlanta🅿️ping:43.03ms
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.31ms
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:46.26ms
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:47.48ms

@@ -1,3 +1,7 @@
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#📡🇨🇦®️Canada©️Toronto🅿️ping:48.47ms
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#📡🇨🇦®️Canada©️Toronto🅿️ping:48.47ms
-vless://a5c04120-8f0d-4d52-8cdd-9ffff79a777d@kubernetes.io:443?mode=auto&path=/mine&security=tls&alpn=h2,http/1.1&encryption=none&extra={"headers":{"x-host":"s1.onesrv98.eu.cc:444"}}&host=leafy-yeot-838518.netlify.app&type=xhttp&sni=kubernetes.io#📡🇨🇦®️Canada©️Montreal🅿️ping:53.79ms
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#📡🇨🇦®️Canada©️Toronto🅿️ping:41.27ms
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#📡🇨🇦®️Canada©️Toronto🅿️ping:83.41ms
+trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#📡🇨🇦®️Canada©️Toronto🅿️ping:43.87ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.03ms
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.150.241:443?&security=tls&fp=chrome&sni=juzi.qea.ccwu.cc&type=ws&headerType=none&host=juzi.qea.ccwu.cc&path=%2F#📡🇨🇦®️Canada©️Toronto🅿️ping:53.93ms
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.150.241:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:53.93ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh42v8.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#📡🇨🇦®️Canada©️Toronto🅿️ping:76.26ms

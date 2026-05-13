@@ -1,1 +1,1 @@
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F&type=tcp&headerType=none#📡🇱🇻®️Latvia©️Riga🅿️ping:51.7ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@169.40.1.34:443?host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.rocks&type=ws#📡🇱🇻®️Latvia©️Riga🅿️ping:54.06ms

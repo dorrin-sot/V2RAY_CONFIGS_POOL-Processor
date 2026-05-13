@@ -1,1 +1,5 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#📡🇺🇸®️United States©️Phoenix🅿️ping:166.34ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:113.15ms
+vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.178:443?encryption=none&host=tristandeng.cc.cd&path=/&security=tls&sni=tristandeng.cc.cd&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:45.71ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇺🇸®️United States©️Wilmington (Mid-town Brandywine)🅿️ping:43.24ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇺🇸®️United States©️Wilmington (Mid-town Brandywine)🅿️ping:44.97ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.247:2083?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:44.23ms

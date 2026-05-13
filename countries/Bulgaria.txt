@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇧🇬®️Bulgaria©️Sofia (Rayon Mladost)🅿️ping:38.42ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇧🇬®️Bulgaria©️Sofia (Rayon Mladost)🅿️ping:38.59ms
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@192.200.160.253:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#📡🇧🇬®️Bulgaria©️Sofia (Rayon Mladost)🅿️ping:38.59ms

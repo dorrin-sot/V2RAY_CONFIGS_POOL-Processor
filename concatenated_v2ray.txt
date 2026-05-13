@@ -1,64 +1,82 @@
-ss://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&security=&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.08ms
-ss://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&security=&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.8ms
-ss://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&security=&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#📡🇵🇪®️Peru©️Santiago de Surco🅿️ping:202.5ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#📡🇵🇪®️Peru©️Santiago de Surco🅿️ping:206.27ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:250.64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#📡🇲🇦®️Morocco©️Fes (Ville Nouvelle)🅿️ping:126.16ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#📡🇵🇰®️Pakistan©️Karachi🅿️ping:142.63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.253.227:990#📡🇪🇨®️Ecuador©️Quito🅿️ping:212.15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.253.227:990#📡🇪🇨®️Ecuador©️Quito🅿️ping:212.37ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.253.227:990#📡🇮🇷®️Iran©️Tehrān🅿️ping:190.25ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#📡🇲🇦®️Morocco©️Fes🅿️ping:128.43ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#📡🇿🇦®️South Africa©️Johannesburg🅿️ping:194.74ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.87:990#📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:253.14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@5.188.224.71:8388#📡🇷🇺®️Russia©️Moscow (Vostochnoye Degunino District)🅿️ping:52.63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.43ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:30.05ms
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:42.31ms
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:46.26ms
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:47.48ms
-vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&encryption=none&flow=&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&fp=firefox#📡🇮🇷®️Iran©️Tehrān🅿️ping:33.3ms
-vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&encryption=none&flow=&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&fp=firefox#📡🇮🇷®️Iran©️Tehrān🅿️ping:39.7ms
-vless://35396237-3662-4138-b138-396639666661@185.143.233.212:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:35.42ms
-vless://35396237-3662-4138-b138-396639666661@185.143.233.212:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:40.12ms
-vless://3828adab-b2b0-4091-98b8-920aaa369711@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss3.limitless-cloud.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.08ms
-vless://3828adab-b2b0-4091-98b8-920aaa369711@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss3.limitless-cloud.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.54ms
-vless://3828adab-b2b0-4091-98b8-920aaa369711@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss3.limitless-cloud.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.08ms
-vless://3828adab-b2b0-4091-98b8-920aaa369711@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss3.limitless-cloud.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.54ms
-vless://39b49be3-bdd4-46ba-99f0-d1c2239f289f@arvancloud.ir:8080?encryption=none&type=ws&path=%2Fpars%3Fed%3D2560&host=ss.sudoapt.cfd#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.27ms
-vless://52cc63da-95c7-40b1-a7e1-519d23bcf255@snapp.ir:8880?path=%2F&security=none&encryption=none&host=dlc-p1.yeksansoft.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.77ms
-vless://52cc63da-95c7-40b1-a7e1-519d23bcf255@snapp.ir:8880?path=%2F&security=none&encryption=none&host=dlc-p1.yeksansoft.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.48ms
-vless://52cc63da-95c7-40b1-a7e1-519d23bcf255@snapp.ir:8880?path=/&security=none&encryption=none&host=dlc-p1.yeksansoft.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.77ms
-vless://52cc63da-95c7-40b1-a7e1-519d23bcf255@snapp.ir:8880?path=/&security=none&encryption=none&host=dlc-p1.yeksansoft.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.48ms
-vless://664ee88e-93a8-41b7-8596-d51d9105449d@javid.purples.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=javid-5.helexx.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.76ms
-vless://664ee88e-93a8-41b7-8596-d51d9105449d@javid.purples.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=javid-5.helexx.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.62ms
-vless://664ee88e-93a8-41b7-8596-d51d9105449d@javid.purples.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=javid-5.helexx.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:76.75ms
-vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&encryption=none&flow=&host=pa1.ghostantaniehh.ir&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:66.23ms
-vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&encryption=none&flow=&host=pa1.ghostantaniehh.ir&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.72ms
-vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&encryption=none&flow=&host=pa1.ghostantaniehh.ir&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.54ms
-vless://8833441e-83a6-4e73-b9ae-e348cef7f08f@Tapsi.ir:80?path=%2Fcdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:63.78ms
-vless://9365476e-75f4-4dab-93aa-e2b8918a9ba1@Snapp.ir:80?host=down.speedtell.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:75.22ms
-vless://a29e0815-8d5e-4743-afeb-1d3c5d128c34@snapp.ir:8080?path=%2F&security=&encryption=none&host=api.shomalnojm.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:68.73ms
-vless://a29e0815-8d5e-4743-afeb-1d3c5d128c34@snapp.ir:8080?path=%2F&security=&encryption=none&host=api.shomalnojm.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.8ms
-vless://bafacd98-136a-4530-838d-4e5c51838dac@cf1.danfeng.eu.org:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com+https://dns.alidns.com/dns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=/pictures/jump/channel/juzibaipiao?ed=2560#📡🇨🇦®️Canada©️Toronto🅿️ping:459.46ms
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:172.31ms
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:89.97ms
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:89.97ms
-vless://d0c077b7-a8a0-4613-b6c3-b3121f38be1e@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss10.limitless-cloud.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.72ms
-vless://d0c077b7-a8a0-4613-b6c3-b3121f38be1e@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss10.limitless-cloud.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.54ms
-vless://d1dee838-e1ef-4679-a8d6-69137dad436f@dl11.wolfcityroleplay.ir:80?encryption=none&host=dl11.wolfcityroleplay.ir&path=%2Fjs&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:229.46ms
-vless://d5145ecf-ac75-4832-8fc2-3c925eec2d09@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:180.7ms
-vless://d5145ecf-ac75-4832-8fc2-3c925eec2d09@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:181.79ms
-vless://db5138d8-8d80-47c3-9e1c-1d8dca997905@snapp.ir:80?type=ws&encryption=none&path=/&host=lr.kokomokiyoo.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.08ms
-vless://db5138d8-8d80-47c3-9e1c-1d8dca997905@snapp.ir:80?type=ws&encryption=none&path=/&host=lr.kokomokiyoo.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.54ms
-vless://f187b51a-cc4d-4508-9a68-f2b8fbde671d@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:180.08ms
-vless://f187b51a-cc4d-4508-9a68-f2b8fbde671d@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.39ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:181.79ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:181.79ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:190.25ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=proto.helexm.ir&path=/#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:30.05ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=proto.helexm.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:181.23ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=proto.helexm.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:181.79ms
-vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=proto.helexm.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:190.25ms
-vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QGZseXYycmF5OjpISzo6SEs6OkhLOjpISzo6SEsiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHUwMGFlXHVmZTBmSG9uZyBLb25nXHUwMGE5XHVmZTBmSG9uZyBLb25nXHVkODNjXHVkZDdmXHVmZTBmcGluZzoyMTcuNjFtcyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201#📡🇴🇲®️Oman©️Muscat🅿️ping:145.97ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#📡🇵🇦®️Panama©️Panama City🅿️ping:189.47ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#📡🇧🇭®️Bahrain©️Manama🅿️ping:137.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#📡🇲🇦®️Morocco©️Fes🅿️ping:72.38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.185.37:990#📡🇲🇰®️North Macedonia©️Skopje🅿️ping:59.49ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#📡🇿🇦®️South Africa©️Johannesburg🅿️ping:202.85ms
+ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4@ru.safepass.click:442#📡🇷🇺®️Russia©️Obruchevo🅿️ping:109.21ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:263.67ms
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#📡🇮🇪®️Ireland©️Dublin🅿️ping:51.4ms
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#📡🇨🇦®️Canada©️Toronto🅿️ping:55.24ms
+vless://04243bda-d17e-4ffc-97e9-f80e951aa8a1@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.49ms
+vless://04243bda-d17e-4ffc-97e9-f80e951aa8a1@snapp.ir:8080?path=/&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.49ms
+vless://0fdcfe30-bd06-452d-8403-5e53ae024d5a@arvancloud.ir:2082?path=/IR?ed=2560&security=none&encryption=none&host=api.helxj.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:80.97ms
+vless://18ec7171-94e0-4223-9a6c-f480b0389bd2@emergency-service3.pavilof.ir:80?encryption=none&security=none&type=ws&host=emergency-service3.pavilof.ir&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:127.4ms
+vless://18ec7171-94e0-4223-9a6c-f480b0389bd2@emergency-service3.pavilof.ir:80?encryption=none&security=none&type=ws&host=emergency-service3.pavilof.ir&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:132.57ms
+vless://18ec7171-94e0-4223-9a6c-f480b0389bd2@emergency-service3.pavilof.ir:80?encryption=none&security=none&type=ws&host=emergency-service3.pavilof.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:138.54ms
+vless://28e56f39-cdb4-44a0-a84d-c3a2a92fed00@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.54ms
+vless://28e56f39-cdb4-44a0-a84d-c3a2a92fed00@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:76.0ms
+vless://28e56f39-cdb4-44a0-a84d-c3a2a92fed00@snapp.ir:80?path=/&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:76.0ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:48.66ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:79.98ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#📡🇨🇼®️Curacao©️Willemstad🅿️ping:51.08ms
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:41.82ms
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:45.86ms
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:33.42ms
+vless://4d1d9544-6a6b-41cf-be5d-d2886ff92c10@a.long.rest-bist.ir:80?path=%2Fdl%3Fed%3D2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:127.94ms
+vless://4d1d9544-6a6b-41cf-be5d-d2886ff92c10@a.long.rest-bist.ir:80?path=%2Fdl%3Fed%3D2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:140.45ms
+vless://4d1d9544-6a6b-41cf-be5d-d2886ff92c10@a.long.rest-bist.ir:80?path=/dl?ed=2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:127.94ms
+vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.31:2096?allowInsecure=1&encryption=none&fp=chrome&host=tristandeng.cc.cd&path=%2F&security=tls&sni=tristandeng.cc.cd&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:48.15ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:46.86ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#📡🇮🇳®️India©️Hyderabad🅿️ping:175.48ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:48.91ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed%3D2560&security=tls&sni=sni.jpmj.dev#📡🇨🇦®️Canada©️Toronto🅿️ping:48.25ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:51.48ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇫🇷®️France©️Paris🅿️ping:44.93ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:47.64ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:44.31ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:49.92ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:58.57ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?&security=tls&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:233.42ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.250.44:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%8E%96%40AliXTso%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:34.19ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.185.152:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇱🇻®️Latvia©️Riga🅿️ping:55.84ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇩🇪®️Germany©️Falkenstein🅿️ping:32.72ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:8443?type=ws&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.111000.dynv6.net#📡🇨🇦®️Canada©️Toronto🅿️ping:79.98ms
+vless://65a01271-6759-4723-af08-d560b31ac972@snapp.ir:2086?path=%2F&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:345.73ms
+vless://65a01271-6759-4723-af08-d560b31ac972@snapp.ir:2086?path=%2F&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:91.29ms
+vless://65a01271-6759-4723-af08-d560b31ac972@snapp.ir:2086?path=/&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:345.73ms
+vless://672e93be-d2d5-4ee5-a1ef-d29b40b4a724@185.143.235.200:80?path=%2F&security=none&encryption=none&host=www.wp-top.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:186.41ms
+vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&security=none&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:99.64ms
+vless://80cfadf4-3341-4684-9941-7c170cda8e90@zir.alihapps3.aghanami.ir:80?encryption=none&type=ws&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:127.94ms
+vless://80cfadf4-3341-4684-9941-7c170cda8e90@zir.alihapps3.aghanami.ir:80?encryption=none&type=ws&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:89.75ms
+vless://80cfadf4-3341-4684-9941-7c170cda8e90@zir.alihapps3.aghanami.ir:80?encryption=none&type=ws&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:90.05ms
+vless://80cfadf4-3341-4684-9941-7c170cda8e90@zir.alihapps3.aghanami.ir:80?encryption=none&type=ws&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:89.75ms
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@192.200.160.253:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#📡🇺🇸®️United States©️Austin (Four Points Centre)🅿️ping:46.64ms
+vless://8db5e977-7b89-4090-97dd-43f60818541c@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.49ms
+vless://8db5e977-7b89-4090-97dd-43f60818541c@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.33ms
+vless://8db5e977-7b89-4090-97dd-43f60818541c@snapp.ir:8080?path=/&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.49ms
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@92.53.190.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:49.25ms
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#📡🇨🇦®️Canada©️Toronto🅿️ping:50.23ms
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:64.9ms
+vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#📡🇨🇦®️Canada©️Toronto🅿️ping:46.85ms
+vless://bafacd98-136a-4530-838d-4e5c51838dac@46.101.81.245:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Flessons%2Fdload%2Fjuzibaipiao%3Fed%3D2560#📡🇬🇧®️United Kingdom©️Slough🅿️ping:41.82ms
+vless://c4520096-326a-4aa2-b450-745200a35b03@dl2.silentrp.ir:80?path=%2Fjs&security=none&encryption=none&host=dl2.silentrp.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:93.96ms
+vless://c66d9629-326e-4e54-95f2-d20b8c0ab828@a.long.rest-bist.ir:80?path=%2Fdl%3Fed%3D2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:140.45ms
+vless://c66d9629-326e-4e54-95f2-d20b8c0ab828@a.long.rest-bist.ir:80?path=/dl?ed=2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:140.45ms
+vless://cc398e44-af81-43be-b844-f363fcf16eb9@a.long.rest-bist.ir:80?path=%2Fdl%3Fed%3D2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:140.45ms
+vless://cc398e44-af81-43be-b844-f363fcf16eb9@a.long.rest-bist.ir:80?path=/dl?ed=2048&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:140.45ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws#📡🇯🇵®️Japan©️Tsukuba (Umezono)🅿️ping:282.84ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@160.22.16.187:443?allowInsecure=0&sni=gogo10.kmj.qzz.io&type=ws&host=gogo10.kmj.qzz.io&path=/fp=chrome&security=tls#📡🇻🇳®️Vietnam©️Quận Ba🅿️ping:228.89ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:264.73ms
+vless://cf891e85-42e5-446b-9afa-a6ddd7f42e1b@185.143.233.200:2086?path=%2F&security=none&encryption=none&host=nima.hayalco.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:48.33ms
+vless://cfc7476f-a137-4db0-ad67-859c76a2a4c0@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#📡🇨🇦®️Canada©️Toronto🅿️ping:46.86ms
+vless://cfc7476f-a137-4db0-ad67-859c76a2a4c0@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:116.76ms
+vless://cfc7476f-a137-4db0-ad67-859c76a2a4c0@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:116.76ms
+vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#📡🇬🇧®️United Kingdom©️London🅿️ping:117.17ms
+vless://d974eb6e-90e1-4f09-b1d6-ceaf4e07d5a7@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.49ms
+vless://d974eb6e-90e1-4f09-b1d6-ceaf4e07d5a7@snapp.ir:8080?path=/&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.49ms
+vless://df230a7c-a9ba-4efc-8f9f-ee03bffc4303@node3.jjjjjj.eu.cc:443?&security=tls&fp=safari&sni=jp2.jjjjjj.eu.cc&type=ws&headerType=none&host=jp2.jjjjjj.eu.cc&path=%2Fjige#📡🇨🇦®️Canada©️Toronto🅿️ping:500.97ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@162.159.32.108:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.58ms
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.144.106:2087?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:49.38ms
+vless://f0d5424e-9a49-4c9e-b63a-57e6445c542b@185.143.233.5:2083?path=%2F&security=tls&encryption=none&host=p1.sesrsa.com&fp=firefox&type=ws&sni=sub.sesrsa.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:39.39ms
+vless://f439c2c4-c172-419b-80e1-9a3d221be7c2@hi-red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=hi-red.docos.tech&sni=hi-red.docos.tech&fp=chrome#📡🇮🇷®️Iran©️Tehrān🅿️ping:122.81ms

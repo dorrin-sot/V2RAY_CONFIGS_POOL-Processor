@@ -1,8 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇮🇷®️Iran©️Tehrān🅿️ping:82.0ms
-vless://099bbd7c-dd40-4412-826c-c9a45821f071@Snapp.ir:8080?path=%2F&security=none&encryption=none&host=1meti.patot.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:82.0ms
-vless://099bbd7c-dd40-4412-826c-c9a45821f071@Snapp.ir:8080?path=%2F&security=none&encryption=none&host=1meti.patot.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:93.59ms
-vless://099bbd7c-dd40-4412-826c-c9a45821f071@Snapp.ir:8080?path=/&security=none&encryption=none&host=1meti.patot.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:93.59ms
-vless://c0c3df75-2f29-420c-a7a2-c5717cea8036@api1.iramsmartkeyka.ir:2086?type=ws&encryption=none&path=%2FwsVMarketLoad&host=&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:82.11ms
-vless://c0c3df75-2f29-420c-a7a2-c5717cea8036@api1.iramsmartkeyka.ir:2086?type=ws&encryption=none&path=/wsVMarketLoad&host=&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:146.72ms
-vless://cb592b1f-2f82-431c-b3ba-08bd445236d3@snapp.ir:2086?path=/sh@dow&security=none&encryption=none&host=cell.pijamehshop.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:86.09ms
-vless://cb592b1f-2f82-431c-b3ba-08bd445236d3@snapp.ir:8080?path=/sh@dow&security=none&encryption=none&host=cell.pijamehshop.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:84.74ms
+vless://020ca920-8536-428c-81d9-e6a46194a5d7@185.143.233.235:80?path=%2F&security=none&encryption=none&host=panel.bangmyshop.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:44.68ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇮🇷®️Iran©️Tehrān🅿️ping:44.68ms
+vless://adcf1aa3-c1ed-4a53-a08b-9d2dd409b4e9@snapp.ir:80?encryption=none&host=sl.pythonsaz.ir&path=/&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:86.28ms
+vless://d98849ef-90b8-4c80-abd4-ad50103c81fa@Snapp.ir:8080?path=/&security=none&encryption=none&host=1meti.patot.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:93.59ms

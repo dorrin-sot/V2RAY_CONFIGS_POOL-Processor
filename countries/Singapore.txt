@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#📡🇸🇬®️Singapore©️Singapore🅿️ping:201.61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#📡🇸🇬®️Singapore©️Singapore🅿️ping:190.18ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.188.241.82:443?&security=tls&fp=chrome&sni=gogo.onetap.qzz.io&type=ws&headerType=none&host=gogo.onetap.qzz.io&path=%2F#📡🇸🇬®️Singapore©️Singapore🅿️ping:190.18ms

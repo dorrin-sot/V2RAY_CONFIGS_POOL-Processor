@@ -1,3 +1,48 @@
+		(ID: &#39;administrator&#39;, Password: same to the VPN Server&#39;s password. 
+		(New, under construction)<br />
+		</li>
+		<br />
+		<li>Modify the value of <strong>&quot;bool DisableJsonRpcWebApi&quot;</strong> 
+		<li>Restart the daemon.</li>
+		<li>Stop the daemon.</li>
+		<li>by <a href="/admin/">Built-in HTML5 Web Administration Console</a> 
+		<li>by <a href="/api/">JSON-RPC API</a> from your favorite programming 
+		<li>by <a href="https://www.google.com/search?q=vpncmd">SoftEther VPN 
+		<li>by <a href="https://www.softether-download.com/">Official SoftEther VPN 
+		<li>by <a href="https://www.softether-download.com/">SoftEther VPN 
+		<li>by <a href="https://www.softether.org/">L2TP/IPsec, OpenVPN or SSTP 
+		Client (download)</a></li>
+		Command Line Management Utility (vpncmd)</a> for CUI</li>
+		Default: empty)</li>
+		Default: empty)<br />
+		Server Manager GUI for Windows / macOS (download)</a> (Recommended)</li>
+		from <strong>&quot;false&quot;</strong> to <strong>&quot;true&quot;</strong> on the 
+		language (JavaScript, TypeScript, Java, Python, Ruby, C#, ... etc.)<br />
+		traditional clients</a></li>
+		vpn_server.config or vpn_bridge.config.</li>
+	</li>
+	</ol>
+	</ul>
+	<li>Connect to this VPN Server<ul>
+	<li>If you want to disable this embedded web server and JSON-RPC server:<ol>
+	<li>Manage this VPN Server or VPN Bridge<ul>
+
+<!-- 9C37197CA7C2428388C2E6E59B829B30 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+</body>
+</head>
+</html>
+</ul>
+<body>
+<h1>SoftEther VPN Server / Bridge</h1>
+<head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<p>&nbsp;</p>
+<p>For VPN administrators:</p>
+<p>For VPN users:</p>
+<title>SoftEther VPN Server</title>
+<ul>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:35.35ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:62.48ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#📡🇨🇦®️Canada©️Montreal🅿️ping:117.97ms

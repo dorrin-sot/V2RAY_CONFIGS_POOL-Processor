@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.96:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Atlanta🅿️ping:47.72ms
-vless://a9d638c1-9c74-4f62-bef4-9a81e0d06727@vercel.com:443?encryption=none&security=tls&sni=prowon.vercel.app&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=prowon.vercel.app&path=/api&mode=auto#📡🇺🇸®️United States©️Walnut🅿️ping:55.66ms
-vless://a9d638c1-9c74-4f62-bef4-9a81e0d06727@vercel.com:443?mode=auto&path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=prowon.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=prowon.vercel.app#📡🇺🇸®️United States©️Walnut🅿️ping:55.66ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:113.94ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.191:2096?fp=chrome&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇺🇸®️United States©️Eagan🅿️ping:42.27ms

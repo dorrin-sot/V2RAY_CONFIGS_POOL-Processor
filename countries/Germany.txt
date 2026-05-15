@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M0pETGlsZWhtQlhucFBacDhNY3Jq@109.122.196.106:443#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:30.86ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M0pETGlsZWhtQlhucFBacDhNY3Jq@109.122.196.106:443#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:30.1ms
+vless://2815b6ce-2967-48ad-b996-6967a3f917ae@193.135.137.46:8443?encryption=none&fp=&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:23.65ms

@@ -1,0 +1,2 @@
+trojan://3f5bc61547b1f0d9@125.227.86.48:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:338.22ms
+vless://7f22dd6d-b7e4-40a0-91dd-f0ade9cb67e8@Ikco.ir:80?security=none&type=ws&headerType=&path=%2Fcdn&host=dl7.movizdl.ir#📡🇹🇼®️Taiwan©️Neihu District🅿️ping:338.22ms

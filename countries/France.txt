@@ -1,2 +1,0 @@
-vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?type=tcp&security=reality&sni=cloudflare.com&flow=xtls-rprx-vision&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&sid=b82d7208fe23#📡🇫🇷®️France©️Paris🅿️ping:69.32ms
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&host=akamaized.net&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:35.74ms

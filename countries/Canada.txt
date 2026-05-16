@@ -1,5 +1,2 @@
-trojan://1111@104.18.34.41:2087?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&security=tls#📡🇨🇦®️Canada©️Toronto🅿️ping:43.98ms
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#📡🇨🇦®️Canada©️Toronto🅿️ping:46.21ms
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#📡🇨🇦®️Canada©️Toronto🅿️ping:35.01ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:45.87ms
-vless://7f22feda-abbb-4191-b080-381ef3bca7cf@151.101.192.223:80?encryption=none&type=ws&path=%2F%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn&host=aklisvpntelegram.com#📡🇨🇦®️Canada©️Montreal🅿️ping:40.33ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.28ms
+vless://b296d621-d830-4bee-8433-bd940e89a25a@chatgpt.com:8443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.mincroft.top&path=/&security=tls&sni=dl.mincroft.top&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:92.65ms

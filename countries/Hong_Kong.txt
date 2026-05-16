@@ -1,2 +1,0 @@
-trojan://162534@217.60.38.182:8443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:214.07ms
-vless://6048472f-0993-4ae0-8203-960b9a0f4113@38.54.23.58:443?security=reality&encryption=none&pbk=i7xxqA7h16NpQQAGiQJKxubs-_IRCUUlredSK7swTkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:209.42ms

@@ -1,0 +1,3 @@
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#📡🇮🇹®️Italy©️Milan🅿️ping:68.51ms
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#📡🇮🇹®️Italy©️Milan🅿️ping:74.27ms
+vless://2d75ce6e-32ef-40b0-890f-e388b36a7f1f@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#📡🇮🇹®️Italy©️Milan🅿️ping:74.27ms

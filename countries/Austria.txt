@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#📡🇦🇹®️Austria©️Vienna (Favoriten)🅿️ping:56.2ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇦🇹®️Austria©️Vienna🅿️ping:45.69ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#📡🇦🇹®️Austria©️Vienna🅿️ping:45.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@150.241.72.79:8388#📡🇦🇹®️Austria©️Vienna🅿️ping:27.71ms

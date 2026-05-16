@@ -1,0 +1,11 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.183.221:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.17ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.183.221:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.2ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@185.242.247.206:8443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:51.0ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@185.242.247.206:8443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:53.17ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.90:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:51.57ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.90:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:54.43ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.93.4:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:51.59ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.93.4:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:54.11ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@87.251.16.237:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:24.48ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@87.251.16.237:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:26.2ms
+vless://ae484d8f-c5cd-4951-bab1-a3466fe1162c@arvancloud.ir:80?path=%2Fsnapp&security=none&encryption=none&host=portal.sms-815.ir&type=httpupgrade#📡🇫🇮®️Finland©️Helsinki🅿️ping:53.17ms

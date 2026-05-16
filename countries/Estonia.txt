@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#📡🇪🇪®️Estonia©️Tallinn🅿️ping:103.04ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@109.206.241.125:443?encryption=none&fp=chrome&host=1-gjo.pages.dev&path=%2F&security=tls&sni=1-gjo.pages.dev&type=ws#📡🇪🇪®️Estonia©️Tallinn🅿️ping:53.51ms

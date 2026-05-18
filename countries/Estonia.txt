@@ -1,2 +1,0 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#📡🇪🇪®️Estonia©️Tallinn🅿️ping:48.4ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:45.91ms

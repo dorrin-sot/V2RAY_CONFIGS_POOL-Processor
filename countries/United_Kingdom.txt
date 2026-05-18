@@ -1,1 +1,3 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:44.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#📡🇬🇧®️United Kingdom©️Thornton Heath🅿️ping:38.05ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:45.41ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:89.43ms

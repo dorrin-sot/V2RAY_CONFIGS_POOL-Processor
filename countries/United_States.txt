@@ -1,2 +1,5 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#📡🇺🇸®️United States©️Dallas🅿️ping:147.74ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#📡🇺🇸®️United States©️Dallas🅿️ping:153.81ms
+ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw@154.53.60.197:80#📡🇺🇸®️United States©️Seattle🅿️ping:166.22ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.14:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:45.17ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:45.06ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:44.91ms
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@fairfaxcountyeda.org:2053?encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:78.21ms

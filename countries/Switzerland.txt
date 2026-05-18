@@ -1,1 +1,2 @@
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#📡🇨🇭®️Switzerland©️Geneva🅿️ping:43.17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@193.151.108.76:8388#📡🇨🇭®️Switzerland©️Zurich🅿️ping:29.24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@193.151.108.76:8388#📡🇨🇭®️Switzerland©️Zurich🅿️ping:32.67ms

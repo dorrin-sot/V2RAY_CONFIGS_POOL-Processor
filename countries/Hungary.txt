@@ -1,1 +1,0 @@
-vless://UUID@google.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=google.com&fp=safari&type=ws&sni=google.com#📡🇭🇺®️Hungary©️Budapest🅿️ping:68.94ms

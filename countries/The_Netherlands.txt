@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:34.11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.97ms
-vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?security=reality&encryption=none&headerType=none&fp=chrome&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.65ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.201:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.35ms

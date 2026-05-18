@@ -1,0 +1,5 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.73:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:26.85ms
+trojan://telegram-id-privatevpns@13.38.225.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.36ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&host=akamaized.net&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:35.27ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇫🇷®️France©️Paris🅿️ping:45.87ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇫🇷®️France©️Paris🅿️ping:44.99ms

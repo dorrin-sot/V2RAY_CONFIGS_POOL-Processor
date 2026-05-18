@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#📡🇪🇸®️Spain©️Las Palmas de Gran Canaria🅿️ping:48.85ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇪🇸®️Spain©️Estepona🅿️ping:45.66ms

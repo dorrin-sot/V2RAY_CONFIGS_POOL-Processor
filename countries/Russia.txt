@@ -1,1 +1,2 @@
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@176.57.211.166:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dss.lrdxw.club%3Bpath%3D%2F94ce96d3-840d-4320-9b9b-07bdba018212%2F%3Fed%3D2560%3Btls%3Bsni%3Dss.lrdxw.club%3Bskip-cert-verify%3Dtrue%3Bmux%3D0%3Bsni%3D%40oneclickvpnkeys#📡🇷🇺®️Russia©️St Petersburg🅿️ping:52.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@77.105.169.188:8388#📡🇷🇺®️Russia©️Moscow🅿️ping:38.15ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#📡🇷🇺®️Russia©️Moscow🅿️ping:38.15ms

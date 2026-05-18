@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:22.79ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:28.05ms
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:66.48ms
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:443#📡🇩🇪®️Germany©️Düsseldorf🅿️ping:38.2ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:44.89ms

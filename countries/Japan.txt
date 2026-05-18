@@ -1,5 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:251.26ms
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#📡🇯🇵®️Japan©️Shibuya City🅿️ping:262.39ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#📡🇯🇵®️Japan©️Minoh🅿️ping:273.81ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.216.5.125:2096?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#📡🇯🇵®️Japan©️Shibuya City🅿️ping:268.76ms
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:259.4ms
+vless://26524cce-d514-4014-a426-365fb266a14d@161.33.212.44:1443?allowInsecure=0&sni=jbp7i.data-edge.chinav.indevs.in&type=ws&host=jbp7i.data-edge.chinav.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:273.19ms

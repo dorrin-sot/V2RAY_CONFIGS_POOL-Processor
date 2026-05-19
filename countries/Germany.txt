@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.02ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:34.68ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:35.72ms
-vless://e550f63f-7975-455d-a5d8-e11a120a519d@s31588.asancall.cloud:8443?encryption=none&path=/ws/apps/zoomit&security=none&type=ws#📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:310.76ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#📡🇩🇪®️Germany©️Oberasbach (Kreutles)🅿️ping:45.01ms
+trojan://telegram-id-privatevpns@3.122.111.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.4ms

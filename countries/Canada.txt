@@ -1,6 +1,7 @@
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.creationlong.org&fp=safari&type=ws&sni=www.creationlong.org#📡🇨🇦®️Canada©️Toronto🅿️ping:53.08ms
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#📡🇨🇦®️Canada©️Toronto🅿️ping:53.08ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip1.kaixincloud.top:80?allowInsecure=1&type=ws&host=vip.yaml7.ggff.net&path=/fp=chrome#📡🇨🇦®️Canada©️Toronto🅿️ping:529.21ms
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.19.229.21:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#📡🇨🇦®️Canada©️Toronto🅿️ping:43.91ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:43.36ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:43.95ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:74.05ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:88.52ms
 vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&allowInsecure=1&sni=www.netflix.com#📡🇨🇦®️Canada©️Toronto🅿️ping:44.89ms
-vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@webmail.eclass.lk:2096?type=ws&encryption=none&path=%2F%40Tech_Sonic&host=free-server.techsonic.ggff.net&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=free-server.techsonic.ggff.net#📡🇨🇦®️Canada©️Toronto🅿️ping:94.76ms

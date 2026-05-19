@@ -1,3 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:40.01ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.202:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇬🇧®️United Kingdom©️Ashtead🅿️ping:40.2ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:61.41ms

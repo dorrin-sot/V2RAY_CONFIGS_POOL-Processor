@@ -1,0 +1,1 @@
+trojan://telegram-id-privatevpns@35.156.35.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.73ms

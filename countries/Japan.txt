@@ -1,1 +1,1 @@
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.104.113.18:74?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&host=dcsrzh.ccwu.cc&type=ws&sni=dcsrzh.ccwu.cc#📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.32ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:290.85ms

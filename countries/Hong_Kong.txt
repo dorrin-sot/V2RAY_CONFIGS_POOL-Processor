@@ -1,4 +1,0 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.121.199:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.5ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.5ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:226.24ms
-vless://793b2d46-4437-4fee-a25a-3ba6381e9dae@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:226.24ms

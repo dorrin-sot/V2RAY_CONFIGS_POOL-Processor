@@ -1,2 +1,0 @@
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#📡🇨🇭®️Switzerland©️Geneva🅿️ping:44.87ms
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=94f9&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&spx=/&headerType=none#📡🇨🇭®️Switzerland©️Solothurn🅿️ping:39.29ms

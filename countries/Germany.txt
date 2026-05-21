@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#📡🇩🇪®️Germany©️Oberasbach (Kreutles)🅿️ping:41.98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.250.107:990#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.75ms
-vless://57565f1e-d42a-49a0-a909-5fff0f07b146@91.107.188.182:443?encryption=none&security=none&type=tcp&headerType=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31.71ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:34.81ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.76.173.6:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:32.17ms
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#📡🇩🇪®️Germany©️Düsseldorf🅿️ping:38.44ms

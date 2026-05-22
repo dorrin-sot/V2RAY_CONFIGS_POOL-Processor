@@ -1,6 +1,13 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#📡🇺🇸®️United States©️Dallas🅿️ping:135.72ms
-ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw==@62.146.171.57:443#📡🇺🇸®️United States©️Seattle🅿️ping:165.67ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:109.25ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:109.5ms
-vless://427d7d02-7edc-4e7b-9148-4617260c7d8e@198.169.2.1:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=relay-cfocwjbu.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-cfocwjbu.vercel.app#📡🇺🇸®️United States©️Walnut🅿️ping:23.28ms
-vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sv-1.jservices.ir&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:109.25ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#📡🇺🇸®️United States©️Chicago🅿️ping:117.76ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#📡🇺🇸®️United States©️Lincolndale🅿️ping:136.99ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#📡🇺🇸®️United States©️Dallas🅿️ping:157.77ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#📡🇺🇸®️United States©️Phoenix🅿️ping:160.18ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:108.19ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:108.39ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#📡🇺🇸®️United States©️New York🅿️ping:111.16ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#📡🇺🇸®️United States©️New York🅿️ping:115.16ms
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#📡🇺🇸®️United States©️Dallas🅿️ping:157.77ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:43.03ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.106.141.152:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:108.39ms
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@160.153.0.78:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#📡🇺🇸®️United States©️Tempe (South Tempe)🅿️ping:48.43ms
+vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:47.45ms

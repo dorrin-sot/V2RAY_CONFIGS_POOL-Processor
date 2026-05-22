@@ -1,2 +1,1 @@
-vless://ebf9f0d4-85a6-4c92-8797-2f4a5ef6589a@138.128.225.105:8080?encryption=none&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&host=www.miti.dev#📡🇦🇪®️United Arab Emirates©️Motor City🅿️ping:36.03ms
-vless://ebf9f0d4-85a6-4c92-8797-2f4a5ef6589a@138.128.225.105:8080?encryption=none&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&host=www.miti.dev#📡🇦🇪®️United Arab Emirates©️Motor City🅿️ping:42.31ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?&security=tls&fp=chrome&sni=3-7v4.pages.dev&type=ws&headerType=none&host=3-7v4.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:162.59ms

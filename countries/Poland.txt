@@ -1,0 +1,2 @@
+vless://a6e26ac0-644f-0058-8035-e2be0c93ffbb@185.16.36.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=2c5d0e9f&sni=www.amd.com&type=tcp#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:40.71ms
+vless://a6e26ac0-644f-0058-8035-e2be0c93ffbb@185.16.36.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=2c5d0e9f&sni=www.amd.com&type=tcp#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:43.44ms

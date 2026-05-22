@@ -1,1 +1,4 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:45.88ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:41.46ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:42.64ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:68.49ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:72.02ms

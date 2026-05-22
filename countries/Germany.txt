@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#📡🇩🇪®️Germany©️Düsseldorf🅿️ping:36.01ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.28ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.123:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.48ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.99ms

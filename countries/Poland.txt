@@ -1,1 +1,1 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=none&path=/&security=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:79.62ms
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=0&sni=pl194.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇵🇱®️Poland©️Warsaw🅿️ping:89.74ms

@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:54.78ms
-vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:57.34ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:53.67ms

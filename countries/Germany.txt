@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.99ms
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:27.83ms

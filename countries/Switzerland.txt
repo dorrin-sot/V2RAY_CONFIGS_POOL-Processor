@@ -1,0 +1,1 @@
+vless://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@92.119.165.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UWUBepTdDtiUpf_ZgYjO2iriD0qc7RX2Gm-vtLDIG0k&security=reality&sid=182de34d29d30341&sni=sw.kickvpn.ru&type=tcp#📡🇨🇭®️Switzerland©️Bern🅿️ping:31.57ms

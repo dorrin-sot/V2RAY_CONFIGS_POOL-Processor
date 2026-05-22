@@ -1,6 +1,4 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:107.96ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:111.81ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:45.16ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇺🇸®️United States©️New York🅿️ping:48.71ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:46.07ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:46.7ms
+ss://YWVzLTI1Ni1nY206dFVqQzhtOGIwL1lCdzhhTVczWklkU0Yyd1JWdXNKaDlYSWQ4djluWFNZWT0@2.24.74.180:27715#📡🇺🇸®️United States©️Boston🅿️ping:105.87ms
+ss://YWVzLTI1Ni1nY206dFVqQzhtOGIwL1lCdzhhTVczWklkU0Yyd1JWdXNKaDlYSWQ4djluWFNZWT0@2.24.74.180:27715#📡🇺🇸®️United States©️Boston🅿️ping:111.15ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:43.78ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇺🇸®️United States©️Las Vegas🅿️ping:48.79ms

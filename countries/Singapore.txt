@@ -1,2 +1,2 @@
-vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:34.79ms
-vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:35.87ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.64.229:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:182.32ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.64.229:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:197.26ms

@@ -1,0 +1,2 @@
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?encryption=none&fp=chrome&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&security=reality&sid=8c09fb78b12f&sni=yahoo.com&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:69.31ms
+vless://83ca9496-e222-4252-8632-65ad9e62aec2@185.143.233.122:80?security=none&type=ws&host=down.speedtell.ir&path=%2F#📡🇱🇻®️Latvia©️Riga🅿️ping:69.31ms

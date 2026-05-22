@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.43:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.cc.cd&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%3D&security=tls&sni=sni.111000.cc.cd&type=ws#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:45.99ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.43:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.cc.cd&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%3D&security=tls&sni=sni.111000.cc.cd&type=ws#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:47.93ms

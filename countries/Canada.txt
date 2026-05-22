@@ -1,8 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990#📡🇨🇦®️Canada©️Montreal🅿️ping:105.11ms
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#📡🇨🇦®️Canada©️Toronto🅿️ping:44.52ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.24ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.55ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:46.07ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:443?allowInsecure=1&encryption=none&host=CiaLLO-egb.PAGeS.dEV&security=tls&sni=CiaLLO-egb.PAGeS.dEV&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:88.56ms
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.17.189:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:47.97ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=%2Fassets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:84.12ms
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇨🇦®️Canada©️Toronto🅿️ping:42.3ms
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&path=%2Fassignment#📡🇨🇦®️Canada©️Toronto🅿️ping:94.5ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/%20@ProxyVPN11#📡🇨🇦®️Canada©️Toronto🅿️ping:46.4ms
+vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@172.64.149.54:8443?&security=tls&sni=Kingdom.turbooo-server.com&type=ws&headerType=none&host=Kingdom.turbooo-server.com&path=%2F#📡🇨🇦®️Canada©️Toronto🅿️ping:45.73ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#📡🇨🇦®️Canada©️Toronto🅿️ping:46.88ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇨🇦®️Canada©️Toronto (Old Toronto)🅿️ping:115.65ms
+vless://b818576e-951a-4a9c-879a-d32611b977ad@172.67.65.101:2096?encryption=none&host=cocobaby.pages.dev&path=/fp=chrome&security=tls&sni=cocobaby.pages.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:47.55ms

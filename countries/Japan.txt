@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.216.5.125:2096?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#📡🇯🇵®️Japan©️Shibuya City🅿️ping:273.62ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?sni=2-ee1.pages.dev&type=ws&host=2-ee1.pages.dev&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:272.69ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#📡🇯🇵®️Japan©️Minoh🅿️ping:274.43ms

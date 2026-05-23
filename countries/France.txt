@@ -1,1 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:26.95ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇫🇷®️France©️Paris🅿️ping:43.89ms

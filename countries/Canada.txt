@@ -1,17 +1,2 @@
-trojan://1710442808@188.114.98.0:443?host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:35.35ms
-trojan://1710442808@188.114.98.0:443?host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:35.43ms
-trojan://humanity@104.18.13.149:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=%2Fassignment&host=www.calmloud.com&alpn=http%2F1.1&fp=chrome#📡🇨🇦®️Canada©️Toronto🅿️ping:44.4ms
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#📡🇨🇦®️Canada©️Toronto🅿️ping:43.72ms
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇨🇦®️Canada©️Toronto🅿️ping:43.18ms
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#📡🇨🇦®️Canada©️Toronto🅿️ping:45.01ms
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#📡🇨🇦®️Canada©️Toronto🅿️ping:390.0ms
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed=2048#📡🇨🇦®️Canada©️Toronto🅿️ping:46.41ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:48.8ms
-vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.64.80.1:443?alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:44.25ms
-vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.64.80.1:443?alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:44.67ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?encryption=none&host=sni.111000.dynv6.net&path=/?Telegram??+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:43.87ms
-vless://7aade5bf-ee03-444b-bac1-978a40e3274b@varzesh3.com:2082?type=ws&encryption=none&path=/&host=ir1.scienceuniversitycollege.shop&security=none#📡🇨🇦®️Canada©️Toronto🅿️ping:44.67ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:443?allowInsecure=1&encryption=none&host=CiaLLO-egb.PAGeS.dEV&security=tls&sni=CiaLLO-egb.PAGeS.dEV&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:87.97ms
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?encryption=none&fp=chrome&host=pagescm.freen28.cc.cd&path=%2Fcontact%2Flib%2Facg&security=tls&sni=pagescm.freen28.cc.cd&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:45.79ms
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?encryption=none&fp=chrome&host=pagescm.freen28.cc.cd&path=%2Fcontact%2Flib%2Facg&security=tls&sni=pagescm.freen28.cc.cd&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:47.75ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=%2Fassets&security=none&type=ws#📡🇨🇦®️Canada©️Toronto🅿️ping:86.27ms
+trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#📡🇨🇦®️Canada©️Toronto🅿️ping:43.19ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#📡🇨🇦®️Canada©️Toronto (Old Toronto)🅿️ping:116.35ms

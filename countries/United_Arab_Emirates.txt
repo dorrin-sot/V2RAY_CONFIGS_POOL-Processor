@@ -1,2 +1,1 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?&security=tls&fp=chrome&sni=3-7v4.pages.dev&type=ws&headerType=none&host=3-7v4.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:139.89ms
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?&security=tls&fp=chrome&sni=3-7v4.pages.dev&type=ws&headerType=none&host=3-7v4.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:152.57ms
+vless://96d0a8a6-cac1-4395-865a-28997a1f42c9@185.215.234.106:2086?type=ws&encryption=none&path=%2F&host=fast.sheeplow.ir&security=none#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:39.05ms

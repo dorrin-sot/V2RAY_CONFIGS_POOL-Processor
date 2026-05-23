@@ -1,0 +1,3 @@
+vless://26524cce-d514-4014-a426-365fb266a14d@161.33.212.44:1443?allowInsecure=0&sni=jbp7i.data-edge.chinav.indevs.in&type=ws&host=jbp7i.data-edge.chinav.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:254.51ms
+vless://26524cce-d514-4014-a426-365fb266a14d@161.33.212.44:1443?allowInsecure=0&sni=jbp7i.data-edge.chinav.indevs.in&type=ws&host=jbp7i.data-edge.chinav.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:258.12ms
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?sni=2-ee1.pages.dev&type=ws&host=2-ee1.pages.dev&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:281.52ms

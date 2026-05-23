@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.97.88.133:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.83ms
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.83ms

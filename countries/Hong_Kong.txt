@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:208.45ms
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.168.16.112:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram??@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:213.65ms
+trojan://162534@138.124.111.115:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#📡🇭🇰®️Hong Kong©️Chai Wan🅿️ping:206.72ms

@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#📡🇺🇸®️United States©️Dallas🅿️ping:135.87ms
-ss://YWVzLTI1Ni1nY206eENRbGhSeTdveFMzRkhZSDhxdFVqcFNHdDJYUHd4RURpUnJYWS9YT2J2az0@31.220.61.82:17040#📡🇺🇸®️United States©️Phoenix🅿️ping:166.27ms
-ss://YWVzLTI1Ni1nY206eENRbGhSeTdveFMzRkhZSDhxdFVqcFNHdDJYUHd4RURpUnJYWS9YT2J2az0@31.220.61.82:17040#📡🇺🇸®️United States©️Phoenix🅿️ping:171.55ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:108.98ms
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#📡🇺🇸®️United States©️North Bergen🅿️ping:101.57ms
+vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?encryption=none&type=xhttp&security=tls&path=%2Fapi&host=relay-g356jz7c.vercel.app&mode=auto&sni=relay-g356jz7c.vercel.app&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#📡🇺🇸®️United States©️Walnut🅿️ping:26.04ms

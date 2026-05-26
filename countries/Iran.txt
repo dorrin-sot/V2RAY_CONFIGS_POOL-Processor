@@ -1,3 +1,0 @@
-vless://49f59afc-9be1-4c20-87d2-86944ac731fa@snapp.ir:80?path=%2F&security=none&encryption=none&host=post5.nahzgzfreeiran.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.55ms
-vless://a3cc96ff-e2be-4c0b-bb95-947b76b76d45@193.151.155.220:80?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:183.72ms
-vless://a3cc96ff-e2be-4c0b-bb95-947b76b76d45@193.151.155.220:80?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:95.01ms

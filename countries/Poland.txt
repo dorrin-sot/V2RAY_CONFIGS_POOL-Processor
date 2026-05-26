@@ -1,2 +1,2 @@
-vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@195.3.221.158:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:53.19ms
-vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@195.3.221.158:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:56.94ms
+trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&allowInsecure=1&type=tcp#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:42ms
+trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&allowInsecure=1&type=tcp#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:44ms

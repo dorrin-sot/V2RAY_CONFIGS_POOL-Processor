@@ -1,2 +1,1 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&fp=chrome&allowInsecure=1&flow=xtls-rprx-vision-udp443#📡🇬🇧®️United Kingdom©️London🅿️ping:63.85ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&fp=chrome&allowInsecure=1&flow=xtls-rprx-vision-udp443#📡🇬🇧®️United Kingdom©️London🅿️ping:64.25ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.51.105:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇬🇧®️United Kingdom©️Bristol🅿️ping:41ms

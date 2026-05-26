@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&host=sni.my111000.tech&fp=chrome&type=ws&sni=sni.my111000.tech#📡🇨🇼®️Curacao©️Willemstad🅿️ping:44.85ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&host=sni.my111000.tech&fp=chrome&type=ws&sni=sni.my111000.tech#📡🇨🇼®️Curacao©️Willemstad🅿️ping:45.77ms

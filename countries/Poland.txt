@@ -1,2 +1,0 @@
-trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&allowInsecure=1&type=tcp#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:42ms
-trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&allowInsecure=1&type=tcp#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:44ms

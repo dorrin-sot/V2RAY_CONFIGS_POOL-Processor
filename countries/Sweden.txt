@@ -1,5 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.62.185:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#📡🇸🇪®️Sweden©️Stockholm🅿️ping:1ms
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.188.81.3:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:24ms
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@109.120.133.184:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:1ms
-vless://5c7d90fe-f7d5-40bf-bfca-7726d5e44786@185.146.173.185:2095?path=/&amp;security=none&amp;encryption=none&amp;host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&amp;type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44ms
-vless://5c7d90fe-f7d5-40bf-bfca-7726d5e44786@185.146.173.185:2095?path=/&amp;security=none&amp;encryption=none&amp;host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&amp;type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:46ms
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@109.120.133.184:8443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.71ms

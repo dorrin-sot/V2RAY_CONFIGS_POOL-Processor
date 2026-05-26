@@ -1,1 +1,1 @@
-vless://00000000-0000-4000-8000-000000000000@157.245.159.88:74?sni=nisav2de2t0ai8p-hd0.misa.cc.cd&type=ws&host=nisav2de2t0ai8p-hd0.misa.cc.cd&path=/@Marisa_kristifp=chrome&security=tls#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:180ms
+vless://ec6b78b3-2bf8-4fc0-b7f0-7a20f168d2d3@82.40.62.56:30882?security=&encryption=none&headerType=&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:35.33ms

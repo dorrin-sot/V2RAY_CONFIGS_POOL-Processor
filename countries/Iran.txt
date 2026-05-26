@@ -1,0 +1,20 @@
+vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@a.darafiq.ir:8880?path=%2F&security=none&encryption=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:141.45ms
+vless://3335ae47-188e-4f7d-82e0-92be614edb9e@193.176.243.183:40651?encryption=none&security=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:85.03ms
+vless://3335ae47-188e-4f7d-82e0-92be614edb9e@193.176.243.183:40651?encryption=none&security=none&headerType=http&type=tcp#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:98.0ms
+vless://3335ae47-188e-4f7d-82e0-92be614edb9e@193.176.243.183:40651?encryption=none&security=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:85.03ms
+vless://3335ae47-188e-4f7d-82e0-92be614edb9e@193.176.243.183:40651?encryption=none&security=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:98.0ms
+vless://3335ae47-188e-4f7d-82e0-92be614edb9e@193.176.243.183:40651?encryption=none&security=none&headerType=none&type=tcp&flow=xtls-rprx-vision#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:85.03ms
+vless://3335ae47-188e-4f7d-82e0-92be614edb9e@193.176.243.183:40651?encryption=none&security=none&headerType=none&type=tcp&flow=xtls-rprx-vision#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:98.0ms
+vless://392c0d0a-157f-4fe0-b528-11586477cbe0@185.213.165.81:38024?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Shiraz🅿️ping:92.14ms
+vless://61e22474-4df8-4034-b755-99b4275c1d81@varzesh3.com:2095?security=&type=ws&path=/&host=sl.gee-emergency.ir&encryption=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:369.29ms
+vless://7b036e8b-49de-4158-9086-840e4239dec2@digipay.ir:80?type=ws&encryption=none&path=%2F&host=rb.irantradeing.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:66.85ms
+vless://7b036e8b-49de-4158-9086-840e4239dec2@digipay.ir:80?type=ws&encryption=none&path=/&host=rb.irantradeing.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:66.85ms
+vless://8c03a9f4-433d-47e7-b6c5-25715bd1e1c2@185.143.234.235:2052?type=ws&encryption=none&path=%2F&host=sofr.soralis.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:37.96ms
+vless://9ad3135b-3219-4aa3-8f14-11ff6e75c32b@85.198.21.49:80?encryption=none&type=tcp&headerType=none#📡🇮🇷®️Iran©️Tehran🅿️ping:90.08ms
+vless://9b456802-cfb4-40a7-9698-2b1224beb526@185.143.233.217:80?encryption=none&host=s26.chehre-negar.ir&path=%2Fws&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:33.09ms
+vless://b11d3368-3e1a-4af0-ae73-9ba712c6044a@snapp.ir:2095?path=%2Fw&security=none&encryption=none&host=p.pavps.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.32ms
+vless://c219cfd0-2884-4cda-bf08-0fec52dc9b99@snapp.ir:80?path=%2F&security=none&encryption=none&host=kharej.iranianshoop.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:102.21ms
+vless://d0737a80-5911-4c9f-b59b-90002fbe08d8@Ikco.ir:80?path=%2Fcdn&security=none&encryption=none&host=dl7.movizdl.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.92ms
+vless://d0737a80-5911-4c9f-b59b-90002fbe08d8@Ikco.ir:80?path=/cdn&security=none&encryption=none&host=dl7.movizdl.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:73.92ms
+vless://e896b506-79cc-4d08-9f2e-17961f3aa947@anten.ir:2082?path=%2Fweb&security=none&encryption=none&host=speed.academyrezaei.site&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:382.69ms
+vless://e8cbc051-e0ac-452d-9bd3-8ad46625573c@arvancloud.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=r.cafeplusstore.ir&type=xhttp#📡🇮🇷®️Iran©️Tehrān🅿️ping:371.09ms

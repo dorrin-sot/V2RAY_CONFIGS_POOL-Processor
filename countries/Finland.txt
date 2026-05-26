@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#📡🇫🇮®️Finland©️Helsinki🅿️ping:33.76ms
-vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#📡🇫🇮®️Finland©️Helsinki🅿️ping:33.81ms
+vless://c5b25750-1791-4dff-93bf-6e6065f67984@calm.wenllies.com:443?security=reality&encryption=none&pbk=g-ieV_3uIJMdEC4GoGdnKCCyKvI1Srloi6DhkKFdZxM&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=calm.wenllies.com&sid=e098801d2dcac8e1#📡🇫🇮®️Finland©️Helsinki🅿️ping:93.44ms
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.41ms

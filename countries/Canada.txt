@@ -1,2 +1,0 @@
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#📡🇨🇦®️Canada©️Toronto🅿️ping:43.19ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#📡🇨🇦®️Canada©️Toronto (Old Toronto)🅿️ping:116.35ms

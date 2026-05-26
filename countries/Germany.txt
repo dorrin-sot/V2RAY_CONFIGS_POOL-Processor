@@ -1,4 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:22.63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#📡🇩🇪®️Germany©️Herdecke🅿️ping:23.39ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇩🇪®️Germany©️Falkenstein🅿️ping:62.6ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇩🇪®️Germany©️Falkenstein🅿️ping:78.63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:22.65ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaDBUVnc2NEI1N3dEUG9KMlZMc29n@5.230.184.171:443#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:26.83ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaDBUVnc2NEI1N3dEUG9KMlZMc29n@5.230.184.171:443#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:26.95ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.85ms
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.41ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:29.52ms
+ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.5ms
+ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.06ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.76.173.6:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:32.29ms
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.45ms

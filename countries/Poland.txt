@@ -1,1 +1,2 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=none&path=/&security=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:76.92ms
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?mode=gun&security=reality&encryption=none&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&fp=chrome&type=grpc&sni=vk.ru&sid=b5#📡🇵🇱®️Poland©️Warsaw🅿️ping:39.88ms
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?mode=gun&security=reality&encryption=none&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&fp=chrome&type=grpc&sni=vk.ru&sid=b5#📡🇵🇱®️Poland©️Warsaw🅿️ping:42.53ms

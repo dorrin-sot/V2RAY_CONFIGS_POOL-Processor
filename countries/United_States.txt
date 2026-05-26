@@ -1,2 +1,7 @@
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇺🇸®️United States©️Buffalo🅿️ping:225.74ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇺🇸®️United States©️Buffalo🅿️ping:431.83ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmlBUFVIeXlBM1l4QmIzRG1sb1R1QXJNMElpUGVZMkhDb0gzbQ@92.118.112.203:41348#📡🇺🇸®️United States©️Atlanta🅿️ping:122.57ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#📡🇺🇸®️United States©️Los Angeles🅿️ping:160.12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ@149.28.255.6:816#📡🇺🇸®️United States©️Dallas🅿️ping:137.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#📡🇺🇸®️United States©️Santa Clara🅿️ping:157.28ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#📡🇺🇸®️United States©️Dallas🅿️ping:150.87ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#📡🇺🇸®️United States©️Dallas🅿️ping:143.39ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#📡🇺🇸®️United States©️Dallas🅿️ping:156.6ms

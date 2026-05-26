@@ -1,2 +1,0 @@
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:102.33ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:110.2ms

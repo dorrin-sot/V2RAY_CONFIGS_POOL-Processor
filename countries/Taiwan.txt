@@ -1,3 +1,2 @@
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:305.49ms
-vless://4d56ea4c-4aac-4390-b79a-65d35479e143@aws-link28.liangxin1.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=safari&pbk=PFTc9Cn176HxLhtBCIzONGZIBVDJJodsCs4QHaTt7Sc&sid=b8fe57fe&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:305.49ms
-vless://4d56ea4c-4aac-4390-b79a-65d35479e143@aws-link28.liangxin1.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=safari&pbk=PFTc9Cn176HxLhtBCIzONGZIBVDJJodsCs4QHaTt7Sc&sid=b8fe57fe&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:307.73ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@111.248.85.245:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:319.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@111.248.85.245:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:326.08ms

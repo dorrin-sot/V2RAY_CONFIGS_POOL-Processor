@@ -1,4 +1,2 @@
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:104.4ms
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:77.6ms
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:104.4ms
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:77.6ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:30.76ms
+vless://bdd008a1-7acb-4847-91b8-a6fc23bc5d4c@gb.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&security=reality&sid=428ef87fd47a3a32&sni=gb.nodes.rocketnetwork.ru&type=tcp#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:72.63ms

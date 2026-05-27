@@ -1,2 +1,0 @@
-vless://4d56ea4c-4aac-4390-b79a-65d35479e143@aws-link4.liangxin1.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.hk&fp=ios&pbk=3FPGTaxkfOM3nEUWUyCiqkH5oJGsOx-WxPJfADi1QWY&sid=7f369e14&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:250.12ms
-vless://4d56ea4c-4aac-4390-b79a-65d35479e143@aws-link4.liangxin1.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.hk&fp=ios&pbk=3FPGTaxkfOM3nEUWUyCiqkH5oJGsOx-WxPJfADi1QWY&sid=7f369e14&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:253.85ms

@@ -1,0 +1,3 @@
+vless://7eaea5bb-9129-42f5-98ca-23a73ebaa989@147.139.133.182:443?encryption=none&security=none&sni=147.139.133.182&fp=chrome&type=ws&host=147.139.133.182&path=/ws-bf6bb2499d21#📡🇮🇩®️Indonesia©️Jakarta🅿️ping:273ms
+vless://7eaea5bb-9129-42f5-98ca-23a73ebaa989@147.139.133.182:443?encryption=none&security=none&sni=147.139.133.182&fp=chrome&type=ws&host=147.139.133.182&path=/ws-bf6bb2499d21#📡🇮🇩®️Indonesia©️Jakarta🅿️ping:276.54ms
+vless://c2c301e9-a9db-4d91-9c7b-ff8935aeb4e1@45.38.42.11:443?encryption=none&security=tls&sni=ioioioi.pages.dev&fp=random&insecure=1&allowInsecure=1&type=ws&host=ioioioi.pages.dev&path=/?ed=2560#📡🇮🇩®️Indonesia©️Jakarta🅿️ping:273ms

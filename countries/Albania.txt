@@ -1,4 +1,0 @@
-vless://58b56c44-2d46-4488-9ce5-a337e7217e21@130.49.189.40:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#📡🇦🇱®️Albania©️Tirana🅿️ping:54.05ms
-vless://58b56c44-2d46-4488-9ce5-a337e7217e21@130.49.189.40:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#📡🇦🇱®️Albania©️Tirana🅿️ping:54.81ms
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#📡🇦🇱®️Albania©️Tirana🅿️ping:105.25ms
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#📡🇦🇱®️Albania©️Tirana🅿️ping:97.16ms

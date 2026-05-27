@@ -1,0 +1,2 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@82.118.22.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#📡🇵🇱®️Poland©️Gdansk🅿️ping:42.6ms
+vless://690cff03-0a82-457a-8532-4a83491458fb@83.168.78.176:58730?type=tcp&headerType=none&security=reality&encryption=none&sni=dropbox.com&fp=chrome&pbk=_-lR8xvn-qaERi-M1iCn6ftH7ChnT0qHHq2GAiROmXA&flow=xtls-rprx-vision#📡🇵🇱®️Poland©️Warsaw🅿️ping:43.12ms

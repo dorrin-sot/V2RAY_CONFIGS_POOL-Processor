@@ -1,0 +1,2 @@
+vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?encryption=none&host=fl-3-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:86.87ms
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&security=reality&sid=88ce6b586fcaf681&sni=cdnjs.com&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:67.59ms

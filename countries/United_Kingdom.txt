@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak0yTg@138.124.125.249:1443#📡🇬🇧®️United Kingdom©️Coventry🅿️ping:36.97ms
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:104.4ms
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:77.6ms
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:104.4ms
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&sni=fl0.lizardshop.org&fp=360&allowInsecure=0#📡🇬🇧®️United Kingdom©️Havant🅿️ping:77.6ms

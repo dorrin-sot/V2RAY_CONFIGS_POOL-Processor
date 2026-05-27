@@ -1,2 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.25ms
-vless://a3c73019-2bb1-4963-b44a-4ded10e5259f@xz1.xspoofer.shop:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=xz1.xspoofer.shop#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:73.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.23ms
+vless://bafacd98-136a-4530-838d-4e5c51838dac@167.71.65.205:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&insecure=1&allowInsecure=1&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Ftravel%2Fjuzibaipiao#📡🇳🇱®️The Netherlands©️Aduard🅿️ping:31.07ms
+vless://bafacd98-136a-4530-838d-4e5c51838dac@167.71.65.205:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&insecure=1&allowInsecure=1&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Ftravel%2Fjuzibaipiao#📡🇳🇱®️The Netherlands©️Aduard🅿️ping:34.47ms
+vless://ccbbd3a3-db22-4f82-956e-d65178de2743@88.210.9.69:443?security=reality&encryption=none&echfq=none&pbk=aQdv6gDmsVZc5dO1WmmEQ6Q_puJhNUurND-TJJjtCSs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=8f2c0e7a15bd#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.63ms

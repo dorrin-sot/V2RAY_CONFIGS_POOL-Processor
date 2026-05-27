@@ -1,0 +1,2 @@
+vless://adfd34ba-ad3e-4335-8300-ce9d6c4c8fcc@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.19ms
+vless://adfd34ba-ad3e-4335-8300-ce9d6c4c8fcc@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.19ms

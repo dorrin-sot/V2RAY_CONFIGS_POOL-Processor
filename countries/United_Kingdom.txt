@@ -1,2 +1,3 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:30.76ms
-vless://bdd008a1-7acb-4847-91b8-a6fc23bc5d4c@gb.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&security=reality&sid=428ef87fd47a3a32&sni=gb.nodes.rocketnetwork.ru&type=tcp#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:72.63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM@89.185.84.34:31348#📡🇬🇧®️United Kingdom©️London🅿️ping:35.12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM@89.185.84.34:31348#📡🇬🇧®️United Kingdom©️London🅿️ping:35.24ms
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:35.24ms

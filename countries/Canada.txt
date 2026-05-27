@@ -1,8 +1,2 @@
-vless://79a856c5-6cf2-4f6f-b652-bc576dc0541f@151.101.2.216:80?path=/ws/GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN?ed=2048&security=none&encryption=none&host=GozargahVPN.ir&type=ws#📡🇨🇦®️Canada©️Montreal🅿️ping:37.43ms
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=&encryption=none&headerType=none&type=tcp#📡🇨🇦®️Canada©️Montreal (Ville-Marie)🅿️ping:122.6ms
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=&encryption=none&headerType=none&type=tcp#📡🇨🇦®️Canada©️Montreal (Ville-Marie)🅿️ping:123.03ms
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.53.196:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=pagescm.freen6.cc.cd&path=/lesson/tv&sni=pagescm.freen6.cc.cd&fp=chrome#📡🇨🇦®️Canada©️Toronto🅿️ping:43.09ms
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.53.196:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=pagescm.freen6.cc.cd&path=/lesson/tv&sni=pagescm.freen6.cc.cd&fp=chrome#📡🇨🇦®️Canada©️Toronto🅿️ping:45.4ms
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.120:443?path=%2Fcode%2Fdl&security=tls&encryption=none&insecure=0&host=pagescm.freen29.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen29.cc.cd#📡🇨🇦®️Canada©️Toronto🅿️ping:47.78ms
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.120:443?path=%2Fcode%2Fdl&security=tls&encryption=none&insecure=0&host=pagescm.freen29.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen29.cc.cd#📡🇨🇦®️Canada©️Toronto🅿️ping:47.79ms
-vless://bfecab97-5552-4efc-b1db-1d39a78c6e1e@ww.vidboxco.ir:443?path=/&security=tls&encryption=none&insecure=1&host=login.iranvatanam.com&fp=chrome&type=ws&allowInsecure=1&sni=login.iranvatanam.com#📡🇨🇦®️Canada©️Toronto🅿️ping:70.85ms
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?type=ws&security=tls&fp=chrome&sni=daluan.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:46.83ms
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?type=ws&security=tls&fp=chrome&sni=daluan.eu.org#📡🇨🇦®️Canada©️Toronto🅿️ping:50ms

@@ -1,6 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZUdTVkc3NV8wdHNIeHhpY0tSbmJmODdKR2NZTmFlVw@vip.tekcloud.site:20900#📡🇮🇷®️Iran©️Tehrān🅿️ping:124.01ms
-trojan://mitivpn@arvancloud.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=www.gameify.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gameify.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:63.45ms
-trojan://mitivpn@arvancloud.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=www.gameify.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gameify.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.41ms
-trojan://mitivpn@arvancloud.ir:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.gameify.ir&sni=www.gameify.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=0#📡🇮🇷®️Iran©️Tehrān🅿️ping:63.45ms
-vless://36f018b5-c463-44b3-814f-217bfc5c519f@185.143.233.235:80?type=ws&encryption=none&path=%2F&host=tow.pastebali.cam&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:38.81ms
-vless://389ed394-15c8-473c-9c7e-1a6e0ba3d303@tamin.ir:2052?path=%2F&security=none&encryption=none&host=free.sedighi0915.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:76.15ms

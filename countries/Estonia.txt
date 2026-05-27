@@ -1,0 +1,1 @@
+vless://ab993629-59d2-4069-931e-881f5140a7b6@89.150.40.211:443?security=reality&encryption=none&pbk=JUg1ffaYEBNIbnNJHDWFP7pnX2LLGONJbjP5m1ab6Fo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d#📡🇪🇪®️Estonia©️Tallinn🅿️ping:58.83ms

@@ -1,2 +1,0 @@
-vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?path=%2Fws&security=&encryption=none&host=45.39.241.51&type=ws#📡🇧🇬®️Bulgaria©️Sofia (Old City Center)🅿️ping:51.76ms
-vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?path=%2Fws&security=&encryption=none&host=45.39.241.51&type=ws#📡🇧🇬®️Bulgaria©️Sofia (Old City Center)🅿️ping:54.86ms

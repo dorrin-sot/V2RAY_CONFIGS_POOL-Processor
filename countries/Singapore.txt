@@ -1,3 +1,2 @@
-vless://Telegram%3A%40TuhinBroh@sgc.tdz-server.store:20378?path=%2F%40TuhinBroh&security=&encryption=none&type=ws#📡🇸🇬®️Singapore©️Singapore (Queenstown Estate)🅿️ping:267.97ms
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:184.85ms
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:185.22ms
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#📡🇸🇬®️Singapore©️Singapore🅿️ping:175.56ms
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?encryption=none&type=tcp&headerType=none&security=tls&sni=node1.nanonet.host#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:182.1ms

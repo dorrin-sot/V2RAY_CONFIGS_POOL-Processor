@@ -1,2 +1,4 @@
-vless://adfd34ba-ad3e-4335-8300-ce9d6c4c8fcc@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.19ms
-vless://adfd34ba-ad3e-4335-8300-ce9d6c4c8fcc@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.19ms
+trojan://humanity@45.130.125.69:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.14ms
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.14ms
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.38ms
+vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:48.45ms

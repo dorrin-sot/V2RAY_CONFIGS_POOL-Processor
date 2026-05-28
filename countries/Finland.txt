@@ -1,5 +1,1 @@
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:63.66ms
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp%40freenettir%20%E2%98%82%EF%B8%8F#📡🇫🇮®️Finland©️Helsinki🅿️ping:54.05ms
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp%40freenettir%20%E2%98%82%EF%B8%8F#📡🇫🇮®️Finland©️Helsinki🅿️ping:63.66ms
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp@freenettir#📡🇫🇮®️Finland©️Helsinki🅿️ping:63.66ms
-vless://cf08ff2c-8c11-45c3-8ac7-8217abcfbf16@dl1.bakeneko.ir:18404?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.06ms
+vless://431a2764-3bc8-4842-9917-18a6fb72d564@217.179.49.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JnzFBWZ5DXQruYK_UYMox_8lkQ8BXE-9mt9T8vaEsyE&security=reality&sid=beaad6fb83c36a41&sni=yahoo.com&spx=%2FkiOe2VXE0aZusAl&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:24.79ms

@@ -1,2 +1,0 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?path=/&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#📡🇫🇷®️France©️Caudry🅿️ping:47.03ms
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?path=/&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#📡🇫🇷®️France©️Caudry🅿️ping:48.58ms

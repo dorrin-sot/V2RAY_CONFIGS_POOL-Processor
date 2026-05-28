@@ -1,1 +1,1 @@
-vless://92b08fda-b6ab-48f2-bf60-6b4fdba6f57d@80.66.89.165:50569?security=reality&encryption=none&pbk=9lKFlpNOHHbe-XG1-iw1oSJRQsYG4Wrk1mvs8aa3InA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=7973e5d00cb00ccd#📡🇷🇺®️Russia©️Moscow🅿️ping:42.99ms
+vless://5de93b54-dd21-4683-a929-c9cd74fcb521@usr.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=us.moktana.app&sid=6a8cbbe13bd1a18e#📡🇷🇺®️Russia©️Moscow🅿️ping:76.87ms

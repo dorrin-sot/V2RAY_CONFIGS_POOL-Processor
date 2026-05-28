@@ -1,2 +1,4 @@
-vless://798a7237-4c6e-4931-9190-563232ec10d8@185.143.233.5:2083?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:40.81ms
-vless://a4e0e6bb-949f-48f7-ad54-eb3ef7e70e77@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p.mroza.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:106.38ms
+trojan://humanity@www.creationlong.org:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.29ms
+vless://3a9bf6ae-c95a-4215-84d3-83889998f90a@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.29ms
+vless://6b949a55-4091-47e7-9d95-c7c64836b135@useredge1.noroozmobarak.com:2082?path=/webpanel?ed=2560&security=none&encryption=none&host=gostaresh12.hamrahahnavin492.com&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.38ms
+vless://7c40fcb0-7103-4e76-b7ff-cb34c45c1678@iran1.accountcentershop.com:53525?type=tcp&security=none&headerType=http&path=/&host=telewebion.com#📡🇮🇷®️Iran©️Malārd🅿️ping:140.21ms

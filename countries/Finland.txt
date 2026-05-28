@@ -1,2 +1,1 @@
-vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&insecure=0&host=fl-3-direct.djarbnet.ru&type=ws&allowInsecure=0&sni=fl-3-direct.djarbnet.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:57.4ms
-vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&insecure=0&host=fl-3-direct.djarbnet.ru&type=ws&allowInsecure=0&sni=fl-3-direct.djarbnet.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:57.96ms
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:64.37ms

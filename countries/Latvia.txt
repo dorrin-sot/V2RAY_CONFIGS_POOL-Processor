@@ -1,0 +1,2 @@
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@91.239.23.10:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#📡🇱🇻®️Latvia©️Riga🅿️ping:54.57ms
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@91.239.23.10:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#📡🇱🇻®️Latvia©️Riga🅿️ping:54.78ms

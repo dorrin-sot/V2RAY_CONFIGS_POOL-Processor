@@ -1,0 +1,2 @@
+vless://3b029bdf-4feb-466d-964d-ab3ea895e186@104.194.135.136:59347?encryption=none&host=&path=%2F&security=none&type=ws#📡🇦🇺®️Australia©️Sydney🅿️ping:273.85ms
+vless://4d2e7124-8704-4b13-b49c-defec419bb4b@104.194.135.136:43807?encryption=none&host=&path=%2F&security=none&type=httpupgrade#📡🇦🇺®️Australia©️Sydney🅿️ping:273.84ms

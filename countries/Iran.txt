@@ -1,4 +1,1 @@
-vless://8f9c17b0-0a00-4ffb-a82d-007caf1e0743@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:68.64ms
-vless://8f9c17b0-0a00-4ffb-a82d-007caf1e0743@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.61ms
-vless://8f9c17b0-0a00-4ffb-a82d-007caf1e0743@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:96.74ms
-vless://fc5e2e68-b416-49bb-a689-61032faf7fcf@172.64.152.23:8443?encryption=none&%3Bsecurity=tls&%3Bsni=backup.f-sub.cfd&%3Bfp=chrome&%3Balpn=h2%2Chttp/1.1&%3Binsecure=1&%3BallowInsecure=1&%3Btype=ws&%3Bhost=backup.f-sub.cfd&%3Bpath=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:96.74ms
+vless://afca7c78-f0bc-4709-8bd3-e3741a25956d@varzesh3.com:443?path=%2Fhelloword&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=asia.devops-grid-project.org&fp=chrome&type=ws&allowInsecure=0&sni=asia.devops-grid-project.org#📡🇮🇷®️Iran©️Tehrān🅿️ping:133.88ms

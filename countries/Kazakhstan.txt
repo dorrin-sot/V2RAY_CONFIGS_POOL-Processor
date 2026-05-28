@@ -1,4 +1,0 @@
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv143.towersflowerss.com:443?path=%2F&security=&encryption=none&type=ws#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:131.95ms
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv143.towersflowerss.com:443?path=%2F&security=none&encryption=none&type=ws#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:124.35ms
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv143.towersflowerss.com:443?path=%2F&security=none&encryption=none&type=ws#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:131.95ms
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv143.towersflowerss.com:443?path=/&security=&encryption=none&type=ws#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:131.95ms

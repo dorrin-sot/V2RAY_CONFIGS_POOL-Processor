@@ -1,0 +1,1 @@
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@185.139.214.254:443?security=reality&encryption=none&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=cloudcdn-m9-15.cdn.yandex.net#📡🇫🇷®️France©️Paris🅿️ping:166.9ms

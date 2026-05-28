@@ -1,2 +1,0 @@
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@47.250.212.59:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:194.8ms
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@47.250.212.59:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:209.58ms

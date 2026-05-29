@@ -1,13 +1,11 @@
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&type=raw&headerType=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31.47ms
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&type=raw&headerType=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:32ms
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:29ms
-vless://22150bae-1ef3-4c73-b24e-509cbc2930a9@91.107.134.103:46782?encryption=none&fp=chrome&pbk=UfyCcXFUfRDcTU3UtfnX9c3aljfn83mrYuQmE9Q7V38&security=reality&sid=e5c436c7&sni=catalog.gamepass.com&spx=%2FEVb2g4uw7OuzYw9&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31.77ms
-vless://22150bae-1ef3-4c73-b24e-509cbc2930a9@91.107.134.103:46782?encryption=none&fp=chrome&pbk=UfyCcXFUfRDcTU3UtfnX9c3aljfn83mrYuQmE9Q7V38&security=reality&sid=e5c436c7&sni=catalog.gamepass.com&spx=%2FEVb2g4uw7OuzYw9&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31.95ms
-vless://22150bae-1ef3-4c73-b24e-509cbc2930a9@pol.velizor.ir:46902?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:171.22ms
-vless://22150bae-1ef3-4c73-b24e-509cbc2930a9@pol.velizor.ir:46902?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:63.7ms
-vless://25263c14-6cb5-499b-b462-dd498deecfe7@de-on-demand.not-a-projects.xyz:47518?headertype=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:74ms
-vless://505114b9-e689-5d23-9ba0-f95d74e92a67@91.107.179.224:47411?headertype=none&security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:33.44ms
-vless://505114b9-e689-5d23-9ba0-f95d74e92a67@91.107.179.224:47411?headertype=none&security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:59ms
-vless://505114b9-e689-5d23-9ba0-f95d74e92a67@91.107.179.224:47411?security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:32ms
-vless://787b481b-06c1-40f6-83fe-9077924f078c@91.107.179.62:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTN1NkdjZWkwNE55WGJyV0xLYTBN@5.230.184.16:443#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:26.91ms
+vless://128f9f14-d92a-4ca7-8efe-04bd83189ae8@95.179.245.139:42723?encryption=none&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:24.08ms
+vless://12d75464-1ece-4827-9871-366aa98083a2@91.107.253.112:443?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:27.25ms
+vless://12d75464-1ece-4827-9871-366aa98083a2@91.107.253.112:443?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:27.4ms
+vless://787b481b-06c1-40f6-83fe-9077924f078c@91.107.179.62:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:28.87ms
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.150.241:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:26.91ms
+vless://db0a5650-bb60-4c63-b866-ac6154e6fab9@136.244.83.23:32350?encryption=none&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.44ms
+vless://db0a5650-bb60-4c63-b866-ac6154e6fab9@136.244.83.23:32350?encryption=none&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.57ms
+vless://e0021a91-e53a-4757-96fc-912c7c830721@de.connfull.org:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:91.48ms
+vless://e2aa3390-8101-4415-ba58-a3528f80f35f@hanko.moparsia.ir:2003?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&allowInsecure=0&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#📡🇩🇪®️Germany©️Falkenstein🅿️ping:104.27ms
+vless://e484604d-dd7a-4296-b5c3-60d26268104f@12.manfoortt.site:2052?type=ws&encryption=none&path=%2F&host=12.manfoortt.site&security=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.44ms

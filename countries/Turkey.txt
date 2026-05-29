@@ -1,2 +1,2 @@
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.81ms
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80#📡🇹🇷®️Turkey©️Istanbul🅿️ping:84ms
+vless://e484604d-dd7a-4296-b5c3-60d26268104f@12.manfoortt.site:2052?type=ws&encryption=none&path=%2F&host=12.manfoortt.site&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:93.12ms
+vless://e484604d-dd7a-4296-b5c3-60d26268104f@12.manfoortt.site:2052?type=ws&encryption=none&path=%2F&host=12.manfoortt.site&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:93.15ms

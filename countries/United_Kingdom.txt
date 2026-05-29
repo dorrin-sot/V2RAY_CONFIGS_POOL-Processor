@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.67ms
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=360&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#📡🇬🇧®️United Kingdom©️Havant🅿️ping:47.53ms
-vless://d345c04b-d899-4eaa-b28b-ea27676fdf9a@uk.orvexa.net:443?security=reality&encryption=none&pbk=afObkgeqXttK8sbHpTC9FhM8ohwvNGCXFpidqOK20DE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#📡🇬🇧®️United Kingdom©️London🅿️ping:69.48ms
-vless://d345c04b-d899-4eaa-b28b-ea27676fdf9a@uk.orvexa.net:443?security=reality&encryption=none&pbk=afObkgeqXttK8sbHpTC9FhM8ohwvNGCXFpidqOK20DE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#📡🇬🇧®️United Kingdom©️London🅿️ping:76.49ms
+vless://4b616b6f-6f6c-4e65-7773-cea5827dd1af@20.90.66.7:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=super-duper-trout-gx455v67qxgjcw96p-443.app.github.dev#📡🇬🇧®️United Kingdom©️London🅿️ping:41.23ms
+vless://4b616b6f-6f6c-4e65-7773-cea5827dd1af@20.90.66.7:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=super-duper-trout-gx455v67qxgjcw96p-443.app.github.dev#📡🇬🇧®️United Kingdom©️London🅿️ping:43.81ms

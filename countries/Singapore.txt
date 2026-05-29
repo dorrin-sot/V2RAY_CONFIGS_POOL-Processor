@@ -1,1 +1,2 @@
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@52.77.224.71:443?path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#📡🇸🇬®️Singapore©️Singapore🅿️ping:183.25ms
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&type=raw#📡🇸🇬®️Singapore©️Singapore🅿️ping:184ms
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&type=raw#📡🇸🇬®️Singapore©️Singapore🅿️ping:194.78ms

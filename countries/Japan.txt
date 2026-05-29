@@ -1,4 +1,0 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.81ms
-trojan://162534@207.65.189.9:443?path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&insecure=1&host=cchh2.pages.dev&type=ws&allowInsecure=1&sni=cchh2.pages.dev#📡🇯🇵®️Japan©️Chiba🅿️ping:255.71ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.37.103:14782?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:262.97ms
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.104.113.18:74?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&host=dcsrzh.ccwu.cc&type=ws&sni=dcsrzh.ccwu.cc#📡🇯🇵®️Japan©️Shibuya City🅿️ping:269.74ms

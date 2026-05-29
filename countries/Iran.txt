@@ -1,5 +1,0 @@
-vless://2729e584-0d63-4b42-813e-c641b9913c48@www.varzesh3.com:2082?encryption=none&type=ws&path=%2F&host=fl.server2.mizbannimbaha.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:54.92ms
-vless://6cca0b62-8aaa-40af-ace4-40e2867612a1@varzesh3.com:2086?path=%2F&security=none&encryption=none&host=secn.phpl.ir&fp=chrome&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.46ms
-vless://6cca0b62-8aaa-40af-ace4-40e2867612a1@varzesh3.com:2086?path=%2F&security=none&encryption=none&host=secn.phpl.ir&fp=chrome&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.87ms
-vless://c650d62b-35e5-436b-a7a6-3a03d2f85e8a@g4.vcommunity.ir:2083?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=g4.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=g4.vcommunity.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:195.1ms
-vless://d621f699-8820-4c5c-a99a-01f210dae956@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:65.84ms

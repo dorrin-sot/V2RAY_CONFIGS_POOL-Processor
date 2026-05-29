@@ -1,0 +1,2 @@
+trojan://HutaoCloud@185.220.238.77:11543?path=%2Fapi&security=tls&insecure=1&type=ws&allowInsecure=1&sni=185.220.238.77#📡🇯🇵®️Japan©️Shibuya City🅿️ping:252ms
+trojan://HutaoCloud@185.220.238.77:11543?path=%2Fapi&security=tls&insecure=1&type=ws&allowInsecure=1&sni=185.220.238.77#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253.46ms

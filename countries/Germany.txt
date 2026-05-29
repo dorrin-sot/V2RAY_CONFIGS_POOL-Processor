@@ -1,13 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aTRrc281N2Z0a21iY2x0@srv2.king-ping.site:42140#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:66.24ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@fr.gameirani.com:100?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:68.31ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@ge.gameirani.com:200?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:60.21ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@ge.gameirani.com:200?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:77.96ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@tr.gameirani.com:400?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:67.73ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@tr.gameirani.com:400?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:70.08ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@tr.gameirani.com:400?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:66.24ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@usa.gameirani.com:600?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:68.39ms
-vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@usa.gameirani.com:600?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:79.69ms
-vless://7e8e1937-f27f-467e-bb93-dd1979b40809@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=&fp=chrome&spx=%2FGxUs9tykCbXPtnB&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=c843#📡🇩🇪®️Germany©️Falkenstein🅿️ping:28.88ms
-vless://7e8e1937-f27f-467e-bb93-dd1979b40809@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=&fp=chrome&spx=%2FGxUs9tykCbXPtnB&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=c843#📡🇩🇪®️Germany©️Falkenstein🅿️ping:29.63ms
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#📡🇩🇪®️Germany©️Falkenstein🅿️ping:28.88ms
-vless://d571bf84-a865-48d1-93e0-2e8f9b45b038@108.61.190.45:29166?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/s17hiqo2odosoq72kkxjx&mode=auto&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20:%20%221000000%22,%0A%20%20%22scMinPostsIntervalMs%22%20:%20%2230%22,%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22%0A%7D#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bVlFWjE3N3dILTJBRXFrVjR5VkZ3@198.105.115.100:1080#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.75ms
+vless://1fc8c402-49dd-4e87-978e-f94b918f6af6@cd1.baguvix.xyz:2053?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=c1.app9.ir&fp=chrome&type=ws&allowInsecure=0&sni=c1.app9.ir#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:74.75ms
+vless://1fc8c402-49dd-4e87-978e-f94b918f6af6@cd1.baguvix.xyz:2053?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=c1.app9.ir&fp=chrome&type=ws&allowInsecure=0&sni=c1.app9.ir#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:76.61ms
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.92ms
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.67ms
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@91.107.244.117:2052/?type=tcp&encryption=none&flow=#📡🇩🇪®️Germany©️Nuremberg🅿️ping:29.95ms
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:61.39ms
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:64.64ms
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?security=none&type=tcp&headerType=&path=&host=#📡🇩🇪®️Germany©️Nuremberg🅿️ping:61.39ms
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?security=none&type=tcp&headerType=&path=&host=#📡🇩🇪®️Germany©️Nuremberg🅿️ping:64.64ms

@@ -1,5 +1,5 @@
-vless://0dc16ed7-8c12-4968-a23a-634edee4791e@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.67ms
-vless://2cdddac1-9a7c-4726-a176-74586c0db6eb@snapp.ir:80?path=%2Fvnet102MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=d4.gsm10shop.com&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.67ms
-vless://2f7ee9e9-3d19-460d-bcd3-91804d01bcdb@useredge2.noroozmobarak.com:443?path=%2Fwsloc1001%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vip1host.ir3dprint.com&fp=firefox&type=ws&allowInsecure=0&sni=vip1host.ir3dprint.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.32ms
-vless://a43ac534-9ee2-4df7-bec4-bbc5921478d8@snapp.ir:8080?encryption=none&host=savoj.neonull.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.68ms
-vless://a43ac534-9ee2-4df7-bec4-bbc5921478d8@snapp.ir:8080?encryption=none&host=savoj.neonull.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.22ms
+vless://2729e584-0d63-4b42-813e-c641b9913c48@www.varzesh3.com:2082?encryption=none&type=ws&path=%2F&host=fl.server2.mizbannimbaha.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:54.92ms
+vless://6cca0b62-8aaa-40af-ace4-40e2867612a1@varzesh3.com:2086?path=%2F&security=none&encryption=none&host=secn.phpl.ir&fp=chrome&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.46ms
+vless://6cca0b62-8aaa-40af-ace4-40e2867612a1@varzesh3.com:2086?path=%2F&security=none&encryption=none&host=secn.phpl.ir&fp=chrome&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.87ms
+vless://c650d62b-35e5-436b-a7a6-3a03d2f85e8a@g4.vcommunity.ir:2083?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=g4.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=g4.vcommunity.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:195.1ms
+vless://d621f699-8820-4c5c-a99a-01f210dae956@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:65.84ms

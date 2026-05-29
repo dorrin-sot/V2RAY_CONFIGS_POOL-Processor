@@ -1,4 +1,0 @@
-trojan://rXyShM8Jni%2B5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=45.79.8.17#📡🇺🇸®️United States©️Richardson🅿️ping:146.12ms
-vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@144.31.207.111:443?type=tcp&security=reality&sni=www.deepl.com&flow=xtls-rprx-vision&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=1a#📡🇺🇸®️United States©️Orem🅿️ping:45.27ms
-vless://d08a3998-d155-4541-9d46-85014b182ee8@45.39.230.25:42391?security=reality&encryption=none&pbk=vWLA2Hvig6fUErrisZvXBRs9ioeqegs_xmGkZf1uZ04&headerType=&fp=chrome&spx=%2Fa91vwk8Tl6f5E3g&type=tcp&sni=www.yahoo.com&sid=1608#📡🇺🇸®️United States©️Santa Clara🅿️ping:136.84ms
-vless://d08a3998-d155-4541-9d46-85014b182ee8@45.39.230.25:42391?security=reality&encryption=none&pbk=vWLA2Hvig6fUErrisZvXBRs9ioeqegs_xmGkZf1uZ04&headerType=&fp=chrome&spx=%2Fa91vwk8Tl6f5E3g&type=tcp&sni=www.yahoo.com&sid=1608#📡🇺🇸®️United States©️Santa Clara🅿️ping:154.76ms

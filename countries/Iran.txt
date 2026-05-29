@@ -1,8 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObTFIRlItUlppQVpRTTBoSWZWLXdKYkNfTGZ3QlR6bg==@vip9.myspacex.shop:443#📡🇮🇷®️Iran©️Tehrān🅿️ping:113.54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObTFIRlItUlppQVpRTTBoSWZWLXdKYkNfTGZ3QlR6bg==@vip9.myspacex.shop:80#📡🇮🇷®️Iran©️Tehrān🅿️ping:124.92ms
-vless://5211fd33-9e52-491b-8724-20463fb5b308@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.0ms
-vless://5b01a83d-e6c0-405a-a314-1461eb5032ee@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.0ms
-vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@www.vidboxco.ir:2053?path=%2F%3Fed%3D2052&security=tls&encryption=none&insecure=1&host=nl-fd-px.iranvatanam.com&fp=chrome&type=ws&allowInsecure=1&sni=nl-fd-px.iranvatanam.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.0ms
-vless://8193a429-6f2a-4e64-b631-acddc6ce9fdc@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.0ms
-vless://94854e73-683a-42f3-b903-1ecf66c5a1de@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.0ms
-vless://b6f4d0d9-ce49-407e-b794-8d04167118f7@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.0ms
+vless://0dc16ed7-8c12-4968-a23a-634edee4791e@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.67ms
+vless://2cdddac1-9a7c-4726-a176-74586c0db6eb@snapp.ir:80?path=%2Fvnet102MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=d4.gsm10shop.com&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.67ms
+vless://2f7ee9e9-3d19-460d-bcd3-91804d01bcdb@useredge2.noroozmobarak.com:443?path=%2Fwsloc1001%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vip1host.ir3dprint.com&fp=firefox&type=ws&allowInsecure=0&sni=vip1host.ir3dprint.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.32ms
+vless://a43ac534-9ee2-4df7-bec4-bbc5921478d8@snapp.ir:8080?encryption=none&host=savoj.neonull.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.68ms
+vless://a43ac534-9ee2-4df7-bec4-bbc5921478d8@snapp.ir:8080?encryption=none&host=savoj.neonull.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:74.22ms

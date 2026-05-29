@@ -1,3 +1,0 @@
-trojan://telegram-id-directvpn@15.237.10.72:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:35.37ms
-vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@193.233.133.63:80?path=%2F&security=&encryption=none&type=ws#📡🇫🇷®️France©️Paris🅿️ping:31.54ms
-vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@193.233.133.63:80?path=%2F&security=&encryption=none&type=ws#📡🇫🇷®️France©️Paris🅿️ping:34.04ms

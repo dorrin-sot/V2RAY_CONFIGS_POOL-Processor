@@ -1,3 +1,1 @@
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=ws&sni=glorious-couscous-xr5wj7xg49v4hv4vq-443.app.github.dev&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:42.97ms
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&security=tls&type=ws&sni=glorious-couscous-xr5wj7xg49v4hv4vq-443.app.github.dev&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:42.97ms
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&security=tls&type=ws&sni=glorious-couscous-xr5wj7xg49v4hv4vq-443.app.github.dev&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:43.85ms
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=1&fp=360&type=ws&allowInsecure=1&sni=fl0.lizardshop.org#📡🇬🇧®️United Kingdom©️Havant🅿️ping:45.95ms

@@ -1,1 +1,2 @@
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=1&fp=360&type=ws&allowInsecure=1&sni=fl0.lizardshop.org#📡🇬🇧®️United Kingdom©️Havant🅿️ping:45.95ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.189.30:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vms.lifetime29.workers.dev&path=%2F&security=none&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:45.61ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.189.30:8880?encryption=none&host=vms.lifetime29.workers.dev&path=%2F&security=none&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:45.61ms

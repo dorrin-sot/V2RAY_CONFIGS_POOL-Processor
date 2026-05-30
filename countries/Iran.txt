@@ -1,3 +1,0 @@
-vless://4645030c-1588-4795-a48b-260839506da9@varzesh3.com:2095?encryption=none&host=nsub1.pavps.ir&path=%2Fxpwb&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:57.18ms
-vless://82cee9e1-4461-4d7c-80d3-5dccd9f0ba32@185.143.233.235:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv3%2Fstream&host=ns.vaslpro.com&sni=ns.vaslpro.com&fp=chrome&allowInsecure=1#📡🇮🇷®️Iran©️Tehrān🅿️ping:37.43ms
-vless://82cee9e1-4461-4d7c-80d3-5dccd9f0ba32@185.143.233.235:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv3%2Fstream&host=ns.vaslpro.com&sni=ns.vaslpro.com&fp=chrome&allowInsecure=1#📡🇮🇷®️Iran©️Tehrān🅿️ping:37.5ms

@@ -1,2 +1,0 @@
-vless://f5ebf44f-337a-4563-8f29-0370f6cd0a41@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=bf72b039f13c23e0.hozheen.ir#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:43.89ms
-vless://f5ebf44f-337a-4563-8f29-0370f6cd0a41@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=bf72b039f13c23e0.hozheen.ir#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:45.71ms

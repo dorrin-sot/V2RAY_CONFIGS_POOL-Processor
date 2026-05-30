@@ -1,0 +1,2 @@
+trojan://BxceQaOe@18.166.59.84:7484?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&headerType=none&sni=t.me%252Fripaojiedian&allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:225.62ms
+trojan://BxceQaOe@18.166.59.84:7484?type=tcp&security=tls&headerType=none&sni=t.me%252Fripaojiedian&allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:225.62ms

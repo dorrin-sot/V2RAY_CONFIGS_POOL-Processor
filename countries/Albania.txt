@@ -1,2 +1,0 @@
-vless://8fed58fb-aa31-4544-ba3e-80c1ac06c96e@130.49.189.40:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#📡🇦🇱®️Albania©️Tirana🅿️ping:55.01ms
-vless://8fed58fb-aa31-4544-ba3e-80c1ac06c96e@130.49.189.40:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#📡🇦🇱®️Albania©️Tirana🅿️ping:55.01ms

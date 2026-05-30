@@ -1,2 +1,1 @@
-vless://696915f2-5ad4-452b-987c-d83d29d0503a@85.192.49.174:443?type=grpc&security=reality&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=dfe3b09582689d40&sni=fi.moktana.app&mode=gun&serviceName=xyz#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.73ms
-vless://ea760105-1dce-4f5c-8f5a-233e96324155@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com&spx=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.11ms
+vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&security=reality&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&sid=88acba#📡🇫🇮®️Finland©️Helsinki🅿️ping:84.64ms

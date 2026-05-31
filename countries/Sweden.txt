@@ -1,2 +1,0 @@
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#📡🇸🇪®️Sweden©️Stockholm🅿️ping:32.68ms
-vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.237:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&sid=bdac121c7debdaba&sni=www.microsoft.com#📡🇸🇪®️Sweden©️Stockholm🅿️ping:32.68ms

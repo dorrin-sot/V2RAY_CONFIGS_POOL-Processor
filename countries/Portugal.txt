@@ -1,0 +1,2 @@
+vless://3abf6838-a7c6-4841-a3d0-0dec9eab526a@156.243.83.0:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=sw2.carefreemob2.com.#📡🇵🇹®️Portugal©️Lisbon🅿️ping:43.83ms
+vless://3abf6838-a7c6-4841-a3d0-0dec9eab526a@156.243.83.167:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=pl.carefreemob2.com.#📡🇵🇹®️Portugal©️Lisbon🅿️ping:46.21ms

@@ -1,1 +1,1 @@
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?fp=chrome&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&security=reality&sid=106c&sni=yahoo.com#📡🇷🇸®️Serbia©️Belgrade🅿️ping:45.61ms
+vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?security=reality&encryption=none&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=106c#📡🇷🇸®️Serbia©️Belgrade🅿️ping:52.55ms

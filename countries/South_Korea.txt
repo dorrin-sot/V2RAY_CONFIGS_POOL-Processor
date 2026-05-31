@@ -1,7 +1,2 @@
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s.nodelist-airport.com:50001#📡🇰🇷®️South Korea©️Incheon🅿️ping:285.95ms
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s.nodelist-airport.com:50001#📡🇰🇷®️South Korea©️Incheon🅿️ping:291ms
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s.nodelist-airport.com:50001#📡🇰🇷®️South Korea©️Incheon🅿️ping:292ms
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s2.nodelist-airport.com:20002#📡🇰🇷®️South Korea©️Incheon🅿️ping:279.62ms
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s2.nodelist-airport.com:20002#📡🇰🇷®️South Korea©️Incheon🅿️ping:294ms
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s2.nodelist-airport.com:20002#📡🇰🇷®️South Korea©️Incheon🅿️ping:296ms
-ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node4.s.nodelist-airport.com:51135#📡🇰🇷®️South Korea©️Incheon🅿️ping:285.95ms
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@220.79.9.247:26027?#📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:331ms
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@222.113.253.35:14147?#📡🇰🇷®️South Korea©️Gangneung (Gyo-dong)🅿️ping:316ms

@@ -1,2 +1,0 @@
-vless://1b16b6f8-b8dd-43d7-84f9-8eb8a7e15504@sina.35o.ir:25645?type=tcp&encryption=none&security=reality&pbk=GnAQ0pqW4HGqMuOY7crTmcQ56FuABKPP9YaiJzOS3X8&fp=chrome&sni=www.yahoo.com&sid=d6372f1a0a&spx=%2F#📡🇫🇷®️France©️Paris🅿️ping:67.36ms
-vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?security=reality&encryption=none&pbk=c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=cd9a5f0edff48da4#📡🇫🇷®️France©️Paris🅿️ping:36.53ms

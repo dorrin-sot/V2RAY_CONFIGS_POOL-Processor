@@ -1,0 +1,1 @@
+vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=winter-pine.long-forest.ru&fp=chrome&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&sid=3c6a5f13df37ed6e&type=tcp&headerType=none#📡🇳🇴®️Norway©️Oslo🅿️ping:103.62ms

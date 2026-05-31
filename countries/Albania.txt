@@ -1,1 +1,0 @@
-vless://f174f51a-a8ef-450d-97cb-d528fe71bae8@130.49.189.40:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#📡🇦🇱®️Albania©️Tirana🅿️ping:55ms

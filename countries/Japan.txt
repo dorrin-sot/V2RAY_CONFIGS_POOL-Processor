@@ -1,0 +1,1 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.129.8.233:48631?encryption=none&security=tls&sni=support.zoom.us.joss.jak.biz.id&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:274.27ms

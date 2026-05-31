@@ -1,1 +1,1 @@
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#📡🇷🇸®️Serbia©️Belgrade🅿️ping:47ms
+vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?fp=chrome&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&security=reality&sid=106c&sni=yahoo.com#📡🇷🇸®️Serbia©️Belgrade🅿️ping:45.61ms

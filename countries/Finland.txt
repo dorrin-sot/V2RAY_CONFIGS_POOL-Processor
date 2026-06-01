@@ -1,4 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.2ms
-trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:31.76ms
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.7ms
-vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:31.76ms

@@ -1,7 +1,0 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:45.23ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:39.31ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:39.31ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:40.09ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#📡🇬🇧®️United Kingdom©️London🅿️ping:38.63ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:30.35ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:86.55ms

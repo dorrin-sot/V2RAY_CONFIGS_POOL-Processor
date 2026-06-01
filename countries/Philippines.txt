@@ -1,0 +1,2 @@
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=nazanMano.x-upload.org&sni=nazanMano.x-upload.org&fp=#📡🇵🇭®️Philippines©️Manila🅿️ping:78.48ms
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2083?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=chikarmikoni.x-upload.org&sni=chikarmikoni.x-upload.org&fp=#📡🇵🇭®️Philippines©️Manila🅿️ping:83.65ms

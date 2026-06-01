@@ -1,1 +1,0 @@
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#📡🇫🇷®️France©️Paris🅿️ping:32.91ms

@@ -1,3 +1,1 @@
-vless://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&flow=&path=%2Fws&security=tls&fp=chrome#📡🇱🇻®️Latvia©️Riga (Latgales priekšpilsēta)🅿️ping:62.87ms
-vless://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&fp=chrome#📡🇱🇻®️Latvia©️Riga (Latgales priekšpilsēta)🅿️ping:62.87ms
-vless://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&fp=chrome#📡🇱🇻®️Latvia©️Riga (Latgales priekšpilsēta)🅿️ping:64.62ms
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@riga-node.datamove.online:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:84.84ms

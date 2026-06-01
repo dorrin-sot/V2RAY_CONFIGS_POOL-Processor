@@ -1,0 +1,2 @@
+vless://15115772-74b5-4c9b-9049-d7237a9c68f9@37.221.79.69:8443?security=reality&type=xhttp&path=%2F&sni=www.yahoo.com&fp=chrome&sid=41&pbk=kSqgT4C5AcpCMLdW1VCvFSiv5UX6UDLaF33ECFpzUgQ&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64ms
+vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=none&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:66ms

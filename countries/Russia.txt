@@ -1,0 +1,2 @@
+vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.26.24.101:23151?encryption=none&security=reality&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI&flow=xtls-rprx-vision&sni=cms-res-web.online.sberbank.ru&fp=chrome#📡🇷🇺®️Russia©️Moscow🅿️ping:41ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇷🇺®️Russia©️Moscow🅿️ping:77ms

@@ -1,2 +1,4 @@
-trojan://telegram-id-directvpn@13.36.49.197:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http%2F1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:79.6ms
-trojan://telegram-id-directvpn@13.36.49.197:22223?security=tls&alpn=http%2F1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:79.6ms
+vless://2d7c754f-bb22-4ae7-91b9-691a5b7f54ce@199.247.9.60:25223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Auxerre🅿️ping:35.94ms
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&alpn=h2&echfq=none&headerType=none&allowinsecure=0&type=tcp&sni=cdg-1.fromblancwithlove.com#📡🇫🇷®️France©️Paris🅿️ping:32.68ms
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&alpn=h2&echfq=none&headerType=none&allowinsecure=0&type=tcp&sni=cdg-1.fromblancwithlove.com#📡🇫🇷®️France©️Paris🅿️ping:34.11ms
+vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&encryption=none&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=19ffa83bd83eb32d#📡🇫🇷®️France©️Auxerre🅿️ping:35.94ms

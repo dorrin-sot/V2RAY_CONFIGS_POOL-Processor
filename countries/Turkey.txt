@@ -1,1 +1,0 @@
-vless://54897d1b-0b4f-47eb-afb3-f8100985033b@77.83.245.225:443?security=reality&type=tcp&sni=oldbridge.oakvalley.digital&fp=chrome&flow=xtls-rprx-vision&sid=ed7c0d5905faae7a&pbk=bWkUF_xQmpm5JyoapyYhWq_WLwubqVA6DuwCfJgnOyc&encryption=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64ms

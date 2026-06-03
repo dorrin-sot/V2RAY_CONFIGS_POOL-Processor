@@ -1,0 +1,1 @@
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&encryption=none#📡🇨🇭®️Switzerland©️Geneva🅿️ping:46ms

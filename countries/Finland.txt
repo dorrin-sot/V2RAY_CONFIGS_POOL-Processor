@@ -1,2 +1,0 @@
-vless://477535ff-7878-439f-a614-5bb0e4b80959@fi.connectv.net:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=fi.connectv.net&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&fp=firefox&allowInsecure=1&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:38.73ms
-vless://72d91662-aded-45b7-9678-c68226c958e3@135.181.26.64:2089?security=none&encryption=none&host=Myket.ir&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.24ms

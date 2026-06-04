@@ -1,2 +1,0 @@
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:61ms
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:31ms

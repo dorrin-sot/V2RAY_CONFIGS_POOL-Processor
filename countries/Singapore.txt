@@ -1,1 +1,1 @@
-vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?encryption=none&security=tls&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:229ms
+vless://62cb1273-d55e-4550-bc4f-1116fafe7f6b@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=%2Fstream&security=none&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:66.52ms

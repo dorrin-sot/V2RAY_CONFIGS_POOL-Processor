@@ -1,0 +1,1 @@
+vless://6b3847b8-7bfe-43a7-8c33-ee00b1d9a28c@cd.a.land4k.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=api1.downloadboxs.com&sni=wwww.downloadboxs.com&fp=chrome&alpn=http%2F1.1#📡🇦🇲®️Armenia©️Yerevan🅿️ping:78.54ms

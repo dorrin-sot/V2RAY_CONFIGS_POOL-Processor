@@ -1,0 +1,1 @@
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#📡🇪🇸®️Spain©️Madrid🅿️ping:46.2ms

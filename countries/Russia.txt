@@ -1,0 +1,4 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇷🇺®️Russia©️Moscow🅿️ping:58.86ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:68.57ms
+vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096?path=%2Fxprolk-primeline&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=primelinelk.me&fp=chrome&type=ws&allowInsecure=0&sni=primelinelk.me#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:44.02ms
+vless://b1169f14-fe03-4849-b96c-01b6481005e2@45.67.215.234:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wallweb.hydradllvip.info&type=ws#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:44.02ms

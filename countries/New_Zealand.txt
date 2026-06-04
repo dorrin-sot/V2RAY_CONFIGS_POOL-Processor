@@ -1,1 +1,0 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&alpn=http%2F1.1&fp=chrome&allowInsecure=0#📡🇳🇿®️New Zealand©️Wellington (Thorndon)🅿️ping:47.12ms

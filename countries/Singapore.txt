@@ -1,1 +1,1 @@
-vless://62cb1273-d55e-4550-bc4f-1116fafe7f6b@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=%2Fstream&security=none&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:66.52ms
+vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&security=reality&sid=9b1cdc34dd5664&sni=www.icloud.com&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:180.08ms

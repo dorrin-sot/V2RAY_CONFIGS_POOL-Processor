@@ -1,0 +1,2 @@
+trojan://Config0plus@185.18.250.252:443?path=%2Fsg-melbi&security=tls&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#📡🇪🇸®️Spain©️Madrid🅿️ping:45.41ms
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&fp=chrome&allowInsecure=0#📡🇪🇸®️Spain©️Madrid🅿️ping:45.41ms

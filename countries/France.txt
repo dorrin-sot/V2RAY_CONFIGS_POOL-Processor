@@ -1,2 +1,2 @@
-vless://d108c1e2-8dd3-4f43-b851-e7422c7d9685@162.19.181.33:443?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:27.99ms
-vless://d108c1e2-8dd3-4f43-b851-e7422c7d9685@162.19.181.33:443?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:27.99ms
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@down.spectrum.vu:443?encryption=none&fp=chrome&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&security=reality&serviceName=vless&sid=f2a6d1c1e4b8&sni=down.spectrum.vu&type=grpc#📡🇫🇷®️France©️Strasbourg🅿️ping:69ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:27ms

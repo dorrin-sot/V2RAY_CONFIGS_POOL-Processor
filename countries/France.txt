@@ -1,1 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇫🇷®️France©️Paris🅿️ping:59.06ms
+vless://d108c1e2-8dd3-4f43-b851-e7422c7d9685@162.19.181.33:443?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:27.99ms
+vless://d108c1e2-8dd3-4f43-b851-e7422c7d9685@162.19.181.33:443?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:27.99ms

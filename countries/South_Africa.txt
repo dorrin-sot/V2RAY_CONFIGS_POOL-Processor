@@ -1,2 +1,0 @@
-trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&headerType=none&sni=www.cdn-setting.click&fp=chrome&allowInsecure=1#📡🇿🇦®️South Africa©️Johannesburg🅿️ping:722.98ms
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#📡🇿🇦®️South Africa©️Johannesburg🅿️ping:722.98ms

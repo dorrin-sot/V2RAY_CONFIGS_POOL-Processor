@@ -1,0 +1,2 @@
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d82fb387&fp=safari&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:65.13ms
+vless://948d95e3-ac6d-41a5-a8cd-5ac9faeb6e9b@static.noxt.ir:443?security=none&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:93.38ms

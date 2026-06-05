@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4TnNKZmpGbk0zTXdDX1pEMk1kenBCUlgxMFJtYnVqYQ%3D%3D@pl.moktana.app:51523#📡🇵🇱®️Poland©️Warsaw🅿️ping:78.72ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:44.41ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:44.61ms
-vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=302882d7abd6fa5c#📡🇵🇱®️Poland©️Warsaw🅿️ping:79.12ms
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#📡🇵🇱®️Poland©️Warsaw🅿️ping:74.5ms
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@217.30.10.70:9088#📡🇵🇱®️Poland©️Warsaw🅿️ping:45.21ms

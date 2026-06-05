@@ -1,2 +1,0 @@
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#📡🇨🇳®️China©️Haidian (Haidian Qu)🅿️ping:26.64ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#📡🇨🇳®️China©️Lanzhou (Chengguan District, Lanzhou)🅿️ping:44.1ms

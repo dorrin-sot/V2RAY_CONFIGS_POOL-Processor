@@ -1,4 +1,1 @@
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#📡🇭🇰®️Hong Kong©️Central🅿️ping:190.79ms
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#📡🇭🇰®️Hong Kong©️Central🅿️ping:184.67ms
-vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.69ms
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@103.160.204.254:8443?path=%2Fproxyip%3D45.12.143.73%2C138.124.107.132%2C45.89.52.85%2C83.217.9.81%2C188.132.183.17%2C138.124.107.35%2C185.234.66.91%2C94.131.123.74&security=tls&encryption=none&insecure=0&host=bobbyv2-tel.alvlirm2022.workers.dev&fp=random&type=ws&allowInsecure=0&sni=bobbyv2-tel.alvlirm2022.workers.dev#📡🇭🇰®️Hong Kong©️San Po Kong🅿️ping:42.91ms
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:250ms

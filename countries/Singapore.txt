@@ -1,2 +1,1 @@
-vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F15284%2Fcoffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:60.78ms
-vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=%2F15284%2Fcoffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:60.78ms
+vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:73.19ms

@@ -1,7 +1,2 @@
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.82ms
-vless://07548ad1-b94e-44ee-90a1-3e6d879126db@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:44.16ms
-vless://07548ad1-b94e-44ee-90a1-3e6d879126db@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:44.16ms
-vless://aedebd55-5154-4072-9988-5431fa2610c5@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:48.49ms
-vless://aedebd55-5154-4072-9988-5431fa2610c5@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:48.49ms
-vless://ef15cf8d-db5c-49b6-b868-2f980baf54b7@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:44.16ms
-vless://ef15cf8d-db5c-49b6-b868-2f980baf54b7@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:44.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:43.35ms
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.172:443?security=tls&sni=xw.ylks.xyz&type=ws&path=%2Fblue#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:43.35ms

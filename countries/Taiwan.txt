@@ -1,4 +1,0 @@
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?security=tls#📡🇹🇼®️Taiwan©️Taipei🅿️ping:271ms
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?security=tls#📡🇹🇼®️Taiwan©️Taipei🅿️ping:280ms
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a12.taipeicitygovernment.org.ua:3462?security=tls#📡🇹🇼®️Taiwan©️Xindian District🅿️ping:425ms
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a12.taipeicitygovernment.org.ua:3462?security=tls#📡🇹🇼®️Taiwan©️Xindian District🅿️ping:463ms

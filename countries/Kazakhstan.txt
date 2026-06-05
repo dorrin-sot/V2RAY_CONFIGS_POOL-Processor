@@ -1,0 +1,2 @@
+vless://c835d8ab-5258-4073-9019-db4cc321c7fc@31.43.179.111:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&headerType=&path=%2F&host=AMbErPuLsE9.x-uPloAd.oRG&sni=AMbErPuLsE9.x-uPloAd.oRG&fp=#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:45.38ms
+vless://c835d8ab-5258-4073-9019-db4cc321c7fc@31.43.179.111:2096?security=tls&type=ws&headerType=&path=%2F&host=AMbErPuLsE9.x-uPloAd.oRG&sni=AMbErPuLsE9.x-uPloAd.oRG&fp=#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:45.38ms

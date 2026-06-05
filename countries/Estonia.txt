@@ -1,1 +1,0 @@
-trojan://ICVPNN@45.80.108.236:8443?path=%2Fapii&security=tls&insecure=0&host=ntlfy.letknow.shop&fp=random&type=ws&allowInsecure=0&sni=ntlfy.letknow.shop#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:44.81ms

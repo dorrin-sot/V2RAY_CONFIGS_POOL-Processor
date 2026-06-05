@@ -1,0 +1,3 @@
+trojan://telegram-id-privatevpns@15.236.157.22:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.39ms
+trojan://telegram-id-privatevpns@15.236.157.22:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.39ms
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#📡🇫🇷®️France©️Paris🅿️ping:38.12ms

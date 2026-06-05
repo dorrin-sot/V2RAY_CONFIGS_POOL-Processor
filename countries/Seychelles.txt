@@ -1,1 +1,2 @@
-vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=%2Fsg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.86ms
+vless://493da04d-dca2-4306-acaf-f3005ea69392@45.130.125.158:80?path=%2F&security=none&encryption=none&host=mtn.dgclix.ir&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.14ms
+vless://c75c49cd-4930-47c9-8247-29889a13f23c@45.130.125.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=zaintest.vuclip.com.cyylr.eu.cc&path=%2Fmy-wbv&security=tls&sni=zaintest.vuclip.com.cyylr.eu.cc&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.9ms

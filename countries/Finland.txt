@@ -1,6 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4TnNKZmpGbk0zTXdDX1pEMk1kenBCUlgxMFJtYnVqYQ%3D%3D@85.192.48.87:51523#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.05ms
-vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@85.192.49.172:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=xyz&sni=fi.moktana.app&sid=93d9bca8c5a45a49#📡🇫🇮®️Finland©️Helsinki🅿️ping:24.54ms
-vless://jfjngbbno65d-7255-422a-afe4-e499bc0163e3@fin.fullnetmax.ir:675?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.17ms
-vless://jfjngbbno65d-7255-422a-afe4-e499bc0163e3@fin.fullnetmax.ir:675?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.17ms
-vless://jfnagbbno65d-7255-422a-afe4-e499bc0163e3@fin.fullnetmax.ir:675?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.17ms
-vless://jfnagbbno65d-7255-422a-afe4-e499bc0163e3@fin.fullnetmax.ir:675?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNybmYyM3VqZXA0aG5l@game.arianplanet.info:443#📡🇫🇮®️Finland©️Helsinki🅿️ping:219.36ms

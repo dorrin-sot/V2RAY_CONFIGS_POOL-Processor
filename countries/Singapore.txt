@@ -1,1 +1,2 @@
-vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:73.19ms
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:187.46ms
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:187.46ms

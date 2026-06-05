@@ -1,5 +1,5 @@
-vless://43ee5c8d-73bc-4375-a31f-892c88dc8c21@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:54.94ms
-vless://4a35db27-475f-45b2-9454-235cd8c7c470@VaRzEsH3.coM:8880?path=%2F&security=none&encryption=none&host=PiNg.777q.iR&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:54.54ms
-vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:69.42ms
-vless://c835d8ab-5258-4073-9019-db4cc321c7fc@snapp.ir:2082?security=none&type=ws&headerType=&path=%2FTV&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.48ms
-vless://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:34.29ms
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?encryption=none&type=xhttp&security=tls&path=%2F%3Fed%3D2053&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&sni=ssj.new-persian-song.ir&alpn=h3%2Ch2&fp=chrome&allowInsecure=1#📡🇮🇷®️Iran©️Tehrān🅿️ping:133.93ms
+vless://922cc495-8b9d-4c2d-9478-306a01579902@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.41ms
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:133.93ms
+vless://ff1fc547-524d-47c7-a348-c2d8808b7eb1@tamin.ir:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=big1.sedighi0915.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.6ms
+vless://ff1fc547-524d-47c7-a348-c2d8808b7eb1@tamin.ir:2052?path=%2F&security=none&encryption=none&host=big1.sedighi0915.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.6ms

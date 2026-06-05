@@ -1,3 +1,1 @@
-vless://0af92958-4ed7-4e66-b5a9-952ef155d57c@162.19.181.33:443?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:27.98ms
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?flow=&type=tcp&headerType=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&fp=chrome&allowInsecure=1&echfq=none#📡🇫🇷®️France©️Paris🅿️ping:37.82ms
-vless://c835d8ab-5258-4073-9019-db4cc321c7fc@bLiT33.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#📡🇫🇷®️France©️Aubervilliers🅿️ping:69.86ms
+trojan://telegram-id-privatevpns@13.39.126.73:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:37.61ms

@@ -1,11 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UFYxSEdaY2xWX19TbUlRVEExUS1n@18.192.121.76:1004#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.11ms
-ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@162.19.254.232:2083#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:37.58ms
-ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.65ms
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.52:443#📡🇩🇪®️Germany©️Eschborn🅿️ping:66.56ms
-vless://0af92958-4ed7-4e66-b5a9-952ef155d57c@162.19.181.33:443?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:90.28ms
-vless://2c9db74e-4cab-45e6-ae93-df1f977e4ca5@93.114.56.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qRasWIKfxBhpvMwAaGWD1Uyopo9XsWQpYwEpPellyzk&security=reality&sid=bde91ccc1f&sni=images.apple.com&spx=%2FY4kgRiGNBIZ3BCQ&type=tcp#📡🇩🇪®️Germany©️Eschborn🅿️ping:27.03ms
-vless://6a49cc7b-8650-4e7c-933a-7d240e1e5296@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:90.28ms
-vless://87ed681b-a3f7-4915-afb2-74f28d07c0ab@18.192.121.76:1005?security=none&type=tcp&headerType=&path=&host=#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.63ms
-vless://87ed681b-a3f7-4915-afb2-74f28d07c0ab@18.192.121.76:1007?security=reality&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=11v-ABEwOANJiICMQUwHPiARAiWHBDn3D5_MV5ODuFg&sid=c515314f1dcc95d1#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.88ms
-vless://906a8afb-0508-0015-8926-7a754dd62db5@de02.goodmaximum.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=archive.glimmerhouse.com&sid=21181028b56c8702#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:66.36ms
-vless://c835d8ab-5258-4073-9019-db4cc321c7fc@bLiT2.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#📡🇩🇪®️Germany©️Eschborn🅿️ping:66.56ms
+vless://22a40349-fb20-4f7e-9bb8-20b4ec0a2784@www.harkarsaz.ir:443?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:61.45ms
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.05ms
+vless://dd0a1a36-cfbf-48ae-8436-4f0388b94b36@5.75.196.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=6f7ed5&sni=www.cloudflare.com&spx=%2FyGcn9VmlLfNSF0x&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:30.06ms

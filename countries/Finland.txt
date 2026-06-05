@@ -1,1 +1,2 @@
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443/?type=tcp&encryption=none&flow=&sni=yastatic.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNybmYyM3VqZXA0aG5l@game.arianplanet.info:443#📡🇫🇮®️Finland©️Helsinki🅿️ping:60.5ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMVNBazNvX0N5ekFjUlFNajB5YmNva1VEVzNqb1JQbg@85.192.49.172:51523#📡🇫🇮®️Finland©️Helsinki🅿️ping:28.41ms

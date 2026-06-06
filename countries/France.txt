@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNlRvWU9naW13Ym85UFZhYVFidjh1@45.95.233.55:443#📡🇫🇷®️France©️Paris🅿️ping:31.51ms
-trojan://telegram-id-v2rayvpnchannel@51.44.200.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:34.23ms
-vless://aa70b216-9dc6-4032-90f3-eb2b98c687d5@gr.astonnetwork.xyz:2035?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:63.52ms
-vless://aa70b216-9dc6-4032-90f3-eb2b98c687d5@gr.astonnetwork.xyz:2035?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:63.52ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#📡🇫🇷®️France©️Paris🅿️ping:27.1ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#📡🇫🇷®️France©️Paris🅿️ping:27.1ms

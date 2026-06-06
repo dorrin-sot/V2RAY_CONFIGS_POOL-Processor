@@ -1,2 +1,2 @@
-vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=b4.aptudp.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:231.28ms
-vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&security=none&encryption=none&host=b4.aptudp.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:231.28ms
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?headertype=none&type=tcp#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:127.11ms
+vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&security=&encryption=none&host=b4.aptudp.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:231.28ms

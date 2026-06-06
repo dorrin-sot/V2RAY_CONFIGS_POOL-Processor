@@ -1,2 +1,1 @@
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:43.93ms
-vless://b73087cc-d34d-4a40-90b2-152fcf2d6913@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=bababenazam.co&type=xhttp#📡🇮🇪®️Ireland©️Dublin🅿️ping:43.93ms
+vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=&encryption=none&headerType=none&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:44.16ms

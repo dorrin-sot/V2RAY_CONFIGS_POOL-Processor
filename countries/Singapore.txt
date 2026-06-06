@@ -1,0 +1,2 @@
+vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=%2F15284%2Fcoffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:89.78ms
+vless://2dfe1788-4733-4b1b-f52b-2951085d0605@152.42.255.63:443?security=tls&amp;sni=m.viber.com&amp;type=ws&amp;path=%2F#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:179ms

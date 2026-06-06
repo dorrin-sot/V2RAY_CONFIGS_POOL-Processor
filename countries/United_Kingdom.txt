@@ -1,2 +1,0 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:32.95ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:32.95ms

@@ -1,2 +1,0 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&amp;sni=xs.ylks.xyz&amp;type=ws&amp;path=%2F%3Fproxyip#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:50ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=safari&amp;type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:59ms

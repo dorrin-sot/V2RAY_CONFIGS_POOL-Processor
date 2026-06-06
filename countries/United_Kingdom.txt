@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKNGlFR1FDc2ZEVU12S1NJOEpMNnBCNmFUNG5lWkVzSXdtY1d0MQ@91.216.155.20:41348#📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime50.workers.dev&path=%2F#📡🇬🇧®️United Kingdom©️Basingstoke🅿️ping:44ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime50.workers.dev&path=%2F#📡🇬🇧®️United Kingdom©️Basingstoke🅿️ping:47ms

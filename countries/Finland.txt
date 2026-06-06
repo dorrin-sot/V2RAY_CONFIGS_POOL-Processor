@@ -1,1 +1,1 @@
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@217.177.44.117:443?path=/&security=tls&encryption=none&insecure=0&host=damp-dawn-3a96.alvlirm123.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=damp-dawn-3a96.alvlirm123.workers.dev#📡🇫🇮®️Finland©️Helsinki🅿️ping:22.44ms
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@89.167.25.28:11005?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=tPxRwVtrFklP9kJ8kWgHIcR-XSBBkZiYbwGCAaBrtgE&sid=f98c&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=safari#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.33ms

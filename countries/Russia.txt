@@ -1,2 +1,0 @@
-vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?security=reality&encryption=none&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.kinopoisk.ru&sid=a987b6bd1781daa3#📡🇷🇺®️Russia©️St Petersburg🅿️ping:46.31ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?encryption=none&security=tls&fp=chrome&type=tcp&headerType=none#📡🇷🇺®️Russia©️Moscow🅿️ping:83.18ms

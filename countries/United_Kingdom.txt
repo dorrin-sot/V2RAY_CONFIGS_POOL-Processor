@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MGc3SlE4ZkVfa2o3UEtzUFlNNTVXZXprYnktYjRSNA@uk.bidimino.sbs:1080#📡🇬🇧®️United Kingdom©️London🅿️ping:76.0ms
-trojan://humanity@89.116.46.68:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#📡🇬🇧®️United Kingdom©️London🅿️ping:47.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKNGlFR1FDc2ZEVU12S1NJOEpMNnBCNmFUNG5lWkVzSXdtY1d0MQ@91.216.155.20:41348#📡🇬🇧®️United Kingdom©️London🅿️ping:36ms

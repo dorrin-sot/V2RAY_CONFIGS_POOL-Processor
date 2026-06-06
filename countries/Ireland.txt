@@ -1,1 +1,2 @@
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=&encryption=none&headerType=none&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:44.16ms
+vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:45.58ms
+vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:43.79ms

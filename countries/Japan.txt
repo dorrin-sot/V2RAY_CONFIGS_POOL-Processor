@@ -1,1 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:248.02ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:288.29ms

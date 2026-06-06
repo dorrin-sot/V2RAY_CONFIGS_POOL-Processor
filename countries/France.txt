@@ -1,0 +1,2 @@
+vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?encryption=none&fp=&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&security=reality&sid=239dcd11&sni=www.samsung.com&type=tcp#📡🇫🇷®️France©️Gravelines🅿️ping:33.0ms
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=bab-6.site&path=/vws/&sni=bab-6.site&fp=chrome#📡🇫🇷®️France©️Roubaix🅿️ping:35.68ms

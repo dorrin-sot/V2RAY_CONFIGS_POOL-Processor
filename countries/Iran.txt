@@ -1,3 +1,0 @@
-vless://39204ae1-0493-4f4b-b8e2-b296bd8d354f@s2.alaras1.online:8880?path=%2Fapi%2Fupdate&security=none&encryption=none&host=&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:131.0ms
-vless://cd8115d7-2b18-452c-8f71-aaf112c1caae@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:65.65ms
-vless://d476c809-5898-4a7c-b005-23f613e1940f@snapp.ir:2095?type=ws&security=none&path=/&host=s10.totgloucon.ir&sni=snapp.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.96ms

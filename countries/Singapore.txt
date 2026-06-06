@@ -1,2 +1,0 @@
-vless://a8b3395c-2fe7-4e0c-bd31-3f6abfad441b@168.222.43.222:2083?security=reality&encryption=none&pbk=KvfHUVOWF9qe7mHTRGUjGTJTk2NagEdNRQwibCskQgc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9c25fc8f#📡🇸🇬®️Singapore©️Singapore🅿️ping:25.38ms
-vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fstream&security=none&encryption=none&host=&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:75.64ms

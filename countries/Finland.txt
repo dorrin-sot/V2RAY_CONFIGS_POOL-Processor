@@ -1,2 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#📡🇫🇮®️Finland©️Helsinki🅿️ping:31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#📡🇫🇮®️Finland©️Helsinki🅿️ping:47.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k@download.riferoser.icu:56594#📡🇫🇮®️Finland©️Helsinki🅿️ping:68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3hXNk41U0FWcGdlcWkxd2Q3czd5eEQ3UzhQeGFlaFVNNVc4YXBIclFpM3BTb0RSWFNjb0FQazhTVmE0bUtidlJqcmdFTlUzZFVnelRncDlUM3JyWGluYURlNENYWWs@185.5.38.111:55988#📡🇫🇮®️Finland©️Helsinki🅿️ping:36ms
+trojan://SoftNetConnect@37.27.186.225:2053?type=grpc&security=reality&authority=37.27.186.225&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sIE5J86PiM-WzDh8wczW0r9qGp6XG1gEaSGd6Zze5hM&sid=9448cc&spx=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.35ms
+trojan://SoftNetConnect@37.27.186.225:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=wq6HPwfbqz2tlXnN5fGhLjL_PFwCdOwIiR38ZAbHUmI&sid=1f75&spx=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.27ms
+trojan://SoftNetConnect@37.27.186.225:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&sid=e7&spx=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.24ms

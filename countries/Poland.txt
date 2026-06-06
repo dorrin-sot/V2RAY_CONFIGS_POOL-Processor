@@ -1,3 +1,2 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:47.92ms
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:48.18ms
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=&encryption=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:47.92ms
+vless://dbb01f20-dc85-4f6b-a822-2bd483b4b7e2@64.176.70.35:80?type=tcp&host=a.vcdn.filimo.ir&path=/download/1942?file_id%3D933&headerType=http#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.18ms

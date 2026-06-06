@@ -1,0 +1,1 @@
+vless://d601f422-a626-4533-a3d9-8fddf16517b5@171.22.136.84:8443?type=ws&encryption=none&path=%2Ftest&host=play.google.com&security=none#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:101.91ms

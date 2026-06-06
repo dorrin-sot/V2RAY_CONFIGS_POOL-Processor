@@ -1,2 +1,2 @@
-vless://09ea0947-06f4-42df-9ea6-d1727a79a240@185.143.235.253:2082?path=%2FTV&security=&encryption=none&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:23.99ms
-vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&security=&encryption=none&host=b4.aptudp.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.99ms
+vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&security=&encryption=none&host=b4.aptudp.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:168.65ms
+vless://f30fc227-9197-4af0-ad5b-8f710c43cd2d@185.143.234.200:8080?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=cdn.namavax.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:37.96ms

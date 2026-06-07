@@ -1,5 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzY4ZjA1NTI0M2UyMjVm@135.125.219.2:12911#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.89ms
-vless://0cdda660-78fa-4313-922b-a9703fd6a800@kjfmbhgdqzvxwplyrntc.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:64.22ms
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.43ms
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.43ms
+trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@tyzrxwqpnlmmkcjbhfgd.sd.noafra.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:63.17ms
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@tyzrxwqpnlmmkcjbhfgd.sd.noafra.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:79ms
+vless://4f2d249f-f676-4909-bd53-73985738ae28@bLiT44.hAmRaHcOrE.iR:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=&encryption=none&host=play.google.com&type=ws#📡🇩🇪®️Germany©️Falkenstein🅿️ping:172ms
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.64ms
+vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.82ms
+vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.93ms
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24ms

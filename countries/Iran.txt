@@ -1,2 +1,2 @@
-vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&amp;type=ws&amp;path=%2F&amp;host=melli.santelacu.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:102ms
-vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=b4.aptudp.ir&amp;type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:65ms
+vless://0eb66ed1-57e0-49f7-b030-a00ad88789dc@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&path=%2F&host=server.amirmhmdi.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:99.78ms
+vless://e6bdccd7-d5ad-4aaf-3d53-4e6ce87ec534@snapp.ir:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=cdn2.darafiq.ir&path=%2FBetForward&security=tls&sni=cdn2.darafiq.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:65.77ms

@@ -1,1 +1,1 @@
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#📡🇪🇸®️Spain©️Madrid🅿️ping:55.31ms
+trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#📡🇪🇸®️Spain©️Madrid🅿️ping:45.9ms

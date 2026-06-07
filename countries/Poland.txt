@@ -1,1 +1,1 @@
-vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#📡🇵🇱®️Poland©️Warsaw🅿️ping:73.15ms
+vless://1e396eb9-0567-4775-a910-ac6ab45b0709@vppn2.b1212.ir:2083?encryption=none&fp=chrome&host=vppn2.b1212.ir&path=%2Fws&security=tls&sni=vppn2.b1212.ir&type=ws#📡🇵🇱®️Poland©️Warsaw (Śródmieście)🅿️ping:84.1ms

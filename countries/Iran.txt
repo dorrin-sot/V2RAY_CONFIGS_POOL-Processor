@@ -1,5 +1,6 @@
-vless://3d545eb4-74cc-47ca-8c4c-c37834f2dfae@185.143.235.212:2095/?type=ws&encryption=none&path=%2Fwskhan&host=dwn.budgetnet.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:24.92ms
-vless://af1a6686-f9b9-490f-ff30-3b6297237063@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn1.darafiq.ir&path=/BetForward&sni=cdn1.darafiq.ir&fp=chrome&alpn=h2,h3,http/1.1#📡🇮🇷®️Iran©️Tehrān🅿️ping:66.39ms
-vless://afb3eb91-6ab7-4c70-874e-716e2481cb7d@blubank.ir:80?path=%2F&security=none&encryption=none&host=vip.masterdadeh.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:70.27ms
-vless://f7ac761c-8158-455d-abff-d8b930a42918@Opi.digitall-tm.ir:48181?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:126.0ms
-vless://f7ac761c-8158-455d-abff-d8b930a42918@Opi.digitall-tm.ir:48181?type=tcp&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:126.0ms
+vless://757fbca6-c082-43eb-a811-d504f8f2763e@account.nazshap.ir:80?path=%2F&security=none&encryption=none&host=P2.nazshap.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:186.91ms
+vless://a1c30f35-e254-409c-89be-7754fed29ab0@87.107.193.3:8443?mode=gun&security=reality&encryption=none&pbk=XG7zu6GMH-maiYcacOIcbiDB9WwwNZLUmOkOp7nmcmw&fp=chrome&spx=%2F&type=grpc&serviceName=client&sni=www.sanjesh.org&sid=0f#📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:89.2ms
+vless://af1a6686-f9b9-490f-ff30-3b6297237063@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn1.darafiq.ir&path=/BetForward&sni=cdn1.darafiq.ir&fp=chrome&alpn=h2,h3,http/1.1#📡🇮🇷®️Iran©️Tehrān🅿️ping:67.94ms
+vless://bf945005-aacc-4e60-8c33-c1e2d538b7e1@172.64.152.23:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.iraniranshopdashnoard.ir&mode=auto&sni=Dnlu2.iraniranshopdashnoard.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:89.2ms
+vless://f7ac761c-8158-455d-abff-d8b930a42918@Opi.digitall-tm.ir:48181?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:160.48ms
+vless://f7ac761c-8158-455d-abff-d8b930a42918@Opi.digitall-tm.ir:48181?type=tcp&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:160.48ms

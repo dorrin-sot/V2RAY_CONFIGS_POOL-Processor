@@ -1,3 +1,2 @@
-trojan://humanity@185.18.250.245:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44.82ms
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44.82ms
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44.76ms
+vless://8449887d7cd055d06646951bc8bc2d08@185.18.250.252:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#📡🇪🇸®️Spain©️Madrid🅿️ping:43ms
+vless://8449887d7cd055d06646951bc8bc2d08@185.18.250.252:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#📡🇪🇸®️Spain©️Madrid🅿️ping:45ms

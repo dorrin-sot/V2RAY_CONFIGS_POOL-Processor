@@ -1,1 +1,0 @@
-vless://92d41509-4228-43da-aebb-70b1d8d68f04@swiss.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=swiss.janusgate.org&sid=76dc11867a5c907a#📡🇨🇭®️Switzerland©️Bern🅿️ping:66.07ms

@@ -1,2 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0#📡🇷🇺®️Russia©️Moscow🅿️ping:74.33ms
-vless://bd78d4ee-c068-4125-94ba-50814578dc41@ru.riotvpn.eu:80?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#📡🇷🇺®️Russia©️Moscow🅿️ping:71.98ms
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@91.186.199.129:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=gwapp-ru01.freenets.store#📡🇷🇺®️Russia©️St Petersburg🅿️ping:39ms
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@91.186.199.129:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=gwapp-ru01.freenets.store#📡🇷🇺®️Russia©️St Petersburg🅿️ping:51ms

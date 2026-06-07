@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@45.95.233.82:8388#📡🇫🇷®️France©️Aubervilliers🅿️ping:174.16ms
-trojan://humanity@141.193.213.11:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&host=www.calmloud.com&type=ws&sni=www.calmloud.com#📡🇫🇷®️France©️Paris🅿️ping:26.7ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.7ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.7ms
+vless://00000000-0000-4000-8000-000000000000@213.165.48.180:17071?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:31ms

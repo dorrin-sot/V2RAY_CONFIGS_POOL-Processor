@@ -1,0 +1,1 @@
+vless://803dacf3-f03e-4b05-86a8-af14b2af09c2@168.222.43.222:2083?security=reality&encryption=none&pbk=KvfHUVOWF9qe7mHTRGUjGTJTk2NagEdNRQwibCskQgc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9c25fc8f#📡🇸🇬®️Singapore©️Singapore🅿️ping:25.95ms

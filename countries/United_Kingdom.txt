@@ -1,3 +1,5 @@
-trojan://78defd88-d333-67a5-9c34-d3bcef5816eb@45.12.30.95:443?path=%2F%40TirexNet&security=tls&insecure=0&host=tirex.sugarbreaker1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tirex.sugarbreaker1.workers.dev#📡🇬🇧®️United Kingdom©️London🅿️ping:44.91ms
-vless://47f2f901-8f10-437d-871e-48f1d6550cf5@45.12.30.95:2086?type=httpupgrade&encryption=none&security=none&path=%2F&host=beh4.salonemojallal.ir#📡🇬🇧®️United Kingdom©️London🅿️ping:43.05ms
-vless://47f2f901-8f10-437d-871e-48f1d6550cf5@45.12.30.95:2086?type=httpupgrade&encryption=none&security=none&path=%2F&host=beh4.salonemojallal.ir#📡🇬🇧®️United Kingdom©️London🅿️ping:47.49ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:56.54ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:59.91ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:54.58ms
+vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@uk.riotvpn.eu:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=chrome&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&flow=xtls-rprx-vision#📡🇬🇧®️United Kingdom©️London🅿️ping:89.79ms
+vless://47f2f901-8f10-437d-871e-48f1d6550cf5@45.12.30.95:2086?path=%2F&security=none&encryption=none&host=beh4.salonemojallal.ir&type=httpupgrade#📡🇬🇧®️United Kingdom©️London🅿️ping:46.02ms

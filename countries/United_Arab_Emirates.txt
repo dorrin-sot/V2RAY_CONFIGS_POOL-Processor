@@ -1,0 +1,1 @@
+vless://7e3503ef-2bd8-40bd-a4fc-f3a9f5e787b7@94.140.0.0:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=usaop.nextigo.app&fp=chrome&type=ws&allowInsecure=0&sni=usaop.nextigo.app#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:45.8ms

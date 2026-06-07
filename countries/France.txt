@@ -1,1 +1,1 @@
-vless://%40free_conf_iran@f.mamish.ir:7018?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=VFLtoNzHBUkrPoY1-uXpx2_IvxrLcT3YAo656Nj4Cgk&amp;fp=firefox&amp;spx=%2F05kSkCYVRD8FxtJ&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=use.fontawesome.com&amp;sid=e0c129#📡🇫🇷®️France©️Gravelines🅿️ping:99ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;allowInsecure=0#📡🇫🇷®️France©️Paris🅿️ping:59ms

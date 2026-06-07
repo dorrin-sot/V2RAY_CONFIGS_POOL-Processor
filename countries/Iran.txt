@@ -1,7 +1,2 @@
-vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&amp;type=ws&amp;path=%2F&amp;host=melli.santelacu.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:138ms
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2082?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:24.93ms
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2082?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:24.93ms
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@snapp.ir:2082?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:101.41ms
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@snapp.ir:2082?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:101.41ms
-vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=b4.aptudp.ir&amp;type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:98ms
-vless://f30fc227-9197-4af0-ad5b-8f710c43cd2d@185.143.234.200:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.namavax.ir&amp;type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:40ms
+vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&amp;type=ws&amp;path=%2F&amp;host=melli.santelacu.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:102ms
+vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=b4.aptudp.ir&amp;type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:65ms

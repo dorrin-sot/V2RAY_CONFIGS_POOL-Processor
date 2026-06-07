@@ -1,1 +1,3 @@
-vless://00000000-0000-4000-8000-000000000000@213.165.48.180:17071?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:31ms
+vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.154.96.237:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#📡🇫🇷®️France©️Paris🅿️ping:58.89ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:58.37ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:57.31ms

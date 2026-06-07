@@ -1,1 +1,2 @@
-vless://de12c39e-85e9-4d57-9a1b-045265e6756c@varzesh3.com:2086?encryption=none&type=ws&host=srv2.khavarpress.ir&path=/&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:54.61ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VVpRYU4vMVhrblZ3YWdUVUY2Qyt0VzhDeGdaNHhkcFJCOXUzMmJDVytYZz06WlFhYWpQeVFXVnptTkIvZ1RaZkZkRTVJRHVvejNaN3pSQXN4dEJUcTRGND0%3D@37.32.8.201:443#📡🇮🇷®️Iran©️Tehran🅿️ping:87.41ms
+vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:64.92ms

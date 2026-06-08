@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ZlJ3ZHJlTGFCT0d3VXpDYVdtdklO@195.93.253.240:14130#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:34.2ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:43.21ms
+vless://be2e1543-d450-481b-a955-c691086e41b1@se-modx.nodexphere.net:443?security=reality&encryption=none&pbk=zBMeyXgwFrSUKT60bU85vFEKWzcsprb7NtILQAezrgI&host=CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se-modx.nodexphere.net#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:111.51ms

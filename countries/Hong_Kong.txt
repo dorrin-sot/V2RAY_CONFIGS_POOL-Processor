@@ -1,1 +1,1 @@
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&headerType=none&type=tcp&sni=gj1.sonofthewinds.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:317.74ms
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?type=tcp&security=tls&sni=gj1.sonofthewinds.com&allowInsecure=0#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:323.06ms

@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#📡🇹🇷®️Turkey©️Istanbul🅿️ping:66.32ms
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=%2F&security=none&encryption=none&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:142.74ms
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:136.04ms
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=www.google.com&fp=random&allowInsecure=1&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#📡🇹🇷®️Turkey©️Istanbul🅿️ping:78.75ms

@@ -1,0 +1,1 @@
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#📡🇪🇸®️Spain©️Madrid🅿️ping:42.09ms

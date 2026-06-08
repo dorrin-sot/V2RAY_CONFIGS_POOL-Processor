@@ -1,4 +1,0 @@
-vless://01e388b7-61be-4aee-befc-fec3c48fac16@185.143.234.21:80?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.greenetplus.ir&path=/#📡🇮🇷®️Iran©️Tehrān🅿️ping:46.12ms
-vless://1ecfc07d-5ab5-46cd-8438-02ff221b1881@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:119.29ms
-vless://3d545eb4-74cc-47ca-8c4c-c37834f2dfae@185.143.235.212:2095?path=%2Fwskhan&security=none&encryption=none&host=dwn.budgetnet.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:29.64ms
-vless://639bddc6-1cab-472a-b7ed-96c3bcc25f68@blubank.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:72.15ms

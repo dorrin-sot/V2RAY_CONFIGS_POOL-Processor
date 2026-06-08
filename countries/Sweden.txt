@@ -1,2 +1,0 @@
-vless://96c61a45-48e2-5a7b-8547-adee329f65a2@185.146.173.29:443?security=tls&sni=no2.vless.site&type=ws&host=no2.vless.site&path=%2Fvless#📡🇸🇪®️Sweden©️Stockholm🅿️ping:43.95ms
-vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@143.14.50.249:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=MJsIaoeYt-qnokhHqSKjLQri0cddD7lKXQAGV34v3TI&fp=edge&type=xhttp&sni=www.amd.com#📡🇸🇪®️Sweden©️Stockholm🅿️ping:39.27ms

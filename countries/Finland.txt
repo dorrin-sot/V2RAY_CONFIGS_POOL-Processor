@@ -1,2 +1,1 @@
-trojan://SoftNetConnect@46.62.201.63:443?security=reality&pbk=7QujZCFY-5FCBpHciv7YuzmE0eoqqkH3UyPKoW9ny1E&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=53#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.48ms
-trojan://SoftNetConnect@46.62.201.63:8443?mode=auto&path=%2F&security=reality&pbk=zlby5WkWr3w-PJrnYt3yR3dYZr2XFhhskipKhXiAvwk&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=d1fa730272a126f8#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bmRDUDJEZjktUFR4X0owc1plb0htVGR2a2cwdzRLdg%3D%3D@144.31.7.129:51523?type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.64ms

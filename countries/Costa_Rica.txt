@@ -1,0 +1,1 @@
+vless://6e0f8004-0c60-4f16-9e82-0b5404314947@190.93.245.187:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=Arm.irancharting.ir&type=xhttp&allowInsecure=1&sni=Arm.irancharting.ir#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:45.86ms

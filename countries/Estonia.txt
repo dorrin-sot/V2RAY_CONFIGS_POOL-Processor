@@ -1,2 +1,0 @@
-vless://033f6ad0-90c1-4ebf-ac12-09d158a13daa@s2.fastfilex.pro:8080?type=xhttp&security=reality&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#📡🇪🇪®️Estonia©️Tallinn🅿️ping:91.63ms
-vless://74b6eee7-898d-4f32-9987-a035210ec5e2@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=travel.yandex.ru&type=tcp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:91.63ms

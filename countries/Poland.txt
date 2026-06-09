@@ -1,4 +1,0 @@
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=vk&allowInsecure=0&sni=ru-vk-2.1001notes.ru#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.19ms
-vless://2fb73fb6-1fa1-422e-ad82-a1a7b5f11078@31.76.122.149:8080?type=xhttp&security=reality&path=%2F&sni=ozon.ru&fp=chrome&pbk=fpWRXtm9TN1a0C7h9ZoA0SZ736ONC_ISOuoOvVnPJDU&sid=6d6f13013d3e1d0c#📡🇵🇱®️Poland©️Warsaw🅿️ping:43.8ms
-vless://68e18c0f-51d9-4ab6-b545-e590bf38e164@82.40.62.5:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&allowInsecure=0&encryption=none&type=ws&host=play.google.com&path=/Manoch#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.19ms
-vless://68e18c0f-51d9-4ab6-b545-e590bf38e164@82.40.62.5:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=play.google.com&path=/Manoch#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.19ms

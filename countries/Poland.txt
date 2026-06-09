@@ -1,0 +1,1 @@
+vless://7804a0aa-26bb-4665-a710-2b212eb2e13b@82.40.62.5:8080?encryption=none&host=play.google.com&path=%2FManoch&security=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:42.0ms

@@ -1,3 +1,1 @@
-vless://1f1835c6-7401-4798-be18-50d6a7b0e1ba@5.10.214.53:443?security=tls&type=xhttp&headerType=&path=&host=www.walkerpubg.ir&mode=auto&sni=www.walkerpubg.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#📡🇬🇧®️United Kingdom©️London🅿️ping:44.99ms
-vless://7b241232-208d-4d36-857e-913f91b044f4@165.231.33.235:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:34.12ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#📡🇬🇧®️United Kingdom©️London🅿️ping:43.19ms
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=%2F&security=none&encryption=none&host=mci.ir&type=httpupgrade#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:39.29ms

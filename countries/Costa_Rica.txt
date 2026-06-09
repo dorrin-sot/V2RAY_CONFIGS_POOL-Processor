@@ -1,0 +1,1 @@
+vless://3cce031e-d6c2-4ca1-b6bc-d6c16f1e3f13@190.93.246.137:8443?encryption=none&type=ws&host=new2.arshia-nova.ir&path=/api/v2/stream&security=tls&fp=chrome&sni=new2.arshia-nova.ir&alpn=http/1.1#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:45.55ms

@@ -1,0 +1,6 @@
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:32.82ms
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:32.82ms
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&security=tls&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:64.41ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:36.65ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:36.65ms
+vless://f969dcaf-2f06-475d-91eb-c1405cc5da25@haji.amod.site:20713?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:63.31ms

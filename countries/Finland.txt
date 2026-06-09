@@ -1,3 +1,0 @@
-vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:37.39ms
-vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?encryption=none&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:37.39ms
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:27.79ms

@@ -1,1 +1,2 @@
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.mesaly.click#📡🇦🇹®️Austria©️Vienna🅿️ping:42.96ms
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇦🇹®️Austria©️Vienna🅿️ping:46.78ms
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@az4.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=travel.yandex.ru&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#📡🇦🇹®️Austria©️Vienna (Floridsdorf)🅿️ping:130.84ms

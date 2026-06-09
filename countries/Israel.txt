@@ -1,0 +1,1 @@
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&security=tls&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&sni=cdn.tracker.yandex.net&fp=chrome#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:42.03ms

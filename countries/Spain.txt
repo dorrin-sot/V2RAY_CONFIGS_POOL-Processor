@@ -1,2 +1,1 @@
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44.67ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44.67ms
+trojan://trojan@109.234.211.66:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&insecure=0&host=store.timimi.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=store.timimi.dpdns.org#📡🇪🇸®️Spain©️Madrid🅿️ping:44.89ms

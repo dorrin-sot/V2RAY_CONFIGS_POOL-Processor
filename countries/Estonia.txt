@@ -1,0 +1,2 @@
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@185.36.141.193:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:57.39ms
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@46.36.221.147:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#📡🇪🇪®️Estonia©️Jõhvi🅿️ping:62.62ms

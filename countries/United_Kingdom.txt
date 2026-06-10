@@ -1,2 +1,1 @@
-vless://10484bee-8516-400a-9b1e-efb5144ad324@31.77.201.3:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#📡🇬🇧®️United Kingdom©️London🅿️ping:37.2ms
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?mode=multi&security=&encryption=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:52ms
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=%2F&security=none&encryption=none&host=mci.ir&type=httpupgrade#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:532.04ms

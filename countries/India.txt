@@ -1,0 +1,2 @@
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.12.146.12:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#📡🇮🇳®️India©️Ujjain🅿️ping:215.67ms
+vless://d78333ef-e2ab-44bf-93a6-705809912505@incdn1.kinotorg.net:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=incdn1.kinotorg.net#📡🇮🇳®️India©️Ujjain🅿️ping:215.67ms

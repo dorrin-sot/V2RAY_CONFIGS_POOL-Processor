@@ -1,2 +1,0 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇹🇼®️Taiwan©️Xindian District🅿️ping:364ms
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇹🇼®️Taiwan©️Xindian District🅿️ping:378ms

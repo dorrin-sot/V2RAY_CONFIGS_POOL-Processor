@@ -1,2 +1,0 @@
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#📡🇵🇱®️Poland©️Warsaw🅿️ping:81ms
-vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=panel.dibaux.ir&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:75ms

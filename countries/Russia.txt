@@ -1,6 +1,1 @@
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@ru.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#📡🇷🇺®️Russia©️Moscow🅿️ping:96.17ms
-vless://3ce8cb5f-21f5-4140-9655-f163615b8405@89.169.90.8:443?security=tls&type=xhttp&path=%2Fxhttppath&sni=top1174643266.mwscdn.ru&fp=chrome&mode=auto&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:66ms
-vless://6a6ce56b-2ec2-4a88-9c13-f46d7aeae71a@89.169.90.8:443?security=tls&type=xhttp&path=%2Fxhttppath&sni=top1174643266.mwscdn.ru&fp=chrome&mode=auto&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:62ms
-vless://6a6ce56b-2ec2-4a88-9c13-f46d7aeae71a@89.169.90.8:443?security=tls&type=xhttp&path=%2Fxhttppath&sni=top3259365054.mwscdn.ru&fp=chrome&mode=auto&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:66ms
-vless://7c39a8d4-bf7e-40aa-990e-cb2aaa53f72a@193.168.46.180:443?security=reality&type=tcp&sni=rruu.persik.host&fp=firefox&flow=xtls-rprx-vision&sid=c1a7e9b4711d5f60&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&encryption=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:56ms
-vless://d58884c2-731d-43d5-87f5-f60ab74b7852@193.168.46.180:443?security=reality&type=tcp&sni=rruu.persik.host&fp=qq&flow=xtls-rprx-vision&sid=c1a7e9b4711d5f60&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&encryption=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:67ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdk50VnVMdkhwWlZBcjhSTVZSV1Ji@193.233.18.234:443#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:89.81ms

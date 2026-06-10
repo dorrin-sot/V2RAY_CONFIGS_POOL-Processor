@@ -1,1 +1,0 @@
-trojan://Masir_Sefid@37.156.45.168:443?type=tcp&security=reality&headerType=none&sni=store.steampowered.com&fp=chrome&allowInsecure=1&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&sid=d67d2e36&spx=%2FFQDh1KA6NaPaGpV#📡🇨🇭®️Switzerland©️Geneva🅿️ping:43.5ms

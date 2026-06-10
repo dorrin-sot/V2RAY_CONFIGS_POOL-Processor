@@ -1,1 +1,0 @@
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.216:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe#📡🇫🇷®️France©️Paris🅿️ping:31.5ms

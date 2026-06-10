@@ -1,1 +1,1 @@
-vless://0e074e87-fc9c-4431-8b36-0d3151d34937@185.39.204.106:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=forum.rtnode.site&fp=firefox&security=reality&pbk=shzrAtGAgb8PlkSl6PFkSMecPpWGilZAmPBa_smQ9U4&sid=853195ccefcc5d4b#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68.04ms
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#📡🇹🇷®️Turkey©️Istanbul🅿️ping:110.9ms

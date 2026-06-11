@@ -1,2 +1,0 @@
-vless://53707df1-4a41-4b9f-82b1-84e3ee6c76d8@185.189.58.195:29703?encryption=none&host=185.189.58.195&path=ws&security=none&type=ws#📡🇮🇪®️Ireland©️Rosscarbery (Ardagh West)🅿️ping:27.89ms
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=&encryption=none&headerType=none&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:45.68ms

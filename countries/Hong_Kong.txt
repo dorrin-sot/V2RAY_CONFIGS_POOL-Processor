@@ -1,1 +1,5 @@
-trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:220.31ms
+ss://YWVzLTEyOC1nY206YWMxN2UyYzQtMmM5Mi00YWE2LThiYWYtMjcwNWE4NTQ5ZWM2@mn.qwer-cn.org:10924#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:59.85ms
+ss://YWVzLTEyOC1nY206YWMxN2UyYzQtMmM5Mi00YWE2LThiYWYtMjcwNWE4NTQ5ZWM2@mn.qwer-cn.org:10929#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:573.72ms
+ss://YWVzLTEyOC1nY206YWMxN2UyYzQtMmM5Mi00YWE2LThiYWYtMjcwNWE4NTQ5ZWM2@mn.qwer-cn.org:10936#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:59.28ms
+ss://YWVzLTEyOC1nY206YWMxN2UyYzQtMmM5Mi00YWE2LThiYWYtMjcwNWE4NTQ5ZWM2@mn.qwer-cn.org:10937#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:57.46ms
+vless://a7e9b227-57bb-44b3-ac47-58367a40adf8@64.49.46.222:51008?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=firefox&pbk=Uky5TgbjFFB6vRNwV2h0MtFnXAeNuF2PnnjNwm0V3mc&sid=01e2f1822d288f0a&spx=%2F&flow=xtls-rprx-vision#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:205.66ms

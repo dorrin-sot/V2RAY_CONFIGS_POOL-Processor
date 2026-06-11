@@ -1,0 +1,1 @@
+vless://e37cb81c-221c-47af-9e27-1145b1795aeb@img.openaether.cn:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dpi.mmadcoffee.info&path=/16509/e37cb81c¬e=#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:61.11ms

@@ -1,1 +1,0 @@
-vless://5fb6c5d2-629b-48c6-bb3c-595caf2007ee@47.80.24.245:8132?security=reality&type=grpc&mode=gun&serviceName=grpc&allowInsecure=1&sni=addons.mozilla.org&fp=firefox&pbk=ZXcygBPTlVUgYDMViBKgs2TXyRHcxVzo4lycLXOG1GQ#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:287.15ms

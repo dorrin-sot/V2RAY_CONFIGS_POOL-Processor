@@ -1,0 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.1.14:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.83ms
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#📡🇯🇵®️Japan©️Shibuya City🅿️ping:263ms
+vless://5cbdfbb1-cdcc-4448-95c2-b1f3aed8d9c5@13.159.91.226:20312?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=firefox&pbk=0rtwJI2LRYd35hN1SsoG5tAiH0sasbxBs230lcCmSHE&sid=1a124fe241cd9fab&spx=%2F&flow=xtls-rprx-vision#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249ms
+vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:250ms

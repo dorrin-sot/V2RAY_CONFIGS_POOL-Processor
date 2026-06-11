@@ -1,2 +1,0 @@
-vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@109.120.183.69:443?flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=4f61d0728e062b&sni=max.ru&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:45.89ms
-vless://5e01d0a3-22a1-4de2-8af0-fbc00934089d@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#📡🇷🇺®️Russia©️St Petersburg🅿️ping:48.42ms

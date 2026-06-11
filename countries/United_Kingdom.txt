@@ -1,1 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#📡🇬🇧®️United Kingdom©️Erith🅿️ping:40.56ms
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.149:8080#📡🇬🇧®️United Kingdom©️Cults🅿️ping:35.0ms
+vless://c75b739b-832a-41c8-8b7e-9c6fb7b20b9b@31.76.50.109:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Ueqd3mFmtmBODNPEA2zOnS1L3FrcS0bLweBZQW5xmmw&sid=6069ba5ecbf75abb&sni=a.wb.ru#📡🇬🇧®️United Kingdom©️London🅿️ping:27.49ms
+vless://f885cecc-a6ea-4e9b-87da-c7dc4b745348@uk.riotvpn.eu:8443?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&amp;fp=qq&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=avatars.mds.yandex.net&amp;sid=844352756c1fabba#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:71.66ms

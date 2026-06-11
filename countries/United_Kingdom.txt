@@ -1,0 +1,2 @@
+trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:38.75ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#📡🇬🇧®️United Kingdom©️London🅿️ping:91.19ms

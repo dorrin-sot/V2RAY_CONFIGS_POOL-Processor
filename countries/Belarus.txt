@@ -1,2 +1,1 @@
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.cdnjst.org&fp=chrome&insecure=1&allowInsecure=1&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&flow=xtls-rprx-vision#📡🇧🇾®️Belarus©️Minsk🅿️ping:32.75ms
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#📡🇧🇾®️Belarus©️Minsk🅿️ping:32.75ms
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&security=reality&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&sni=5post-gate.x5.ru#📡🇧🇾®️Belarus©️Minsk🅿️ping:76.4ms

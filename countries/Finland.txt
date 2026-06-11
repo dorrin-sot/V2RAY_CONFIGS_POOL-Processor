@@ -1,0 +1,2 @@
+vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@185.17.2.109:443?encryption=none&amp;security=tls&amp;sni=us2.wxgqlfx.xyz&amp;type=ws&amp;host=us2.wxgqlfx.xyz&amp;path=%2FTG%40wxgqlfx&amp;fp=chrome&amp;alpn=http%2F1.1#📡🇫🇮®️Finland©️Helsinki🅿️ping:39ms
+vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@45.133.245.28:443?encryption=none&amp;security=tls&amp;sni=us2.wxgqlfx.xyz&amp;type=ws&amp;host=us2.wxgqlfx.xyz&amp;path=%2FTG%40wxgqlfx&amp;fp=chrome&amp;alpn=http%2F1.1#📡🇫🇮®️Finland©️Helsinki🅿️ping:36ms

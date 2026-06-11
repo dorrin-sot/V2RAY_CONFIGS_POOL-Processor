@@ -1,3 +1,1 @@
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34436?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp&sni=hh4.sonofthewinds.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:247.61ms
-trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34436?security=tls&headerType=none&type=tcp&sni=hh4.sonofthewinds.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:247.61ms
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@219.76.13.169:443?security=tls&sni=vh.ylkszy.eu.org&type=ws&path=%2F%3Fed#📡🇭🇰®️Hong Kong©️Central🅿️ping:189.62ms
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:220.31ms

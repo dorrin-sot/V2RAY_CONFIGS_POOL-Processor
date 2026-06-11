@@ -1,2 +1,0 @@
-vless://26fc1aaa-c92b-4225-9689-6adc861fd417@45.198.88.19:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=205748bc0f24a747&sni=storage.yandex.net&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:60ms
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sni=www.google.com&sid=44&spx=%2F#📡🇹🇷®️Turkey©️Istanbul🅿️ping:62ms

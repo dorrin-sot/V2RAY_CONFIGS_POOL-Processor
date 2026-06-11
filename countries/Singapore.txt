@@ -1,3 +1,1 @@
-vless://0a12381a-e241-4b63-a03c-1a5a45a95977@sgp.locklance.lol:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sgp.locklance.lol&fp=chrome&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&sid=6dba2e08344e6bf5&spx=%2F&flow=xtls-rprx-vision#📡🇸🇬®️Singapore©️Singapore (Outram)🅿️ping:266ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?type=tcp&security=reality&encryption=none&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11&sni=www.samsung.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:206ms
-vless://fdb04591-c75e-441a-a154-a4928f83de4c@47.129.160.222:57496?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sony.com&fp=firefox&pbk=JPIs_p8SFL4U4duZZkAjuatv2gnEAw-iGG6eNAayQl8&sid=86d1653b7de555a2&spx=%2F&flow=xtls-rprx-vision#📡🇸🇬®️Singapore©️Singapore🅿️ping:182ms
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:48697?allowInsecure=1&amp;sni=gh.01.naiun.bilibili.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:181.92ms

@@ -1,0 +1,2 @@
+vless://a1c11603-aefe-0007-9df3-4856f085811a@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#📡🇷🇺®️Russia©️Asbest🅿️ping:122.38ms
+vless://ec06516e-7517-434e-a77f-31ee65ac70e7@ru63.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru21.whost-solutions.ru&fp=firefox&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&type=tcp#📡🇷🇺®️Russia©️St Petersburg🅿️ping:66.25ms

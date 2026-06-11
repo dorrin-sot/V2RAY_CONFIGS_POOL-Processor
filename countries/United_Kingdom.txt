@@ -1,1 +1,0 @@
-vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@57.128.180.133:8443?encryption=none&amp;security=tls&amp;sni=us2.wxgqlfx.xyz&amp;type=ws&amp;host=us2.wxgqlfx.xyz&amp;path=%2FTG%40wxgqlfx&amp;fp=chrome&amp;alpn=http%2F1.1#📡🇬🇧®️United Kingdom©️Erith🅿️ping:41ms

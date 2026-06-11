@@ -1,1 +1,3 @@
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?security=reality&encryption=none&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=f7223dab#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:205.52ms
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34436?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp&sni=hh4.sonofthewinds.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:247.61ms
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34436?security=tls&headerType=none&type=tcp&sni=hh4.sonofthewinds.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:247.61ms
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@219.76.13.169:443?security=tls&sni=vh.ylkszy.eu.org&type=ws&path=%2F%3Fed#📡🇭🇰®️Hong Kong©️Central🅿️ping:189.62ms

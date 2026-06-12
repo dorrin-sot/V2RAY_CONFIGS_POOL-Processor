@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.250.165.160:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#📡🇯🇵®️Japan©️Shibuya City🅿️ping:258.11ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?type=tcp&encryption=none&security=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:233.93ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.19:443?type=tcp&encryption=none&security=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.47ms

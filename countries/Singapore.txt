@@ -1,1 +1,1 @@
-trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443#📡🇸🇬®️Singapore©️Singapore (Queenstown Estate)🅿️ping:205.97ms
+vless://74c01e77-f6b4-4d19-8d64-8cbc30458da0@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=speedtestnetggogleyahoo.abczy.ir&path=/46714/mehdi#📡🇸🇬®️Singapore©️Singapore🅿️ping:226.27ms

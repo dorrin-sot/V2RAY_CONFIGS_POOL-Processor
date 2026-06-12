@@ -1,4 +1,5 @@
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.135.172.147:80?type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:39.73ms
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@18.169.183.101:80?type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:36.64ms
-vless://407f838f-5fae-47b4-81eb-ec6af7da480e@57.128.174.124:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#📡🇬🇧®️United Kingdom©️Erith🅿️ping:40.71ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:50.78ms
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@18.169.183.101:80#📡🇬🇧®️United Kingdom©️London🅿️ping:81.61ms
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@18.169.183.101:80#📡🇬🇧®️United Kingdom©️London🅿️ping:36.95ms
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.8.48.222:80#📡🇬🇧®️United Kingdom©️London🅿️ping:38.96ms
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=%2Fws%3Fed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=9b94d317f693703f.hozheen.ir#📡🇬🇧®️United Kingdom©️London🅿️ping:47.13ms
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=%2Fws%3Fed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#📡🇬🇧®️United Kingdom©️London🅿️ping:47.13ms

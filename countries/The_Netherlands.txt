@@ -1,11 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:35.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:37.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.53ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:37.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:141.6ms
-vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?security=reality&encryption=none&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl2.panel11.ru&sid=c64556c616970b14#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.29ms
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&encryption=none&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=b9988c11#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.14ms
-vless://204757fe-a727-4e86-de95-73abe4b92e47@Nh.sannest.ir:8443?security=reality&type=tcp&headerType=none&encryption=none&path=&host=&sni=www.yahoo.com&fp=firefox&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&sid=b73cff&spx=%2F#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:71.04ms
-vless://204757fe-a727-4e86-de95-73abe4b92e47@ja.sannest.ir:2053?security=reality&type=tcp&headerType=none&encryption=none&path=&host=&sni=www.bing.com&fp=firefox&pbk=ap63jHu6skL09m9czlj5lMZAGyegldl6h8JY_phBnT8&sid=c437d8e95cd9&spx=%2F#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:169.29ms
-vless://3bb03d0d-d44d-47e9-9611-0f4a3a29498f@77.91.127.194:443?security=reality&encryption=none&pbk=l1cVjI7M0w6RYUYof9OR-9nimQA3lyJoGJ72N6FZ500&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=top3501mos.rtnode.site&sid=df24933d5b4d1dfc#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:27.41ms
-vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@2.27.40.241:8443?mode=gun&security=reality&encryption=none&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&fp=chrome&type=grpc&serviceName=max.ru&sni=2.27.40.241&sid=ea1058117be12087#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:46.0ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.56ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.7ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:27.85ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:27.47ms

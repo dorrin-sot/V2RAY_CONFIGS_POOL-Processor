@@ -1,0 +1,2 @@
+vless://3120446f-78e3-4974-8a00-42b718382bda@213.21.246.51:29800?encryption=none&type=tcp&security=reality&sni=dl.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=8Ct5aCwudtGt9MtmAP1kPmoWgaHyrb0iBzmINPHRgSo&sid=b7d4820f3f&spx=/#📡🇸🇪®️Sweden©️Stockholm🅿️ping:9.43ms
+vless://6c994816-8886-48bf-ac83-674eb24bd2b3@185.146.173.251:8080?security=none&type=ws&host=paydarloop.gostarservers.ir&path=/?ed=2048#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.91ms

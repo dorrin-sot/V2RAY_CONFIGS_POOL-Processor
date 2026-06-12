@@ -1,5 +1,1 @@
-trojan://telegram-id-directvpn@52.47.178.252:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:44.43ms
-trojan://telegram-id-privatevpns@52.47.178.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:45.4ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#📡🇫🇷®️France©️Paris🅿️ping:24.1ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#📡🇫🇷®️France©️Paris🅿️ping:24.1ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#📡🇫🇷®️France©️Paris🅿️ping:24.58ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:27.58ms

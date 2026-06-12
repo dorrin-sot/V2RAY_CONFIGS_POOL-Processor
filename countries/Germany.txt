@@ -1,10 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy0zNzQxMWMzZQ==@77.90.60.136:990#📡🇩🇪®️Germany©️Kirchberg🅿️ping:33.68ms
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#📡🇩🇪®️Germany©️Gelnhausen (Höchst)🅿️ping:70.24ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#📡🇩🇪®️Germany©️Nuremberg🅿️ping:100.11ms
-vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:53.13ms
-vless://38109dda-a28c-4c33-9ae7-ca38dc2ecd68@91.107.152.217:443?security=reality&encryption=none&pbk=i3FAVLuR28LvzvTOE0L7aZiQEF6H5I3se0O-px2e8C0&headerType=none&fp=chrome&spx=%2FD3Xn3rC9AtW6Ed1&type=tcp&sni=yahoo.com&sid=39#📡🇩🇪®️Germany©️Nuremberg🅿️ping:30.11ms
-vless://6631b0ef-0e81-4632-a6bf-fa4b10a325c5@91.107.190.72:5050?path=%2F&security=none&encryption=none&type=ws#📡🇩🇪®️Germany©️Falkenstein🅿️ping:28.73ms
-vless://6631b0ef-0e81-4632-a6bf-fa4b10a325c5@91.107.190.72:5050?security=none&allowInsecure=0&encryption=none&type=ws&path=/#📡🇩🇪®️Germany©️Falkenstein🅿️ping:28.92ms
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?Telegram=&amp;encryption=none&amp;host=OV-Germany1.09vpn.com&amp;path=/vless/&amp;security=none&amp;type=ws&amp;note=#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:56.6ms
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.41ms
-vless://d212fdd4-47ff-446a-b3d3-89ccf09a6afe@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#📡🇩🇪®️Germany©️Falkenstein🅿️ping:28.78ms
+vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?mode=auto&path=%2F&security=none&encryption=none&host=ads.x5.ru&type=xhttp#📡🇩🇪®️Germany©️Kriftel🅿️ping:67.6ms
+vless://3739ac90-5300-45fc-ba05-5590f49c66f9@fast.ehsanazizi-speed-server.com:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=none&encryption=none&type=grpc&serviceName=fastly-tunnel#📡🇩🇪®️Germany©️Nuremberg🅿️ping:97.88ms
+vless://38109dda-a28c-4c33-9ae7-ca38dc2ecd68@91.107.152.217:443?security=reality&encryption=none&pbk=i3FAVLuR28LvzvTOE0L7aZiQEF6H5I3se0O-px2e8C0&headerType=&type=tcp&sni=yahoo.com&sid=39#📡🇩🇪®️Germany©️Nuremberg🅿️ping:30.19ms
+vless://6631b0ef-0e81-4632-a6bf-fa4b10a325c5@91.107.190.72:5050?path=%2F&security=&encryption=none&type=ws#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31.89ms

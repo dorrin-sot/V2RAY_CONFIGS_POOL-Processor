@@ -1,1 +1,0 @@
-vless://de818941-4b66-4053-a017-ec1dfdec0416@fastaus.phantom.direct:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fastaus.phantom.direct&sid=04e65b7e170a5a4d#📡🇦🇹®️Austria©️Vienna (Floridsdorf)🅿️ping:68.91ms

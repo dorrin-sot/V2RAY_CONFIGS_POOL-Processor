@@ -1,2 +1,0 @@
-vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:90.15ms
-vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:89.61ms

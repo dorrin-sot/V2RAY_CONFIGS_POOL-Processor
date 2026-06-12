@@ -1,1 +1,2 @@
-vless://407f838f-5fae-47b4-81eb-ec6af7da480e@57.128.174.124:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.91ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#📡🇬🇧®️United Kingdom©️London🅿️ping:41.37ms
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:56.29ms

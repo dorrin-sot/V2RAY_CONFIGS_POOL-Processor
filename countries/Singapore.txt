@@ -1,3 +1,2 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45619?security=tls&sni=fr.01.naiun.bilibili.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:179.55ms
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:41943?allowInsecure=1&amp;sni=az.01.naiun.bilibili.com#📡🇸🇬®️Singapore©️Singapore🅿️ping:181.51ms
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@194.127.179.220:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#📡🇸🇬®️Singapore©️Singapore🅿️ping:181.51ms
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:90.15ms
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:89.61ms

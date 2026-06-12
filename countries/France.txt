@@ -1,1 +1,1 @@
-vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#📡🇫🇷®️France©️Paris🅿️ping:62.67ms
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@fr.tgru.in:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Strasbourg🅿️ping:75.12ms

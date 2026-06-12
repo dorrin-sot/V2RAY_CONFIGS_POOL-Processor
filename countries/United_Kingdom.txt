@@ -1,0 +1,1 @@
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:29.72ms

@@ -1,2 +1,0 @@
-trojan://BolBollVpn@27.50.48.49:443?path=%2FBolBollVpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=bolbols.ir&fp=chrome&type=ws&allowInsecure=0&sni=bolbols.ir#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:48.77ms
-vless://5584bedb-8074-4576-bb66-5997d47ac479@46.8.18.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=%2F#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:48.77ms

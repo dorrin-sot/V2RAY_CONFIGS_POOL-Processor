@@ -1,3 +1,4 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:37.47ms
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@18.169.183.101:80#📡🇬🇧®️United Kingdom©️London🅿️ping:36.99ms
-vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&type=tcp#📡🇬🇧®️United Kingdom©️Martlesham (Martlesham Heath)🅿️ping:38ms
+vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?path=%2F&security=none&encryption=none&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:34.24ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:61.21ms
+vless://d205ae68-0819-473c-b425-6c5947ac2f8d@198.154.93.102:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#📡🇬🇧®️United Kingdom©️London🅿️ping:33.76ms
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?allowInsecure=1&encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:49.35ms

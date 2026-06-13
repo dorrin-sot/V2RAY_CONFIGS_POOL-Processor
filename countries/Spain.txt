@@ -1,1 +1,1 @@
-vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&amp;encryption=none&amp;pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=04bf0403f96e5b4b#📡🇪🇸®️Spain©️Madrid🅿️ping:82ms
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#📡🇪🇸®️Spain©️Madrid🅿️ping:43.61ms

@@ -1,1 +1,1 @@
-vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@hn.aitnt.cn:80?encryption=none&security=none&type=ws&host=ws.mmadcoffee.info&path=%2F17330%2F58773b8d%2F#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:63.04ms
+vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&amp;encryption=none&amp;pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.amazon.com&amp;sid=4806f5b119797c#📡🇸🇬®️Singapore©️Singapore🅿️ping:180ms

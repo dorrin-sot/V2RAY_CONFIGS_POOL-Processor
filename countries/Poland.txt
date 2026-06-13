@@ -1,1 +1,1 @@
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pol1.pandaonline.org:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;pbk=IdybXRDMjWbBoaqkdSiGrD_y8Hjac6sexidfaxWC2mQ&amp;fp=firefox&amp;sni=pol1.pandaonline.org#📡🇵🇱®️Poland©️Wrocław (Stare Miasto)🅿️ping:82ms
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@pol1.pandaonline.org:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;pbk=IdybXRDMjWbBoaqkdSiGrD_y8Hjac6sexidfaxWC2mQ&amp;fp=firefox&amp;sni=pol1.pandaonline.org#📡🇵🇱®️Poland©️Wrocław (Stare Miasto)🅿️ping:81ms

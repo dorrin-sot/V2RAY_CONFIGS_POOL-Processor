@@ -1,0 +1,1 @@
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&amp;encryption=none&amp;pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dipvpn.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:39ms

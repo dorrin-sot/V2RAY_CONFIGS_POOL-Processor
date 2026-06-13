@@ -1,1 +1,0 @@
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@auto.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#📡🇧🇾®️Belarus©️Minsk🅿️ping:227.11ms

@@ -1,2 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.14ms
-vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@fin-2.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=xPCvUCXRNIH3xV0BCNq1pzF66C-DIsyXw-xaIzjJqAM&fp=firefox&sni=fin-2.pandaonline.org#📡🇫🇮®️Finland©️Lempäälä🅿️ping:71.31ms

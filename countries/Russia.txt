@@ -1,0 +1,1 @@
+vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@45.67.215.176:443?encryption=none&amp;security=tls&amp;sni=sub.rfiksma.top&amp;fp=chrome&amp;type=ws&amp;host=mos.rfiksma.top&amp;path=%2F#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:45ms

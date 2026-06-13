@@ -1,0 +1,1 @@
+vless://62c50e3a-5b87-49dd-bd20-03c7f2735e40@31.133.0.167:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=iodknbge.fbnslspalbef.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=iodknbge.fbnslspalbef.workers.dev#📡🇵🇱®️Poland©️Poznan (Jeżyce)🅿️ping:45.24ms

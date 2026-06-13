@@ -1,1 +1,1 @@
-vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:61.92ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#📡🇫🇷®️France©️Paris🅿️ping:37ms

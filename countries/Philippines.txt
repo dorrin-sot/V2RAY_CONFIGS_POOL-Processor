@@ -1,1 +1,0 @@
-vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#📡🇵🇭®️Philippines©️Manila🅿️ping:32ms

@@ -1,1 +1,0 @@
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@md.riotvpn.eu:8443?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&amp;fp=qq&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=avatars.mds.yandex.net&amp;sid=e67fb918ed6b9ffb#📡🇧🇾®️Belarus©️Minsk🅿️ping:79ms

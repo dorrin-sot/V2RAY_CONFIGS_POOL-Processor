@@ -1,2 +1,2 @@
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#📡🇨🇭®️Switzerland©️Geneva🅿️ping:74.8ms
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?type=tcp&encryption=none&security=none#📡🇨🇭®️Switzerland©️Geneva🅿️ping:75.13ms
+trojan://Masir_Sefid@37.156.45.168:443?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FFQDh1KA6NaPaGpV&type=tcp&sni=store.steampowered.com&sid=d67d2e36#📡🇨🇭®️Switzerland©️Geneva🅿️ping:42.9ms
+vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?mode=auto&path=%2F&security=reality&encryption=none&pbk=KuyvsRNilBVQddf249fQhud8aPESqNMZLRb7UXwVgWI&fp=chrome&type=xhttp&sni=cdn.nobitex.ir&sid=d6d0#📡🇨🇭®️Switzerland©️Geneva🅿️ping:43.64ms

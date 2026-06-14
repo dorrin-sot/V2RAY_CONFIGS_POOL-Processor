@@ -1,0 +1,1 @@
+vless://738dcc38-94dc-4ae5-9a37-0fc6931feab3@50.7.5.85:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=dehone.tunnelltwo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dehone.tunnelltwo.ir#📡🇮🇪®️Ireland©️Saggart🅿️ping:41.6ms

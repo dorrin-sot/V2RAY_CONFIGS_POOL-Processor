@@ -1,2 +1,1 @@
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#📡🇫🇷®️France©️Paris🅿️ping:61.42ms
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&host=openai.com&path=%2Fvless&security=none&type=ws#📡🇫🇷®️France©️Paris🅿️ping:39.82ms
+vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.154.96.237:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#📡🇫🇷®️France©️Paris🅿️ping:33.24ms

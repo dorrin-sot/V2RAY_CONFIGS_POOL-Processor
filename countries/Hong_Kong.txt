@@ -1,0 +1,1 @@
+trojan://humanity@27.50.48.49:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:47.15ms

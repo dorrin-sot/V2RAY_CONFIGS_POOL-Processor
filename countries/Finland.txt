@@ -1,1 +1,0 @@
-vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@37.27.24.143:443?encryption=none&security=tls&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&path=/sync&allowInsecure=0#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.72ms

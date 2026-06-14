@@ -1,3 +1,0 @@
-vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=bnb14.purplebook.ir#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:66.49ms
-vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=bnb14.purplebook.ir#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:69.12ms
-vless://036aabfa-24df-4c35-9602-5da87701f9e1@sv3.centerpc.ir:2087?type=ws&security=tls&path=/&sni=bnb14.purplebook.ir&fp=chrome&encryption=none#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:69.12ms

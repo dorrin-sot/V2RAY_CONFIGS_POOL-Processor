@@ -1,1 +1,3 @@
-vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.83ms
+trojan://x5cDfADabj@45.130.125.75:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=b.aananas.ir&fp=firefox&type=ws&allowInsecure=0&sni=b.aananas.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+trojan://x5cDfADabj@45.130.125.75:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=b.aananas.ir&fp=firefox&type=ws&allowInsecure=0&sni=b.aananas.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms
+vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.15ms

@@ -1,0 +1,2 @@
+vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?security=reality&encryption=none&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vodafone.co.uk&sid=d27683580fc15f1e#📡🇬🇧®️United Kingdom©️London🅿️ping:38.75ms
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:46.21ms

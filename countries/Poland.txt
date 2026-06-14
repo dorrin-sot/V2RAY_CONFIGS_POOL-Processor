@@ -1,1 +1,2 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:57.63ms
+vless://446b69aa-90b4-408b-b853-f70895343834@45.194.71.13:8443?flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:59.75ms
+vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?security=reality&encryption=none&pbk=QwZuIaHhRuaiQPSUiWuBR8q8qrUHWXuxPCjnANcdJk0&headerType=none&fp=chrome&spx=%2FNaLUy1nTaedq3Q6&type=tcp&sni=www.sony.com&sid=989441#📡🇵🇱®️Poland©️Warsaw🅿️ping:54.48ms

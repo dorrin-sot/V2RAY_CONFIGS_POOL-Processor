@@ -1,5 +1,0 @@
-vless://cc8aefd7-d984-453e-835e-865e41344c5d@free-server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=android.googleapis.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:237.63ms
-vless://cc8aefd7-d984-453e-835e-865e41344c5d@free-server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=netflix.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:237.63ms
-vless://cc8aefd7-d984-453e-835e-865e41344c5d@free-server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=tiktok.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:237.63ms
-vless://cc8aefd7-d984-453e-835e-865e41344c5d@free-server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=webex.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:237.63ms
-vless://cc8aefd7-d984-453e-835e-865e41344c5d@free-server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=youtube.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:237.63ms

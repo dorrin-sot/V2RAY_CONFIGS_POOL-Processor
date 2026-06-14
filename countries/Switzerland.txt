@@ -1,2 +1,1 @@
-vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.5:8443?type=tcp&encryption=none&security=none#📡🇨🇭®️Switzerland©️Bern🅿️ping:43.72ms
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&allowinsecure=0&type=xhttp&sni=www.yahoo.com&sid=6f3192#📡🇨🇭®️Switzerland©️Geneva🅿️ping:96.79ms
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#📡🇨🇭®️Switzerland©️Geneva🅿️ping:99.17ms

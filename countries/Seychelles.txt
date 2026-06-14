@@ -1,3 +1,1 @@
-trojan://x5cDfADabj@45.130.125.75:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=b.aananas.ir&sni=b.aananas.ir&fp=firefox&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:58.9ms
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:59.08ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57.54ms
+trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:58.28ms

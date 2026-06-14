@@ -1,2 +1,2 @@
-vless://446b69aa-90b4-408b-b853-f70895343834@45.194.71.13:8443?flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:59.75ms
-vless://b733d5eb-b5a9-4843-b50c-3e12857004b0@82.40.62.59:45262?security=reality&encryption=none&pbk=QwZuIaHhRuaiQPSUiWuBR8q8qrUHWXuxPCjnANcdJk0&headerType=none&fp=chrome&spx=%2FNaLUy1nTaedq3Q6&type=tcp&sni=www.sony.com&sid=989441#📡🇵🇱®️Poland©️Warsaw🅿️ping:54.48ms
+vless://86b273b9-1c0e-477c-be89-d15e6f0ae8cf@82.40.62.59:10421?security=reality&encryption=none&pbk=EA0Cc-YmlMRP8zB3KI0-s-uXoBwXYYyt-ItMxgD5o0I&headerType=none&fp=chrome&spx=%2FSHA67xll2L072h3&type=tcp&sni=www.nvidia.com&sid=06a2eb0bdd#📡🇵🇱®️Poland©️Warsaw🅿️ping:60.45ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#📡🇵🇱®️Poland©️Warsaw🅿️ping:60.45ms

@@ -1,3 +1,1 @@
-vless://042e32d0-dc48-98a3-70f8-a1cb283ab245@151.101.2.15:443?path=%2Fws%2F042e32d0-dc48-98a3-70f8-a1cb283ab245&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=rvg-production-6836.up.railway.app&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rvg-production-6836.up.railway.app#📡🇫🇷®️France©️Paris🅿️ping:39.4ms
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=http%2F1.1&amp;encryption=none&amp;security=tls&amp;sni=cdg-1.fromblancwithlove.com&amp;type=tcp#📡🇫🇷®️France©️Paris🅿️ping:50.16ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn7-39.vk-cdnvideo.com#📡🇫🇷®️France©️Paris🅿️ping:39.4ms
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:75.21ms

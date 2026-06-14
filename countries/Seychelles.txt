@@ -1,1 +1,0 @@
-trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:58.28ms

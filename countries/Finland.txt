@@ -1,2 +1,0 @@
-vless://55e2771c-5d36-429d-8f9c-e1eb460e1cca@fi.mobileemdad.top:42538?type=tcp&headerType=http&host=fi.mobileemdad.top&path=/&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:77.34ms
-vless://55e2771c-5d36-429d-8f9c-e1eb460e1cca@fi.mobileemdad.top:42538?type=tcp&headerType=http&host=fi.mobileemdad.top&path=/&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:92.63ms

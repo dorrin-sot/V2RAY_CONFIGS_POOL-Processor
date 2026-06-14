@@ -1,1 +1,1 @@
-vless://efe57eed-df5e-405e-92d7-f89c21d5d1a2@database.horluma.ir:42268?security=none&encryption=none&type=httpupgrade#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.51ms
+vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.83ms

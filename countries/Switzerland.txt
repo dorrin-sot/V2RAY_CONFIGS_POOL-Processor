@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#📡🇨🇭®️Switzerland©️Chur🅿️ping:42.9ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#📡🇨🇭®️Switzerland©️Chur🅿️ping:42.9ms
+vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.5:8443?type=tcp&encryption=none&security=none#📡🇨🇭®️Switzerland©️Bern🅿️ping:43.72ms
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&allowinsecure=0&type=xhttp&sni=www.yahoo.com&sid=6f3192#📡🇨🇭®️Switzerland©️Geneva🅿️ping:96.79ms

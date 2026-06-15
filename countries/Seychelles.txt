@@ -1,0 +1,9 @@
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.08ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.84ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.84ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.84ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.193:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.13ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&extra={#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.1ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=xhttp&sni=vi.new-persian-song.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.1ms
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.1ms
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.84ms

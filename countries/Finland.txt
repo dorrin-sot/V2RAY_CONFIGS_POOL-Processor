@@ -1,0 +1,1 @@
+vless://0634f8e3-96ea-48de-87b0-3fc747894692@138.124.88.172:8443?path=%2Ftest&security=none&encryption=none&host=play.google.com&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:23.91ms

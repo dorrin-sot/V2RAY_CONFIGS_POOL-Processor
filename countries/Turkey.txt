@@ -1,2 +1,0 @@
-trojan://SoftNetConnect@130.185.123.26:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#📡🇹🇷®️Turkey©️Istanbul🅿️ping:136.84ms
-trojan://SoftNetConnect@130.185.123.26:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#📡🇹🇷®️Turkey©️Istanbul🅿️ping:119.82ms

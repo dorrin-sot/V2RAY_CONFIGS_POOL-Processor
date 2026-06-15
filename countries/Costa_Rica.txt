@@ -1,0 +1,3 @@
+vless://09c03941-dc9e-4080-8f08-c5e1781adc67@190.93.246.137:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=new2.arshia-nova.ir&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=new2.arshia-nova.ir&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:45.44ms
+vless://09c03941-dc9e-4080-8f08-c5e1781adc67@190.93.246.137:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=new2.arshia-nova.ir&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=new2.arshia-nova.ir&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:46.77ms
+vless://2ed2ad53-c82b-4b94-b2fc-c6579427abaa@190.93.246.137:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=new2.arshia-nova.ir&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=new2.arshia-nova.ir&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:45.44ms

@@ -1,1 +1,10 @@
-vless://5ad1c7b6-9c6d-4b30-97d1-2675feb6d4d1@51.158.67.21:443?security=reality&encryption=none&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&headerType=none&fp=chrome&spx=%2FWCzxWBQs1BWyeSZ&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=e193ba67#📡🇫🇷®️France©️Paris🅿️ping:51.68ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.68:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.89ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:27.24ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:27.01ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.71:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:27.88ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.98ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:27.22ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.8ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:28.79ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.97ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.131:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:26.97ms

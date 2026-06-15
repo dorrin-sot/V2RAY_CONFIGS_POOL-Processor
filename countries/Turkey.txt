@@ -1,1 +1,1 @@
-vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=Oh_hH0LUAL7SHppzMjQ96NSW-qMBDvvogqU1eVxEr2Q&sid=390c3c575aa3ec48&type=tcp&path=/#📡🇹🇷®️Turkey©️Istanbul🅿️ping:76.33ms
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@37.221.79.124:3083?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fapi%2Fv2%2Fcontent&mode=auto&sni=yahoo.com&fp=firefox&alpn=h2%2Chttp%2F1.1&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17#📡🇹🇷®️Turkey©️Istanbul🅿️ping:62ms

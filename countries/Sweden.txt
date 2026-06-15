@@ -1,1 +1,1 @@
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#📡🇸🇪®️Sweden©️Hägersten🅿️ping:48.88ms
+vless://04911484-1823-4fae-b329-57581e1ea22e@185.146.173.39:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=/TELEGRAM-@VPNine1-TELEGRAM-@VPNine1?ed=2048#📡🇸🇪®️Sweden©️Stockholm🅿️ping:46.97ms

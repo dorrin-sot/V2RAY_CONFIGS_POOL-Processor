@@ -1,2 +1,0 @@
-vless://3b71df7e-c358-442f-91bf-4ba658223173@138.124.88.172:443?path=%2Ftest&security=none&encryption=none&host=play.google.com&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.49ms
-vless://b5730518-4cc5-4922-bd0b-8c0f3da190a6@65.109.191.83:8443?type=ws&path=%2Ftest&host=play.google.com&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:34.04ms

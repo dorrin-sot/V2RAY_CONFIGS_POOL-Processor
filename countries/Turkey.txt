@@ -1,2 +1,0 @@
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:21289?security=none&type=tcp&headerType=none&path=&host=#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:117.38ms
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:5039?security=reality&type=tcp&headerType=&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:118.49ms

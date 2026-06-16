@@ -1,0 +1,1 @@
+vless://66e314b8-8bc2-4958-974d-c183329faf05@45.194.71.82:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:46.33ms

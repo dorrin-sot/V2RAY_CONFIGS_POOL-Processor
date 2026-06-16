@@ -1,0 +1,1 @@
+vless://ef6e9f36-5e61-11f1-bd95-ee5f4ed81fa1@186.246.7.234:2053?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-direct&sni=vk.com&sid=2c60309fa586eb60#📡🇷🇺®️Russia©️Moscow🅿️ping:37.63ms

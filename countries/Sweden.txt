@@ -1,3 +1,1 @@
-vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.63ms
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#📡🇸🇪®️Sweden©️Stockholm🅿️ping:41.13ms
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#📡🇸🇪®️Sweden©️Stockholm🅿️ping:41.26ms
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@sw2.ardor-cloud.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=ndtmWG3YHaHyWc4mNeB6f1Wi4QgT4e5Cy3ZPrUAg0CQ&security=reality&sid=84ba23f111da2a23&sni=www.cloudflare.com&type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:81.15ms

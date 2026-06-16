@@ -1,0 +1,2 @@
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@avstr.ardor-cloud.ru:444?flow=&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#📡🇦🇹®️Austria©️Vienna (Floridsdorf)🅿️ping:101.19ms
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@150.241.72.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=as.pink-perfect.ru&type=tcp#📡🇦🇹®️Austria©️Vienna🅿️ping:33.91ms

@@ -1,0 +1,1 @@
+trojan://External_Net@27.50.48.49:443?type=xhttp&security=tls&path=%2F&host=pub.khodemhm.qzz.io&mode=auto&sni=pub.khodemhm.qzz.io&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.79ms

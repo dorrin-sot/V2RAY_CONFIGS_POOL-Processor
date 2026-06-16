@@ -1,1 +1,2 @@
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=panel.dibaux.ir&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:124.41ms
+vless://66e314b8-8bc2-4958-974d-c183329faf05@45.194.71.82:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc#📡🇵🇱®️Poland©️Warsaw🅿️ping:53ms
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.83ms

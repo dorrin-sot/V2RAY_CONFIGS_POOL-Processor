@@ -1,4 +1,1 @@
-trojan://ba8499823a974085bba83ef7f680e35c@91.193.58.8:2087?alpn=h2,http/1.1&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=pil.velizor.ir&mode=auto&path=/&security=tls&sni=pil.velizor.ir&type=xhttp&x_padding_bytes=100-1000#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:46.88ms
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@80.239.189.126:444?flow=&fp=chrome&pbk=U6VG49xvywXK5PSPuehF8M26Z-xl6qThYh_LeMhvcF8&security=reality&sid=84ba23f161dd9a15&sni=web.max.ru&type=grpc#📡🇬🇧®️United Kingdom©️Slough🅿️ping:58.68ms
-vless://39c61035-36aa-4892-8cf8-b6f3ffc0b145@45.206.0.36:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=c20b1035d72d7793&sni=rbc.ru&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:35.26ms
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:34.24ms
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@80.239.189.126:444?encryption=none&security=reality&sni=web.max.ru&fp=chrome&pbk=U6VG49xvywXK5PSPuehF8M26Z-xl6qThYh_LeMhvcF8&sid=84ba23f161dd9a15&type=grpc#📡🇬🇧®️United Kingdom©️Slough🅿️ping:46.95ms

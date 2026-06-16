@@ -1,2 +1,0 @@
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@alba.ardor-cloud.ru:444?flow=&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#📡🇦🇱®️Albania©️Tirana🅿️ping:106.54ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.76:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#📡🇦🇱®️Albania©️Tirana🅿️ping:106.54ms

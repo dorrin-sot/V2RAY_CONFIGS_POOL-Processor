@@ -1,3 +1,0 @@
-vless://2cc64cad-1a77-4a40-8d98-3834a95d0a44@65.109.189.154:2052?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.38ms
-vless://c83980b7-7367-41f7-b389-6c265afd3e3e@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=fi.mobileemdad.top#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.7ms
-vless://c83980b7-7367-41f7-b389-6c265afd3e3e@finland.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.5ms

@@ -1,0 +1,2 @@
+vless://2c18769e-7f86-43c8-aba3-739649c6deb5@45.198.80.123:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=storage.yandex.net&type=tcp#📡🇪🇸®️Spain©️Madrid🅿️ping:55ms
+vless://4b954482-3d47-51f8-9d32-cc3133fce9a3@fr33dom.fun:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&path=Telegram%3D%40N3TWRK&sni=cloud.mail.ru&sid=a33f39e10a&fp=chrome&pbk=Uu7G002VVldsnwvg4W23br8vSaZptGrio38i6N41xRA&headerType=none#📡🇪🇸®️Spain©️Madrid (San Blas)🅿️ping:100ms

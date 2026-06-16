@@ -1,3 +1,0 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?type=tcp&encryption=none&security=none#📡🇬🇪®️Georgia©️Tbilisi🅿️ping:42.9ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?type=tcp&encryption=none&security=none#📡🇬🇪®️Georgia©️Tbilisi🅿️ping:41.88ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?type=tcp&encryption=none&security=none#📡🇬🇪®️Georgia©️Tbilisi🅿️ping:42.45ms

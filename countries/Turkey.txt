@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#📡🇹🇷®️Turkey©️Istanbul🅿️ping:61.1ms
-vless://ZoRoVpN@203.202.232.11:36068?encryption=none&type=ws&path=%2FZoRoVpn&host=Play.google.com#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:63.06ms
-vless://ZoRoVpN@zorovpn.opik.net:50420?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=WmB10FrLwg_rM6bDUYibXOOWv2fWGzwrz_Ju-8ld9XA&sid=d6559c964cb79d79&spx=%2FYlA4W4Wsr0zAd5L#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:226.26ms
+trojan://pvLSiyVj6wsERnbAOCzhdoSp0zzzEzdrsS@38.54.105.117:443?type=tcp&security=tls&headerType=none&sni=38.54.105.117&fp=chrome&insecure=1&allowInsecure=1#📡🇹🇷®️Turkey©️Istanbul🅿️ping:62.19ms
+vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=none&encryption=none&host=Play.google.com&type=ws#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:62.38ms

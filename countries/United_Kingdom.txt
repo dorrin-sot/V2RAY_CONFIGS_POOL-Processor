@@ -1,1 +1,1 @@
-vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.29:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c20b1035d72d7793#📡🇬🇧®️United Kingdom©️London🅿️ping:49.36ms
+vless://d205ae68-0819-473c-b425-6c5947ac2f8d@198.154.93.102:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#📡🇬🇧®️United Kingdom©️London🅿️ping:33ms

@@ -1,1 +1,1 @@
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:33.82ms
+vless://37a0bd7c-8b9f-4693-8916-bd1e2dba0a817@128.204.223.94:9815?encryption=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:48.0ms

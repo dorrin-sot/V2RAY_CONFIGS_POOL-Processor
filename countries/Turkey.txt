@@ -1,0 +1,4 @@
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@64.49.15.194:443?security=&encryption=none&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:73.01ms
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@64.49.15.194:8080?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=ir.miliran.online&type=xhttp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:74.8ms
+vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@64.49.15.194:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:72.99ms
+vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@64.49.15.194:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=ir.miliran.online&type=xhttp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:72.85ms

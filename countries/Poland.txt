@@ -1,3 +1,2 @@
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:100.54ms
-vless://c77d5867-7528-4062-8370-700eaf351560@pl2.nomac.ir:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:215.91ms
-vless://c77d5867-7528-4062-8370-700eaf351560@pl2.nomac.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:215.91ms
+trojan://MiTiVPN@108.162.196.190:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#📡🇵🇱®️Poland©️Warsaw🅿️ping:91.6ms
+vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:91.32ms

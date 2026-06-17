@@ -1,2 +1,0 @@
-vless://b56a960b-b053-4935-8e34-b14b93696067@107.181.139.169:7185?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=PmmoEXhS1D8EyJQDEvMYI-KMmg7kRqhtVqRlLHABslc&sid=10a34ebe78af0b14&type=tcp&headerType=none#📡🇮🇳®️India©️New Delhi🅿️ping:172.47ms
-vless://d8dabd75-ae26-4c27-993e-75a00ff72185@dual.abhizzz.net:80?encryption=none&security=none&fp=chrome&type=ws&host=dual.abhizzz.net&path=%2Fvless#📡🇮🇳®️India©️Hyderabad🅿️ping:219.3ms

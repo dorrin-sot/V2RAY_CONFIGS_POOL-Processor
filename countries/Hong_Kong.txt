@@ -1,1 +1,1 @@
-vless://2ef74c60-e14c-4119-87c6-47d8f0ff01a0@103.160.204.239:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=gAmEoFtHroNEs2011.HozHeEN.iR&path=/ws?ed%3D2560&sni=7665b43bb20804e4.hOzHeEn.Ir&fp=chrome#📡🇭🇰®️Hong Kong©️San Po Kong🅿️ping:45.95ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&alpn=null&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=hkg1.fromblancwithlove.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:231.79ms

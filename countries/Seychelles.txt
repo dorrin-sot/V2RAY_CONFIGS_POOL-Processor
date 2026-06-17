@@ -1,1 +1,1 @@
-vless://600acff1-440b-46f0-ab7a-1f1eaf87a7e0@45.130.125.220:443?encryption=none&fp=firefox&host=sspr.bearnetwork.ir&path=%2F10040&security=tls&sni=sspr.bearnetwork.ir&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.17ms
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&type=ws&security=tls&path=%2Fudfyfws&host=octopusss5.info&sni=octopusss5.info&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.9ms

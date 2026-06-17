@@ -1,1 +1,1 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:84.38ms
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.29:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c20b1035d72d7793#📡🇬🇧®️United Kingdom©️London🅿️ping:49.36ms

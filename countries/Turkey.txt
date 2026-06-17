@@ -1,4 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.78ms
-trojan://SoftNetConnect@194.5.193.58:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#📡🇹🇷®️Turkey©️Istanbul🅿️ping:27.69ms
-trojan://SoftNetConnect@194.5.193.58:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#📡🇹🇷®️Turkey©️Istanbul🅿️ping:34.26ms
-trojan://SoftNetConnect@194.5.193.58:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#📡🇹🇷®️Turkey©️Istanbul🅿️ping:35.62ms

@@ -1,2 +1,1 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=&type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:4.27ms
-vless://ed0a1821-eae7-4f7a-ae0b-885b0bed1490@70.34.197.55:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.oracle.com&fp=chrome&insecure=1&allowInsecure=1&pbk=hLMSRuFE8lh6xGR554TWw6-_lQMdvutvzPmJ4xdEkGQ&sid=c4&spx=%2FYMZw8kd5wZqg0lO#📡🇸🇪®️Sweden©️Spånga🅿️ping:26.26ms
+vless://c77d5867-7528-4062-8370-700eaf351560@cdn8.nomac.ir:2082?path=%2F&security=none&encryption=none&host=fr2.nomac.ir&type=ws#📡🇸🇪®️Sweden©️Spånga🅿️ping:78.18ms

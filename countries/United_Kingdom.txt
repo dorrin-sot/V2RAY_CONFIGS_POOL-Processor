@@ -1,2 +1,1 @@
-vless://8bb4bc79-2bf2-42af-9793-714fbb9f5244@01e2930b4a38cee0.vErTateCH.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:74.84ms
-vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?encryption=none&type=xhttp&security=tls&path=%2F&host=ChromeAppleWebKit.global.ssl.fastly.net&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=global.fastly.com&alpn=h2&fp=randomized&insecure=0&allowInsecure=0#📡🇬🇧®️United Kingdom©️London🅿️ping:74.84ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&host=&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#📡🇬🇧®️United Kingdom©️London🅿️ping:40.9ms

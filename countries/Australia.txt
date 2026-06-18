@@ -1,1 +1,0 @@
-vless://ba03fb27-c7b6-4eb5-b15d-aa4cb8df92cf@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#📡🇦🇺®️Australia©️Sydney🅿️ping:51.57ms

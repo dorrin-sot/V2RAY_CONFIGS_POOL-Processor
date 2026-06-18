@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCS3R3N0FWSTZ0RGNLMW9BUDRCMmx1@94.103.2.174:443#📡🇷🇺®️Russia©️Moscow🅿️ping:46.12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#📡🇷🇺®️Russia©️Moscow🅿️ping:63.51ms
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#📡🇷🇺®️Russia©️St Petersburg (Tsentralnyy rayon)🅿️ping:47.32ms

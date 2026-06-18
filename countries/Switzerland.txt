@@ -1,1 +1,0 @@
-vless://18323cf8-8def-4456-9ac7-ec5cb7cceae1@83.228.225.64:2053?encryption=none&type=grpc&security=reality&serviceName=xyz&mode=gun&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#📡🇨🇭®️Switzerland©️Geneva🅿️ping:55.94ms

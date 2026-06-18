@@ -1,1 +1,1 @@
-vless://f5f9a1bb-8cf3-4c47-b7ef-0da08b69d44c@89.125.151.152:20630?security=none&encryption=none&host=google.com&headerType=http&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:47.07ms
+vless://3584a1b7-2951-4195-af81-ef46f290ab98@91.193.58.201:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=GGNL.downloadgameiran.ir&fp=chrome&type=ws&allowInsecure=0&sni=GGNL.downloadgameiran.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45.09ms

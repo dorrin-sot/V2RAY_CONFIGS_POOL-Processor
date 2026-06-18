@@ -1,1 +1,1 @@
-vless://da4f61d1-8ca2-4bbf-a79a-1dfff04073e6@1.sdwan.realm-sync.com:54387?encryption=none&type=tcp&security=reality&pbk=qqb-vrDIPSrFIithw497zM-LmGUEcTo-dqAjhHi6kyY&sid=f810&flow=xtls-rprx-vision&sni=swcdn.apple.com#📡🇭🇰®️Hong Kong©️Sham Shui Po🅿️ping:594ms
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@207.174.133.169:10000?#📡🇭🇰®️Hong Kong©️Sha Tin Wai🅿️ping:201.18ms

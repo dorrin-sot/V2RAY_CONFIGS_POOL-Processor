@@ -1,2 +1,0 @@
-vless://9d4d1b35-e053-4b54-c349-a0176e16b98c@84.21.172.81:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#📡🇱🇻®️Latvia©️Riga🅿️ping:57ms
-vless://9d4d1b35-e053-4b54-c349-a0176e16b98c@90.156.254.74:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#📡🇱🇻®️Latvia©️Riga🅿️ping:56ms

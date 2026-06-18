@@ -1,3 +1,1 @@
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@95.85.243.239:443?encryption=none&type=tcp&security=reality&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&sid=9902cda1645757ea&flow=xtls-rprx-vision&sni=est01.port-server.online#📡🇪🇪®️Estonia©️Tallinn🅿️ping:67ms
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@95.85.243.239:443?encryption=none&type=tcp&security=reality&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&sid=9902cda1645757ea&flow=xtls-rprx-vision&sni=est01.port-server.online#📡🇪🇪®️Estonia©️Tallinn🅿️ping:75ms
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?encryption=none&type=tcp&security=reality&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&sid=9902cda1645757ea&flow=xtls-rprx-vision&sni=est01.port-server.online#📡🇪🇪®️Estonia©️Tallinn🅿️ping:115ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#📡🇪🇪®️Estonia©️Tallinn🅿️ping:61.54ms

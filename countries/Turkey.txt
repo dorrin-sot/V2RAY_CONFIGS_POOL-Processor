@@ -1,8 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabmlHb0VJUDg5ZHdGVUdKM2Rra3NnSl8tcktfSnBxNg==@212.108.107.238:54635#📡🇹🇷®️Turkey©️Beyoğlu🅿️ping:69ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.118:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#📡🇹🇷®️Turkey©️Istanbul🅿️ping:70ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.118:8443?encryption=none&type=tcp&security=tls&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.80:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:70ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.232:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:73ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.236:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.247:8443?encryption=none&type=tcp&security=tls&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:73ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:71ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#📡🇹🇷®️Turkey©️Istanbul🅿️ping:65.71ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#📡🇹🇷®️Turkey©️Istanbul🅿️ping:62.78ms
+vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@185.226.93.243:8444?security=reality&amp;encryption=none&amp;pbk=1EPU1FtapRbV8ZR9e7AU0nahyWYM8L0zuYHD8F1GJAc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=491c54cd0cf5e22d#📡🇹🇷®️Turkey©️Istanbul🅿️ping:77ms
+vless://c77d5867-7528-4062-8370-700eaf351560@turk.nomac.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:108.16ms
+vless://c77d5867-7528-4062-8370-700eaf351560@turk.nomac.ir:8443?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:119.88ms

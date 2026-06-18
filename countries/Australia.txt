@@ -1,1 +1,1 @@
-vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?encryption=none&type=tcp&security=reality&headerType=none&sni=www.tesla.com&fp=firefox&insecure=1&allowInsecure=1&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&sid=1b665f78655294&spx=%2F&flow=xtls-rprx-vision#📡🇦🇺®️Australia©️Sydney🅿️ping:287.05ms
+vless://ba03fb27-c7b6-4eb5-b15d-aa4cb8df92cf@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#📡🇦🇺®️Australia©️Sydney🅿️ping:51.57ms

@@ -1,0 +1,2 @@
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&type=xhttp&mode=auto&host=germany4.alibaba1405.org&path=/v2raylink&security=tls&fp=chrome&sni=germany4.alibaba1405.org&alpn=http/1.1,h2#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.81ms
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&encryption=none&alpn=h3,h2&fp=chrome&allowinsecure=0&type=xhttp&sni=cji.new-persian-song.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.95ms

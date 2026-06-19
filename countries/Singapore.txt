@@ -1,0 +1,4 @@
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@167.254.240.12:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=%2F&encryption=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:430.42ms
+vless://1ba7a781-9669-4be5-b417-0df65a105ad1@178.128.49.154:39412?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:181.06ms
+vless://8ff25ce3-e8c6-45d3-8a8c-cdbd3eb1b2a6@5.223.84.145:443?flow=xtls-rprx-vision&fp=firefox&pbk=VAY8J0c6ziCIiUWREeU0OR6EQSVqKzuofvlqHm_ka0A&security=reality&sid=d72691d4&sni=www.microsoft.com&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:180.91ms
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@54.255.211.0:80?security=none&type=ws&host=education.panelvps.eu.org&path=%2Fvless#📡🇸🇬®️Singapore©️Singapore🅿️ping:201.11ms

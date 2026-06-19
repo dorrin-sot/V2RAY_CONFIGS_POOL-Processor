@@ -1,1 +1,1 @@
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.37:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#📡🇬🇧®️United Kingdom©️London🅿️ping:34.63ms
+vless://cb3291d7-6e00-42b0-a8da-4fcf67fe8469@209.97.179.66:29383?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Slough🅿️ping:45.21ms

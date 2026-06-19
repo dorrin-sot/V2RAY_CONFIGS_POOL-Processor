@@ -1,0 +1,2 @@
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ch-2.bexum.fun#📡🇨🇿®️Czechia©️Prague🅿️ping:38.38ms
+vless://6f30dce4-1951-4b3d-abeb-7170f51430e7@67.159.18.226:12445?security=none&encryption=none&headerType=none&type=tcp#📡🇨🇿®️Czechia©️Vestec🅿️ping:48.1ms

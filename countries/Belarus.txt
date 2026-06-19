@@ -1,2 +1,0 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@estonchiklife.com:443?mode=auto&path=%2Fxhttppath%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=estonchiklife.com&fp=qq&type=xhttp&allowInsecure=0&sni=estonchiklife.com#📡🇧🇾®️Belarus©️Minsk🅿️ping:86ms
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@estonchiklife.com:443?mode=auto&path=%2Fxhttppath%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=estonchiklife.com&fp=qq&type=xhttp&allowInsecure=0&sni=estonchiklife.com#📡🇧🇾®️Belarus©️Minsk🅿️ping:88ms

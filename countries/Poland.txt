@@ -1,2 +1,1 @@
-ss://bdb694c1-fd18-4775-abee-5cf551db8e13@151.245.112.24:443?security=tls&type=ws&host=mcuxsrqp.ncdiqw.workers.dev&fp=chrome&sni=mcuxsrqp.ncdiqw.workers.dev&path=%2F%3Fed%3D2560&encryption=none#📡🇵🇱®️Poland©️Gdansk🅿️ping:53.0ms
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?Telegram=@kurdconfig&Telegram=@kurdconfig&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:63.02ms
+vless://ea17caba-a5c4-4847-abce-105e65ee96d0@51.83.251.22:31961?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:114.88ms

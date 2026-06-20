@@ -1,0 +1,2 @@
+trojan://trojan@43.205.45.56:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#📡🇮🇳®️India©️Mumbai🅿️ping:145.05ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#📡🇮🇳®️India©️Mumbai🅿️ping:145.05ms

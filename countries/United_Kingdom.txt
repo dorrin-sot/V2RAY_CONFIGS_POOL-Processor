@@ -1,1 +1,2 @@
-trojan://TheVPNMethod@5.10.214.56:443?path=%2Fthe&security=tls&fp=firefox&type=ws&sni=yo.motorcbr.store#📡🇬🇧®️United Kingdom©️London🅿️ping:44.91ms
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#📡🇬🇧®️United Kingdom©️London🅿️ping:65.6ms
+vless://8684c32b-2ffb-4b75-802a-76f90fb15cba@denewscabinetfly.com:446?security=reality&encryption=none&authority=deepl.com&pbk=FHjXqTeS4Fj6okH5b8VOsSPdfLVQmwHcI4a9NYrWYFU&fp=qq&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#📡🇬🇧®️United Kingdom©️London🅿️ping:59.61ms

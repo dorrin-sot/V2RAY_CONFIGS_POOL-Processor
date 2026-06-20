@@ -1,1 +1,2 @@
-trojan://pvLSiyVj6wsERnbAOCzhdoSp0zzzEzdrsS@38.54.105.117:443?type=tcp&security=tls&headerType=none&sni=38.54.105.117&fp=chrome&insecure=1&allowInsecure=1#📡🇹🇷®️Turkey©️Istanbul🅿️ping:78.93ms
+vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.150:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#📡🇹🇷®️Turkey©️Istanbul🅿️ping:148.02ms
+vless://ce967499-9b55-480f-9d8e-6f2d37bba843@194.116.236.222:4111?mode=gun&security=reality&encryption=none&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&fp=qq&type=grpc&serviceName=yourServiceName&sni=www.icloud.com&sid=9e0df5878ac2f3c8#📡🇹🇷®️Turkey©️Istanbul🅿️ping:73.71ms

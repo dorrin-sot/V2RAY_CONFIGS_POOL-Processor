@@ -1,6 +1,0 @@
-vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:45.74ms
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.35ms
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:39.42ms
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:36.88ms
-vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn8-03.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtls-rprx-vision#📡🇫🇷®️France©️Paris🅿️ping:41.7ms
-vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@82.22.2.187:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:46.3ms

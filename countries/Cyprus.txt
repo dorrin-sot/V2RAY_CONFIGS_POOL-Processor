@@ -1,0 +1,1 @@
+vless://256e0dea-78cf-44a5-945c-a170303dace8@195.133.93.39:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=tehEdgeGxaEl2Rwke0ok5ojcJjamAXvnRhy_CBjilVM&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Tel%3A%40#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:33ms

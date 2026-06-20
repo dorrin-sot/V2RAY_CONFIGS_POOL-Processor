@@ -1,2 +1,1 @@
-vless://598d6fb7-58a6-4478-9590-a93bb78baf7d@991827262gsgs-8822nbeoaoznzznzb.poki-pakipon.ir:41027?security=reality&encryption=none&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&host=www.yahoo.com&headerType=http&fp=chrome&spx=%2FNtppE1vET4sCA9j&type=tcp&sni=yahoo.com&sid=7118#📡🇨🇭®️Switzerland©️Geneva🅿️ping:146.06ms
-vless://monacoVPN@83.228.228.44:22?security=none&encryption=none&headerType=http&type=tcp#📡🇨🇭®️Switzerland©️Geneva🅿️ping:42.71ms
+vless://ff76c582-77fa-4840-9247-729076fbab29@45.141.119.16:443?security=reality&amp;encryption=none&amp;pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ch-zrh-1.blook.network&amp;sid=f7ef1b05#📡🇨🇭®️Switzerland©️Bern🅿️ping:30ms

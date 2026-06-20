@@ -1,2 +1,1 @@
-vless://38152672-e48f-4115-9dfe-1bedf1a0f82f@64.176.72.154:443?security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:43.31ms
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fstream&security=none&encryption=none&host=&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:74.68ms
+vless://12cb0a24-0438-4980-8617-9c93205895fa@185.193.30.94:443?encryption=none&security=tls&sni=kakoolnews.7kakoolnews.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kakoolnews.7kakoolnews.workers.dev&path=%2F#📡🇵🇱®️Poland©️Warsaw🅿️ping:46.01ms

@@ -1,2 +1,1 @@
-vless://9a2573c5-936f-4f93-8409-e43164793176@cdn9-03.cdn-vkvideo.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dUnvgWjYo4Xs5T17CfWoImszwB0I6hGHwRxZZEQvQs&security=reality&sid=b0d8f964b7ac8ac3&sni=cdn9-03.cdn-vkvideo.com&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:54ms
-vless://9a2573c5-936f-4f93-8409-e43164793176@cdn9-03.cdn-vkvideo.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dUnvgWjYo4Xs5T17CfWoImszwB0I6hGHwRxZZEQvQs&security=reality&sid=b0d8f964b7ac8ac3&sni=cdn9-03.cdn-vkvideo.com&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:84ms
+trojan://TheVPNMethod@5.10.214.56:443?path=%2Fthe&security=tls&fp=firefox&type=ws&sni=yo.motorcbr.store#📡🇬🇧®️United Kingdom©️London🅿️ping:44.91ms

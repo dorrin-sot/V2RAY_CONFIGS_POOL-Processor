@@ -1,0 +1,1 @@
+trojan://pvLSiyVj6wsERnbAOCzhdoSp0zzzEzdrsS@38.54.105.117:443?type=tcp&security=tls&headerType=none&sni=38.54.105.117&fp=chrome&insecure=1&allowInsecure=1#📡🇹🇷®️Turkey©️Istanbul🅿️ping:78.93ms

@@ -1,2 +1,0 @@
-vless://6476ed5b-e7ad-4706-9883-83a99273fbf2@217.114.14.63:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#📡🇷🇺®️Russia©️Yekaterinburg🅿️ping:177.95ms
-vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@217.26.29.198:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#📡🇷🇺®️Russia©️St Petersburg🅿️ping:164.77ms

@@ -1,1 +1,1 @@
-vless://6270a1e6-44ab-4f9d-8d0f-b313a7f97c51@poland.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=play.google.com#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:1109.79ms
+vless://74b0db6d-9627-43f0-b23d-796a333630f9@em4.uae-store-pubg.ir:9097?security=reality&encryption=none&pbk=Sxq7naDvQjl39Jq7CirIW8Bjj-qn5_ykcrpmWCQHSTw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d7e377e4f56fbc0c#📡🇵🇱®️Poland©️Warsaw🅿️ping:97.75ms

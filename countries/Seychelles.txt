@@ -1,4 +1,3 @@
-vless://4363c94c-6073-47f1-af1f-90894d86b29b@45.130.125.162:443?path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&host=ssd.mojaz-persian-music.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:55.85ms
-vless://4363c94c-6073-47f1-af1f-90894d86b29b@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:53.52ms
-vless://61f37706-1b93-4971-88d5-9f7c2231c73c@45.130.125.126:2053?path=%2Fws-vlees&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gm.PoRLuMa.IR&amp;fp=chrome&amp;type=ws&amp;sni=gm.PoRLuMa.IR#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
-vless://c77d5867-7528-4062-8370-700eaf351560@cdn.textin.ir:2053?security=tls&amp;type=ws&amp;headerType=&amp;path=%2Fws%3Fed%3D2560&amp;host=se1.nomac.ir&amp;sni=se1.nomac.ir&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:179ms
+trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:118.51ms
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?fp=chrome&security=none&type=tcp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:118.51ms
+vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.162:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/?ed%3D2053&sni=cji.new-persian-song.ir&fp=chrome&mode=auto&alpn=h2,h3#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.66ms

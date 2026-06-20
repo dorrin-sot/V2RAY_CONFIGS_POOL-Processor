@@ -1,1 +1,5 @@
-vless://4f6b98fe-a61b-412a-93bf-ebae7c921c9e@plan.opann.ir:443?encryption=none&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:51.95ms
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.46ms
+vless://207fb1be-e784-4053-94c1-b0e96333152f@plan.opann.ir:443?encryption=none&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:113.15ms
+vless://44a69ee3-8c02-47df-aeb0-1fb1214ab270@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.57ms
+vless://5c6ec644-1187-470d-82ed-ce01ac927109@64.188.80.58:443?security=reality&encryption=none&pbk=lJGBMgeSYrhJyK01eYOOfj-4v0Mie1ayZwbjQfm-SQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=x5.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:23.95ms
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#📡🇫🇮®️Finland©️Helsinki🅿️ping:113.15ms

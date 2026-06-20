@@ -1,3 +1,6 @@
-trojan://telegram-id-privatevpns@35.181.86.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:43.45ms
-vless://2e5af30a-19dd-49ce-9740-3c0ac2ed8349@fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#📡🇫🇷®️France©️Paris🅿️ping:60.62ms
-vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.154.96.237:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#📡🇫🇷®️France©️Paris🅿️ping:33.22ms
+vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:45.74ms
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.35ms
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:39.42ms
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:36.88ms
+vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn8-03.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtls-rprx-vision#📡🇫🇷®️France©️Paris🅿️ping:41.7ms
+vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@82.22.2.187:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:46.3ms

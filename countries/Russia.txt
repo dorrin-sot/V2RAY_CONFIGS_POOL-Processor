@@ -1,2 +1,1 @@
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@ru.oplatasite.ru:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;allowInsecure=0&amp;sni=vpn.oplatasite.ru#📡🇷🇺®️Russia©️St Petersburg🅿️ping:104ms
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&amp;encryption=none&amp;pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&amp;headerType=none&amp;fp=qq&amp;allowinsecure=0&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=28a059440d3d5ba1#📡🇷🇺®️Russia©️St Petersburg (Tsentralnyy rayon)🅿️ping:70ms
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@213.241.198.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=/pabloping&mode=auto#📡🇷🇺®️Russia©️Moscow🅿️ping:59.52ms

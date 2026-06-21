@@ -1,1 +1,2 @@
-vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:65.4ms
+vless://542adbe5-89c5-4f5c-bb05-a3bd4feec3a2@turk.nomac.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:129.52ms
+vless://542adbe5-89c5-4f5c-bb05-a3bd4feec3a2@turk.nomac.ir:8443?security=reality&encryption=none&pbk=K5-jL-m537jMtxDUTfl1FW9EnWdHjJOBECdxbOGAcQI&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:137.25ms

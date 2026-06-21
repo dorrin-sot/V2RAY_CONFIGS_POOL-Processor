@@ -1,1 +1,0 @@
-vless://7796f5bf-7433-4e00-a9fd-6233ccb91df7@83.228.225.64:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=play.google.com&amp;sid=6ba85179e30d4fc2#📡🇨🇭®️Switzerland©️Geneva🅿️ping:48ms

@@ -1,0 +1,2 @@
+vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@188.114.97.5:443?alpn=h2,http/1.1&ech=udp://1.1.1.1:53&encryption=none&fp=chrome&host=nl.mohammadaz2d.ir&path=/ws?ed=2048&security=tls&sni=&type=ws#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:46.84ms
+vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?ech=udp://1.1.1.1:53&encryption=none&fp=chrome&host=mozconfigs.mohammadaz2sub.ir&path=/ws?ed=2048&security=tls&type=ws#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:46.84ms

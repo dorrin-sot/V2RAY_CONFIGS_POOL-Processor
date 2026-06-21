@@ -1,2 +1,4 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.191:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#📡🇸🇪®️Sweden©️Stockholm🅿️ping:26.11ms
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#📡🇸🇪®️Sweden©️Stockholm🅿️ping:43.99ms
+vless://31216f81-3139-0021-bac4-646680314264@sw.musicperec.ru:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=6a2b5c9d#📡🇸🇪®️Sweden©️Stockholm🅿️ping:85.05ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.120:8443?encryption=none&amp;security=tls&amp;sni=ams1.fromblancwithlove.com&amp;type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:25ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.217:8443?encryption=none&amp;security=tls&amp;sni=ams1.fromblancwithlove.com&amp;type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:26ms
+vless://ed3e860f-c97d-45be-a56b-47b77da11059@sw-3.coinbridge.nl:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&amp;fp=random&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=google.com&amp;sid=d5c7f84e37e0c12d#📡🇸🇪®️Sweden©️Stockholm🅿️ping:82ms

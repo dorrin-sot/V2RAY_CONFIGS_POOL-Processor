@@ -1,2 +1,1 @@
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:61.28ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.14:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#📡🇫🇮®️Finland©️Espoo🅿️ping:60.49ms
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&amp;security=none&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:100ms

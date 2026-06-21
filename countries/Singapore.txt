@@ -1,0 +1,2 @@
+vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&sid=9350a4f6c01e987a&packetEncoding=xudp#📡🇸🇬®️Singapore©️Singapore🅿️ping:179ms
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@13.250.31.132:443?encryption=none&security=tls&sni=auv.vavava.kdns.fr&fp=random&type=ws&host=auv.vavava.kdns.fr&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#📡🇸🇬®️Singapore©️Singapore🅿️ping:200ms

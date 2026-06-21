@@ -1,0 +1,5 @@
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&__rand=e9039a8b#📡🇦🇲®️Armenia©️Yerevan🅿️ping:75.36ms
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&_t=85ddae66#📡🇦🇲®️Armenia©️Yerevan🅿️ping:75.36ms
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=Ä�Â»Ã‘ï¿½Ä�Â±Ä�Â¸_Ã‘ï¿½Ä�ÂµÄ�Â±Ã‘ï¿½5128bf#📡🇦🇲®️Armenia©️Yerevan🅿️ping:75.36ms
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=люби_себя5128bf#📡🇦🇲®️Armenia©️Yerevan🅿️ping:75.36ms
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&packetencoding=xudp#📡🇦🇲®️Armenia©️Yerevan🅿️ping:75.36ms

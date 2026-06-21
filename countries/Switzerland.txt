@@ -1,2 +1,1 @@
-trojan://SoftNetConnect@83.228.224.161:8443?security=reality&sni=play.google.com&fp=chrome&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F&type=tcp&headerType=none#📡🇨🇭®️Switzerland©️Geneva🅿️ping:42.54ms
-vless://6270a1e6-44ab-4f9d-8d0f-b313a7f97c51@switzer.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#📡🇨🇭®️Switzerland©️Zurich🅿️ping:97.69ms
+vless://7796f5bf-7433-4e00-a9fd-6233ccb91df7@83.228.225.64:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=play.google.com&amp;sid=6ba85179e30d4fc2#📡🇨🇭®️Switzerland©️Geneva🅿️ping:44ms

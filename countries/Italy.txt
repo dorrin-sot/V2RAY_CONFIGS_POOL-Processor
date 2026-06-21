@@ -1,1 +1,2 @@
-vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=winq35461s-19523160106-direct.irgame.co&alpn=h2,http/1.1&fp=chrome&packetEncoding=xudp#📡🇮🇹®️Italy©️Arezzo🅿️ping:48ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.25ms

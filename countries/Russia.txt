@@ -1,0 +1,1 @@
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&amp;type=tcp&amp;security=reality&amp;sni=enterprisekitten.com&amp;insecure=1&amp;allowInsecure=1&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;sid=6ba85179e30d4fc2&amp;flow=xtxts-rprx-vision#📡🇷🇺®️Russia©️St Petersburg🅿️ping:30ms

@@ -1,3 +1,3 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:46.96ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?type=tcp&encryption=none&security=none#📡🇮🇹®️Italy©️Milan🅿️ping:76.76ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?type=tcp&encryption=none&security=none#📡🇮🇹®️Italy©️Milan🅿️ping:79.97ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=BIA_TELEGRAM%40Proxy_Se7en&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:162ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=BIA_Proxy_Se7en&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:134ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:136.13ms

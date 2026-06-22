@@ -1,3 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#📡🇫🇮®️Finland©️Espoo🅿️ping:57.82ms
-vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#📡🇫🇮®️Finland©️Espoo🅿️ping:57.82ms
-vless://f07a3816-f527-4ce8-8d21-ada012618695@fin-jd.jdvpn.shakhle.ir:22000?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:62.25ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=ams1.fromblancwithlove.com#📡🇫🇮®️Finland©️Espoo🅿️ping:59ms

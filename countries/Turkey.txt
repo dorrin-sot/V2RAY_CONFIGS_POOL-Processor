@@ -1,0 +1,3 @@
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:77.45ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.42ms
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@tr.janusgate.org:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:101.69ms

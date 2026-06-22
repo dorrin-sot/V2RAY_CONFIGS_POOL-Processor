@@ -1,3 +1,3 @@
-vless://207fb1be-e784-4053-94c1-b0e96333152f@plan.opann.ir:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:165.98ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.173:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&insecure=1&allowInsecure=1#📡🇫🇮®️Finland©️Espoo🅿️ping:58.03ms
-vless://98d74995-a9ae-4617-84f0-8012c2c74938@fi-free.gozarnetwork.net:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=random&insecure=1&allowInsecure=1&pbk=vJszASUkfofjiPauoD7DW9x20T9GGUiPluzYWOEjdlU&sid=443d8fe392&spx=%2F40EF0KaBebsIMWL#📡🇫🇮®️Finland©️Helsinki🅿️ping:60.27ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#📡🇫🇮®️Finland©️Espoo🅿️ping:57.82ms
+vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#📡🇫🇮®️Finland©️Espoo🅿️ping:57.82ms
+vless://f07a3816-f527-4ce8-8d21-ada012618695@fin-jd.jdvpn.shakhle.ir:22000?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:62.25ms

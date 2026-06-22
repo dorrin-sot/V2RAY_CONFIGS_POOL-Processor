@@ -1,0 +1,1 @@
+vless://a8bd89b6-7ed2-4fdf-921a-0915af4dca58@88.216.67.230:2087?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=IGVsgsg.iraniranshopdashnoard.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=IGVsgsg.iraniranshopdashnoard.ir#📡🇨🇼®️Curacao©️Willemstad🅿️ping:46.4ms

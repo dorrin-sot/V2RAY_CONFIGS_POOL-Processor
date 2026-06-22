@@ -1,2 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?security=tls&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#📡🇬🇧®️United Kingdom©️London🅿️ping:43.94ms
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#📡🇬🇧®️United Kingdom©️London🅿️ping:35.59ms
+vless://2c53af1c-c440-38f0-94f1-8bc32a4274f8@138.68.150.88:443?encryption=none&type=tcp&security=reality&headerType=none&sni=learn.microsoft.com&insecure=1&allowInsecure=1&pbk=SAgG_t0cdKBPSvJzlIjrwTRjtBjfaUZnpYWhXyxEHSg&sid=2fe2afb9c7978f36&flow=xtls-rprx-vision#📡🇬🇧®️United Kingdom©️Slough🅿️ping:37.02ms

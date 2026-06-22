@@ -1,1 +1,1 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=ams1.fromblancwithlove.com#📡🇫🇮®️Finland©️Espoo🅿️ping:59ms
+vless://a500be68-4ff6-433b-9968-472be69fab14@finland01.azotvpn.xyz:443?security=reality&encryption=none&pbk=DbDMO81H0vjk1yfrluu2-AWPn4gpDHnUxt3jq-M4zlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=finland01.azotvpn.xyz&sid=56d03777813654b1#📡🇫🇮®️Finland©️Helsinki🅿️ping:96.23ms

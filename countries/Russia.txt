@@ -1,1 +1,2 @@
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fi.sellflow.org#📡🇷🇺®️Russia©️Moscow🅿️ping:57.71ms
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fi.sellflow.org#📡🇷🇺®️Russia©️Moscow🅿️ping:68ms
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?path=%2Frutube&amp;security=&amp;encryption=none&amp;host=rutube.globaledgenet.com&amp;type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:68ms

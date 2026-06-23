@@ -1,0 +1,2 @@
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#📡🇮🇩®️Indonesia©️Jakarta🅿️ping:219.03ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=false&path=/http&fp=chrome#📡🇮🇩®️Indonesia©️Jakarta🅿️ping:219.03ms

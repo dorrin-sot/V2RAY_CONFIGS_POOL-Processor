@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6bW5vUGZxa29VYitHdDhSYmlQWnZqVkp6a3ZSRWRrZHphM3Rla0picGJLVT0@68.210.184.141:777#📡🇦🇹®️Austria©️Vienna🅿️ping:52.93ms
+trojan://VGBzLm49%3DM_i02Az30tIeonkQw180t-edg@185.126.236.190:443?type=tcp&security=tls&headerType=none&sni=185.126.236.190&fp=chrome&insecure=1&allowInsecure=1#📡🇦🇹®️Austria©️Vienna🅿️ping:49.28ms

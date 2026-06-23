@@ -1,2 +1,2 @@
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:83.73ms
-vless://5c6ec644-1187-470d-82ed-ce01ac927109@45.157.234.114:9999?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:83.73ms
+vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c@ThePackageCom#📡🇱🇻®️Latvia©️Riga🅿️ping:64.72ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?headerType=none&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&encryption=none#📡🇱🇻®️Latvia©️Riga🅿️ping:108.71ms

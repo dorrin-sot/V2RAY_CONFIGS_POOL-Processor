@@ -1,0 +1,2 @@
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@172.104.53.198:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=auv.vavava.kdns.fr&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=auv.vavava.kdns.fr#📡🇸🇬®️Singapore©️Singapore🅿️ping:176ms
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?security=tls&amp;sni=auv.vavava.kdns.fr&amp;alpn=&amp;fp=random&amp;type=ws&amp;host=auv.vavava.kdns.fr&amp;path=%2F%3Fed%3D2560&amp;fragment=1%2C40-60%2C30-50%2Ctlshello&amp;encryption=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:185ms

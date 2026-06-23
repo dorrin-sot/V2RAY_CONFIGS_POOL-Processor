@@ -1,4 +1,2 @@
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:32.63ms
-vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@45.196.224.110:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=364994a6f61fc955#📡🇫🇷®️France©️Paris🅿️ping:31.14ms
-vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&amp;type=tcp&amp;security=reality&amp;sni=cdn8-03.yahoo.com&amp;insecure=1&amp;allowInsecure=1&amp;pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&amp;sid=c7e42004e5f024be&amp;flow=xtxts-rprx-vision#📡🇫🇷®️France©️Paris🅿️ping:41ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:59.3ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#📡🇫🇷®️France©️Roubaix🅿️ping:51.05ms
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#📡🇫🇷®️France©️Paris🅿️ping:43ms

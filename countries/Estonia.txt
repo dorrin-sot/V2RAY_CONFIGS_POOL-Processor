@@ -1,1 +1,1 @@
-vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?encryption=none&fp=&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&security=reality&serviceName=grpc&sid=7a3f9e2b1c8d4f6a&sni=www.microsoft.com&type=grpc#📡🇪🇪®️Estonia©️Tallinn🅿️ping:43.6ms
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.108.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:48ms

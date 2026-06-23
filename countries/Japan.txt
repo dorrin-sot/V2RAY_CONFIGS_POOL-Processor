@@ -1,4 +1,1 @@
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:300.58ms
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:247.67ms
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=%2F&sni=tjsp.hhxaf.cc.cd&type=ws#📡🇯🇵®️Japan©️Shinagawa🅿️ping:274.85ms
-vless://08b278c5-2fe8-4525-827e-71158d27abcd@165.245.171.152:2087?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=s6IR_9xzgjaXjQcWBfHr5jpEjyV-dhEHDjLAxxIC9ic&sid=081fc275db556daa&type=tcp&headerType=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:264.32ms
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.156:10000?encryption=none&security=none&type=tcp#📡🇯🇵®️Japan©️Osaka🅿️ping:249.73ms

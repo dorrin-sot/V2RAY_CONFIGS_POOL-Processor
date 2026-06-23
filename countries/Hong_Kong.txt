@@ -1,1 +1,2 @@
-vless://b73c4e65-46f0-4949-ac8c-a437ef6bc6e6@103.160.204.239:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=1&amp;host=site.iotem.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=site.iotem.workers.dev#📡🇭🇰®️Hong Kong©️San Po Kong🅿️ping:60ms
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@103.160.204.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40VPNine1&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#📡🇭🇰®️Hong Kong©️San Po Kong🅿️ping:48.06ms
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.129.167.140:80?path=Telegram&security=&encryption=none&host=s5.868001.xyz&type=ws#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:47.56ms

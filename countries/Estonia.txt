@@ -1,1 +1,0 @@
-vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=yahoo.com#📡🇪🇪®️Estonia©️Tallinn🅿️ping:27ms

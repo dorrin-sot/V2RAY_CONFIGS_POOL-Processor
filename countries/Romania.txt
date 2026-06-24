@@ -1,1 +1,1 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#📡🇷🇴®️Romania©️Bucharest🅿️ping:61.48ms
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?security=reality&encryption=none&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=735093d7#📡🇷🇴®️Romania©️Bucharest🅿️ping:62.09ms

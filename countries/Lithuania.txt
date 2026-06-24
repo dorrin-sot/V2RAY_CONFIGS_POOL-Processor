@@ -1,0 +1,2 @@
+vless://a5d6f241-6eb8-4439-8e4f-8d5e895df595@185.80.130.25:443?type=ws&encryption=none&security=tls&host=185.80.130.25&path=/ws&sni=185.80.130.25&alpn=h2,http/1.1&fp=chrome#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:48.5ms
+vless://be470e29-56ba-481d-8bcb-35910b071e99@104.17.122.16:2053?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-stack-5e21.panelc3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-stack-5e21.panelc3.workers.dev#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:48.5ms

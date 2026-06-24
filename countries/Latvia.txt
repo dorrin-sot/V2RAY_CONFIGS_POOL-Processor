@@ -1,2 +1,0 @@
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.19.blanesik.space:443?type=grpc&security=tls&serviceName=/sequre/grpc#📡🇱🇻®️Latvia©️Riga (Centra rajons)🅿️ping:106.94ms
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?encryption=none&type=ws&security=tls&path=/sequre/ws?ed=2560&sni=213.21.222.28.speed-storage.ru&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#📡🇱🇻®️Latvia©️Riga (Centra rajons)🅿️ping:106.18ms

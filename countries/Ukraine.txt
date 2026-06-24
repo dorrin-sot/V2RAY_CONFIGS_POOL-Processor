@@ -1,0 +1,1 @@
+trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?security=tls&sni=0403.infinityconfig4.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0403.infinityconfig4.workers.dev&path=/sync#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:55.13ms

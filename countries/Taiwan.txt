@@ -1,2 +1,0 @@
-vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&type=tcp&headerType=none#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:367.18ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:367.18ms

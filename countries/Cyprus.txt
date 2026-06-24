@@ -1,2 +1,0 @@
-vless://545322c5-dba4-4fd4-a8c1-b29db989251e@fastali.temas-fars.ir:443?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=1&amp;host=trfastali.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=1&amp;sni=global.fastly.com#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:45ms
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.92.9.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#📡🇨🇾®️Cyprus©️Nicosia🅿️ping:45ms

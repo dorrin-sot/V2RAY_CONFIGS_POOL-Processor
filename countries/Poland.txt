@@ -1,0 +1,2 @@
+vless://777d1a04-942d-4379-be82-476b7fcb74f7@173.245.58.84:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=http%2F1.1&encryption=none&fp=chrome&host=login.arshia-nova.ir&path=%2Flogin&security=tls&sni=login.arshia-nova.ir&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:36.46ms
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?path=%2Fdda12c57317ed12178061db1b799ebd2&security=&encryption=none&host=progressiya-vpn.online&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:36.46ms

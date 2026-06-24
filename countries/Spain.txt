@@ -1,1 +1,2 @@
-trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=vpn5.rnmcnm.com#📡🇪🇸®️Spain©️Alcobendas🅿️ping:47.64ms
+trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#📡🇪🇸®️Spain©️Donostia / San Sebastian🅿️ping:48.7ms
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&headerType=http&type=tcp#📡🇪🇸®️Spain©️Madrid🅿️ping:65.94ms

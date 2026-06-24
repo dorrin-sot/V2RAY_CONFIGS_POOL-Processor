@@ -1,2 +1,1 @@
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.148.104.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#📡🇷🇺®️Russia©️Kaliningrad🅿️ping:44.37ms
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@193.168.3.26:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#📡🇷🇺®️Russia©️St Petersburg🅿️ping:90.02ms
+vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?security=reality&encryption=none&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5cc0#📡🇷🇺®️Russia©️Moscow🅿️ping:35.59ms

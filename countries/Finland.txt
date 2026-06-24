@@ -1,0 +1,2 @@
+vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra=%7B#📡🇫🇮®️Finland©️Helsinki🅿️ping:128.71ms
+vless://c97fe7a2-1b63-4ab7-ac9f-533a7c705b9d@pinto5.wubbalubbadubdubb.ir:1011?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=701d699e06514eab#📡🇫🇮®️Finland©️Helsinki🅿️ping:38.69ms

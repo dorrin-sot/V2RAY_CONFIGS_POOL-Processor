@@ -1,6 +1,2 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#📡🇬🇧®️United Kingdom©️London🅿️ping:31.13ms
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?security=tls&encryption=none&insecure=1&fp=firefox&type=grpc&serviceName=grpc-api&allowInsecure=1&sni=gb1.oneokapp.com#📡🇬🇧®️United Kingdom©️Slough🅿️ping:77.31ms
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?security=tls&encryption=none&insecure=1&fp=firefox&type=grpc&serviceName=grpc-api&allowInsecure=1&sni=gb2.oneokapp.com#📡🇬🇧®️United Kingdom©️Leyton🅿️ping:110.87ms
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb4.oneokapp.com:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=grpc-api&allowInsecure=0#📡🇬🇧®️United Kingdom©️London🅿️ping:75.61ms
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.12.31.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40VPNine1&security=&encryption=none&host=s5.868001.xyz&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:44.72ms
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.12.31.140:80?path=Telegram&security=&encryption=none&host=s5.868001.xyz&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:44.72ms
+trojan://humanity@91.193.58.77:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45.88ms
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@142.93.37.206:443?type=tcp&security=reality&sni=www.aparat.com&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&flow=xtls-rprx-vision#📡🇬🇧®️United Kingdom©️West Ham🅿️ping:37.31ms

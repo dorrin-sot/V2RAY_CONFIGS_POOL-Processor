@@ -1,1 +1,2 @@
-trojan://114514@83.147.60.186:443?allowInsecure=0&sni=tjaaa.hhllfly.kdns.fr&ws=1&wspath=/#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:207.01ms
+vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.21ms
+vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.21ms

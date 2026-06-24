@@ -1,2 +1,1 @@
-trojan://humanity@91.193.58.77:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45.88ms
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@142.93.37.206:443?type=tcp&security=reality&sni=www.aparat.com&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&flow=xtls-rprx-vision#📡🇬🇧®️United Kingdom©️West Ham🅿️ping:37.31ms
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.135.9.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:44.02ms

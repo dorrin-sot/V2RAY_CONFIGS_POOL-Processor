@@ -1,0 +1,1 @@
+vless://f674cf15-3362-4549-aa8e-7b9e08e86e35@uae.codesystem.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:76.23ms

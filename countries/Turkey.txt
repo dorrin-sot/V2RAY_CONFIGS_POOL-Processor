@@ -1,4 +1,0 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#📡🇹🇷®️Turkey©️Istanbul🅿️ping:73.32ms
-vless://125ab4bd-7c69-4bf4-9612-4f4168e7623b@ger.ernesst.ir:39756?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.yahoo.com&pbk=sBRqpa3Sa_nQqNFPYlJ3o48Bw3OFmvXdukj_rPnzZWY&sid=7a1cce5fe4ce44e7#📡🇹🇷®️Turkey©️İncesu🅿️ping:77.92ms
-vless://4bbb0111-a50f-4029-8035-47dac139658a@194.116.236.15:443?encryption=none&fp=chrome&pbk=oiBQbJ0STufpzvOvhCxiCAo7CDjQ-L5GP8Kbvkc5NRo&security=reality&sid=9cfdd3a3d9db0b93&sni=varzesh3.com&spx=/7vk0onlVFcmgXXY&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:76.11ms
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@00hyt.izumii.ir:6000?path=/?ed=2048&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:224.6ms

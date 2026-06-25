@@ -1,2 +1,0 @@
-vless://719c617a-710d-4464-820b-f21fb055d1ca@88.216.67.230:8443?security=tls&type=ws&headerType=&path=/&host=www.x-upload.org&sni=www.x-upload.org&fp=chrome&alpn=h3,h2,http/1.1#📡🇨🇼®️Curacao©️Willemstad🅿️ping:55.24ms
-vless://ba1c6da5-fa72-45cb-aa35-5dc31674becf@srv8.privacypathcloud.com:2087?encryption=none&security=tls&type=ws&headerType=none&path=/&host=blackaids.ir&sni=blackaids.ir&fp=chrome&alpn=h2,http/1.1#📡🇨🇼®️Curacao©️Willemstad🅿️ping:113.28ms

@@ -1,0 +1,1 @@
+vless://ba454be8-d179-4db2-83fa-529924581b86@data.giftcardbazarbot.com:443?type=tcp&security=reality&encryption=none&pbk=btUBns3ZkRz9zEMIXapV1mm2_NmOQydnzNByP2cgZAo&fp=chrome&sni=www.samsung.com&sid=531cae95c4ff4ad4&spx=%2F&flow=xtls-rprx-vision#📡🇪🇸®️Spain©️Zaragoza🅿️ping:159.51ms

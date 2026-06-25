@@ -1,3 +1,2 @@
-trojan://telegram-id-directvpn@35.181.180.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:45.36ms
-trojan://telegram-id-privatevpns@35.181.180.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:37.36ms
-vless://8a53160d-23c4-47a3-8e25-d8f33a65490f@185.171.202.108:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&host=play.google.com&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#📡🇫🇷®️France©️Paris🅿️ping:33.46ms
+vless://82da8e0a-c3db-4fea-8181-4c4db16ab43c@check08.allenshop2024.ir:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#📡🇫🇷®️France©️Roubaix🅿️ping:60.73ms
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:33.81ms

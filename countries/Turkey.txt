@@ -1,0 +1,2 @@
+vless://Telegramm%3AX_RAY_VPN1@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:61.77ms
+vless://Telgramm%3ATurboConfigs@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:63.07ms

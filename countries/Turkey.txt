@@ -1,1 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?encryption=none&type=tcp&security=tls&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0#📡🇹🇷®️Turkey©️Istanbul🅿️ping:65.83ms
+vless://1625be68-8ed9-47b5-ab00-0d03c27f9082@86.38.214.207:8443?encryption=none&amp;security=tls&amp;sni=a.tiptop-3.top&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=a.tiptop-3.top&amp;path=%2F#📡🇹🇷®️Turkey©️Istanbul🅿️ping:45ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=ams1.fromblancwithlove.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:61ms

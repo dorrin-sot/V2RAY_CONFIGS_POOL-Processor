@@ -1,0 +1,2 @@
+vless://ac2b2b02-1add-4f1e-9d66-24b6937426a6@fl.convert-flow.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fl.convert-flow.net&pbk=5iF0c8rLWJeGPr9UpBxuSaQOzbxE8XbrQFHy5UMQc1w&sid=00a61d55a07de885#📡🇫🇮®️Finland©️Helsinki🅿️ping:56ms
+vless://ac2b2b02-1add-4f1e-9d66-24b6937426a6@fl.convert-flow.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fl.convert-flow.net&pbk=5iF0c8rLWJeGPr9UpBxuSaQOzbxE8XbrQFHy5UMQc1w&sid=00a61d55a07de885#📡🇫🇮®️Finland©️Helsinki🅿️ping:61ms

@@ -1,3 +1,1 @@
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@45.130.125.2:2053?security=tls&type=ws&headerType=&path=%2F&host=5.globalmanagment.ir&sni=5.globalmanagment.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.36ms
-vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?encryption=none&type=xhttp&security=tls&path=%2Fv2raylink&host=germany4.alibaba1405.org&mode=auto&sni=germany4.alibaba1405.org&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.02ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.96ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.01ms

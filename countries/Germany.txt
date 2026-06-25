@@ -1,6 +1,12 @@
-trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.29ms
-vless://4183ac98-fa13-452d-8ed3-e57e95068842@46.4.162.63:443?security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:31.99ms
-vless://77530b59-d579-4032-9f92-e0c9ed46a0da@46.4.162.63:443?security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:45.66ms
-vless://b0de97fd-7116-471c-8fe7-714f3590f384@5.75.207.247:43225?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#📡🇩🇪®️Germany©️Nuremberg🅿️ping:30.24ms
-vless://c381ed79-f3c9-4028-85ae-687795d89ece@DE.IPSENTER.ORG:443?security=reality&encryption=none&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1128da54b05ec30c#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:100.43ms
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.84ms
+trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.125:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.09ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=none&allowinsecure=0&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31.11ms
+trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.29ms
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.92ms
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.85ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.212.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.42ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.180.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇩🇪®️Germany©️Eschborn🅿️ping:39.67ms
+vless://08c2dbaa-aebc-45c3-aca9-eb6656d70fbc@135.125.168.16:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:36.51ms
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:40.9ms
+vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&security=reality&sid=d23753491eefde7e&sni=www.nvidia.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.07ms
+vless://b4d8fe60-6076-478a-a77d-1da8d53b9f9e@46.4.162.63:443?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:38.4ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:27.95ms

@@ -1,0 +1,1 @@
+vless://af44d9e4-4bfe-405c-ac88-c36c4a50e90a@pl.boxypn.com:443?headerType=none&security=reality&sni=pl.boxypn.com&encryption=none&fp=qq&type=tcp&pbk=WZNe-wWzs86z1lGhv5fRb5oyfDyPkHgAaLsSsKe1AHg&flow=xtls-rprx-vision#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:72.27ms

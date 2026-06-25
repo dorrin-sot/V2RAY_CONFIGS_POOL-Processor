@@ -1,0 +1,1 @@
+vless://39bd10b8-9234-4171-be41-71ce4dda4573@erosan.appleseraj.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=marly.mastermarly.ir&fp=chrome&type=ws&allowInsecure=0&sni=marly.mastermarly.ir#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:85.8ms

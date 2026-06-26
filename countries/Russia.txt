@@ -1,2 +1,0 @@
-vless://5fdf2809-9b94-001f-bd50-81027af9cef4@82.202.136.255:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cascad.anotherboring.top&fp=firefox&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&sid=b8357afdce856d30&packetEncoding=xudp#📡🇷🇺®️Russia©️Moscow🅿️ping:45.93ms
-vless://6dffd812-e8ca-03e8-93ff-538c4097d240@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#📡🇷🇺®️Russia©️Moscow🅿️ping:40.22ms

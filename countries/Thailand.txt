@@ -1,0 +1,2 @@
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&path=%2Fws&host=aIs.SpEeDtEsT.nEt&sni=v2ray.simspeedup.com#📡🇹🇭®️Thailand©️Bang Phli🅿️ping:244.23ms
+vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722#📡🇹🇭®️Thailand©️Bangkok🅿️ping:226.93ms

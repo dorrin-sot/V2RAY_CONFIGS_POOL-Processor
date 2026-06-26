@@ -1,1 +1,0 @@
-trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:44.5ms

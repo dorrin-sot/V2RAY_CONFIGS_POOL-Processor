@@ -1,1 +1,1 @@
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=%40SylphNet&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:208.97ms
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:97.61ms

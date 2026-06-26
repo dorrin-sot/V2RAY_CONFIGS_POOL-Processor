@@ -1,3 +1,0 @@
-vless://aa9453dc-0e52-4628-8911-933c5286a9da@francev1.sorcepack.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#📡🇫🇷®️France©️Strasbourg🅿️ping:57.59ms
-vless://af1c3159-0b74-4218-abda-24cc83a8c1ca@francev2.sorcepack.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#📡🇫🇷®️France©️Strasbourg🅿️ping:58.56ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:47.42ms

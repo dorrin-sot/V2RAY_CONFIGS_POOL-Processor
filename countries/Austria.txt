@@ -1,1 +1,0 @@
-trojan://trojan@152.53.45.251:8888?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#📡🇦🇹®️Austria©️Vienna🅿️ping:37.71ms

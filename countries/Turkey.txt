@@ -1,2 +1,0 @@
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tr.janusgate.org&sid=f68f32d02dbd5147#📡🇹🇷®️Turkey©️Istanbul🅿️ping:98.61ms
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=&sid=f68f32d02dbd5147#📡🇹🇷®️Turkey©️Istanbul🅿️ping:98.61ms

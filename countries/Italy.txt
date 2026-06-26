@@ -1,2 +1,1 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?security=none&type=grpc&mode=gun&encryption=none#📡🇮🇹®️Italy©️Milan🅿️ping:40.11ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.13ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?security=none&type=grpc&mode=gun&encryption=none#📡🇮🇹®️Italy©️Milan🅿️ping:41.09ms

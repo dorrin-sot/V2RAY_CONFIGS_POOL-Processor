@@ -1,9 +1,3 @@
-ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&&headerType=none&type=tcp&&sni=ams1.fromblancwithlove.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.51ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.42ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.24ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.55ms
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?sni=Koma-YT.PAGeS.Dev#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.86ms
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.35ms
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#📡🇳🇱®️The Netherlands©️Alkmaar🅿️ping:28.34ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?sni=Koma-YT.PAGeS.Dev#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.35ms
+vless://9b7f9174-42f1-4b0f-8a4a-c3fd7636fc5e@lc2nodenl.vdkvpn.ru:443?security=reality&encryption=none&pbk=u8MN57FhcYnpahcrByDmBNZ9_ruw9C1065QIwpZSZkk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:72.2ms

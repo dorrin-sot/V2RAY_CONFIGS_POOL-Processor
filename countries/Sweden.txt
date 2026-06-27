@@ -1,1 +1,1 @@
-vless://8556a95b-6dee-4b55-88a8-1acb03552b06@alaSE.marzban-locations.com:6300?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#📡🇸🇪®️Sweden©️Stockholm🅿️ping:57.6ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&security=tls&sni=kingcloud.biack.ir&fp=firefox&alpn=h3&insecure=0&allowInsecure=0&type=ws&path=%2FLiL%3Fed%3D2560#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.48ms

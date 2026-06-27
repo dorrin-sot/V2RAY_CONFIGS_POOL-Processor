@@ -1,10 +1,4 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:40.14ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.31ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.45ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:44.9ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.44ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.59ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.7ms
-vless://b8e091f9-af85-4b43-8a63-81feb640d7ac@zeus-panel-hrffzx.zeus-63ob04.workers.dev:80?path=%2F&security=none&encryption=none&insecure=0&host=zeus-panel-hrffzx.zeus-63ob04.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-hrffzx.zeus-63ob04.workers.dev#📡🇮🇹®️Italy©️Milan🅿️ping:41.59ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.20:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#📡🇮🇹®️Italy©️Milan🅿️ping:33.61ms
-vless://e554afea-76a5-4733-9934-f9d4316d2f9b@it-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#📡🇮🇹®️Italy©️Milan🅿️ping:95.85ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:52.48ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:50.04ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:80.2ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:80.2ms

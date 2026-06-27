@@ -1,1 +1,4 @@
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:27.5ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0=@65.109.218.60:8880#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFuVnBxSlZwNW9xMlc0RDBMank0@109.107.182.229:51544#📡🇫🇮®️Finland©️Helsinki🅿️ping:82.54ms
+vless://d271e19d-800a-4a46-9fe5-924653b71a63@fire.jykvpn.com:2048?path=%2F&security=&encryption=none&host=ads.x5.ru&type=ws&sni=fire.jykvpn.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.49ms
+vless://e33372bc-5229-4a87-8171-b691e9737e4a@finland-3.union.monster:443?security=reality&encryption=none&pbk=78Fsn3YwKNA8HuQfQxXw1a-ItucVpdIWp7x-DIvUxSs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=finland-3.incselfgreat.vip&sid=b9#📡🇫🇮®️Finland©️Turku🅿️ping:72.65ms

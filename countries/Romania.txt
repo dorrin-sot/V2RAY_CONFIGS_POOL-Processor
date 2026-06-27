@@ -1,1 +1,0 @@
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#📡🇷🇴®️Romania©️Bucharest🅿️ping:61.6ms

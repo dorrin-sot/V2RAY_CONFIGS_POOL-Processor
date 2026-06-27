@@ -1,3 +1,0 @@
-trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45.88ms
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36.92ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=r1.mizulina.top&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:31.17ms

@@ -1,5 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43.27ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:41.83ms
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iamsterdam.com&fp=firefox&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=%2F&flow=xtls-rprx-vision#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43.55ms
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:86.69ms
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@144.124.251.49:443?security=reality&encryption=none&pbk=Qsx1iAU8A1meJ2Pz8QbEcX1iGckyw4f6-mxZ3ZyJ8HI&headerType=&type=tcp&flow=xtls-rprx-vision&sni=rezerv21.yunus.guru&sid=e2b15b73af31a6a4#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:51.5ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:55.1ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:36.53ms
+trojan://MiTiVPN@151.101.120.120:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.47ms
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:97.32ms

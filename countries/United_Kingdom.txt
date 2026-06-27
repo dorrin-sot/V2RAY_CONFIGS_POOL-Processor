@@ -1,2 +1,2 @@
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:51.56ms
-vless://e05eb2e7-f275-4e17-a0a4-d7a8acbce03b@gamehb.humanv.ir:55472?path=%2F&security=none&encryption=none&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:70.84ms
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:74.6ms
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#📡🇬🇧®️United Kingdom©️London🅿️ping:23.81ms

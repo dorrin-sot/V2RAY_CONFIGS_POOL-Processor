@@ -1,5 +1,1 @@
-trojan://Mitivpn@151.101.242.172:80?type=ws&security=none&path=%2Fed%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net#📡🇫🇷®️France©️Strasbourg🅿️ping:35.28ms
-trojan://telegram-id-directvpn@13.36.2.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:44.13ms
-trojan://telegram-id-privatevpns@13.36.2.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:43.22ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.2.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:42.23ms
-vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#📡🇫🇷®️France©️Paris🅿️ping:61.16ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#📡🇫🇷®️France©️Paris🅿️ping:57.45ms

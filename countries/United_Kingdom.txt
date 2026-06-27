@@ -1,0 +1,2 @@
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:51.56ms
+vless://e05eb2e7-f275-4e17-a0a4-d7a8acbce03b@gamehb.humanv.ir:55472?path=%2F&security=none&encryption=none&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:70.84ms

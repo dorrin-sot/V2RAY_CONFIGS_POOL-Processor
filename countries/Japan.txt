@@ -1,1 +1,2 @@
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:262.07ms
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:268.29ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.36.17:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#📡🇯🇵®️Japan©️Osaka (Shiromi)🅿️ping:264.71ms

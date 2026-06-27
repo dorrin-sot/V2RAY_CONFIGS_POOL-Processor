@@ -1,1 +1,1 @@
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#📡🇱🇺®️Luxembourg©️Bissen🅿️ping:66.5ms
+vless://f3776c16-fbe4-4838-9603-289fe04ff471@31.184.244.61:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#📡🇱🇺®️Luxembourg©️Luxembourg (Luxembourg-Kirchberg)🅿️ping:27.26ms

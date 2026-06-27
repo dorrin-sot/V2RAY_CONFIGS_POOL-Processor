@@ -1,5 +1,1 @@
-vless://e0d568ab-a18d-4804-80b5-266197d0b4eb@104.24.186.161:8443?type=ws&security=tls&path=%2F&host=a-1b7crt.artinyadavar714.workers.dev&sni=a-1b7crt.artinyadavar714.workers.dev&fp=chrome#📡🇹🇷®️Turkey©️Istanbul🅿️ping:354.68ms
-vless://f827197a-324d-4566-857e-b3ee49860393@185.226.92.142:49678?security=reality&encryption=none&pbk=D8HjTUtmN_kiZ4wVBLQg0DnYw1tZIcAc9LCbHwrI00k&headerType=none&fp=chrome&spx=%2FZUVACSScb7COFzI&type=tcp&sni=aws.amazon.com&sid=3668c193#📡🇹🇷®️Turkey©️Istanbul🅿️ping:154.85ms
-vless://f827197a-324d-4566-857e-b3ee49860393@185.226.92.142:50172?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:354.68ms
-vless://f827197a-324d-4566-857e-b3ee49860393@185.226.92.142:54091?path=%2F&security=none&encryption=none&host=www.speedtest.com&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68.12ms
-vless://f827197a-324d-4566-857e-b3ee49860393@185.226.92.142:54091?path=/&security=none&encryption=none&host=www.speedtest.com&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68.12ms
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.35ms

@@ -1,1 +1,2 @@
-vless://f3d4f8e1-0a53-4f77-8386-6e1f53364fea@rez5.royalro.shop:9010?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=play.google.com&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&sid=e8b1541e7387ffba#📡🇫🇮®️Finland©️Helsinki🅿️ping:60.28ms
+ss://21702d6d-7b35-4faa-8462-c23dc7e20e00@telewebion.com.Fin2.ShAkHlE.iR:52525?security=&encryption=none&host=status.play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.64ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=qq&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#📡🇫🇮®️Finland©️Helsinki🅿️ping:22.77ms

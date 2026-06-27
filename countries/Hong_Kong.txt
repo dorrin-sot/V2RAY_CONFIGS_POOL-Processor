@@ -1,1 +1,1 @@
-vless://f827197a-324d-4566-857e-b3ee49860393@185.226.92.142:49678?security=reality&encryption=none&pbk=D8HjTUtmN_kiZ4wVBLQg0DnYw1tZIcAc9LCbHwrI00k&headerType=none&fp=chrome&spx=/ZUVACSScb7COFzI&type=tcp&sni=aws.amazon.com&sid=3668c193#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:210.0ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:199.94ms

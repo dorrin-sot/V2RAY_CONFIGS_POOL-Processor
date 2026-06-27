@@ -1,7 +1,5 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:45.86ms
-trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=/MiTiVPN=De&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#📡🇬🇧®️United Kingdom©️London (North Acton)🅿️ping:54.89ms
-trojan://MiTiVPN@91.193.58.201:443?type=ws&security=tls&path=/MiTiVPN=NL&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:53.95ms
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇬🇧®️United Kingdom©️London🅿️ping:39.23ms
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:45.9ms
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%3Fed%3D2560%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET&security=tls&alpn=h2%2Chttp%2F#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:73.66ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top&fp=edge&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:71.68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSU14Rk15cTNGd3lQZDIxVUdXZ21OSkNBaVlOOW0ydk9v@91.108.254.252:18982#📡🇬🇧®️United Kingdom©️London🅿️ping:33.8ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:54.94ms
+trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#📡🇬🇧®️United Kingdom©️London (North Acton)🅿️ping:45.57ms
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45.9ms
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed%3D2560%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET%2FJOIN%2FZEVORXNET&security=tls&alpn=h2%2Chttp%2F#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:87.29ms

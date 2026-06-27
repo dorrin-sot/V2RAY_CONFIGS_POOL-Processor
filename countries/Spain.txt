@@ -1,0 +1,1 @@
+vless://880b4b22-4fba-48b0-9afb-5b5e58e47a13@free06.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none#📡🇪🇸®️Spain©️Madrid🅿️ping:81.31ms

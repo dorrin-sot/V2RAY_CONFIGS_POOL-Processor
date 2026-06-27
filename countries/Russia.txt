@@ -1,1 +1,4 @@
-vless://5fca2066-e060-4636-881d-e34684a6323c@193.168.46.180:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=rruu.persik.host&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#📡🇷🇺®️Russia©️St Petersburg🅿️ping:45.88ms
+vless://d271e19d-800a-4a46-9fe5-924653b71a63@72.56.32.134:80?mode=gun&security=&encryption=none&type=grpc&serviceName=vless&sni=72.56.32.134#📡🇷🇺®️Russia©️Moscow🅿️ping:37.01ms
+vless://d271e19d-800a-4a46-9fe5-924653b71a63@90.156.225.184:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#📡🇷🇺®️Russia©️St Petersburg🅿️ping:166.39ms
+vless://d271e19d-800a-4a46-9fe5-924653b71a63@ru.jykvpn.com:8080?mode=gun&security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&fp=chrome&type=grpc&serviceName=xyz&sni=ads.x5.ru&sid=4c02bbbfa833b3b6#📡🇷🇺®️Russia©️St Petersburg🅿️ping:99.68ms
+vless://d271e19d-800a-4a46-9fe5-924653b71a63@ru.jykvpn.com:80?mode=gun&security=&encryption=none&type=grpc&serviceName=vless&sni=ru.jykvpn.com#📡🇷🇺®️Russia©️Moscow🅿️ping:71.79ms

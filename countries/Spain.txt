@@ -1,1 +1,1 @@
-vless://880b4b22-4fba-48b0-9afb-5b5e58e47a13@free06.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none#📡🇪🇸®️Spain©️Madrid🅿️ping:81.31ms
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&flow=xtls-rprx-vision&fp=&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&security=reality&sid=15052edc8120b63d&sni=www.googletagmanager.com&type=tcp#📡🇪🇸®️Spain©️Madrid🅿️ping:53.08ms

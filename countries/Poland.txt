@@ -1,1 +1,1 @@
-vless://b21c558b-1ca1-4159-a140-868448e5b1a8@62.112.222.47:8080?security=none&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:58.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:53.77ms

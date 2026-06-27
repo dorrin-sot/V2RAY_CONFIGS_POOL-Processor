@@ -1,4 +1,0 @@
-vless://d271e19d-800a-4a46-9fe5-924653b71a63@72.56.32.134:80?mode=gun&security=&encryption=none&type=grpc&serviceName=vless&sni=72.56.32.134#📡🇷🇺®️Russia©️Moscow🅿️ping:37.01ms
-vless://d271e19d-800a-4a46-9fe5-924653b71a63@90.156.225.184:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#📡🇷🇺®️Russia©️St Petersburg🅿️ping:166.39ms
-vless://d271e19d-800a-4a46-9fe5-924653b71a63@ru.jykvpn.com:8080?mode=gun&security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&fp=chrome&type=grpc&serviceName=xyz&sni=ads.x5.ru&sid=4c02bbbfa833b3b6#📡🇷🇺®️Russia©️St Petersburg🅿️ping:99.68ms
-vless://d271e19d-800a-4a46-9fe5-924653b71a63@ru.jykvpn.com:80?mode=gun&security=&encryption=none&type=grpc&serviceName=vless&sni=ru.jykvpn.com#📡🇷🇺®️Russia©️Moscow🅿️ping:71.79ms

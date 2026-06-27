@@ -1,2 +1,1 @@
-vless://2c17aa06-0dcd-424c-a597-bf1e8bdd519a@Xcdn.AccuracyCloud.Ir:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=%2Fdrlimit%3Fed%3D2048&host=GR.Mobailhay.ir&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=Mashhad.Mobailhay.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:73.56ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:83.57ms
+vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.3ms

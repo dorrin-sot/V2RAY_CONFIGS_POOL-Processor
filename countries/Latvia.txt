@@ -1,1 +1,1 @@
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:54.99ms
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:52.07ms

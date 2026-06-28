@@ -1,1 +1,0 @@
-vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=/ws?ed=2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp://1.1.1.1:53&type=ws&allowInsecure=0#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:55.32ms

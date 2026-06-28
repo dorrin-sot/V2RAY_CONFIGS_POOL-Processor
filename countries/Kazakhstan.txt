@@ -1,0 +1,1 @@
+vless://60300afa-3366-4ae3-959a-7b50438acebb@kz.wequ.host:8443?encryption=none&security=reality&sni=kz.wequ.host&fp=edge&pbk=SHELCigv5VdwOAqMQJsoLCU5sbI51zW5F_Gh6DWJYls&sid=40d78f08&type=tcp&headerType=none#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:204.2ms

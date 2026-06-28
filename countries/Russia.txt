@@ -1,0 +1,2 @@
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=%2Frutube&security=&encryption=none&host=rutube.globaledgenet.com&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:41.97ms
+vless://fa0ad61c-05be-4c94-a149-b693ef5b55dd@ru.shasys.io:443?security=reality&encryption=none&pbk=MPcV3nXn6rT3HcptXesDllY5LsISj909nVVZ1e2AaT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sporting.is#📡🇷🇺®️Russia©️Moscow (Tsentralnyy administrativnyy okrug)🅿️ping:90.51ms

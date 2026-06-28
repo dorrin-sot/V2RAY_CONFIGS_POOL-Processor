@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.169.81.201:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%2982b5b51:91975#📡🇸🇬®️Singapore©️Singapore🅿️ping:200.99ms
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.156.235.151:12580?path=%2F&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#📡🇸🇬®️Singapore©️Singapore🅿️ping:181.05ms
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.163.98.26:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#📡🇸🇬®️Singapore©️Singapore🅿️ping:183.83ms

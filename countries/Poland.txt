@@ -1,0 +1,3 @@
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%20udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#📡🇵🇱®️Poland©️Warsaw🅿️ping:150.07ms
+vless://16b5b7f5-9fed-441e-b8b9-c0d09fbb0df9@jafar.consolgame.ir:1152?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#📡🇵🇱®️Poland©️Warsaw🅿️ping:150.07ms
+vless://af44d9e4-4bfe-405c-ac88-c36c4a50e90a@pl.boxypn.com:443?security=reality&encryption=none&pbk=WZNe-wWzs86z1lGhv5fRb5oyfDyPkHgAaLsSsKe1AHg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pl.boxypn.com#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:85.05ms

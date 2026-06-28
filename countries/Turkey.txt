@@ -1,2 +1,2 @@
-vless://4cc90559-ac1f-4258-b0c7-785562adcdb2@new.pixsdo.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:92.58ms
-vless://4cc90559-ac1f-4258-b0c7-785562adcdb2@new.pixsdo.ir:8080?encryption=none&security=none&type=ws&path=%2F#📡🇹🇷®️Turkey©️Istanbul🅿️ping:92.58ms
+vless://2aa8f014-989c-4b5a-9fdb-c39cac028826@u5.lordmakuboutiqu.site:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:91.91ms
+vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.microsoft.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.11ms

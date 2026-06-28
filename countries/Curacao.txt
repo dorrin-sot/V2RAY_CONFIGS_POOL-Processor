@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.30:8880?type=ws&security=none&host=vms.lifetime05.workers.dev&path=%2F#📡🇨🇼®️Curacao©️Willemstad🅿️ping:53ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.30:8880?type=ws&security=none&host=vms.lifetime05.workers.dev&path=%2F#📡🇨🇼®️Curacao©️Willemstad🅿️ping:58ms

@@ -1,3 +1,4 @@
-vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:41.05ms
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=%2Frutube&security=&encryption=none&host=rutube.globaledgenet.com&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:41.85ms
-vless://e7edd2fe-e9de-499a-b320-407435e165bb@157.22.206.81:8412?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:42.0ms
+vless://17550015-678f-43ad-b0d2-65c0a829bedb@178.209.127.33:8443?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:38.1ms
+vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:54.81ms
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@92.38.139.63:9891?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Obruchevo🅿️ping:51.99ms
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️St Petersburg (Tsentralnyy rayon)🅿️ping:51.64ms

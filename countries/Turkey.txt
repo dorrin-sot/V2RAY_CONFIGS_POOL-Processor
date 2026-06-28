@@ -1,2 +1,5 @@
-vless://16b5b7f5-9fed-441e-b8b9-c0d09fbb0df9@metan2.consolgame.ir:1002?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#📡🇹🇷®️Turkey©️Istanbul🅿️ping:206.31ms
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:66.32ms
+vless://7b9c6fbf-3b87-4ff8-b5c1-1f2f43dac38f@86.38.214.33:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ftimer%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=mizzbani.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=mizzbani.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:49.2ms
+vless://7b9c6fbf-3b87-4ff8-b5c1-1f2f43dac38f@86.38.214.33:443?path=%2Ftimer%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=mizzbani.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=mizzbani.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:49.2ms
+vless://7b9c6fbf-3b87-4ff8-b5c1-1f2f43dac38f@86.38.214.33:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:44.12ms
+vless://c08dc9a6-40ac-4253-a778-8a5a433eaaa7@87.120.106.164:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:63.58ms
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.08ms

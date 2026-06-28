@@ -1,0 +1,2 @@
+trojan://auto@194.53.53.4:443#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:46.41ms
+vless://315e45a6-9745-4213-b59d-546b22f3232a@SPEEDtest.Net:80?type=tcp&encryption=none&security=none#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:46.41ms

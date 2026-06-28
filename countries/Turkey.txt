@@ -1,1 +1,2 @@
-vless://c08dc9a6-40ac-4253-a778-8a5a433eaaa7@87.120.106.164:8443?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:63.62ms
+vless://4cc90559-ac1f-4258-b0c7-785562adcdb2@new.pixsdo.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:92.58ms
+vless://4cc90559-ac1f-4258-b0c7-785562adcdb2@new.pixsdo.ir:8080?encryption=none&security=none&type=ws&path=%2F#📡🇹🇷®️Turkey©️Istanbul🅿️ping:92.58ms

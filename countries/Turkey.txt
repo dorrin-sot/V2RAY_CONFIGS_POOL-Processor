@@ -1,2 +1,0 @@
-vless://57dd76e5-4588-4e45-8e7b-147092672b0f@cd5.videobazi.com:2053?path=%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=aird.app9.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=aird.app9.ir#📡🇹🇷®️Turkey©️Istanbul🅿️ping:87ms
-vless://c08dc9a6-40ac-4253-a778-8a5a433eaaa7@87.120.106.164:8443?security=none&amp;fp=&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:60ms

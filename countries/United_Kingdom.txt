@@ -1,2 +1,2 @@
-trojan://MITIVPN@164.38.155.135:443?security=tls&sni=95r.ir&alpn=http%2F1.1&fp=firefox&type=ws&host=95r.ir&path=%2FMiTiVPN%3DDe#📡🇬🇧®️United Kingdom©️London (North Acton)🅿️ping:50.77ms
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇬🇧®️United Kingdom©️London🅿️ping:44.08ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:148ms
+vless://fb4f96af-267f-47c1-80ba-7c763a7b0e09@167.86.83.211:443?authority=167.86.83.211&encryption=none&fp=chrome&pbk=Yl5jwwGZthEomnp0eVtZXcted62akm7G5pGDGv1zKn0&security=reality&serviceName=&sid=b00c2b8d68c6c1&sni=www.yahoo.com&spx=%2FmXL2B6TKb3si038&type=grpc#📡🇬🇧®️United Kingdom©️London🅿️ping:38.48ms

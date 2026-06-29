@@ -1,1 +1,0 @@
-vless://431ed230-25fc-4e0a-ae18-d600268b408b@88.216.67.230:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9f020d.ezaccess1990eee.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9f020d.ezaccess1990eee.workers.dev#📡🇨🇼®️Curacao©️Willemstad🅿️ping:46.55ms

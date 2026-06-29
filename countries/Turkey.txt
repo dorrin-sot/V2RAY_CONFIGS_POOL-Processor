@@ -1,1 +1,1 @@
-vless://6168d6be-941a-4559-8964-00ea67307d8d@b65a214cfd86088f.RaVeNlO.iR:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.23ms
+vless://c08dc9a6-40ac-4253-a778-8a5a433eaaa7@87.120.106.164:8443?security=none&amp;fp=&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:63ms

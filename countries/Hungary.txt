@@ -1,1 +1,0 @@
-trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.134:443?path=%2Fxiron&amp;security=tls&amp;insecure=0&amp;host=sahand-m.sahand5.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sahand-m.sahand5.workers.dev#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:48ms

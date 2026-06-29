@@ -1,18 +1,4 @@
-trojan://63872b0d-87dd-4474-b690-92773af2922e@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:87ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@hkdcrtc-e.catcat321.com:20103?security=tls&sni=ng.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:89ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@hkdcrtc-e.catcat321.com:20114?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:58ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20010?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:91.19ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20020?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:57.31ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20034?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:92ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20051?security=tls&sni=ng.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:86ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20066?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:59ms
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20120?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:59.88ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@hkdcrtc-e.catcat321.com:20019?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:55.82ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:90ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@hkdcrtc-e.catcat321.com:20103?security=tls&sni=ng.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:56ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@hkdcrtc-e.catcat321.com:20114?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:58ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20032?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:87ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20034?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:62ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20119?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:89ms
-vless://129b50b6-060d-475c-b1de-b87c2a67051f@www.baipiao.eu.org:8880?host=shrill-waterfall-bfe2.416.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:58ms
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#📡🇬🇧®️United Kingdom©️London🅿️ping:23.57ms
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45.91ms
+vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:75.41ms
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&encryption=none&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#📡🇬🇧®️United Kingdom©️Leyton🅿️ping:39ms
+vless://fa1e8c05-123e-4228-84a1-3bf1625595b6@suolar.yellowsky.ir:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=fruumonta.appleseraj.IR.&fp=chrome&type=xhttp&allowInsecure=0&sni=fruumonta.appleseraj.IR.#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:76.15ms

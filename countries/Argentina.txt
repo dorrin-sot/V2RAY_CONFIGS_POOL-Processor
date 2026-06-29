@@ -1,3 +1,0 @@
-trojan://MiTiVPN@151.101.216.216:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#📡🇦🇷®️Argentina©️Buenos Aires🅿️ping:245.46ms
-trojan://MiTiVPN@151.101.217.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#📡🇦🇷®️Argentina©️Buenos Aires🅿️ping:249.18ms
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#📡🇦🇷®️Argentina©️Adrogué🅿️ping:260.05ms

@@ -1,0 +1,1 @@
+vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@194.147.214.197:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&amp;security=reality&amp;sid=cd8971da5a669139&amp;sni=yahoo.com&amp;type=tcp#📡🇨🇭®️Switzerland©️Zurich🅿️ping:38ms

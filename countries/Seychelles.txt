@@ -1,0 +1,2 @@
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=srv75.perfectbulk.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms

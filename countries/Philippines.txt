@@ -1,1 +1,0 @@
-vless://f9ba0804-70cb-4761-9da3-73cf35acdf35@103.31.79.163:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-2f09bd.ayma72254.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-2f09bd.ayma72254.workers.dev#📡🇵🇭®️Philippines©️Makati City (Legazpi Village)🅿️ping:46.76ms

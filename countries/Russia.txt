@@ -1,2 +1,0 @@
-vless://3e193606-0b96-42c7-b34d-c5c4eba05cc0@84.201.178.175:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#📡🇷🇺®️Russia©️Moscow🅿️ping:49.4ms
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=%2Frutube&security=&encryption=none&host=rutube.globaledgenet.com&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:40.77ms

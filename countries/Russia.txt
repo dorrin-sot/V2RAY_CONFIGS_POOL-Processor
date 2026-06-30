@@ -1,2 +1,1 @@
-vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@62.113.75.187:443?security=reality&encryption=none&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=1c74cf626ef50bb3#📡🇷🇺®️Russia©️Moscow🅿️ping:86.21ms
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=%2Frutube&security=&encryption=none&host=rutube.globaledgenet.com&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:59.91ms
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.172.67:2777?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&security=reality&sid=0f4dacf08722a29f&sni=ads.x5.ru&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:63.62ms

@@ -1,5 +1,4 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:48ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:40.88ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:48ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:46ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:44ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:50ms
+vless://b7d23bac-cb1a-4609-af53-1a03c8ab8285@s.karizma.space:37870?type=tcp&amp;headerType=http&amp;encryption=none&amp;security=none&amp;host=google.com#📡🇮🇹®️Italy©️Milan🅿️ping:46ms

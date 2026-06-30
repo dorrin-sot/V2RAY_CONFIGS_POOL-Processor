@@ -1,3 +1,1 @@
-trojan://7002R3Gxo1@45.130.125.2:443?type=ws&amp;security=tls&amp;path=%2Fda&amp;host=sa.farxmode.ir&amp;sni=sa.farxmode.ir&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:48ms
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@electro.gtboost.uk:443?&amp;security=tls&amp;alpn=h2&amp;sni=NeonDagger-F582.webapi.name&amp;type=grpc&amp;serviceName=&amp;mode=gun#📡🇸🇨®️Seychelles©️Victoria🅿️ping:118ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=srv75.perfectbulk.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:48ms
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@electro.gtboost.uk:443?&amp;security=tls&amp;alpn=h2&amp;sni=NeonDagger-F582.webapi.name&amp;type=grpc&amp;serviceName=&amp;mode=gun#📡🇸🇨®️Seychelles©️Victoria🅿️ping:87ms

@@ -1,0 +1,2 @@
+vless://40315803-da31-4455-a2e6-587c784fa9a8@sub.1.polnejat.ir:4720?type=tcp&encryption=none&security=none&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:122.89ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#📡🇫🇮®️Finland©️Helsinki🅿️ping:25.49ms

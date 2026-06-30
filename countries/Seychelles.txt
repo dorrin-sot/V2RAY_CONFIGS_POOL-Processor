@@ -1,2 +1,1 @@
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.77ms
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@electro.gtboost.uk:443?&amp;security=tls&amp;alpn=h2&amp;sni=NeonDagger-F582.webapi.name&amp;type=grpc&amp;serviceName=&amp;mode=gun#📡🇸🇨®️Seychelles©️Victoria🅿️ping:85ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=italix.dtvialon.com.#📡🇸🇨®️Seychelles©️Victoria🅿️ping:81.14ms

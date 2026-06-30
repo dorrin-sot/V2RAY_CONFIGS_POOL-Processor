@@ -1,0 +1,5 @@
+trojan://telegram-id-directvpn@13.37.40.117:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:33.94ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.40.117:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.49ms
+vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.171:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#📡🇫🇷®️France©️Paris🅿️ping:31.39ms
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:33.49ms
+vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@82.22.2.187:443?security=reality&encryption=none&pbk=Icm1TWywIJz1OVINqBXHYeQr1yxDoT-t3R9DDi-CD2U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr-01.slnode.cc&sid=71b1677c130233d7#📡🇫🇷®️France©️Paris🅿️ping:46.15ms

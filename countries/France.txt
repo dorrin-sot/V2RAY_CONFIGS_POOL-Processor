@@ -1,4 +1,1 @@
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?security=reality&encryption=none&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.laposte.fr&sid=ad3c6641d540b4e1#📡🇫🇷®️France©️Paris🅿️ping:36.01ms
-vless://49bfc4ee-3c10-4d8d-ac2c-6d549cef20e6@51.45.0.134:10913?type=tcp&security=none#📡🇫🇷®️France©️Paris🅿️ping:37.66ms
-vless://49bfc4ee-3c10-4d8d-ac2c-6d549cef20e6@dapfswv1en82vf8.dlcenter.shop:10913?type=tcp&security=none#📡🇫🇷®️France©️Paris🅿️ping:101.26ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:37.48ms
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.79:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#📡🇫🇷®️France©️Paris🅿️ping:31.78ms

@@ -1,1 +1,0 @@
-vless://275e5518-9097-57bf-3241-8b9f369a115b@45.131.6.203:8443?encryption=none&amp;type=xhttp&amp;host=intelligentgatewayplatform.novacorelorna.com&amp;path=/system-health-monitoring-portal-a7e32f91&amp;security=tls&amp;fp=firefox&amp;sni=corecache.novacorelorna.com&amp;alpn=h2,http/1.1,h3#📡🇧🇿®️Belize©️Belize City🅿️ping:24ms

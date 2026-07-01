@@ -1,1 +1,1 @@
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kingcloud.biack.ir#📡🇸🇪®️Sweden©️Stockholm🅿️ping:25ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.05ms

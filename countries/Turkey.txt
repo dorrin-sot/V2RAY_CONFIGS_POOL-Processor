@@ -1,0 +1,2 @@
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:100.08ms
+vless://184aa91d-fba7-4ddf-8e71-371507db4408@tr.ufo-tuning.ir:2053?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.yahoo.com&sid=3cc88d0912501442&fp=safari&pbk=ZqfHTnZCFRb9f2wZisIGsMJnXnP-bsiX7C0MoaTv8GQ&headerType=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:100.08ms

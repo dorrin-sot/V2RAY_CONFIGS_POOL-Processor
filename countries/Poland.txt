@@ -1,1 +1,0 @@
-vless://baeb9020-8fcd-0018-b95d-f76507816e6d@pl-root.sworkingvpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:104.93ms

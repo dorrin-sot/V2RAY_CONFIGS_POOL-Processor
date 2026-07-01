@@ -1,0 +1,2 @@
+trojan://MITIVPN@94.140.0.100:443?host=95r.ir&amp;insecure=0&amp;path=%2FMiTiVPN%3DUsa&amp;type=ws&amp;allowInsecure=0&amp;sni=95r.ir&amp;alpn=http%2F1.1&amp;security=tls&amp;fp=firefox#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:47.19ms
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:175.85ms

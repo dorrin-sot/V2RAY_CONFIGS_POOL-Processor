@@ -1,0 +1,1 @@
+vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@77.83.203.137:443?encryption=none&type=tcp&security=reality&headerType=none&sni=icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=YzqTuPSCgvHL2zNInrRXQNtJNE0a1xiQsjNXV-SFrRE&sid=76#📡🇹🇷®️Turkey©️Istanbul🅿️ping:60.97ms

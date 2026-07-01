@@ -1,0 +1,3 @@
+trojan://HHyBuQthOg@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&host=sj.farxmode.ir&sni=sj.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.85ms
+trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.19ms
+trojan://humanity@45.130.125.75:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.22ms

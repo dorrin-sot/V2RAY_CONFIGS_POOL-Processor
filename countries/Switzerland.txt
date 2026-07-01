@@ -1,3 +1,0 @@
-trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&headerType=none&fp=chrome&spx=%2F6Iazy983oFVVWY8&type=tcp&sni=promotion.yahoo.com&sid=ba#📡🇨🇭®️Switzerland©️Geneva🅿️ping:43.63ms
-trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp#📡🇨🇭®️Switzerland©️Geneva🅿️ping:43.76ms
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.8:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&flow=xtls-rprx-vision#📡🇨🇭®️Switzerland©️Bern🅿️ping:30.46ms

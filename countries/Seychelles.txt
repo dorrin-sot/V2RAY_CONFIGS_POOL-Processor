@@ -1,2 +1,2 @@
-vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.12ms
-vless://94b509fa-d085-48fd-9e4d-88dc9a2cbc57@x9.sorix-home.ir:2087?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&mode=auto&sni=w5.tarfiq.ir&alpn=h2%2Chttp%2F1.1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:189.53ms
+vless://7d76ef17-a8c3-434f-b6d1-8215a16b7447@cdn-ad.th3team.ir:2082?encryption=none&host=bmw-22.th3team.ir&path=%2F%3Fed%3D2048&security=none&type=httpupgrade#📡🇸🇨®️Seychelles©️Victoria🅿️ping:73.8ms
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?encryption=none&type=xhttp&security=tls&path=%2Fmeti&host=livE-134T8wvT.beuIZ.cOm&mode=stream-one&sni=livE-134T8wvT.beuIZ.cOm&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:93.56ms

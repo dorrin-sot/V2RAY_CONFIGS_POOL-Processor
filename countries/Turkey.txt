@@ -1,1 +1,2 @@
-vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:225ms
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Paşaköy🅿️ping:65ms
+vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@down.baguvix.ir:8855?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:91.78ms

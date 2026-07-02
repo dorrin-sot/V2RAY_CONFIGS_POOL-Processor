@@ -1,1 +1,1 @@
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.157:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#📡🇨🇭®️Switzerland©️Bern🅿️ping:30.42ms
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.117:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#📡🇨🇭®️Switzerland©️Bern🅿️ping:31ms

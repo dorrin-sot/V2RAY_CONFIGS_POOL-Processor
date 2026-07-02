@@ -1,1 +1,2 @@
-vless://98144540-9699-42b2-bac7-e1c243310ae7@uae1.codesystem.ir:8080?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:254ms
+trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:43ms
+vless://98144540-9699-42b2-bac7-e1c243310ae7@uae1.codesystem.ir:8080?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:150ms

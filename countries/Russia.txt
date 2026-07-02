@@ -1,0 +1,1 @@
+vless://fc40847b-0fdd-4bee-93c5-f60e31661aea@84.54.58.243:443?security=reality&encryption=none&pbk=D4iIdg0Rzi_ydxgLj1BhDOTlLSL5IqDSIhklwONvWRU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=memescollection.com&sid=c51a58313a442729#📡🇷🇺®️Russia©️Moscow🅿️ping:40ms

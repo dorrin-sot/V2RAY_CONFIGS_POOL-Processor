@@ -1,2 +1,0 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.172.9.100:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#📡🇨🇿®️Czechia©️Veselí nad Lužnicí🅿️ping:33.96ms
-vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&fp=chrome&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&sid=8de54d32a8d3fdf9&spx=/&type=tcp&headerType=none#📡🇨🇿®️Czechia©️Prague🅿️ping:34.77ms

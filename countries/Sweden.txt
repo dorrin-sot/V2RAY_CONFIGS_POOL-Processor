@@ -1,2 +1,2 @@
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.86ms
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.84ms
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@zan.foot8all.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&sid=7a2bca1d524f1c1d&spx=%2Famn#📡🇸🇪®️Sweden©️Stockholm🅿️ping:66.44ms
+vless://e58f8fdf-bbe8-473e-9580-b579e1e1b31f@31.192.244.125:11681?path=%2F&security=&encryption=none&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:28.91ms

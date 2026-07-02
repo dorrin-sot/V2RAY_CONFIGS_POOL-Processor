@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.63ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.52.251:2083?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=/#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:31ms
-vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@185.14.184.90:2087?path=%2F&security=tls&encryption=none&insecure=0&host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:41.86ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?fp=chrome&sni=vpn47.cc.cd&security=tls&encryption=none&host=vpn47.cc.cd&allowInsecure=0&path=%2F&type=ws&insecure=0#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.41ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?type=ws&security=tls&host=vpn47.cc.cd&path=%2F&sni=vpn47.cc.cd&fp=chrome&allowInsecure=0&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.41ms
+vless://afd62d3d-22df-457b-88e3-ec705466d095@109.207.170.8:26783?path=%2Fstore&security=none&encryption=none&host=play.google.com&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:176.07ms
+vless://afd62d3d-22df-457b-88e3-ec705466d095@109.207.170.8:52051?security=none&encryption=none&headerType=none&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:109.97ms
+vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.52ms

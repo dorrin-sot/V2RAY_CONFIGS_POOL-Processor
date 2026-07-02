@@ -1,2 +1,1 @@
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Paşaköy🅿️ping:65ms
-vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@down.baguvix.ir:8855?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:91.78ms
+vless://91a3ddbb-c290-4f3c-ae58-78fce7b069c9@ci.temas-fars.ir:2446?security=reality&encryption=none&pbk=wa-3A_tTCfWDjH_n_MC9fwVViet-UJr2fyBcg3oMwCM&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=8fc8b7f82c27e0fb#📡🇹🇷®️Turkey©️Istanbul🅿️ping:91.72ms

@@ -1,6 +1,8 @@
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:44.24ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:49.03ms
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:123.53ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:40.09ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&type=tcp&headerType=http#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:79.69ms
-vless://fd5f3dfa-bba9-4205-b95f-ac37b8587cda@89.124.64.16:443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:40.45ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.6ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.95ms
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.41:443?path=%2Fbr-orcl&amp;security=tls&amp;insecure=0&amp;host=space.byu.id.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=space.byu.id.yxls.eu.cc#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.74ms
+vless://084fcb9d-b1fb-49d5-8b9d-0ece6b9019ae@172.67.114.173:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ez-76629e.maiatsbfhst.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ez-76629e.maiatsbfhst.workers.dev#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.6ms
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@146.190.25.34:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=chatgpt.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:40.58ms
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@164.90.196.143:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=chatgpt.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35.74ms
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@167.172.38.16:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=chatgpt.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:36.73ms
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@167.71.67.173:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=chatgpt.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.05ms

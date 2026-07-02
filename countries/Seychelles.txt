@@ -1,6 +1,1 @@
-trojan://humanity@45.130.125.112:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.27ms
-trojan://humanity@45.130.125.112:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.03ms
-trojan://humanity@45.130.125.75:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:59.34ms
-trojan://rdC7DTr5wK@45.130.125.2:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:59.63ms
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.16ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:59.12ms
+trojan://HHyBuQthOg@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sj.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sj.farxmode.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms

@@ -1,6 +1,6 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443#📡🇩🇪®️Germany©️Gelnhausen (Höchst)🅿️ping:39.44ms
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:35.53ms
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:40.44ms
-vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:38.2ms
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:39.42ms
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:59.29ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.95ms
+vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A0oiMHyUXzvKw3vlEtfUulJ3ba8fjOKbSXg8PoRCgG8&security=reality&sid=ecf7a3c57ca42895&sni=cherry-de1.t1n2.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.36ms
+vless://679f65b3-4dae-4bd2-b287-f65b1606ccbf@46.4.230.210:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:32ms
+vless://Telegram-Badangellll@91.107.146.236:50225?encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%7D&amp;fp=random&amp;host=91.107.146.236&amp;mode=auto&amp;path=%2FBadangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel-Badangellll---Tel&amp;pbk=Dtu6f9PTIxSQVck8pU4KOxbTjV842KT3_hkD5rLg6To&amp;security=reality&amp;sid=a8ed4f7eed&amp;sni=play.google.com&amp;spx=%2Fy7FrgzVdNT7Z6mG&amp;type=xhttp&amp;x_padding_bytes=1-1#📡🇩🇪®️Germany©️Nuremberg🅿️ping:34ms
+vless://d5293e31-bb14-49cc-b004-5451d00c9484@grunlimited.leofatpro.ir:443?security=reality&encryption=none&pbk=0bpQsTZakO8WYnhSCIos2lVrj2iBeKNFcoaGx6XSYSs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7b031372b64a8872#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:95.89ms

@@ -1,1 +1,2 @@
-trojan://HHyBuQthOg@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sj.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sj.farxmode.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.12ms
+vless://94b509fa-d085-48fd-9e4d-88dc9a2cbc57@x9.sorix-home.ir:2087?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&mode=auto&sni=w5.tarfiq.ir&alpn=h2%2Chttp%2F1.1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:189.53ms

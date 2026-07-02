@@ -1,2 +1,0 @@
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&security=reality&sni=dipvpn.ru&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.0ms
-vless://8e61a32f-3e36-4271-824d-d3475f6d829a@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:88.02ms

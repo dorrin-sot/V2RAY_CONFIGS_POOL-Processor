@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#📡🇫🇷®️France©️Roubaix🅿️ping:32.89ms
-vless://34f37e5d-de6b-47d9-b8f2-8aa3ce927149@check04.allenshop2024.ir:8443?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;sni=play.google.com&amp;fp=firefox&amp;pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&amp;sid=b7b70c104ad267b8#📡🇫🇷®️France©️Roubaix🅿️ping:103ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:71.15ms

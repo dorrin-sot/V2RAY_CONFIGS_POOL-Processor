@@ -1,0 +1,2 @@
+vless://3b715892-8610-4fdc-9086-647b36af5443@45.13.119.3:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&host=play.google.com&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#📡🇫🇷®️France©️Paris🅿️ping:45.99ms
+vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Roubaix🅿️ping:48.85ms

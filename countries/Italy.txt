@@ -1,2 +1,4 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#📡🇮🇹®️Italy©️Milan🅿️ping:46ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.246.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#📡🇮🇹®️Italy©️Milan🅿️ping:46ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:40.48ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:40.41ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?encryption=none&mode=gun&security=tls&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.88ms
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:43.75ms

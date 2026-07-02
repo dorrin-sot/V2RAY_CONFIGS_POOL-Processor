@@ -1,4 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.206.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#📡🇫🇷®️France©️Paris🅿️ping:30ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.206.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:43ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.242.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:43ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.242.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:56ms
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#📡🇫🇷®️France©️Paris🅿️ping:60.95ms

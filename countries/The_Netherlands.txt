@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.68ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43.3ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:31.6ms
-vless://91a3ddbb-c290-4f3c-ae58-78fce7b069c9@coco.sorix-home.ir:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&sni=play.google.com&sid=09e78c1d381f98ed#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:97.66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:51.04ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:51.96ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&encryption=none&allowInsecure=0&fp=chrome&type=ws&host=vpn47.cc.cd&insecure=0&sni=vpn47.cc.cd&security=tls#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.0ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?type=ws&security=tls&host=vpn47.cc.cd&path=%2F&sni=vpn47.cc.cd&fp=chrome&allowInsecure=0&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.0ms

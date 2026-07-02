@@ -1,2 +1,0 @@
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@zan.foot8all.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&sid=7a2bca1d524f1c1d&spx=%2Famn#📡🇸🇪®️Sweden©️Stockholm🅿️ping:66.44ms
-vless://e58f8fdf-bbe8-473e-9580-b579e1e1b31f@31.192.244.125:11681?path=%2F&security=&encryption=none&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:28.91ms

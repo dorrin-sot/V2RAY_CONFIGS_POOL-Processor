@@ -1,1 +1,0 @@
-vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@45.131.6.203:2053?encryption=none&security=tls&type=ws&headerType=none&path=%2Fws%3Fed%3D2560&host=airb.pcapps.ir&sni=airb.pcapps.ir#📡🇧🇿®️Belize©️Belize City🅿️ping:46.29ms

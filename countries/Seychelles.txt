@@ -1,2 +1,2 @@
-trojan://HHyBuQthOg@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sj.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sj.farxmode.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&allowinsecure=0&type=ws&sni=octopusss5.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.16ms
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.25ms
+vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&amp;path=%2Frandom&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=api-fr.ipng.site&amp;fp=chrome&amp;type=xhttp&amp;sni=api-fr1.ipng.site#📡🇸🇨®️Seychelles©️Victoria🅿️ping:123ms

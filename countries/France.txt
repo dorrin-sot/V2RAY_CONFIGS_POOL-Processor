@@ -1,1 +1,2 @@
-vless://3d7f0163-b186-4f8c-a03e-eea8532f3052@aifrance.servraff.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=joyn.de&pbk=sp3MB2t9QnTD4vMRFDpDu1aE0d1F11apXrONTGGEBX8&fp=edge#📡🇫🇷®️France©️Aubervilliers🅿️ping:76.97ms
+vless://a0fe6694-919a-4346-9260-da24a197ee0b@51.178.135.38:443?encryption=none&fp=chrome&headerType=http&host=&path=%2F&pbk=ato7XtTu3WFMLSmhffM_uO2ziYxJ63veJKKRQ28zQ0I&security=reality&sid=89&sni=www.yahoo.com&spx=%2FE3OSJFzczYcejAJ&type=tcp#📡🇫🇷®️France©️Strasbourg🅿️ping:35.41ms
+vless://a19a8287-b57f-4991-bb10-0d9246bdfe92@82.22.77.229:443?flow=xtls-rprx-vision&fp=firefox&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&security=reality&sid=9b8c895dde4803ed&sni=fr.janusgate.org#📡🇫🇷®️France©️Paris🅿️ping:71.44ms

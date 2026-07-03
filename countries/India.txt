@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#📡🇮🇳®️India©️Mumbai🅿️ping:174ms
+vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&sid=671047edbaa38eef&allowinsecure=0&type=tcp&headerType=none#📡🇮🇳®️India©️New Delhi🅿️ping:25.69ms

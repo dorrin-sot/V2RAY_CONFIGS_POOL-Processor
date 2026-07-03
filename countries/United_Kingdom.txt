@@ -1,5 +1,7 @@
-vless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn.fonix1.com:443?mode=stream-one&amp;path=%2Fmahdiisalivedkllksdhlkv6468464%40&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dustream.hediehjavani.com#📡🇬🇧®️United Kingdom©️London🅿️ping:117ms
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:35ms
-vless://9205058d-99ca-4493-836a-0137834ece4d@Nkoihgf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇬🇧®️United Kingdom©️Erith🅿️ping:97.81ms
-vless://9205058d-99ca-4493-836a-0137834ece4d@Ppotbfff.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇬🇧®️United Kingdom©️Erith🅿️ping:134.65ms
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&amp;security=reality&amp;sni=prod.de-node-01.security-sbrf.ru&amp;pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&amp;sid=db04ce8bdb8900f1&amp;type=tcp&amp;headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:23ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:54.13ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:40.14ms
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&fp=firefox&sni=PioHosting.ir&type=ws&insecure=0&alpn=http%2F1.1&security=tls&allowInsecure=0&host=PioHosting.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:47.29ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#📡🇬🇧®️United Kingdom©️Ashtead🅿️ping:44.1ms
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&encryption=none&allowInsecure=0&type=ws&host=amoosamiii.net&insecure=0&sni=amoosamiii.net&security=tls#📡🇬🇧®️United Kingdom©️London🅿️ping:36.37ms
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36.37ms
+vless://c284d8d4-d075-4170-bab9-d908abff9fec@Nkoihgf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇬🇧®️United Kingdom©️Erith🅿️ping:76.69ms

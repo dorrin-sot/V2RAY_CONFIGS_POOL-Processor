@@ -1,4 +1,1 @@
-trojan://humanity@45.130.125.32:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmloud.com&amp;sni=www.calmloud.com&amp;insecure=0&amp;allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43ms
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:2096?path=%2Fadycon&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=Ori81JnB.BigILIjorDaN.InFo&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=Ori81JnB.BigILIjorDaN.InFo#📡🇸🇨®️Seychelles©️Victoria🅿️ping:223ms
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&amp;path=%2Frandom&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=api-fr.ipng.site&amp;fp=chrome&amp;type=xhttp&amp;sni=api-fr1.ipng.site#📡🇸🇨®️Seychelles©️Victoria🅿️ping:84ms
-vless://94b509fa-d085-48fd-9e4d-88dc9a2cbc57@x6.sorix-home.ir:8443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;path=%2F&amp;sni=xcloudali.teraideri.sbs#📡🇸🇨®️Seychelles©️Victoria🅿️ping:253ms
+trojan://humanity@45.130.125.160:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.95ms

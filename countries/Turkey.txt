@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.25.172:50099#📡🇹🇷®️Turkey©️Istanbul🅿️ping:228ms
-vless://96415c82-8f18-467a-8fcb-8e48b0042ffa@tr.ulanbatur.dasbild.ir:2045?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=YqPwriRCuKJr0tlaYo96TVhGpNYj7ZyjiOy2p4otFlE&amp;fp=firefox&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=www.play.google.com&amp;sid=3a5a0a2b35d637d9#📡🇹🇷®️Turkey©️Istanbul🅿️ping:228ms
-vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:226ms
+trojan://_Q0DYrO6Z8PO1ZyUWApoUCPBKWq-aSs_@155.103.71.224:2095?security=reality&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=7052c4bd7aa85053#📡🇹🇷®️Turkey©️Istanbul🅿️ping:65.53ms

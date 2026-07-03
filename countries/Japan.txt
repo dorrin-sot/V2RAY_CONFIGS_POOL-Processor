@@ -1,1 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:251.89ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253.27ms
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@45.76.103.242:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=u691611u79c2eb15s8698.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision&encryption=none#📡🇯🇵®️Japan©️Shinagawa🅿️ping:269.28ms
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@45.76.103.242:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=u691611u79c2eb15s8698.gogocs.xyz&fp=firefox&flow=xtls-rprx-vision&encryption=none#📡🇯🇵®️Japan©️Shinagawa🅿️ping:269.28ms

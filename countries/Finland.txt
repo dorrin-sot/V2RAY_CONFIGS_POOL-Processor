@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMGNTZ3hMcmhVVk9TclJDVEhxTmdFZDM1VXNzYlBiZA==@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:184.54ms
-vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#📡🇫🇮®️Finland©️Helsinki🅿️ping:24.11ms
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@qpw.foot8all.ir:11332?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:90.59ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#📡🇫🇮®️Finland©️Helsinki🅿️ping:57.91ms
+vless://baeb9020-8fcd-444c-b95d-f76507816e6d@144.31.232.189:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&amp;security=reality&amp;sid=15bcc0a77c3cacdf&amp;sni=fl-root.sworkingvpn.com&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:55ms

@@ -1,2 +1,0 @@
-trojan://HHyBuQthOg@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sj.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sj.farxmode.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47ms
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=%2Frandom&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#📡🇸🇨®️Seychelles©️Victoria🅿️ping:76.11ms

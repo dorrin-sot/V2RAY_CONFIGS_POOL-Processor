@@ -1,3 +1,1 @@
-vless://08508aa1-72cc-49fd-8cb9-d48c29b07d07@93.114.98.61:7235?security=reality&encryption=none&pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9c26a7080bcf256a#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:60.34ms
-vless://08508aa1-72cc-49fd-8cb9-d48c29b07d07@93.114.98.61:80?path=%2F&security=&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:60.31ms
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?host=amoosamiii.net&allowInsecure=0&type=ws&insecure=0&sni=amoosamiii.net&encryption=none&path=%2Fpoiuyws&security=tls#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:60.34ms
+vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@tr.iranfastspeed.com.tr:59492?security=reality&encryption=none&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&headerType=none&fp=chrome&spx=%2FMQkVkUG8SYXH6IZ&type=tcp&sni=www.google.com%3A443&sid=0b1eccc239d0#📡🇹🇷®️Turkey©️Istanbul🅿️ping:149.35ms

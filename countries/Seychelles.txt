@@ -1,2 +1,2 @@
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?flow=&type=xhttp&host=jJ.cafearen.ir&path=/?ed%3D2082&mode=auto&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:49.95ms
-vless://94b509fa-d085-48fd-9e4d-88dc9a2cbc57@x6.sorix-home.ir:8443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;path=%2F&amp;sni=xcloudali.teraideri.sbs#📡🇸🇨®️Seychelles©️Victoria🅿️ping:324ms
+vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=jJ.cafearen.ir&type=xhttp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.86ms
+vless://94b509fa-d085-48fd-9e4d-88dc9a2cbc57@x6.sorix-home.ir:8443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;path=%2F&amp;sni=xcloudali.teraideri.sbs#📡🇸🇨®️Seychelles©️Victoria🅿️ping:192ms

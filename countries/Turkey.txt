@@ -1,1 +1,2 @@
-vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:141ms
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#📡🇹🇷®️Turkey©️Istanbul🅿️ping:71.82ms
+vless://fb9b1858-1984-4f6f-96db-7051c888b5f1@ts.dark-1881.sbs:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:118.26ms

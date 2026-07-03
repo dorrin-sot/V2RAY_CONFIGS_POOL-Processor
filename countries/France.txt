@@ -1,1 +1,1 @@
-vless://0c268b70-2666-4537-8a7a-d9c7178b96c4@51.91.161.218:443?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Gravelines🅿️ping:37.94ms
+vless://3d7f0163-b186-4f8c-a03e-eea8532f3052@aifrance.servraff.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=joyn.de&pbk=sp3MB2t9QnTD4vMRFDpDu1aE0d1F11apXrONTGGEBX8&fp=edge#📡🇫🇷®️France©️Aubervilliers🅿️ping:76.97ms

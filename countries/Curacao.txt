@@ -1,1 +1,0 @@
-trojan://MiTiVPN@88.216.67.230:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=Nel.App-Cloud.ir&fp=firefox&type=ws&sni=Nel.App-Cloud.ir#📡🇨🇼®️Curacao©️Willemstad🅿️ping:55.86ms

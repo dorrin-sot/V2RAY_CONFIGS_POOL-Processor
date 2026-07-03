@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#📡🇹🇷®️Turkey©️Istanbul🅿️ping:71.82ms
-vless://fb9b1858-1984-4f6f-96db-7051c888b5f1@ts.dark-1881.sbs:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:118.26ms
+vless://3cae9337-fd3e-4e1c-9911-a5fbaac828b9@allnets.lorqina.ir:21959?security=reality&amp;encryption=none&amp;pbk=BPiwoIzwtzVlJbDGJv9xnfSG8toS0PDSyBOBUF28cFY&amp;headerType=none&amp;fp=chrome&amp;spx=%2FyiJH4Y551DxaliS&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;sid=283918a3#📡🇹🇷®️Turkey©️Istanbul🅿️ping:101ms
+vless://3cae9337-fd3e-4e1c-9911-a5fbaac828b9@allnets.lorqina.ir:31369?security=reality&amp;encryption=none&amp;pbk=hLQuge4WOiqhrAqbSgtRdfJVVH7kkMLltEwWTXapqlc&amp;headerType=none&amp;fp=chrome&amp;spx=%2FPE6FaH4cffCyLZJ&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;sid=a969b52e7ba0#📡🇹🇷®️Turkey©️Istanbul🅿️ping:129ms

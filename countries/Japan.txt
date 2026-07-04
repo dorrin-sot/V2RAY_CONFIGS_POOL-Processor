@@ -1,0 +1,2 @@
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:265.49ms
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@140.83.57.20:13118?host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇯🇵®️Japan©️Minoh (Saitoaokita)🅿️ping:263ms

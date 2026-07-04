@@ -1,1 +1,3 @@
-vless://ead0062f-584c-4107-9276-0d435ba0ac67@92.222.128.104:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl.crunch-crunch.com&sid=ea1058117be12087#📡🇫🇷®️France©️Wattrelos🅿️ping:42.88ms
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@152.228.134.80:2053?fp=chrome&host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:27ms
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@162.19.243.106:8443?fp=chrome&host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:27ms
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@51.91.103.101:2053?host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇫🇷®️France©️Roubaix🅿️ping:30ms

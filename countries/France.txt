@@ -1,1 +1,1 @@
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@mnzxc.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0#📡🇫🇷®️France©️Strasbourg🅿️ping:115.94ms
+trojan://hCunaKqdEJDBO%2B3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#📡🇫🇷®️France©️Marseille🅿️ping:48ms

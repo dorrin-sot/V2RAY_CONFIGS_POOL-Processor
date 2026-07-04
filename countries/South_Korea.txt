@@ -1,2 +1,0 @@
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?fp=chrome&security=tls#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:264.25ms
-vless://5ea1edf5-98ac-4cde-a4b9-fe7500000000@node-8217281992-15f0d3.ezaccess1df1989.workers.dev:443?encryption=none&security=tls&sni=node-8217281992-15f0d3.ezaccess1df1989.workers.dev&fp=chrome&type=ws&host=node-8217281992-15f0d3.ezaccess1df1989.workers.dev&path=****/sync****&allowInsecure=0#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:264.25ms

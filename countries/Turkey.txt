@@ -1,0 +1,1 @@
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:130.66ms

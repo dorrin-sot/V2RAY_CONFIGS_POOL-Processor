@@ -1,0 +1,1 @@
+vless://fc7d8276-2f79-48f2-92c7-2fa5c0d9aa2a@147.45.97.168:2053?security=reality&encryption=none&pbk=FWkH7C_t9obV_NI48ir9DHJed6OVBQTh-Hi8fVnUlDM&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=market.yandex.ru&sid=118dc2786b9de6b6#📡🇷🇺®️Russia©️Sochi🅿️ping:37.66ms

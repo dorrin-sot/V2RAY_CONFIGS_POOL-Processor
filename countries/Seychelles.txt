@@ -1,1 +1,1 @@
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&amp;security=tls&amp;encryption=none&amp;host=octopusss5.info&amp;allowinsecure=0&amp;type=ws&amp;sni=octopusss5.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&allowinsecure=0&type=ws&sni=octopusss5.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.69ms

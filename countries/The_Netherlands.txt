@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:31.3ms
-vless://9fce38fd-1d71-4c39-bf8d-1685db314664@nldnode1.frost-api.com:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=github.com&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=c1bb#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:132ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:48.74ms
+vless://f58a95f0-dcef-4749-97ca-de0f125a68c4@digia.riziro.ir:8443?encryption=none&extra=%7B%22mode%22:%22auto%22,%22xPaddingBytes%22:%22100-1000%22%7D&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=e232a3656557&sni=legal.samsungdm.com&spx=/gRvMTBiUTnOaYWz&type=xhttp&x_padding_bytes=100-1000#📡🇳🇱®️The Netherlands©️Zoetermeer🅿️ping:102.34ms

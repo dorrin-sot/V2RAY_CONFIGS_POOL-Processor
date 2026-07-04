@@ -1,1 +1,1 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.135.58:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:33.87ms
+vless://c5b7066c-88c3-4fd7-a07c-d5a3c45f9b62@104.252.89.240:10393?encryption=mlkem768x25519plus.native.0rtt.nybHAe6aa4X4F1s2jv585sSWR73m9b_GFsO9MlAXqQU&amp;security=none&amp;type=xhttp&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#📡🇫🇷®️France©️Paris🅿️ping:38ms

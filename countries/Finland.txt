@@ -1,0 +1,2 @@
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#📡🇫🇮®️Finland©️Helsinki🅿️ping:22.62ms
+vless://e7ef34c9-34d2-4687-a449-652f6832b59b@sub.1.polnejat.ir:25718?type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:120.95ms

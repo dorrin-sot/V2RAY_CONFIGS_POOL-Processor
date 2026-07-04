@@ -1,0 +1,1 @@
+vless://c544d9d9-b16c-424e-8f57-946c738e9a7a@38.79.154.34:2020?security=reality&amp;encryption=none&amp;pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&amp;headerType=none&amp;fp=chrome&amp;spx=%2FDp45w75Ox0wWJfW&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=Soft98.ir&amp;sid=d6e4df3a#📡🇷🇴®️Romania©️Voluntari🅿️ping:55ms

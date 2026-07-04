@@ -1,2 +1,3 @@
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=jJ.cafearen.ir&type=xhttp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.44ms
-vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=/mashdi&security=tls&encryption=none&insecure=0&host=IfBbBeVc14.mAkEaChEcK.OrG&fp=firefox&type=ws&allowInsecure=0&sni=IfBbBeVc14.mAkEaChEcK.OrG#📡🇸🇨®️Seychelles©️Victoria🅿️ping:104.32ms
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:8443?path=/adycon&security=tls&encryption=none&insecure=0&host=cHzoZ6DR.biGILiJOrDAN.InFo&fp=chrome&type=xhttp&allowInsecure=0&sni=cHzoZ6DR.biGILiJOrDAN.InFo#📡🇸🇨®️Seychelles©️Victoria🅿️ping:84.89ms
+vless://3f115179-afd0-44eb-b195-87a1224dbf33@s4.eldoradu.ir:8080?security=none&type=httpupgrade&headerType=&path=/?ed=2080&host=xlsf.sellink.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:77.64ms
+vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=%2Fmashdi&security=tls&encryption=none&insecure=0&host=IfBbBeVc14.mAkEaChEcK.OrG&fp=firefox&type=ws&allowInsecure=0&sni=IfBbBeVc14.mAkEaChEcK.OrG#📡🇸🇨®️Seychelles©️Victoria🅿️ping:181.39ms

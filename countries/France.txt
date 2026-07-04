@@ -1,3 +1,1 @@
-vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@152.228.134.80:2053?fp=chrome&host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:27ms
-vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@162.19.243.106:8443?fp=chrome&host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇫🇷®️France©️Strasbourg🅿️ping:27ms
-vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@51.91.103.101:2053?host=us2.wxgqlfx.icu&path=/TG@wxgqlfx&security=tls&sni=us2.wxgqlfx.icu&type=ws#📡🇫🇷®️France©️Roubaix🅿️ping:30ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.135.58:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:33.87ms

@@ -1,3 +1,0 @@
-trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=Fl.App-Cloud.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=fl.App-Cloud.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:46ms
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:38ms
-vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.googletagmanager.com&amp;fp=chrome&amp;pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&amp;sid=06e557c2cc84390f&amp;type=tcp&amp;headerType=none#📡🇬🇧®️United Kingdom©️Erith🅿️ping:42ms

@@ -1,0 +1,1 @@
+vless://a1472a7d-ca70-4490-a5a5-81537599861c@45.196.31.69:8443?type=tcp&encryption=none&security=none#📡🇮🇩®️Indonesia©️Jakarta🅿️ping:54.68ms

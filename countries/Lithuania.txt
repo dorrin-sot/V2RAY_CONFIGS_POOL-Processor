@@ -1,1 +1,0 @@
-vless://23798d8b-6bd1-4ddd-a5aa-bf1e3e1a621b@lt4.maps-yandex.net:22231?mode=gun&security=reality&encryption=none&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&fp=qq&type=grpc&serviceName=api&sni=apple.com&sid=a5e63a14efad45c2#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:97.72ms

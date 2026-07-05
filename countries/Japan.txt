@@ -1,2 +1,0 @@
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:246.24ms
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&type=ws&sni=hhcm.hhxaf.cc.cd&path=/&host=hhcm.hhxaf.cc.cd#📡🇯🇵®️Japan©️Inzai (Otsuka)🅿️ping:263.48ms

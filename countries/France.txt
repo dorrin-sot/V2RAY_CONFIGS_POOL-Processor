@@ -1,1 +1,1 @@
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@mnzxc.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0#📡🇫🇷®️France©️Strasbourg🅿️ping:60.98ms
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&type=tcp&packetEncoding=xudp&sni=cdg-1.fromblancwithlove.com&fp=chrome&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:36ms

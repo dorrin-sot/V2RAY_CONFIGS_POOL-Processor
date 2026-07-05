@@ -1,3 +1,2 @@
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp&sni=186.190.211.188#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:44.62ms
-vless://523babfb-c8ac-42bf-bd70-95f1efb04ea4@TR2-UNlimiTed.pavilof.ir:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#📡🇬🇧®️United Kingdom©️Tring🅿️ping:107.12ms
-vless://6d788c81-bc95-4bb7-a276-277ff7ef8365@45.206.0.68:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=ea10cd5686751ec5&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8#📡🇬🇧®️United Kingdom©️London🅿️ping:32ms
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=Fl.App-Cloud.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=fl.App-Cloud.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45ms
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?type=tcp&amp;security=tls&amp;encryption=none&amp;sni=186.190.211.188&amp;allowInsecure=1#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:36ms

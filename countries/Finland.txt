@@ -1,4 +1,5 @@
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:24ms
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:105ms
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=dipvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:79ms
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.3ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMGNTZ3hMcmhVVk9TclJDVEhxTmdFZDM1VXNzYlBiZA@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.07ms
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@FN2-UNlimiTed.pavilof.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&host=snapp.ir&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.64ms
+vless://2ef51dd8-c839-479e-ab89-0c48c0eabdb4@net2.ma-rdd.co.uk:8441?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:104ms
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:53.12ms
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan2.mashkestan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.26ms

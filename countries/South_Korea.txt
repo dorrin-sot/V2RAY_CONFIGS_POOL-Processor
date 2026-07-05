@@ -1,3 +1,0 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#📡🇰🇷®️South Korea©️Seoul🅿️ping:297ms
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008#📡🇰🇷®️South Korea©️Seoul🅿️ping:299ms
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&type=tcp&packetEncoding=xudp&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision-udp443#📡🇰🇷®️South Korea©️Yangcheondong🅿️ping:315ms

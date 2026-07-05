@@ -1,1 +1,1 @@
-trojan://77a4056f31f24ea592bb7aa1e88aced4@dem.yariresanbot.ir:39594#📡🇹🇷®️Turkey©️Bursa🅿️ping:103.02ms
+vless://cd65450d-4379-4140-8d50-b6e7b5bd2b02@helixgaming.ir:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:122.19ms

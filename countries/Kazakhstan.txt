@@ -1,0 +1,1 @@
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vpn47.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vpn47.cc.cd#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:45ms

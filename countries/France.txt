@@ -1,3 +1,4 @@
-vless://a57f209b-0826-40a9-b01f-7ffa3b33edb5@95.182.83.164:80?security=reality&encryption=none&pbk=k7N45CslQLc2fSjfc6T_K5pVqUYynvUOpzzmb1hLNUo&headerType=none&fp=chrome&spx=%2FtKKHWXqCxxpmVw4&type=tcp&sni=www.cloudflare.com&sid=104f#📡🇫🇷®️France©️Paris🅿️ping:36.49ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http&security=none#📡🇫🇷®️France©️Paris🅿️ping:213.11ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:108.35ms
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@franceclouding.iranlast.com:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#📡🇫🇷®️France©️Paris🅿️ping:99.88ms
+vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#📡🇫🇷®️France©️Roubaix🅿️ping:205.32ms
+vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check05.allenshop66244.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#📡🇫🇷®️France©️Roubaix🅿️ping:196.16ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:87.75ms

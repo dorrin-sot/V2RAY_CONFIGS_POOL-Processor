@@ -1,2 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&fp=chrome&sni=vpn47.cc.cd#📡🇧🇿®️Belize©️Belize City🅿️ping:45.1ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#📡🇧🇿®️Belize©️Belize City🅿️ping:46.95ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#📡🇧🇿®️Belize©️Belize City🅿️ping:51.71ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&type=ws&sni=vpn47.cc.cd&fp=chrome#📡🇧🇿®️Belize©️Belize City🅿️ping:51.98ms

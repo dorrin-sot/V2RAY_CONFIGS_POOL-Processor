@@ -1,1 +1,0 @@
-vless://6533ea68-ff71-453d-a32e-f0012b86c383@swa.linuxbase.ir:1152?security=reality&amp;encryption=none&amp;pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=e5115b6a2127146d#📡🇸🇪®️Sweden©️Spånga🅿️ping:147ms

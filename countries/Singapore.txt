@@ -1,1 +1,1 @@
-trojan://MITIVPN@45.8.211.217:443?path=%2FMiTiVPN%3DDE&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=D--e.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=D--e.App-Cloud.ir#📡🇸🇬®️Singapore©️Singapore🅿️ping:46ms
+trojan://PI36027154@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:267ms

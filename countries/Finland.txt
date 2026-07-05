@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5clBWLUlQcE83bDh3YjFrQlZZZGNqckpwQjFpVkpzZw==@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.69ms
-vless://199436d3-2fa2-4e34-a1de-844419de5a4f@ns-fi.onlinernet.ir:20018?encryption=none&amp;headerType=http&amp;host=status.play.google.com&amp;security=none&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:189ms
-vless://615cb316-8bc2-4d6c-8fd7-7244a7287506@bot.sobhanpor.ir:443?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none&amp;sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:70ms
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?security=reality&amp;encryption=none&amp;pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=d020b987f84eb78a#📡🇫🇮®️Finland©️Helsinki🅿️ping:67ms
+vless://79ea3690-a658-4716-941e-164acabb7182@fi21.iofast5ping.info:443?mode=multi&security=reality&encryption=none&type=tcp&pbk=Fidhk88UNMIJ5gg-WCH2mT4GxaUGmIy-FJQe1UgeKC0&sid=8c74836fa1&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:87.1ms
+vless://989acc67-84d6-4e9a-9d9f-415b92c626d9@finland.tsew901.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:52.43ms

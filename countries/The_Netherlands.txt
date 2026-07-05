@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.34ms
-vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:25.25ms
-vless://e286cebe-7473-44e9-8c30-273ac36ac83b@niga.mohammadaz2sub.ir:62803?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:33.44ms

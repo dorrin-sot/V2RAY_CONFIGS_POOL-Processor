@@ -1,2 +1,4 @@
+trojan://humanity@45.130.125.160:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.26ms
 trojan://humanity@45.130.125.160:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.26ms
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?security=tls&type=ws&path=%2Fpage%3D2&host=server-ir-3.ariyuz.org&packetEncoding=xudp&alpn=h3%2Ch2%2Chttp%2F1.1&sni=server-ir-3.ariyuz.org&fp=chrome&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.74ms
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?security=tls&type=ws&path=%2F&host=po.fastbrokencompony.com&packetEncoding=xudp&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.98ms

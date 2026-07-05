@@ -1,1 +1,2 @@
-vless://a8c0810a-6f93-468b-9bb8-4e7fd8309314@150.241.73.15:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.hatvpn.org&sid=76132b3b39704c44#📡🇮🇹®️Italy©️Rome🅿️ping:33.72ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.19ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?encryption=none&security=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:41.19ms

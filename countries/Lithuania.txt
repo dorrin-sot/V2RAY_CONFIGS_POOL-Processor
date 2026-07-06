@@ -1,0 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.69.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime06.workers.dev#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:47ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?security=none&type=ws&path=%2Ffp%3Drandomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:47ms

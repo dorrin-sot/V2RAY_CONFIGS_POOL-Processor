@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43.31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:55.48ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080?#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:36.82ms
-vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=50#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:81.22ms
-vless://67baa13e-d41b-4acf-ad0f-4ad35a136f85@peaceworld.riseads.in:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=peaceworld.riseads.in&fp=firefox&pbk=5qBW1YJuGzgT9p7D9CU7Xtw9vHT_Vvyhqh__Mr6qAkQ&sid=e7628aed98cfedf1&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:79.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32ms
+vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@188.164.248.87:2053?security=tls&type=ws&path=%2F&host=node-6796348943-048136.amingtav1341.workers.dev&packetEncoding=xudp&sni=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:52ms

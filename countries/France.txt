@@ -1,1 +1,2 @@
-trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?sni=38.60.136.156&type=tcp&fp=chrome#📡🇫🇷®️France©️Marseille🅿️ping:45ms
+vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:63.66ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:68.22ms

@@ -1,1 +1,1 @@
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&type=raw&packetEncoding=xudp&sni=dipvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:70ms
+vless://7835a082-e9c5-487d-8e5e-522b2bbfa1e9@fi21.iofast5ping.info:443?mode=multi&security=reality&encryption=none&type=tcp&pbk=Fidhk88UNMIJ5gg-WCH2mT4GxaUGmIy-FJQe1UgeKC0&sid=8c74836fa1&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:77.14ms

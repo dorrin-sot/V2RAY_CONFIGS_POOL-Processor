@@ -1,4 +1,2 @@
-trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.54ms
-vless://0432128f-eac1-45b5-8365-de6c75b8f5d0@45.130.125.207:2086?encryption=none&security=none&type=xhttp&mode=auto&host=jjJ.cafearen.ir&path=%2F%3Fed%3D2082#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.02ms
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=jJ.cafearen.ir&type=xhttp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:59.43ms
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.6ms
+trojan://MITIVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&security=tls&alpn=http%2F1.1&insecure=1&host=De-e-d.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=deioej-ieid.App-Cloud.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47.04ms
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:59.27ms

@@ -1,2 +1,1 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?sni=146.70.90.198&allowInsecure=1&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:59ms
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#📡🇮🇪®️Ireland©️Dublin🅿️ping:59ms
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?sni=www.vk.com&allowInsecure=1&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:58ms

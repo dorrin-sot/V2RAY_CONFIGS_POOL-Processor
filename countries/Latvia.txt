@@ -1,0 +1,1 @@
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&type=tcp&packetEncoding=xudp&sni=%2F&encryption=none#📡🇱🇻®️Latvia©️Riga🅿️ping:70ms

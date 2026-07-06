@@ -1,2 +1,1 @@
-vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:63.66ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:68.22ms
+vless://176868f5-09fd-49fb-b09a-fe958e686341@51.210.2.9:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&headerType=http&host=play.google.com&path=%2F&pbk=wqokZbgd9ky0tEL6SFLXx3Btlqr_zj8vCGzT3zgcvns&security=reality&sid=e5ec34265efc&sni=www.yahoo.com&spx=%2Flc5xBp7iMuwGy3H&type=tcp#📡🇫🇷®️France©️Strasbourg🅿️ping:47.52ms

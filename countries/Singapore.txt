@@ -1,1 +1,1 @@
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:46.2ms
+vless://c7d5062b-604e-42b0-85d0-0ba354cee311@149.28.136.177:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=4f3d16240bb853f8&pbk=KpSo5m7AfnERJz2zbqi_Gqek65yGKzqvMYWiy9cMxCI&encryption=none#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:181ms

@@ -1,0 +1,1 @@
+vless://cf3a3d81-ee0c-4329-85e2-694b770cca95@185.226.93.228:443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64.31ms

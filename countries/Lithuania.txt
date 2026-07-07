@@ -1,3 +1,1 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:44.04ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vangoghhh.info&amp;type=ws&amp;allowInsecure=0&amp;sni=vangoghhh.info#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:45ms
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=2cfb5a0ae8ab0cb0&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&encryption=none#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:52ms
+vless://ec4a55c3-7277-4b34-957a-9b9d10fa3b94@ipv4-address.iranvatanam.com:2083?type=ws&security=tls&sni=email-page6.iranvatanam.com&path=%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:89.55ms

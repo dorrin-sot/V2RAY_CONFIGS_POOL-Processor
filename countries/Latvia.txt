@@ -1,1 +1,0 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.253.18.132:443?security=tls&type=ws&path=%2F&host=vpn47.cc.cd&packetEncoding=xudp&sni=vpn47.cc.cd&fp=chrome#📡🇱🇻®️Latvia©️Riga🅿️ping:50ms

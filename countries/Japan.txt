@@ -1,0 +1,2 @@
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:267.9ms
+vless://3819d8b3-98f0-47a6-92a1-461339fdb51e@50.114.113.23:31207?type=ws&path=/ws&host=play.google.com&security=none#📡🇯🇵®️Japan©️Osaka (Dōjima)🅿️ping:284.88ms

@@ -1,1 +1,2 @@
-vless://ec4a55c3-7277-4b34-957a-9b9d10fa3b94@ipv4-address.iranvatanam.com:2083?type=ws&security=tls&sni=email-page6.iranvatanam.com&path=%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:89.55ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:44.3ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:43.23ms

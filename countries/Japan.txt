@@ -1,2 +1,3 @@
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:267.9ms
-vless://3819d8b3-98f0-47a6-92a1-461339fdb51e@50.114.113.23:31207?type=ws&path=/ws&host=play.google.com&security=none#📡🇯🇵®️Japan©️Osaka (Dōjima)🅿️ping:284.88ms
+trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603?sni=103.106.228.187&allowInsecure=1&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:275ms
+trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603?sni=103.106.228.187&allowInsecure=1&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:283ms
+vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.80.249.227:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:275ms

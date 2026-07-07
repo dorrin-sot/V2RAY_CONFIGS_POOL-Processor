@@ -1,1 +1,2 @@
-vless://cf875231-a636-4939-a584-625312fc78dd@fardad-uk.lorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:166.32ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.220:443?security=tls&type=ws&path=%2F&host=vpn47.cc.cd&packetEncoding=xudp&sni=vpn47.cc.cd&fp=chrome&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:46ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.30.248:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#📡🇬🇧®️United Kingdom©️London🅿️ping:59.19ms

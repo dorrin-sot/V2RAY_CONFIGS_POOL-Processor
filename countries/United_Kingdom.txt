@@ -1,1 +1,2 @@
-trojan://humanity@5.10.214.4:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:47ms
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#📡🇬🇧®️United Kingdom©️Tring🅿️ping:89.44ms
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?security=&encryption=none&host=snapp.ir&headerType=http&type=tcp#📡🇬🇧®️United Kingdom©️Tring🅿️ping:89.44ms

@@ -1,0 +1,3 @@
+trojan://humanity@45.130.125.158:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47ms
+trojan://humanity@45.130.125.32:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47ms
+trojan://jZKsbuRpEB@45.130.125.2:443?path=%2Fdb&amp;security=tls&amp;insecure=0&amp;host=sl.farxmode.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=sl.farxmode.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:47ms

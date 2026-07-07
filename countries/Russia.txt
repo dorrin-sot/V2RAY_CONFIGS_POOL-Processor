@@ -1,1 +1,0 @@
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=ru-01.gni-daed.ru&fp=firefox&flow=xtls-rprx-vision&sid=a8389289e18af5f4&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&encryption=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:73ms

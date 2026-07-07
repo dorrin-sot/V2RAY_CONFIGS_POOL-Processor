@@ -1,1 +1,1 @@
-vless://ece8760d-3b9b-4a78-9b4a-8c00758cc066@tr.motorbazan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:113.87ms
+trojan://IoZsscDb4P1rkP0ZRpXiuKVC8CLwJO5H@155.103.71.224:2095?security=reality&amp;pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=7052c4bd7aa85053#📡🇹🇷®️Turkey©️Istanbul🅿️ping:64ms

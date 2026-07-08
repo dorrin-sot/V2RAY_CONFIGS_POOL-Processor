@@ -1,2 +1,0 @@
-trojan://IoZsscDb4P1rkP0ZRpXiuKVC8CLwJO5H@155.103.71.224:2095?security=reality&amp;pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=7052c4bd7aa85053#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68ms
-vless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@trr.mxvn.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&sid=7c4c6d1088076cfb&spx=%2F#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:92.05ms

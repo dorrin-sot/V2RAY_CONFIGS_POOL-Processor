@@ -1,1 +1,1 @@
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:38.49ms
+vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#📡🇸🇪®️Sweden©️Spånga🅿️ping:93.15ms

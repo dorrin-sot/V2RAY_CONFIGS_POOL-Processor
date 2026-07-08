@@ -1,9 +1,4 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.120.138.15:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.71ms
-vless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@gmr.mxvn.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&sid=7c4c6d1088076cfb&spx=%2F#📡🇩🇪®️Germany©️Nuremberg🅿️ping:174.36ms
-vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60.48ms
-vless://5c466483-4d58-451c-ae3e-c746c724f49f@fardad-de.lorluma.ir:6800?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:59.53ms
-vless://67536d90-ead9-440a-9e6d-d5775631b9e2@zvc.foot8all.ir:50567?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:173.79ms
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@qapoi.foot8all.ir:50567?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:69.65ms
-vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60.38ms
-vless://aa40f9a2-4d31-4a0d-b20b-aebdd424888f@HDKVHBFJKKGJF.PASARGUARDSPEED.IR:5050?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:68.47ms
-vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:68.42ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.11ms
+vless://58d23d23-0d2b-4cf1-809b-2625ded3dba0@las.dearhossein-taktaz.ir:46176?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&fp=chrome&host=play.google.com&encryption=none&pbk=D4hKOdrSTKmI0HIYFf1-Ggy0ADaB39k7AQAZmeK9qCM&security=reality&sid=70&sni=www.yahoo.com&spx=%2Ft9MMErPLlzdH7wc&type=tcp&headerType=http#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:59.13ms
+vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@ge-x77.pingcentr.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HEJjjCvVugA6DyRLNL8dTHzBhS1wuaQYizrd_fGiGxA&security=reality&sni=ge-x77.pingcentr.ru&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:58.94ms
+vless://d21c1bf4-216e-4e6d-8255-7c00c48f9f97@135.125.184.175:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.mJEf_GrcNXPUoqvrdXSe-yChCAhB6r6_Xa5uTeKxAz8&pbk=hLbO5LGnxFG8L1LEKOnxEgCBJp29Pba1BgH6gLC3hhY&headerType=http&fp=chrome&spx=/nwXJcfARxke8KZH&type=tcp&sni=amazonaws-china.com&sid=f6e0b6319e13#📡🇩🇪®️Germany©️Hamburg (Hamburg-Mitte)🅿️ping:32.97ms

@@ -1,1 +1,4 @@
-vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn6-49.yahoo.com&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:37.6ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprODY4OGlzajZqc3V1YzJ4@135.125.113.81:8080#📡🇫🇷®️France©️Roubaix🅿️ping:35.33ms
+trojan://XG59623478@open-octopus.rooster465.autos:443?allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:69.01ms
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@149.88.28.133:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.71ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:99.43ms

@@ -1,2 +1,0 @@
-trojan://MITIVPN@45.130.125.2:443?sni=UsAa-Us.Maqror.ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSa&alpn=http%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:58ms
-trojan://MiTiVPN@45.130.125.2:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&host=sw-www-w.Maqror.ir&sni=bsw-wwlslw-w.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.3ms

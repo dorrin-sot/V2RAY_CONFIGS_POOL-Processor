@@ -1,2 +1,0 @@
-vless://578c8541-16a0-40b7-bf72-9508d547f856@185.174.136.206:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn.jsdelivr.net&fp=chrome&flow=xtls-rprx-vision&sid=261a62ba&pbk=ogy4TV_uLgf-ZybRRQ5SyH-81oqIqxZv4lhbc3E-kgE&encryption=none#📡🇷🇴®️Romania©️Bucharest🅿️ping:61.2ms
-vless://73bbc823-4d2e-44cd-b26f-0646f1d12ca3@45.82.102.76:8080?security=&encryption=none&host=cdn.jsdelivr.net&headerType=http&type=tcp#📡🇷🇴®️Romania©️Bucharest🅿️ping:61.2ms

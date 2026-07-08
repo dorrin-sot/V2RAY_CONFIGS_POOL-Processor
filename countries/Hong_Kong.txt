@@ -1,3 +1,0 @@
-trojan://XG59623478@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:327ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.68.111:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:218.8ms
-vless://a0c1f44e-7260-4611-9a5d-e647722d08a7@207.57.131.128:55538?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kSAhVaoRtsRLSWjEso6wOY9Op8m7CPh2qMGVBAG8MWc&security=reality&sni=www.cloudflare.com&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:218.8ms

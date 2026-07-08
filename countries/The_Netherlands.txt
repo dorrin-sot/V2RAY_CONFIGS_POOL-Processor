@@ -1,2 +1,5 @@
-trojan://XG59623478@classic-duckling.rooster465.autos:443?sni=classic-duckling.rooster465.autos&type=tcp&fp=chrome#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:137ms
-vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=g11.steptofsvo.com&fp=randomized&flow=xtls-rprx-vision&sid=6d6f13013d3e1d0c&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk#📡🇳🇱®️The Netherlands©️Doetinchem🅿️ping:41ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.28ms
+vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@p.shopbertar.ir:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none&amp;host=play.google.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:146ms

@@ -1,0 +1,2 @@
+vless://a4d329d2-196d-460b-94ec-e5acb029940c@askwodf.foot8all.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=29a833ab20778306#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.35ms
+vless://a4d329d2-196d-460b-94ec-e5acb029940c@azx.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#📡🇸🇪®️Sweden©️Stockholm🅿️ping:89.66ms

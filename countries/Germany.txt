@@ -1,7 +1,3 @@
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?sni=185.137.157.128&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.77ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?sni=185.137.157.145&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28ms
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.37:443?security=tls&type=ws&path=%2Fdownload.php&host=sertraline.adaspoloandco.com&packetEncoding=xudp&sni=sertraline.adaspoloandco.com&fp=chrome&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
-vless://126c8352-0357-44b7-9948-2ed3c15ca766@DDHZ.PASARGUARDSPEED.IR:2096?security=reality&encryption=none&pbk=AwnCJ7vTulBg6KyhJsHx5CkMBG_iuEboawi4E_buQno&host=play.google.com&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=bb99d437bb13f5f9#📡🇩🇪®️Germany©️Falkenstein🅿️ping:127.29ms
-vless://c662cb42-b584-4b82-88f8-e2a64384bf20@5.252.26.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&pbk=sWR_Ckh6hk-HvacqbtfT8oHIqDJ7_NY4_JeHY_N4OHc&type=tcp&sid=8af36420&security=reality&headerType=http&sni=www.yahoo.com&fp=chrome&host=play.google.com&spx=%2Fst0xeIGyJX2J9ej#📡🇩🇪®️Germany©️Eschborn🅿️ping:27.39ms
-vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=none&type=raw&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.45ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?sni=185.137.157.138&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
+vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=8d3293f0066e129a&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:88ms

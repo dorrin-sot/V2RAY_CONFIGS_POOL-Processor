@@ -1,1 +1,1 @@
-vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.googletagmanager.com&fp=firefox&flow=xtls-rprx-vision&sid=15052edc8120b63d&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&encryption=none#📡🇪🇸®️Spain©️Madrid🅿️ping:53ms
+trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?sni=www.vk.com&allowInsecure=1&type=tcp&fp=chrome#📡🇪🇸®️Spain©️Donostia / San Sebastian🅿️ping:48ms

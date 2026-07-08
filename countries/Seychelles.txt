@@ -1,0 +1,9 @@
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?sni=space.byu.id.yxls.eu.cc&type=ws&path=%2Fau-do&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+trojan://MiTiVPN@45.130.125.2:2087?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl1&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=n-la-nad.App-Cloud.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=nland-o-oo.App-Cloud.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&amp;security=tls&amp;alpn=http%2F1.1&amp;host=sw-www-w.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;sni=bsw-wwlslw-w.Maqror.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sw-www-w.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=bsw-wwlslw-w.Maqror.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms
+trojan://humanity@45.130.125.112:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+trojan://humanity@45.130.125.126:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43ms
+trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.160:443?security=tls&type=xhttp&path=%2Findex&host=www.chinns.us.ci&packetEncoding=xudp&sni=www.chinns.us.ci&fp=chrome&mode=stream-one&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?security=tls&type=ws&path=%2F&host=srv75.perfectbulk.info&packetEncoding=xudp&sni=srv75.perfectbulk.info&fp=chrome&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms

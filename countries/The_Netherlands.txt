@@ -1,3 +1,5 @@
-trojan://XG59623478@immune-mullet.rooster465.autos:443?allowInsecure=1#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.11ms
-vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#📡🇳🇱®️The Netherlands©️Dronten🅿️ping:46.38ms
-vless://bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1@176.222.54.252:26690?encryption=none&security=none&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:53.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:45.42ms
+vless://3ef170be-05d0-479c-9753-aa2f860964ea@185.159.129.223:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&allowinsecure=0&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:40.76ms
+vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.22ms
+vless://6a91c490-2bb7-46e7-846f-403ffbb65cf9@nlns1.b1download.ir:1310?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=http&host=play.google.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:69.0ms

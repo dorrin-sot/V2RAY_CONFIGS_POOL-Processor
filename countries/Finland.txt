@@ -1,5 +1,5 @@
-vless://051154dd-2eac-4f84-8d20-e253ada6eac8@fi.theatak.com:4450?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=ios&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70&allowinsecure=0&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:62.86ms
-vless://1dfc2afd-7876-4f9e-aca7-89770934fc2b@46.4.230.210:443?security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:98.66ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:93.62ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:98.66ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&type=tcp&headerType=http#📡🇫🇮®️Finland©️Helsinki🅿️ping:102.34ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6d21obklzRWFyX25GS21icWhfeUdtVnNhRUx5bWp1Qw@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:129ms
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:134ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:154ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:99.25ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:164ms

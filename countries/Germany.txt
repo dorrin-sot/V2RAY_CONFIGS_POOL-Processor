@@ -1,3 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.45ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?sni=185.137.157.138&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
-vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=8d3293f0066e129a&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:88ms
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.120.138.15:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.71ms
+vless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@gmr.mxvn.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&sid=7c4c6d1088076cfb&spx=%2F#📡🇩🇪®️Germany©️Nuremberg🅿️ping:174.36ms
+vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60.48ms
+vless://5c466483-4d58-451c-ae3e-c746c724f49f@fardad-de.lorluma.ir:6800?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:59.53ms
+vless://67536d90-ead9-440a-9e6d-d5775631b9e2@zvc.foot8all.ir:50567?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:173.79ms
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@qapoi.foot8all.ir:50567?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:69.65ms
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60.38ms
+vless://aa40f9a2-4d31-4a0d-b20b-aebdd424888f@HDKVHBFJKKGJF.PASARGUARDSPEED.IR:5050?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:68.47ms
+vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:68.42ms

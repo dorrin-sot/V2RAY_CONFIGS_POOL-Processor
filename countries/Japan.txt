@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:257.03ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253.99ms
+trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603?sni=103.106.228.187&allowInsecure=1&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:269ms
+vless://39d1c043-7bc5-4876-9d07-58574c023850@172.207.210.238:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ac78f53d&pbk=Oua7ls5NZ2sxxFSyccAHZCMrCjW34WPEsHbaIpWmxX8&encryption=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:258ms

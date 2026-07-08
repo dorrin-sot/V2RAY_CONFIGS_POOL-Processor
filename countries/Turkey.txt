@@ -1,0 +1,1 @@
+vless://02c5fca9-cca0-4a81-a5e3-5fc734cc560c@uc.callofdeuti.ir:80?security=reality&encryption=mlkem768x25519plus.native.0rtt.bHRJoW9nvDfcJd3ZRLXLDwT4i216yH90Uz42CXEoVUc&pbk=uOXWzNhsJ6sMuaZV8zPNZLu0kHNoUmDTRv6P1mlnsXk&headerType=none&fp=random&type=tcp&sni=www.yahoo.com&sid=7e22b650c8262519#📡🇹🇷®️Turkey©️Istanbul🅿️ping:98.96ms

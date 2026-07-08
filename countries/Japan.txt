@@ -1,1 +1,1 @@
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?sni=103.125.216.11&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shinagawa (Higashishinagawa)🅿️ping:352ms
+vless://3819d8b3-98f0-47a6-92a1-461339fdb51e@50.114.113.23:31207?path=%2Fws&security=none&encryption=none&host=play.google.com&type=ws#📡🇯🇵®️Japan©️Osaka (Dōjima)🅿️ping:278.68ms

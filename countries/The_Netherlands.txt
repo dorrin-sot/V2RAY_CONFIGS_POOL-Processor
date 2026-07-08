@@ -1,5 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.28ms
-vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@p.shopbertar.ir:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none&amp;host=play.google.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:146ms

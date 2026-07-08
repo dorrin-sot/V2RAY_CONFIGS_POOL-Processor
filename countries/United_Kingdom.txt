@@ -1,1 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#📡🇬🇧®️United Kingdom©️Totnes🅿️ping:37ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:42.75ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:42.75ms
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:37.43ms

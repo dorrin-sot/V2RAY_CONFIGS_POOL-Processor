@@ -1,0 +1,2 @@
+trojan://XG59623478@improved-anteater.rooster465.autos:443?sni=improved-anteater.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:147ms
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?sni=146.70.90.198&allowInsecure=1&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:58ms

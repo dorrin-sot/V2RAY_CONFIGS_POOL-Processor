@@ -1,1 +1,1 @@
-vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:55034?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:205ms
+vless://352aedf1-65a6-4c0c-804f-09af1c47622f@tr1.ez0535.ir:443?security=reality&encryption=none&pbk=fA8As1TvFNjfeblqD7O9EIO6t_przOR5sDqqZ9NvcX0&headerType=none&fp=firefox&type=tcp&sni=yahoo.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:98.62ms

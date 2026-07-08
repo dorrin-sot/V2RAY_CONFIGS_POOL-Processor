@@ -1,0 +1,21 @@
+trojan://XG59623478@allowing-ram.rooster465.autos:443?sni=allowing-ram.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:357ms
+trojan://XG59623478@careful-tadpole.rooster465.autos:443?sni=careful-tadpole.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:353ms
+trojan://XG59623478@composed-sheep.rooster465.autos:443?sni=composed-sheep.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:517ms
+trojan://XG59623478@content-joey.rooster465.autos:443?sni=content-joey.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:354ms
+trojan://XG59623478@dashing-bedbug.rooster465.autos:443?sni=dashing-bedbug.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:346ms
+trojan://XG59623478@distinct-llama.rooster465.autos:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:358ms
+trojan://XG59623478@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:364ms
+trojan://XG59623478@moved-bluegill.rooster465.autos:443?sni=moved-bluegill.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:408ms
+trojan://XG59623478@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:364ms
+trojan://XG59623478@noble-tahr.rooster465.autos:443?sni=noble-tahr.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:360ms
+trojan://XG59623478@outgoing-lynx.rooster465.autos:443?sni=outgoing-lynx.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:356ms
+trojan://XG59623478@pleased-mammal.rooster465.autos:443?sni=pleased-mammal.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:362ms
+trojan://XG59623478@rational-joey.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.99ms
+trojan://XG59623478@relaxing-mayfly.rooster465.autos:443?sni=relaxing-mayfly.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:355ms
+trojan://XG59623478@ruling-toucan.rooster465.autos:443?sni=ruling-toucan.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:361ms
+trojan://XG59623478@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:354ms
+trojan://XG59623478@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:357ms
+trojan://XG59623478@up-dinosaur.rooster465.autos:443?sni=up-dinosaur.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:359ms
+trojan://XG59623478@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:360ms
+vless://76138152-68ea-471f-8c6e-c440907058cf@45.32.49.72:9443?security=tls&type=ws&path=%2FTG%40wxgqlfx&host=us2.wxgqlfx.icu&packetEncoding=xudp&sni=us2.wxgqlfx.icu&fp=chrome#📡🇯🇵®️Japan©️Shinagawa🅿️ping:279ms
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.64.32.75:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#📡🇯🇵®️Japan©️Shibuya City🅿️ping:346ms

@@ -1,1 +1,1 @@
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@Engelestanclouding.iranlast.com:7009?security=reality&amp;encryption=none&amp;pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=yahoo.com#📡🇬🇧®️United Kingdom©️Erith🅿️ping:146ms
+vless://c88e8b83-117e-4534-acb2-8cd48ce1f13a@Nkoihgf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#📡🇬🇧®️United Kingdom©️Erith🅿️ping:100.94ms

@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.9ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:55ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43ms
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&type=ws&path=%2F#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:66.79ms
-vless://a5b5a5a1-c293-4351-8e45-c6d90f8727b0@coco.sorix-home.ir:38733?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&amp;fp=chrome&amp;type=grpc&amp;sni=play.google.com&amp;sid=09e78c1d381f98ed#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:168ms
-vless://bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1@176.222.54.252:26690?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:40ms
-vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@p.shopbertar.ir:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none&amp;host=play.google.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:363ms
+trojan://XG59623478@classic-duckling.rooster465.autos:443?sni=classic-duckling.rooster465.autos&type=tcp&fp=chrome#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:137ms
+vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=g11.steptofsvo.com&fp=randomized&flow=xtls-rprx-vision&sid=6d6f13013d3e1d0c&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk#📡🇳🇱®️The Netherlands©️Doetinchem🅿️ping:41ms

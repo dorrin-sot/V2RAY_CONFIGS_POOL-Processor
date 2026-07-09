@@ -1,2 +1,1 @@
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:37.67ms
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@engelestanclouding.iranlast.com:7009?encryption=none&security=reality&sni=yahoo.com&fp=qq&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️Erith🅿️ping:150.37ms
+vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiRVF4cEpmc1Y2SFUzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==#📡🇬🇧®️United Kingdom©️London🅿️ping:44.32ms

@@ -1,2 +1,5 @@
-trojan://humanity@45.130.125.112:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.11ms
-vless://b6959c4b-2d05-4ce7-8a0a-f2be58c5bad5@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#📡🇸🇨®️Seychelles©️Victoria🅿️ping:193.26ms
+trojan://MITIVPN@45.130.125.2:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.19ms
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.27ms
+trojan://humanity@45.130.125.32:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.84ms
+vless://e2b46a5d-9346-4085-b174-3f878013cb5b@45.130.125.207:2086?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.74ms
+vless://eb23c871-425a-ac0f-1e6f-dedf00000033@45.130.125.201:80?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.72ms

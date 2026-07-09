@@ -1,5 +1,0 @@
-ss://YWVzLTI1Ni1nY206Yk9pTTlzcVhOb1pU@192.124.176.109:8388#📡🇸🇬®️Singapore©️Singapore🅿️ping:201ms
-trojan://XG59623478@harmless-pegasus.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:222.56ms
-trojan://XG59623478@immune-mullet.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:231.2ms
-vless://e258977b-e413-4718-a3af-02d75492c349@207.148.119.176:8443?security=tls&type=ws&path=%2F&host=ww1.aniuge.qzz.io&ed=2095&packetEncoding=xudp&alpn=http%2F1.1&sni=ww1.aniuge.qzz.io&fp=chrome&encryption=none#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:198ms
-vless://e258977b-e413-4718-a3af-02d75492c349@84.247.152.29:8443?security=tls&type=ws&path=%2F&host=ww1.aniuge.qzz.io&ed=2095&packetEncoding=xudp&alpn=http%2F1.1&sni=ww1.aniuge.qzz.io&fp=chrome&encryption=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:259ms

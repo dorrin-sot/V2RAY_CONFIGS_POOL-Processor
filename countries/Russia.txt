@@ -1,5 +1,2 @@
-ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA==@195.133.23.36:32432#📡🇷🇺®️Russia©️St Petersburg🅿️ping:46ms
-ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@46.17.43.63:52301#📡🇷🇺®️Russia©️Moscow🅿️ping:57ms
-ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ==@176.32.39.218:60123#📡🇷🇺®️Russia©️St Petersburg🅿️ping:45ms
-vless://be3af3bb-8c52-436a-9e69-9f2113ac6de6@193.168.46.180:443?security=reality&type=raw&packetEncoding=xudp&sni=rruu.persik.host&fp=chrome&flow=xtls-rprx-vision&sid=c1a7e9b4711d5f60&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&encryption=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:79ms
-vless://c9a8df51-d0d8-4f57-9f88-3166d42e34eb@193.168.46.180:443?security=reality&type=raw&packetEncoding=xudp&sni=rruu.persik.host&fp=chrome&flow=xtls-rprx-vision&sid=c1a7e9b4711d5f60&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&encryption=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:71ms
+vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:70.86ms
+vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?security=reality&amp;encryption=none&amp;pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:47ms

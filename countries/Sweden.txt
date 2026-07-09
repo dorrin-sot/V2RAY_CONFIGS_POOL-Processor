@@ -1,1 +1,1 @@
-vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality&type=tcp&packetEncoding=xudp&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&sid=fe2e4376&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:86ms
+vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?security=reality&encryption=none&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.me&sid=3e0527d94cc8d1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:122ms

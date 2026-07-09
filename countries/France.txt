@@ -1,1 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&amp;encryption=none&amp;host=%2F%3F&amp;headerType=http&amp;type=tcp#📡🇫🇷®️France©️Paris🅿️ping:663ms
+trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?sni=38.60.136.156&type=tcp&fp=chrome#📡🇫🇷®️France©️Marseille🅿️ping:45ms

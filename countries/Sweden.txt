@@ -1,0 +1,1 @@
+vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality&type=tcp&packetEncoding=xudp&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&sid=fe2e4376&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:86ms

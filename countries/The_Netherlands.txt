@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:36.22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.73ms
-vless://d2c63087-efa0-4c7a-a35f-9ffdb47caae7@ger2.fastcodz.ir:52077?mode=gun&security=reality&encryption=none&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&fp=firefox&type=grpc&sni=yahoo.com&sid=c1fcab160b4c8bed#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:128.2ms
+vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@nd1.fastcodz.ir:52077?mode=gun&security=reality&encryption=none&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&fp=firefox&type=grpc&sni=yahoo.com&sid=c1fcab160b4c8bed#📡🇳🇱®️The Netherlands©️Zaandam🅿️ping:62.06ms

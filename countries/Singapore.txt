@@ -1,1 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.8.211.14:443?type=tcp&encryption=none&security=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:45.98ms
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:196.36ms
+vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:196.36ms

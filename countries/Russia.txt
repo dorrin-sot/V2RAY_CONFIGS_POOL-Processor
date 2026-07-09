@@ -1,0 +1,1 @@
+vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yandex.ru&fp=qq&echfq=none&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&sid=b175ae75e2a15bf0&allowinsecure=0&type=tcp&headerType=none#📡🇷🇺®️Russia©️Moscow🅿️ping:36.7ms

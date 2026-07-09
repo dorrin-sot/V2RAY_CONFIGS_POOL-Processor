@@ -1,1 +1,1 @@
-vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alese.locations-sub.com:6300?encryption=none&amp;security=reality&amp;sni=play.google.com&amp;fp=qq&amp;pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&amp;type=tcp&amp;headerType=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:126ms
+vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alese.locations-sub.com:6300?encryption=none&amp;security=reality&amp;sni=play.google.com&amp;fp=qq&amp;pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&amp;type=tcp&amp;headerType=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:128ms

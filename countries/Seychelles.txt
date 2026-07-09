@@ -1,5 +1,0 @@
-trojan://MITIVPN@45.130.125.2:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.19ms
-trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.27ms
-trojan://humanity@45.130.125.32:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.84ms
-vless://e2b46a5d-9346-4085-b174-3f878013cb5b@45.130.125.207:2086?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.74ms
-vless://eb23c871-425a-ac0f-1e6f-dedf00000033@45.130.125.201:80?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.72ms

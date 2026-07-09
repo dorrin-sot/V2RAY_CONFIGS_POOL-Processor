@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.30:20128#📡🇷🇺®️Russia©️Moscow🅿️ping:42.24ms
-vless://69d3fb91-373f-46e7-a15f-c1bc0170abc8@87.228.101.33:8444?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:60.93ms
+vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@176.109.92.139:443?security=reality&amp;encryption=none&amp;pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:46ms

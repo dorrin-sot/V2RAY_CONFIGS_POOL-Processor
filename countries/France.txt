@@ -1,3 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#📡🇫🇷®️France©️Roubaix🅿️ping:42ms
-trojan://521314@131.186.27.112:2096?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#📡🇫🇷®️France©️Paris🅿️ping:71.02ms
-vless://4dfebb6d-ecd4-48aa-8944-cec95c4d158b@the.varluma.ir:8880?encryption=none&fp=ios&pbk=SnJo3qXvu_a0nAGWG4DsKZWoPyV9k4MN2S_JaQCBNgQ&security=reality&sid=125174175d7e2d46&sni=icloud.com&spx=%2FFCde9r8yR18L6sR&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:71.02ms
+trojan://telegram-id-directvpn@35.181.242.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:34.21ms
+trojan://telegram-id-privatevpns@35.181.242.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.67ms
+trojan://telegram-id-v2rayvpnchannel@35.181.242.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:34.02ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.242.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:34.11ms
+vless://Join,telegram:TurboConfigs@152.89.253.86:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇫🇷®️France©️Aubervilliers🅿️ping:37.78ms
+vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#📡🇫🇷®️France©️Roubaix🅿️ping:144.25ms

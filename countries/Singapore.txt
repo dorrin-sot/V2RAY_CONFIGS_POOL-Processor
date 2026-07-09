@@ -1,3 +1,0 @@
-trojan://521314@129.212.229.240:443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:290ms
-trojan://XG59623478@live-drake.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:231.06ms
-vless://e258977b-e413-4718-a3af-02d75492c349@207.148.119.176:8443?alpn=http%2F1.1&amp;ed=2095&amp;eh=Sec-WebSocket-Protocol&amp;encryption=none&amp;fp=chrome&amp;host=ww1.aniuge.qzz.io&amp;path=%2F&amp;security=tls&amp;sni=ww1.aniuge.qzz.io&amp;type=ws#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:200ms

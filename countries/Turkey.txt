@@ -1,0 +1,2 @@
+trojan://47PM2O3HwDZsMZ7-XTnJznFvIH4jSu96@155.103.71.224:2095?security=reality&pbk=0r2yv_VMH5jino3sZ6SF6vl4HhDf4BEyc3ybFbF1_V4&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=eb769d7505cb9e86#📡🇹🇷®️Turkey©️Istanbul🅿️ping:71.14ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:117.97ms

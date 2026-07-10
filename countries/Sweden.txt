@@ -1,2 +1,0 @@
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@2.27.14.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:27ms
-vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality&encryption=none&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e4376#📡🇸🇪®️Sweden©️Stockholm🅿️ping:30.36ms

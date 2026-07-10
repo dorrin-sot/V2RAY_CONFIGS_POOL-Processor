@@ -1,2 +1,0 @@
-trojan://PI36027154@large-baboon.rooster465.autos:443?sni=large-baboon.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:329ms
-trojan://PI36027154@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:334ms

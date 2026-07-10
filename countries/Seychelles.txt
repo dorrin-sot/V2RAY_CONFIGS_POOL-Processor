@@ -1,2 +1,0 @@
-trojan://humanity@45.130.125.72:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.12ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=srv75.perfectbulk.info&amp;type=ws&amp;sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:55ms

@@ -1,3 +1,2 @@
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:34.08ms
-vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.224.108:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#📡🇬🇧®️United Kingdom©️Totton🅿️ping:93.24ms
-vless://36644091-0cec-47fe-9955-97c3f424baf7@54.37.2.131:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:68.59ms
+trojan://humanity@89.116.46.68:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:45ms
+vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a13a7cc5&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&encryption=none#📡🇬🇧®️United Kingdom©️Erith🅿️ping:56ms

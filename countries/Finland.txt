@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRbzV2dElHYllZc3dsbWkzYjdDRTFwdG9yVmV2eTNGZg@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:85.97ms
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@ICV2RAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#📡🇫🇮®️Finland©️Helsinki🅿️ping:36.53ms
-vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@kia.ipsafe2.site:24329?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:108ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&amp;encryption=none&amp;host=%2F%3F&amp;headerType=http&amp;type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeGRsLURxbHExMUxZNTdHakFnWWlNSWJ3QTZDMEstLQ==@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:83.6ms
+vless://19954875-96ec-43c8-9922-b9638e02080a@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:76.32ms

@@ -1,3 +1,0 @@
-trojan://PI36027154@87.121.33.208:443?sni=tight-possum.rooster465.autos&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:284ms
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:380ms
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:432ms

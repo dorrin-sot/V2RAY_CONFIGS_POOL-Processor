@@ -1,0 +1,2 @@
+trojan://PI36027154@tight-possum.rooster465.autos:443?sni=tight-possum.rooster465.autos&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:350ms
+vless://2ea4840c-8f4c-4103-a79f-e97202afd4be@207.148.84.152:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=8d&pbk=H-QOeoIGhV_7R4o33zbsdAzmYTXeSYr_c_I1UVSw_Wc&encryption=mlkem768x25519plus.native.0rtt.YOoII6pqexc-SAw3sk9fegw1AUjavhtUF6KkW6-NoiI#📡🇦🇺®️Australia©️Alexandria🅿️ping:282ms

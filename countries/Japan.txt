@@ -1,2 +1,2 @@
-vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?security=reality&type=raw&packetEncoding=xudp&sni=www.yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=67e2075367998314&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&encryption=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:252ms
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp&packetEncoding=xudp&sni=152.69.195.67&encryption=none#📡🇯🇵®️Japan©️Minoh (Saitoaokita)🅿️ping:1277ms
+trojan://PI36027154@large-baboon.rooster465.autos:443?sni=large-baboon.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:329ms
+trojan://PI36027154@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:334ms

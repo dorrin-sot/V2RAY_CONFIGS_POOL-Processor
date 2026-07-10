@@ -1,2 +1,1 @@
-trojan://humanity@89.116.46.68:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:45ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a13a7cc5&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&encryption=none#📡🇬🇧®️United Kingdom©️Erith🅿️ping:56ms
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?security=none&type=grpc&mode=gun&serviceName=vless&packetEncoding=xudp&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:38ms

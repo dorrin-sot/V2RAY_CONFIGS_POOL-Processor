@@ -1,2 +1,0 @@
-vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.65:80?encryption=none&host=Fred443portlarucin.com&mode=auto&path=%2F1ht&security=none&type=xhttp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:97.46ms
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇹🇷®️Turkey©️Istanbul🅿️ping:97.46ms

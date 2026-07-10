@@ -1,2 +1,0 @@
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#📡🇨🇭®️Switzerland©️Bern🅿️ping:62.15ms
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.17:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#📡🇨🇭®️Switzerland©️Bern🅿️ping:31.28ms

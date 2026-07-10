@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:61.11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:41.5ms
-vless://544fd259-8ce4-2663-ea8d-6cfec14a96c2@nh5.skyfanta.sbs:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&sid=b73cff&spx=%2F&allowinsecure=0&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:162.13ms
-vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@188.42.88.24:2086?path=%2F&security=&encryption=none&host=Turkey.shopbertar.ir&type=httpupgrade#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:44.38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.48ms
+vless://75591919-8e51-4495-8e46-1e4a09d12467@static2.hexogate.net:443?security=reality&fragment=40-80%2C10-20%2Ctlshello&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=66d6d3d24148fc1f#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:66.22ms

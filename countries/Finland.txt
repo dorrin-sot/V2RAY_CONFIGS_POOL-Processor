@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeGRsLURxbHExMUxZNTdHakFnWWlNSWJ3QTZDMEstLQ==@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:83.6ms
-vless://19954875-96ec-43c8-9922-b9638e02080a@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:76.32ms
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.77:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#📡🇫🇮®️Finland©️Helsinki🅿️ping:32.94ms
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.77:443?sni=storage.yandex.net&host=v2rayNplus--v2rayNplus--v2rayNplus&sid=d020b987f84eb78a&security=reality&encryption=none&headerType=none&fp=firefox&type=tcp&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&flow=xtls-rprx-vision#📡🇫🇮®️Finland©️Helsinki🅿️ping:32.94ms

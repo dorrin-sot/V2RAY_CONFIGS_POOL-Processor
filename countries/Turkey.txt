@@ -1,5 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYzZreHV1dHBibThxZ2Y1@155.103.71.163:1080#📡🇹🇷®️Turkey©️Istanbul🅿️ping:65.27ms
-vless://54d7e7ab-889e-4dfe-8206-ec8148e2bd7b@t.mamadhpbot.ir:4455?security=reality&encryption=none&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=a1e5ae73aa7d2e48#📡🇹🇷®️Turkey©️Istanbul🅿️ping:180.16ms
-vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@Turkey.shopbertar.ir:8443?security=reality&encryption=none&pbk=Jawsi42z5-YjRpRFXYTR6HBdFXndi4pGBt09htUEmh0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=3fe18998fe88a637#📡🇹🇷®️Turkey©️Istanbul🅿️ping:93.49ms
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:140.33ms
-vless://fdebd2b4-4c8f-474a-851a-981082195643@TurkGame.soltankabos.ir:22337?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:126.69ms

@@ -1,1 +1,2 @@
-vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.96ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=srv75.perfectbulk.info&amp;type=ws&amp;sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&host=srv75.perfectbulk.info&type=ws&sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.42ms

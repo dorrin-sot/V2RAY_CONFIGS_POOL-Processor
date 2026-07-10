@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#📡🇫🇷®️France©️Roubaix🅿️ping:42ms
-trojan://telegram-id-directvpn@15.237.66.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.32ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.66.35:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#📡🇫🇷®️France©️Paris🅿️ping:31.12ms
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#📡🇫🇷®️France©️Paris🅿️ping:77.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#📡🇫🇷®️France©️Roubaix🅿️ping:32ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:76.96ms

@@ -1,2 +1,1 @@
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=srv75.perfectbulk.info&amp;type=ws&amp;sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&host=srv75.perfectbulk.info&type=ws&sni=srv75.perfectbulk.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.42ms
+vless://a13d3bce-a462-4244-88da-1fe5d4b17de3@45.130.125.207:2086?mode=auto&amp;path=%2F%3Fed%3D2082&amp;security=none&amp;encryption=none&amp;host=jjjjJ.cafearen.ir&amp;type=xhttp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms

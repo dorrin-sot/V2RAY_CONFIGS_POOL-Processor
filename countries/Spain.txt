@@ -1,0 +1,2 @@
+trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44ms
+vless://f5e6a36c-964b-4171-9202-a1940dd62289@138.124.78.160:8443?security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=my.rozhomatic.ir#📡🇪🇸®️Spain©️Madrid🅿️ping:44ms

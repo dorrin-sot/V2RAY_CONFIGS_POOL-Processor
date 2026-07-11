@@ -1,1 +1,1 @@
-vless://d00034dc-475a-6d22-ec7e-bbaf93abf370@fn4.sannest.ir:8443?security=reality&encryption=none&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=bd#📡🇫🇮®️Finland©️Helsinki🅿️ping:98.42ms
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=helsinki.fi&fp=firefox&flow=xtls-rprx-vision&sid=40a5eaec20abf1&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:1ms

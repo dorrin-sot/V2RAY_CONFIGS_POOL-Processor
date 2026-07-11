@@ -1,2 +1,2 @@
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:43.57ms
-vless://b1f87df1-7527-44d1-b353-77dc829c6ef2@0e806ccdc7a782a3.instasup.ir:2003?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Cogenhoe🅿️ping:87.99ms
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@unitedkingdomvluding.iranlast.com:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#📡🇬🇧®️United Kingdom©️Erith🅿️ping:85.19ms
+vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a13a7cc5&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&encryption=none#📡🇬🇧®️United Kingdom©️Erith🅿️ping:46ms

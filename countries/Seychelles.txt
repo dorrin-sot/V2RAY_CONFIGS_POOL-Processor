@@ -1,5 +1,0 @@
-trojan://MITIVPN@45.130.125.2:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57.82ms
-trojan://humanity@45.130.125.32:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.9ms
-trojan://humanity@45.130.125.75:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.5ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57.82ms
-vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?security=reality&encryption=none&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=d23753491eefde7e#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.5ms

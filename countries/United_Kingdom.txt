@@ -1,2 +1,0 @@
-vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:47.89ms
-vless://9e6cf131-5323-4607-a51e-036e8097e676@212.74.39.13:18022?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:53.75ms

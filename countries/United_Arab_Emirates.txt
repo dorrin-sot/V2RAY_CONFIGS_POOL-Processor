@@ -1,0 +1,2 @@
+vless://a284a22c-5262-4c91-9903-a43476a1df17@89.31.120.66:2057?encryption=none&security=tls&sni=89.31.120.66&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=89.31.120.66&path=%2Fbaclup#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:145.67ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:49ms

@@ -1,1 +1,0 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.131.197:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#📡🇯🇵®️Japan©️Shinagawa🅿️ping:272ms

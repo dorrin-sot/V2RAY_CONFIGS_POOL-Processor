@@ -1,2 +1,1 @@
-vless://4d1d33b2-96d9-40c7-964d-a5016ba65984@4b4ff133b2b76dea.sorcepack.ir:56625?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:58.6ms
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:60.62ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.18ms

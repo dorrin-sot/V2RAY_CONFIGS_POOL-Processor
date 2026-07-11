@@ -1,2 +1,0 @@
-trojan://auto@194.53.53.4:443#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:44.67ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore🅿️ping:44.58ms

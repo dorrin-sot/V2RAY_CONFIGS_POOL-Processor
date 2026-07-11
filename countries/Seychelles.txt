@@ -1,2 +1,1 @@
-trojan://MITIVPN@45.130.125.2:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.8ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?security=tls&type=ws&path=%2F&host=srv53.configur.name.ng&packetEncoding=xudp&sni=srv53.configur.name.ng&fp=chrome&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&security=none&sni=nahan-core.netizo09.workers.dev&type=ws&host=nahan-core.netizo09.workers.dev&path=%2Fsync#📡🇸🇨®️Seychelles©️Victoria🅿️ping:72ms

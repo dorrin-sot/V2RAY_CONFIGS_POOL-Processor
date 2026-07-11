@@ -1,3 +1,1 @@
-vless://90065690-1ddd-4cc3-ab8b-b7866b69ad97@141.101.120.129:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:44.05ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22224?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:31.57ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:80.66ms
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=b8aa&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:31ms

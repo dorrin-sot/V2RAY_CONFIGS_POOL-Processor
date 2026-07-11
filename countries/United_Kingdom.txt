@@ -1,3 +1,2 @@
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@31.77.201.77:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:37.88ms
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:78.29ms
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:26.45ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RVpLMGhqWFdVMDFwUVFSTzVHZnJXN2VtQzk5L1NWenY2OUpYeGU5aC9vYz06S3Z6YTJNcVIzcmVkSFVRK1YyT0tpNGJMSEp4L3N1MTlxTm5RSUZ0U3d0TT0%3D@122uk213sdfafda21.hardy2venom.ir:20162#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:141ms
+trojan://humanity@5.10.214.34:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:56ms

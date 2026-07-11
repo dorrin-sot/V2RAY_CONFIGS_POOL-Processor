@@ -1,3 +1,0 @@
-vless://0921c99d-bf29-488e-9b1a-03534b5725ad@mehdy.mohrazai.ir:80?path=%2F&security=&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:100.55ms
-vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:3034?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=ios&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48#📡🇹🇷®️Turkey©️Istanbul🅿️ping:100.63ms
-vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:3044?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=ios&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48#📡🇹🇷®️Turkey©️Istanbul🅿️ping:89.79ms

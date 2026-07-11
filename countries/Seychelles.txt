@@ -1,1 +1,2 @@
-trojan://MITIVPN@45.130.125.2:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.85ms
+trojan://humanity@45.130.125.160:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56ms
+trojan://humanity@45.130.125.69:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56ms

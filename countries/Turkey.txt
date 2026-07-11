@@ -1,1 +1,1 @@
-vless://30e7787d-d925-48ed-9317-d5be7cb95b24@arman.best-cloud.ir:2095?encryption=none&fp=chrome&pbk=QDoaksrGOdU85VRCF4sHysJGbRi9k6HM6qZbbSSJkFg&security=reality&sid=5f&sni=play.google.com&spx=%2Frlx9UHWceXs0h3p&type=tcp#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:224.71ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@update.plytob.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:102.94ms

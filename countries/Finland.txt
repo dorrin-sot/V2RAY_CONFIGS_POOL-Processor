@@ -1,0 +1,2 @@
+vless://242ef024-0c0d-49c9-9173-86b033d114da@65.109.249.247:8441?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.47ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@fan.plytob.ir:8080?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:98.79ms

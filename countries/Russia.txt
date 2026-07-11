@@ -1,2 +1,0 @@
-hysteria2://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast88.screw.page:443?security=tls&insecure=0&sni=fast88.screw.page#📡🇷🇺®️Russia©️St Petersburg🅿️ping:96.08ms
-vless://522a88f5-bee8-4ed7-bcaa-b4efa223d4fa@test.qrem.test-cdn-ttt.com:443?security=reality&encryption=none&pbk=d8owl5apjQ9EQOnOKithrHStGcTF9SSClgZnnVbXrjY&headerType=none&fp=qq&type=xhttp&sni=tradingview.com&sid=f58e7c73#📡🇷🇺®️Russia©️St Petersburg🅿️ping:126.83ms

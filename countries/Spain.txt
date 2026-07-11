@@ -1,2 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#📡🇪🇸®️Spain©️Barcelona🅿️ping:55.53ms
-vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@esp.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=fF94in1qFs9LVkh8y1eNT67DWlB2FuGrzYOuJ7mDDS4&sid=d5af&allowinsecure=0&type=tcp&headerType=none#📡🇪🇸®️Spain©️Madrid🅿️ping:96.24ms

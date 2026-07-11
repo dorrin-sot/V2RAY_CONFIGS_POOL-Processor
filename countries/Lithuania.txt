@@ -1,1 +1,0 @@
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.240:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:36.9ms

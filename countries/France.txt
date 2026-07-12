@@ -1,1 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:31.12ms
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#📡🇫🇷®️France©️Roubaix🅿️ping:32.68ms

@@ -1,2 +1,1 @@
-vless://551a40bc-0581-423e-b307-714d662a1a5c@45.130.125.207:2086?encryption=none&type=xhttp&path=/?ed=2082&host=jjjjJ.cafearen.ir&mode=auto#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
-vless://551a40bc-0581-423e-b307-714d662a1a5c@45.130.125.207:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=jjjjJ.cafearen.ir&type=xhttp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://7c89b38c-0e7c-4342-b470-c2f085949b74@45.130.125.114:2087?encryption=none&type=xhttp&security=tls&path=%2Fmeti&host=chrger.pizwe.org&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=chrger.pizwe.org&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.6ms

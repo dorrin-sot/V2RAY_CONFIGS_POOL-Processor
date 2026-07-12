@@ -1,0 +1,2 @@
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=149.104.104.58#📡🇵🇰®️Pakistan©️Karachi🅿️ping:141.8ms
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&type=raw&packetEncoding=xudp&encryption=none#📡🇵🇰®️Pakistan©️Karachi🅿️ping:141.8ms

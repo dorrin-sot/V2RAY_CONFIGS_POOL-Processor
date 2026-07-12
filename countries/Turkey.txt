@@ -1,0 +1,2 @@
+trojan://ac8ae2c29cd149eb85cae990572f0d59@195.162.69.238:9443/?type=tcp&security=tls&sni=apple.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#📡🇹🇷®️Turkey©️Istanbul🅿️ping:54ms
+vless://3270f2b7-7cbe-11f1-93e7-5254000006ff@trwds.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:93.66ms

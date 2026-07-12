@@ -1,4 +1,2 @@
-trojan://DkQbKDcxEcKj6CoK6erBrQPsgnB7n7nM@dc-38-de.netzrun.at:5222?allowInsecure=0&sni=dc-38-de.netzrun.at#📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:109ms
-trojan://DkQbKDcxEcKj6CoK6erBrQPsgnB7n7nM@dc-38-de.netzrun.at:5222?allowInsecure=0&sni=dc-38-de.netzrun.at#📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:113ms
-trojan://DkQbKDcxEcKj6CoK6erBrQPsgnB7n7nM@dc-38-de.netzrun.at:5222?security=tls&sni=dc-38-de.netzrun.at#📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:126ms
-trojan://DkQbKDcxEcKj6CoK6erBrQPsgnB7n7nM@dc-38-de.netzrun.at:5222?security=tls&sni=dc-38-de.netzrun.at#📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:96ms
+vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#📡🇩🇪®️Germany©️Nuremberg🅿️ping:28.57ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:42.63ms

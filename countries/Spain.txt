@@ -1,2 +1,1 @@
-trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:44ms
-vless://f5e6a36c-964b-4171-9202-a1940dd62289@138.124.78.160:8443?security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=my.rozhomatic.ir#📡🇪🇸®️Spain©️Madrid🅿️ping:44ms
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.228.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#📡🇪🇸®️Spain©️Madrid🅿️ping:35ms

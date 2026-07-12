@@ -1,4 +1,2 @@
-trojan://NISHIKUITAN111@104.16.94.96:443/?type=tcp&security=tls&allowInsecure=1#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:45ms
-trojan://auto@194.53.53.4:443#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:56.14ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.11:2096/?type=tcp&security=tls&sni=vle.amclubssss.dpdns.org#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:46ms
+vless://552a071a-7a69-49b5-9a82-f353229d82ad@139.162.62.195:443?encryption=none&security=tls&sni=gy.hhawks.kdns.fr&fp=random&insecure=0&allowInsecure=0&type=ws&host=gy.hhawks.kdns.fr&path=%2F#📡🇸🇬®️Singapore©️Singapore🅿️ping:339ms
+vless://552a071a-7a69-49b5-9a82-f353229d82ad@139.162.62.195:443?encryption=none&security=tls&sni=gy.hhawks.kdns.fr&fp=random&insecure=0&allowInsecure=0&type=ws&host=gy.hhawks.kdns.fr&path=%2F#📡🇸🇬®️Singapore©️Singapore🅿️ping:346ms

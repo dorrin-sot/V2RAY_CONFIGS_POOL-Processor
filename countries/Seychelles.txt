@@ -1,1 +1,1 @@
-trojan://acccrd@45.130.125.76:2053?type=ws&security=tls&path=/?ed=2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+trojan://humanity@45.130.125.112:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.47ms

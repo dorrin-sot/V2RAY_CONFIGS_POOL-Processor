@@ -1,2 +1,1 @@
-trojan://humanity@185.18.250.252:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#📡🇪🇸®️Spain©️Madrid🅿️ping:45ms
-trojan://humanity@185.18.250.252:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#📡🇪🇸®️Spain©️Madrid🅿️ping:45ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#📡🇪🇸®️Spain©️Barcelona🅿️ping:47.13ms

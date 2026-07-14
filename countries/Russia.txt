@@ -1,1 +1,0 @@
-vless://7bdb9235-68bd-418f-912e-4cc590f50c35@194.190.153.197:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&pbk=ZG4NdXaL8vyBZEKc-tGuyKwt5coM0YHcEy-jDr5zLR0&sid=0a076a61#📡🇷🇺®️Russia©️Moscow🅿️ping:39.03ms

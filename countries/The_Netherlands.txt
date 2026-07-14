@@ -1,3 +1,8 @@
-vless://9cf4cf8d-6541-44fd-9781-a3b15c7ee3cb@26623094a8a83a41.neshatinjafood.ir:34027?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=66463bdcf01a527e&allowinsecure=0&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:62.16ms
-vless://9cf4cf8d-6541-44fd-9781-a3b15c7ee3cb@26623094a8a83a41.neshatinjafood.ir:34027?encryption=none&security=reality&sni=msn.com&fp=ios&pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&sid=66463bdcf01a527e&allowinsecure=0&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:62.16ms
-vless://b15b627e-18d8-4d21-8409-cab0e8e17b7b@185.159.247.12:2082?security=none&type=ws&host=Cloudflare.com.com.comCDNjH4vyy3nBv3jNj3Kn4kNkj7V2ray5U93nfR8.Cheshmsabz.Top.&path=%2F#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:62.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:25.73ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.1ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:29.75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.84ms
+vless://44071682-0e02-49eb-9312-953613aaabbe@www.qelqira.ir:443?security=reality&encryption=none&pbk=yOzw_C33fYRFdEirt6YujuVlH_v4aJ_CaIzAkUv2fBk&headerType=none&fp=firefox&type=tcp&sni=cdn-apple.com&sid=73e5e4e51c10a1b0#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:150.94ms
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@134.209.195.46:56625?encryption=none&type=grpc&security=reality&authority=v2rayNplus--v2rayNplus--v2rayNplus&mode=gun&sni=icloud.com&fp=qq&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d22c6bf354720287#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:59.53ms

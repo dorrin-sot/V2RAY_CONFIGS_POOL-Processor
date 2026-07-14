@@ -1,1 +1,2 @@
+trojan://521314@104.248.161.136:443#📡🇬🇧®️United Kingdom©️Edgware🅿️ping:51.38ms
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:55.04ms

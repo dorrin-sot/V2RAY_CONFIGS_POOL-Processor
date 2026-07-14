@@ -1,0 +1,1 @@
+vless://89acd2b4-ef58-42e8-8f34-50bfa9482e2a@du1.gamelistak.com:443?mode=auto&path=%2Fhttps%3A%2F%2Ft.me%2FMrNexTV2RAY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=du1.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0&sni=du1.gamelistak.com#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:256.73ms

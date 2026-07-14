@@ -1,1 +1,1 @@
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?type=tcp&encryption=none&security=none#📡🇦🇹®️Austria©️Vienna (Floridsdorf)🅿️ping:49.32ms
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#📡🇦🇹®️Austria©️Vienna🅿️ping:53.23ms

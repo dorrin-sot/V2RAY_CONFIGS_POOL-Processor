@@ -1,1 +1,1 @@
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@195.85.23.13:443?type=tcp&encryption=none&security=none#📡🇨🇿®️Czechia©️Prague🅿️ping:54.47ms
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@195.85.23.13:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=1&host=edge-4cb23bf6.pages.dev&type=ws&allowInsecure=1&sni=edge-4cb23bf6.pages.dev#📡🇨🇿®️Czechia©️Prague🅿️ping:59.8ms

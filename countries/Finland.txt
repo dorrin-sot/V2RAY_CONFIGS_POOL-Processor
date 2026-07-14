@@ -1,1 +1,1 @@
-vless://9d66932d-9eec-47de-972a-e98dee7231c1@fanland.lorqina.ir:8880?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&sid=69d1&spx=%2FuS5CSktTYiyCyav&allowinsecure=0&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:197.69ms
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:97.43ms

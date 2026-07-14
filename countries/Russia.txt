@@ -1,0 +1,2 @@
+vless://570779d8-b4cd-4b3c-a8bd-6127f51c4d48@msk.24pitbullstore.ru:2087?type=tcp&security=reality&sni=msk.24pitbullstore.ru&fp=firefox&flow=xtls-rprx-vision&pbk=J2RPvguvaBHlFDFOcZHs4sY9wSNIGNvvmDZud49A7i8&sid=9f0a1b2c#📡🇷🇺®️Russia©️St Petersburg🅿️ping:72.3ms
+vless://75ee50ca-3575-4cb6-8796-9920aba96824@84.201.153.33:443?security=reality&encryption=none&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=27e53bbcab7593d7#📡🇷🇺®️Russia©️Moscow (Tsentralnyy administrativnyy okrug)🅿️ping:48ms

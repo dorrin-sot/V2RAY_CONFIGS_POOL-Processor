@@ -1,4 +1,1 @@
-vless://31ca5820-1def-4b12-9af5-4f741b89e692@140.233.177.202:3046?sni=www.samsung.com%3A443&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&headerType=none&security=reality&fp=chrome&sid=abadbb95be30dccf&type=tcp&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:33.71ms
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=none&type=tcp&packetEncoding=xudp&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:98ms
-vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#📡🇫🇷®️France©️Roubaix🅿️ping:44.26ms
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY#📡🇫🇷®️France©️Paris🅿️ping:41ms
+vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:60.98ms

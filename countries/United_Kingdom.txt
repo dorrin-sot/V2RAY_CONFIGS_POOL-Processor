@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:33.2ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info&domain=vangoghhh.info#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45ms
-vless://f6d2f9d1-7032-470e-9c43-a5f259700db0@65.109.215.50:35491?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:33.2ms
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:55.04ms

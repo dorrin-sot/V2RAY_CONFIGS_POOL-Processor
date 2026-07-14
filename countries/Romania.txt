@@ -1,3 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#📡🇷🇴®️Romania©️Voluntari🅿️ping:51.6ms
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&allowinsecure=0&type=tcp&headerType=none#📡🇷🇴®️Romania©️Bucharest🅿️ping:58.15ms
-vless://e9dc9415-759c-42f2-b65b-0dcabf246523@85.121.122.47:32002?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=b_mcUl7K8Fqw5oxmbaRLzRK2XdHiQ1AiA9TLY0bXCGw&type=tcp&headerType=none#📡🇷🇴®️Romania©️Mamaia-Sat🅿️ping:247.29ms

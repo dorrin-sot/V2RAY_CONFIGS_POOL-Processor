@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:33.41ms
+vless://81b2416c-ed91-4532-9c7c-f6b9d98e7b6f@t1.goldkaaf.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=safari&pbk=vUc1t3uhTDXIBts4vRuq2JMMxdl2RllXNeZhYw_sGEc&sid=9147bfdb57a95177#📡🇬🇧®️United Kingdom©️Erith🅿️ping:78.96ms
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:44.87ms

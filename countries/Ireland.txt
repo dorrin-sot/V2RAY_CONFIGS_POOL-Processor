@@ -1,3 +1,1 @@
-trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#📡🇮🇪®️Ireland©️Dublin🅿️ping:87.61ms
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru#📡🇮🇪®️Ireland©️Dublin🅿️ping:46.29ms
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#📡🇮🇪®️Ireland©️Dublin🅿️ping:46.13ms
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?sni=www.vk.com&allowInsecure=1&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:47ms

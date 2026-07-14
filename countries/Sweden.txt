@@ -1,2 +1,2 @@
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&type=tcp&headerType=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:1.05ms
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@9507b8978a304ca0.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#📡🇸🇪®️Sweden©️Stockholm🅿️ping:195.93ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:56.6ms
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&type=tcp&headerType=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.89ms

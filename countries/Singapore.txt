@@ -1,2 +1,1 @@
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#📡🇸🇬®️Singapore©️Singapore🅿️ping:45.66ms
-vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?path=%2F29099%2Fapi1&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:181.8ms
+trojan://auto@194.53.53.4:443#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:59.32ms

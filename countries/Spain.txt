@@ -1,1 +1,1 @@
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?sni=www.vk.com&allowInsecure=1&type=tcp&fp=chrome#📡🇪🇸®️Spain©️Donostia / San Sebastian🅿️ping:65ms
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#📡🇪🇸®️Spain©️Madrid🅿️ping:35.54ms

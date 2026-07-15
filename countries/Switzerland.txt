@@ -1,0 +1,2 @@
+trojan://7f5rouvmiqm83905@188.213.131.90:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google.com&sid=e3916e0f2c8b438b#📡🇨🇭®️Switzerland©️Geneva🅿️ping:39.66ms
+trojan://7f5rouvmiqm83905@188.213.131.90:59618?sid=e3916e0f2c8b438b&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&security=reality&spx=%2F&sni=google.com&fp=firefox&type=tcp#📡🇨🇭®️Switzerland©️Geneva🅿️ping:42.69ms

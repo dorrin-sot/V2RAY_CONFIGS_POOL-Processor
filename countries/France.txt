@@ -1,3 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#📡🇫🇷®️France©️Roubaix🅿️ping:37.18ms
-vless://31ca5820-1def-4b12-9af5-4f741b89e692@140.233.177.202:3046?security=reality&encryption=none&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com%3A443&sid=abadbb95be30dccf#📡🇫🇷®️France©️Paris🅿️ping:25.13ms
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@185.16.110.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Rocking.hooplnqpb.ir&fp=chrome&type=ws&sni=Rocking.hooplnqpb.ir#📡🇫🇷®️France©️Paris🅿️ping:57.14ms
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?security=reality&type=raw&packetEncoding=xudp&sni=parisjetaime.com&fp=chrome&flow=xtls-rprx-vision&sid=5be8210215&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:29ms
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#📡🇫🇷®️France©️Roubaix🅿️ping:33.79ms
+vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:71.58ms
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?security=tls&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=eventloophub.org&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:106ms
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:30.9ms

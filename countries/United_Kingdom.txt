@@ -1,2 +1,1 @@
-trojan://521314@104.248.161.136:443#📡🇬🇧®️United Kingdom©️Edgware🅿️ping:51.38ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:55.04ms
+vless://7bdb9235-68bd-418f-912e-4cc590f50c35@194.147.35.148:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&sid=0a076a46&pbk=zdUruFsb8e_EEIqEMyykFbpNaOZCk_RDRaYInsgD9y0&encryption=none#📡🇬🇧®️United Kingdom©️Coventry🅿️ping:39ms

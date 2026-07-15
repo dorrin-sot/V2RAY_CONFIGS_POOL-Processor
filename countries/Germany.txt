@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:26.72ms
-trojan://MiTiVPN@89.116.250.135:443#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:26.72ms
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:34.79ms
-vless://c5d32f27-dded-4b63-8d01-1693471fb044@runner.app20.ir:8080?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:163.4ms
+vless://067418ac-3d6c-4ac9-b6e6-288118c5fa9c@2.27.16.166:443?security=reality&type=tcp&packetEncoding=xudp&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&sid=306ee3b67248b083&pbk=2VtBxikdnjSLygybjJp1xj7ATBPMD7SGycVn4dsEO1Y&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:33ms
+vless://9b0b4404-f1eb-4551-9b88-e0aac7843c86@earthpro.wasmer.app:443?security=tls&type=ws&path=%2F9b0b4404&host=earthpro.wasmer.app&packetEncoding=xudp&sni=earthpro.wasmer.app&fp=chrome&encryption=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:140ms

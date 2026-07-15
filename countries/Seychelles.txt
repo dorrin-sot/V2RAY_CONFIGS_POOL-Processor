@@ -1,2 +1,0 @@
-trojan://humanity@45.130.125.75:443#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57.77ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57.33ms

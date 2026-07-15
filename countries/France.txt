@@ -1,1 +1,4 @@
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:25.31ms
+vless://720642d3-035e-469a-b0a1-6dcd3601a82c@135.125.185.133:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&allowinsecure=0&type=tcp&headerType=none#📡🇫🇷®️France©️Roubaix🅿️ping:29.57ms
+vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:29.23ms
+vless://b73f550b-b234-4232-9029-795fdee38039@teamspk.callofdeuti.ir:80?security=reality&encryption=mlkem768x25519plus.native.0rtt.bHRJoW9nvDfcJd3ZRLXLDwT4i216yH90Uz42CXEoVUc&pbk=uOXWzNhsJ6sMuaZV8zPNZLu0kHNoUmDTRv6P1mlnsXk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=86d61db3f4a3d6ad#📡🇫🇷®️France©️Paris🅿️ping:192.37ms
+vless://ec99e107-8d2f-4767-a9ac-689424a55d3a@140.233.177.31:51963?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=e2&pbk=96R745HIUgKX33-bqiqB5F9uQFTacNEwP2W4ZYD7kVE&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:42ms

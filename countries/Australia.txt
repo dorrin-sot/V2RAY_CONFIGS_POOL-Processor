@@ -1,2 +1,0 @@
-vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#📡🇦🇺®️Australia©️Sydney🅿️ping:44.06ms
-vless://bbea7c42-aec2-42b4-8bec-9b9c4afea03d@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#📡🇦🇺®️Australia©️Sydney🅿️ping:44.06ms

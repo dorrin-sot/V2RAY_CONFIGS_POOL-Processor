@@ -1,4 +1,0 @@
-vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.63ms
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.63ms
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.87ms
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&host=srv53.configur.name.ng&fp=chrome&type=ws&sni=srv53.configur.name.ng#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.75ms

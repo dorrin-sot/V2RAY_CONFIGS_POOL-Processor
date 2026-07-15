@@ -1,0 +1,2 @@
+vless://78294bc4-89a2-4a4e-c116-0cd177fd556d@43.174.246.46:443?path=%2F48831%2Fapi&security=tls&encryption=none&insecure=0&host=a.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:27.24ms
+vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?path=%2F37807%2Fapi&security=tls&encryption=none&insecure=0&host=m.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni2.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:27.24ms

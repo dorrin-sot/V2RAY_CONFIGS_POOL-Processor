@@ -1,1 +1,1 @@
-vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=abcd1234&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU#📡🇸🇪®️Sweden©️Stockholm🅿️ping:2ms
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.56:443?security=reality&type=tcp&packetEncoding=xudp&sni=33432ews-topology-gslb-yccdn.ru&fp=firefox&flow=xtls-rprx-vision&sid=d9662905&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug#📡🇸🇪®️Sweden©️Stockholm🅿️ping:32.48ms

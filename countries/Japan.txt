@@ -1,7 +1,2 @@
-trojan://CF68213490@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:303.26ms
-trojan://CF68213490@communal-sunbird.rooster465.autos:443?allowInsecure=0&sni=communal-sunbird.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:310.46ms
-trojan://CF68213490@darling-mongrel.rooster465.autos:443?allowInsecure=0&sni=darling-mongrel.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:310.21ms
-trojan://CF68213490@definite-ladybird.rooster465.autos:443?allowInsecure=0&sni=definite-ladybird.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.84ms
-trojan://CF68213490@live-drake.rooster465.autos:443?allowInsecure=0&sni=live-drake.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:299.68ms
-trojan://CF68213490@loyal-molly.rooster465.autos:443?allowInsecure=0&sni=loyal-molly.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:313.8ms
-trojan://CF68213490@smooth-hornet.rooster465.autos:443?allowInsecure=0&sni=smooth-hornet.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:309.81ms
+trojan://CF68213490@communal-sunbird.rooster465.autos:443?allowInsecure=0&sni=communal-sunbird.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:290.68ms
+vless://39d1c043-7bc5-4876-9d07-58574c023850@172.207.210.238:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ac78f53d&pbk=Oua7ls5NZ2sxxFSyccAHZCMrCjW34WPEsHbaIpWmxX8&encryption=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:258ms

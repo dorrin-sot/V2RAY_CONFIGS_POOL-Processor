@@ -1,2 +1,0 @@
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@77.110.113.188:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=1559b440&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&encryption=none#📡🇷🇺®️Russia©️Moscow (Tsentralnyy administrativnyy okrug)🅿️ping:42ms
-vless://f14a4abb-ecb9-4be4-8a99-3d3895ab3464@176.109.85.89:2443?security=reality&type=grpc&mode=gun&serviceName=ns&packetEncoding=xudp&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&encryption=none#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:93ms

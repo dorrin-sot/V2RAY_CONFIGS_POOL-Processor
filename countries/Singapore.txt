@@ -1,3 +1,1 @@
-trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:261ms
-trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:345ms
-trojan://CF68213490@sharp-scorpion.rooster465.autos:443?sni=sharp-scorpion.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:265ms
+ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#📡🇸🇬®️Singapore©️Singapore🅿️ping:196.48ms

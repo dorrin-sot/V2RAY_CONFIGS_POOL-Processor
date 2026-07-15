@@ -1,0 +1,8 @@
+trojan://CF68213490@bright-cicada.rooster465.autos:443?allowInsecure=0&sni=bright-cicada.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:231.71ms
+trojan://CF68213490@evolving-platypus.rooster465.autos:443?allowInsecure=0&sni=evolving-platypus.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:231.11ms
+trojan://CF68213490@modest-bat.rooster465.autos:443?allowInsecure=0&sni=modest-bat.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:236.05ms
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?allowInsecure=0&sni=prime-buzzard.rooster465.autos#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:38.27ms
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?allowInsecure=0&sni=prime-buzzard.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:232.97ms
+trojan://CF68213490@summary-lemming.rooster465.autos:443?allowInsecure=0&sni=summary-lemming.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:221.19ms
+vless://78294bc4-89a2-4a4e-c116-0cd177fd556d@43.174.246.46:443?path=/48831/api&security=tls&encryption=none&insecure=0&host=a.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:38.27ms
+vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?path=/37807/api&security=tls&encryption=none&insecure=0&host=m.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni2.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:38.27ms

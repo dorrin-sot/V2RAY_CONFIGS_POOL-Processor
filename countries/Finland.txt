@@ -1,4 +1,4 @@
-vless://4610f6e6-d5da-409c-85da-dee776f47dc3@jam.techinfodigital.nz:51192?pbk=yb-HFcDn9YpWHQJ0b22m42pq3nl5CMxq42d4YbQz9D8&sid=34257495&security=reality&type=tcp&fp=chrome&headerType=none&encryption=none&sni=swdist.apple.com&flow=xtls-rprx-vision#📡🇫🇮®️Finland©️Helsinki🅿️ping:91.4ms
-vless://8c48388a-8c01-4b7b-9de6-d9516e05ce26@tun.temas-bor.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:123.44ms
-vless://af495d39-55f3-4e10-b39d-9914cd4638d3@157.180.91.156:54240?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.69ms
-vless://bfc0791f-68cc-4f69-a1c5-a12577fe619c@da.mobileemdad.top:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:78.79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.76.80.205:8388#📡🇫🇮®️Finland©️Helsinki🅿️ping:24.75ms
+vless://6871b29e-bb51-4b6b-b2fa-6e2b98ad3859@46.62.240.221:80?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.34ms
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:85.68ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:114.12ms

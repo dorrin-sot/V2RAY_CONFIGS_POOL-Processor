@@ -1,0 +1,2 @@
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.67ms
+vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.160:443?security=tls&type=xhttp&path=%2Findex&host=www.chinns.us.ci&packetEncoding=xudp&sni=www.chinns.us.ci&fp=chrome&mode=stream-one&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57ms

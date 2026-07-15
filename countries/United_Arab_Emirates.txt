@@ -1,2 +1,0 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?path=tg%40zdyz2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cfed.tgzdyz2.top#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:44ms
-vless://8afb91d5-76bd-11f1-bd1f-525400b0a67a@153.75.89.148:443?security=reality&encryption=none&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:49ms

@@ -1,3 +1,0 @@
-vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?encryption=none&host=tehran-game.ir&path=%2F&security=none&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:111.71ms
-vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?path=%2F&security=&encryption=none&host=tehran-game.ir&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:271ms
-vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?security=none&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:62.82ms

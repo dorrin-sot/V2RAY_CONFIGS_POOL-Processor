@@ -1,1 +1,1 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru#📡🇮🇪®️Ireland©️Dublin🅿️ping:46.2ms
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#📡🇮🇪®️Ireland©️Dublin🅿️ping:46.39ms

@@ -1,3 +1,4 @@
-trojan://CF68213490@noble-tahr.rooster465.autos:443?sni=noble-tahr.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:344ms
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:254.79ms
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:268ms
+trojan://CF68213490@equipped-moth.rooster465.autos:443?allowInsecure=0&sni=equipped-moth.rooster465.aut…#📡🇯🇵®️Japan©️Shibuya City🅿️ping:296.66ms
+trojan://CF68213490@present-ram.rooster465.autos:443?allowInsecure=0&sni=present-ram.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:301.5ms
+trojan://CF68213490@star-dodo.rooster465.autos:443?allowInsecure=0&sni=star-dodo.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.09ms
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#📡🇯🇵®️Japan©️Shibuya City🅿️ping:264.64ms

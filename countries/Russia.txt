@@ -1,2 +1,1 @@
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@77.110.113.188:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=1559b440&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&encryption=none#📡🇷🇺®️Russia©️Moscow (Tsentralnyy administrativnyy okrug)🅿️ping:42ms
-vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@109.120.152.19:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fast_s89.screw.page&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇷🇺®️Russia©️Krasnodar🅿️ping:37.9ms
+ss://YWVzLTI1Ni1nY206TjUvUldYQzJCRmZjYWxxRUt0eFM5eDhyeUx3bWJXNSthTmtZK3BDM1Vabz0@193.233.217.184:15166?type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:37.37ms

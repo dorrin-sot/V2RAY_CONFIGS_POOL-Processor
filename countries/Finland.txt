@@ -1,2 +1,1 @@
-vless://13deef01-0a60-47ec-aa9c-8a3481e1c87f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:55.01ms
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:98.21ms
+vless://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr-ca.rogers.yahoo.com&fp=chrome&pbk=RQLrLXb2bSZ6hd_UsZ7zHj-dJ0nLgtfq0RVPtOQRWUY&sid=e457c0e0f564&spx=%2Ff3rGKXLd1TzSheY&allowinsecure=0&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:68.07ms

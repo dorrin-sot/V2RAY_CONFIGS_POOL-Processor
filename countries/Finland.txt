@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#📡🇫🇮®️Finland©️Helsinki🅿️ping:27ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpneDI1XzFrNXVCNjhhMVZwSjZFUTc0OUc@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:65.67ms
-vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?security=reality&encryption=none&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&headerType=&fp=firefox&type=tcp&sni=api.ok.ru&sid=cf2d#📡🇫🇮®️Finland©️Helsinki🅿️ping:2ms
-vless://573bd634-8fad-46bd-9d76-7828df6dd05f@193.29.225.249:4443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&packetEncoding=xudp&sni=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&fp=chrome&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:2ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.158.169.59:2090?security=&encryption=none&headerType=&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:37ms
+vless://13deef01-0a60-47ec-aa9c-8a3481e1c87f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:55.01ms
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:98.21ms

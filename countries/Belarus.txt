@@ -1,2 +1,0 @@
-vless://7b69c549-93f7-00aa-88bc-f1a8c3c881e5@144.31.129.174:443?security=reality&encryption=none&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&sid=20ed7ee26095771b#📡🇧🇾®️Belarus©️Minsk🅿️ping:1029ms
-vless://7b69c549-93f7-00aa-88bc-f1a8c3c881e5@144.31.129.174:443?security=reality&encryption=none&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&sid=20ed7ee26095771b#📡🇧🇾®️Belarus©️Minsk🅿️ping:25ms

@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#📡🇬🇧®️United Kingdom©️Totnes🅿️ping:37ms
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.133:2085?security=none&type=grpc&mode=gun&serviceName=vless&packetEncoding=xudp&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+vless://44071682-0e02-49eb-9312-953613aaabbe@uk.rarvexo.ir:443?security=reality&encryption=none&pbk=pAnXvXweu8VrHaFTV0JhFfQJ7ep1Dp1cf9FTtEjg9yw&headerType=none&fp=firefox&type=tcp&sni=token.safebrowsing.apple&sid=ec4146d1bbef39e1#📡🇬🇧®️United Kingdom©️London🅿️ping:190.96ms
+vless://81b2416c-ed91-4532-9c7c-f6b9d98e7b6f@t1.goldkaaf.ir:8443?security=reality&encryption=none&pbk=vUc1t3uhTDXIBts4vRuq2JMMxdl2RllXNeZhYw_sGEc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9147bfdb57a95177#📡🇬🇧®️United Kingdom©️Erith🅿️ping:205.68ms

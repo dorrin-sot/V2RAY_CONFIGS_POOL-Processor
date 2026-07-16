@@ -1,2 +1,0 @@
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:81.7ms
-vless://13deef01-0a60-47ec-aa9c-8a3481e1c87f@62.238.41.102:443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:33.95ms

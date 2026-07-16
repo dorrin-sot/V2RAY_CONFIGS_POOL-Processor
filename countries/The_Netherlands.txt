@@ -1,2 +1,5 @@
-vless://44071682-0e02-49eb-9312-953613aaabbe@www.qelqira.ir:443?security=reality&encryption=none&pbk=yOzw_C33fYRFdEirt6YujuVlH_v4aJ_CaIzAkUv2fBk&headerType=none&fp=firefox&type=tcp&sni=cdn-apple.com&sid=73e5e4e51c10a1b0#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:113.05ms
-vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443/?type=tcp&encryption=none&flow=&sni=music.yandex.ru&security=reality&pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&sid=48a458b7e7cb52ae#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.85ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.35ms
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:79.41ms
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:28.79ms
+vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.yandex.ru&fp=chrome&sid=48a458b7e7cb52ae&pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms

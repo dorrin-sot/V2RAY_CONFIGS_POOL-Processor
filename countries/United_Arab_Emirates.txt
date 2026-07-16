@@ -1,6 +1,0 @@
-ss://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@94.140.0.0:80?encryption=none&amp;security=none&amp;sni=irl.forsarinna.site&amp;type=ws&amp;host=irl.forsarinna.site&amp;path=%2F#📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:44.3ms
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:173.84ms
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.64.11:80?type=ws&host=Fastapi.Org&path=%2F#📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:126.54ms
-vless://4f166057-2f4c-43d8-b5b3-6eb4413022e1@185.253.116.18:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:49.79ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&encryption=none#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:44.54ms
-vless://6ade76a3-9428-4082-bc42-91a47d830db5@89.31.120.66:2057?encryption=none&security=tls&sni=89.31.120.66&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=89.31.120.66&path=/baclup#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:155.41ms

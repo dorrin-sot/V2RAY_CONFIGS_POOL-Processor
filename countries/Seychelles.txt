@@ -1,1 +1,2 @@
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.210:443?encryption=none&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:56.17ms
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.130.125.207:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.37ms
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=yellow-breeze-989b.348-9b8.workers.dev&packetEncoding=xudp&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.37ms

@@ -1,1 +1,1 @@
-vless://527831db-b8fc-4012-8410-c0698dc43f12@dk-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#📡🇨🇭®️Switzerland©️Zurich🅿️ping:114.97ms
+trojan://7f5rouvmiqm83905@188.213.131.90:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google.com&sid=e3916e0f2c8b438b#📡🇨🇭®️Switzerland©️Geneva🅿️ping:40.1ms

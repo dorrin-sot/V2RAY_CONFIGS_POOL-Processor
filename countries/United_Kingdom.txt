@@ -1,2 +1,2 @@
-vless://44071682-0e02-49eb-9312-953613aaabbe@uk.rarvexo.ir:443?security=reality&encryption=none&pbk=pAnXvXweu8VrHaFTV0JhFfQJ7ep1Dp1cf9FTtEjg9yw&headerType=none&fp=firefox&type=tcp&sni=token.safebrowsing.apple&sid=ec4146d1bbef39e1#📡🇬🇧®️United Kingdom©️London🅿️ping:119.2ms
-vless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn.fonix1.com:443?mode=stream-one&path=/mahdiisalivedkllksdhlkv6468464@&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#📡🇬🇧®️United Kingdom©️London🅿️ping:96.94ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#📡🇬🇧®️United Kingdom©️Totnes🅿️ping:37ms
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.133:2085?security=none&type=grpc&mode=gun&serviceName=vless&packetEncoding=xudp&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:36ms

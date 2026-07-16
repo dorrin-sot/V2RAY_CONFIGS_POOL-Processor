@@ -1,1 +1,1 @@
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:44.21ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?security=tls&type=ws&path=%2Frdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:44ms

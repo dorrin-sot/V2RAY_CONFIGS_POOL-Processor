@@ -1,3 +1,1 @@
-vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@Samd.softupdl.ir:55974?security=none&encryption=none&host=Play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:78.04ms
-vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@Samd.softupdl.ir:56792?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:74.12ms
-vless://bf20777b-4e95-4262-a813-ffb28918e56f@ninja.monak2.ir:20788?encryption=none&host=play.google.com&path=/&security=none&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:118.66ms
+vless://d593c88a-496b-4889-968c-6af644021467@download.yunzhongzhuan.com:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=white-disk-79ed.476.workers.dev&packetEncoding=xudp#📡🇹🇷®️Turkey©️Paşaköy🅿️ping:60ms

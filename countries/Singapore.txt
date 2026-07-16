@@ -1,4 +1,1 @@
-trojan://CF68213490@lucky-chimp.rooster465.autos:443?security=tls&sni=lucky-chimp.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:259.26ms
-trojan://CF68213490@musical-terrier.rooster465.autos:443?allowInsecure=0&sni=musical-terrier.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:256.88ms
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:293.02ms
-vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?path=%2F37807%2Fapi&security=tls&encryption=none&insecure=0&host=m.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni2.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:25.81ms
+vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=9350a4f6c01e987a&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&encryption=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:200ms

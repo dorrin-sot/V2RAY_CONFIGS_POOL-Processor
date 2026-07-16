@@ -1,1 +1,6 @@
-ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.17.40.13:10123#📡🇷🇺®️Russia©️Moscow🅿️ping:41.68ms
+ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.133.23.45:60129#📡🇷🇺®️Russia©️St Petersburg🅿️ping:35.1ms
+vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@212.233.78.243:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#📡🇷🇺®️Russia©️Moscow🅿️ping:61.84ms
+vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=&sid=f8a8ee8381529673#📡🇷🇺®️Russia©️Moscow🅿️ping:99.34ms
+vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#📡🇷🇺®️Russia©️Moscow🅿️ping:99.34ms
+vless://68d3fcbe-f025-2710-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=&sid=f8a8ee8381529673#📡🇷🇺®️Russia©️Moscow🅿️ping:99.34ms
+vless://923ff5e4-0188-4b98-ab8f-d602562e77cd@164.138.100.198:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=nl-br-yandex&mode=gun#📡🇷🇺®️Russia©️St Petersburg🅿️ping:37.15ms

@@ -1,1 +1,1 @@
-vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=9350a4f6c01e987a&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&encryption=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:200ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotdDFJZGNZY2JrWmpSMUs1cFdsejJB@v2.nooend.me:1080#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:315.56ms

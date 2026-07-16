@@ -1,1 +1,1 @@
-vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?fp=chrome&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&flow=xtls-rprx-vision&headerType=none&sni=hudrososov.blog&security=reality&encryption=none&sid=d1c2b3a4&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:81.88ms
+vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=qq&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&sid=d1c2b3a4&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:72.76ms

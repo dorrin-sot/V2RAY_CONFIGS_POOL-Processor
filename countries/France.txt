@@ -1,5 +1,5 @@
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=/sg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#📡🇫🇷®️France©️Roubaix🅿️ping:37.29ms
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:71.05ms
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:44.74ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:34.73ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:34.73ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#📡🇫🇷®️France©️Paris 09 Opéra🅿️ping:36.8ms
+vless://1414bd61-ef9c-42fc-94b6-0ac796b6a845@real2.gogoli.xyz:53921?security=reality&pbk=1BpNelF0e6LBCHdN6BbOL4Mb--MoiWVIgcZPl-0rE0Y&fp=chrome&sni=www.yahoo.com&sid=c2&spx=%2F&encryption=none&flow=xtls-rprx-vision&type=tcp#📡🇫🇷®️France©️Wattrelos🅿️ping:128.3ms
+vless://34e600bc-5337-4614-b9ac-e396847caeab@www.samanehha.io:80?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=www.samanehha.io&type=xhttp#📡🇫🇷®️France©️Paris🅿️ping:78.47ms
+vless://602807f2-5b82-4ae4-88df-a6abdb44ee02@i7bor.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:67.4ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22222?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:31.77ms

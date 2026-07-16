@@ -1,0 +1,1 @@
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=&type=tcp&flow=xtls-rprx-vision&sni=tehno.store#📡🇦🇿®️Azerbaijan©️Baku🅿️ping:30ms

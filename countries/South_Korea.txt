@@ -1,8 +1,0 @@
-trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&sni=clear-heron.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:295.02ms
-trojan://CF68213490@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:292.3ms
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?allowInsecure=0&sni=devoted-zebra.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:325.99ms
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:296.15ms
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?allowInsecure=0&sni=enormous-whippet.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:295.86ms
-trojan://CF68213490@smooth-lark.rooster465.autos:443?allowInsecure=0&sni=smooth-lark.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:318.7ms
-trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:296.53ms
-trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:293.82ms

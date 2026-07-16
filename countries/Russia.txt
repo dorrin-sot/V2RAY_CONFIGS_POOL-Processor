@@ -1,2 +1,0 @@
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#📡🇷🇺®️Russia©️St Petersburg🅿️ping:56.08ms
-vless://923ff5e4-0188-4b98-ab8f-d602562e77cd@164.138.100.198:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=nl-br-yandex&mode=gun#📡🇷🇺®️Russia©️St Petersburg🅿️ping:43.79ms

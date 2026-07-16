@@ -1,0 +1,2 @@
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:45.3ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:44.33ms

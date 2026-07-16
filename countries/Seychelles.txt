@@ -1,4 +1,0 @@
-trojan://humanity@45.130.125.126:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
-trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
-trojan://humanity@45.130.125.76:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
-vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@cf10.466688.xyz:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian&host=summer-bonus-aa63.52-c03.workers.dev&packetEncoding=xudp&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:119.09ms

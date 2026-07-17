@@ -1,1 +1,2 @@
-vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:35412?encryption=none&security=none&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:37.37ms
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@195.133.23.27:20111#📡🇷🇺®️Russia©️St Petersburg🅿️ping:35.01ms
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:76.29ms

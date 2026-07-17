@@ -1,6 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?#📡🇯🇵®️Japan©️Shibuya City🅿️ping:305.29ms
-trojan://NQ26071394@hot-tapir.rooster465.autos:443?allowInsecure=0&sni=hot-tapir.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:305.29ms
-trojan://NQ26071394@one-dove.rooster465.autos:443?allowInsecure=0&sni=one-dove.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:313.61ms
-trojan://NQ26071394@real-ewe.rooster465.autos:443?allowInsecure=0&sni=real-ewe.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:295.41ms
-trojan://NQ26071394@upright-caribou.rooster465.autos:443?allowInsecure=0&sni=upright-caribou.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:313.15ms
-trojan://NQ26071394@working-tomcat.rooster465.autos:443?allowInsecure=0&sni=working-tomcat.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.19ms
+trojan://NQ26071394@helped-jennet.rooster465.autos:443?allowInsecure=0&sni=helped-jennet.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:316.92ms
+trojan://NQ26071394@immune-grackle.rooster465.autos:443?allowInsecure=0&sni=immune-grackle.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:295.39ms
+trojan://NQ26071394@infinite-killdeer.rooster465.autos:443?allowInsecure=0&sni=infinite-killdeer.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:310.94ms
+trojan://NQ26071394@new-eagle.rooster465.autos:443?allowInsecure=0&sni=new-eagle.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:298.18ms
+trojan://NQ26071394@one-dove.rooster465.autos:443?allowInsecure=0&sni=one-dove.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:335.13ms
+trojan://NQ26071394@sure-husky.rooster465.autos:443?allowInsecure=0&sni=sure-husky.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:297.23ms
+trojan://NQ26071394@upright-caribou.rooster465.autos:443?allowInsecure=0&sni=upright-caribou.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:295.7ms
+trojan://NQ26071394@working-tomcat.rooster465.autos:443?allowInsecure=0&sni=working-tomcat.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:293.62ms

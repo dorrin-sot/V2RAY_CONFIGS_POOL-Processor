@@ -1,6 +1,1 @@
-trojan://NQ26071394@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:219.64ms
-trojan://NQ26071394@eminent-hagfish.rooster465.autos:443?allowInsecure=1&sni=eminent-hagfish.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:225.9ms
-trojan://NQ26071394@usable-dogfish.rooster465.autos:443?allowInsecure=1&sni=usable-dogfish.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:219.77ms
-trojan://NQ26071394@verified-ringtail.rooster465.autos:443?allowInsecure=1&sni=verified-ringtail.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:214.13ms
-trojan://auto@194.53.53.4:443#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:45.79ms
-vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?type=tcp&encryption=none&security=none#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:24.09ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#📡🇸🇬®️Singapore©️Singapore🅿️ping:44.79ms

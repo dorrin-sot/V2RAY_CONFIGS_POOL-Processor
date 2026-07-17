@@ -1,1 +1,1 @@
-vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?type=tcp&encryption=none&security=none#📡🇮🇹®️Italy©️Milan🅿️ping:37.56ms
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&encryption=none#📡🇮🇹®️Italy©️Siziano🅿️ping:53ms

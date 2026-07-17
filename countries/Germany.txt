@@ -1,16 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:36.65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdGdoZTh4d3Awd3UzNmR6@87.120.108.121:999#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.29ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:37.39ms
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:47.55ms
-ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.133.23.45:60129#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:37.39ms
-vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:64.9ms
-vless://4281e90a-a495-45ac-bac0-c4aa7ed133b1@91.107.159.216:26437?&type=tcp&headerType=none&path=%2F#📡🇩🇪®️Germany©️Nuremberg🅿️ping:28.27ms
-vless://45e6cc1d-fc2e-4c97-8633-b33caa28e130@jazzghost.com:2089?authority=nvidia.com&encryption=none&fp=chrome&pbk=vdLIQuM7v4b6PzknfK1luaQdEWoWdRVbhNFm0a7_UFA&security=reality&serviceName=products&sid=85dc255ba7bbe54e&sni=shield.nvidia.asia&spx=/0a1dee23cd1a5c4&type=grpc#📡🇩🇪®️Germany©️Nuremberg🅿️ping:100.86ms
-vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?security=reality&encryption=none&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=d23753491eefde7e#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:39.23ms
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@45.130.125.207:443?security=tls&host=hhvl.hhapp.kdns.fr&insecure=0&encryption=none&type=ws&sni=hhvl.hhapp.kdns.fr&allowInsecure=0&path=%2Fcbasur#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:47.55ms
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:105.0ms
-vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&security=reality&sid=e1a78782&sni=www.cloudflare.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:38.39ms
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:96.22ms
-vless://c95f6104-6b19-4f3e-aaa6-a74fec3ee258@168.222.244.66:10277?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=5WM9qJQUXyEnE2xaJHvXai6IV7HrBLnuy5s39fcqCAA&sid=7a&spx=%2Fnaranv2ray#📡🇩🇪®️Germany©️Berlin🅿️ping:43.21ms
-vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.114:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.63ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.189.222:22224?&type=tcp&headerType=none&path=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.16ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?sni=185.137.157.149&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28ms
+vless://1c799205-5251-4fb2-8167-56d3e895c8c5@45.63.117.27:53776?encryption=none&security=none&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:34.39ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.59ms

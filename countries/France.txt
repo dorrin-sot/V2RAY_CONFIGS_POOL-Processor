@@ -1,5 +1,2 @@
-vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.114:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇫🇷®️France©️Paris🅿️ping:34.67ms
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:63.52ms
-vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?security=reality&encryption=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#📡🇫🇷®️France©️Paris🅿️ping:34.75ms
-vless://df4bda66-59d7-4b79-abd0-0e4ee14d7c70@188.130.207.217:443?type=ws&encryption=none&path=%2Fws&host=play.google.com&security=none#📡🇫🇷®️France©️Paris🅿️ping:34.67ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.61.203:22222?&type=tcp&headerType=none&path=%2F#📡🇫🇷®️France©️Paris🅿️ping:32.0ms
+vless://9a801a5f-5f1e-4e6e-921f-34f4efdc2ce7@dash2.abalonhost.com:1002?mode=gun&security=reality&encryption=none&pbk=6bmOrcP4L76pk0xC3pbIGIk46EJQNeS2hhEvnoT-VVE&fp=chrome&type=grpc&sni=play.google.com&sid=46ca6881c8e805d0#📡🇫🇷®️France©️Paris🅿️ping:67.83ms
+vless://df4bda66-59d7-4b79-abd0-0e4ee14d7c70@188.130.207.217:443?type=ws&encryption=none&path=%2Fws&host=play.google.com&security=none#📡🇫🇷®️France©️Paris🅿️ping:41.85ms

@@ -1,1 +1,0 @@
-trojan://humanity@45.130.125.162:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.multiplydose.com&fp=ios&type=ws&allowInsecure=0&sni=www.multiplydose.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:57.55ms

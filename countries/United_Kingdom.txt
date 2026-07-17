@@ -1,2 +1,1 @@
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:39.58ms
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=main.oneoker.com&sid=a9b0c08836bad3c5#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:70.75ms
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:45.26ms

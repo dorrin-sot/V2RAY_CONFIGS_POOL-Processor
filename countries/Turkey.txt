@@ -1,1 +1,4 @@
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=www.google.com&fp=chrome&sid=44&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&mode=auto&encryption=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:79ms
+vless://0acbc72f-61f1-4404-bd8f-57015d10c899@Samd.softupdl.ir:13908?security=none&encryption=none&host=Play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:105.17ms
+vless://0acbc72f-61f1-4404-bd8f-57015d10c899@Samd.softupdl.ir:55974?security=none&encryption=none&host=Play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.73ms
+vless://0acbc72f-61f1-4404-bd8f-57015d10c899@Samd.softupdl.ir:56792?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.19ms
+vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?path=%2Fws&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:478.57ms

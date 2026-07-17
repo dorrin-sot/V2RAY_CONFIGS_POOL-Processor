@@ -1,0 +1,2 @@
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:129.77ms
+vless://e03ecc3c-b578-49ec-b8e3-d38d6e808e5d@95.217.16.41:4432?security=reality&encryption=none&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.33ms

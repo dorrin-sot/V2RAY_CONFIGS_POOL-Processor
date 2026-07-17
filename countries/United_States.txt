@@ -1,3 +1,13 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#📡🇺🇸®️United States©️New York🅿️ping:113.81ms
-trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=%2Fdb&security=tls&alpn=h2%2Chttp%2F1.1&host=edgezvx.global.ssl.fastly.net&type=xhttp&sni=global.fastly.com#📡🇺🇸®️United States©️Chicago🅿️ping:26.07ms
-vless://7706b08a-0cef-9caa-2aff-fc321bda88c9@waysi10-production.up.railway.app:443?path=%2Fws%2F7706b08a-0cef-9caa-2aff-fc321bda88c9&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=waysi10-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=waysi10-production.up.railway.app#📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:95.13ms
+trojan://4aFbwy5BHa@151.101.34.144:443#📡🇺🇸®️United States©️Chicago🅿️ping:29.28ms
+trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443#📡🇺🇸®️United States©️Chicago🅿️ping:28.55ms
+trojan://humanity@103.133.1.2:443#📡🇺🇸®️United States©️New York🅿️ping:44.23ms
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&path=%2f#📡🇺🇸®️United States©️Charlottesville🅿️ping:131.54ms
+vless://216f7cae-5aef-442d-a184-2b0119f7155c@199.232.8.15:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Chicago🅿️ping:24.65ms
+vless://50414e45-4c5f-5a45-5553-d8c448e1cbf6@199.181.197.253:2083?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Redwood City (Redwood Shores)🅿️ping:44.28ms
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?path=%2Fvip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#📡🇺🇸®️United States©️Chicago🅿️ping:41.53ms
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Chicago🅿️ping:28.94ms
+vless://97b11ee6-a62a-4e60-839c-de974a155089@209.46.30.55:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#📡🇺🇸®️United States©️Feasterville-Trevose🅿️ping:44.71ms
+vless://c06c771d-2337-4d38-8349-39d2192b3758@marzban-node-production-50b2.up.railway.app:443?path=%2Fvless&security=tls&alpn=h2&encryption=none&insecure=0&host=marzban-node-production-50b2.up.railway.app&fp=safari&type=ws&allowInsecure=0&sni=marzban-node-production-50b2.up.railway.app#📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:63.22ms
+vless://ca8e25a2-52ac-4c38-9db5-f93a62c307ae@217.168.247.209:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#📡🇺🇸®️United States©️Chicago🅿️ping:28.55ms
+vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.29.204:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️San Francisco🅿️ping:25.95ms
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Tempe (South Tempe)🅿️ping:44.92ms

@@ -1,3 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#📡🇫🇷®️France©️Paris🅿️ping:36.58ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.183.55:22222?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:31.69ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40VPNine1#📡🇫🇷®️France©️Paris🅿️ping:137.36ms
+vless://37182b68-6422-4414-9518-7df6776c0150@vip-de2-unlimited.relqino.ir:2087?mode=auto&path=%2F&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#📡🇫🇷®️France©️Paris🅿️ping:78.44ms
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cd544957187288d5.mechanicir.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#📡🇫🇷®️France©️Gémenos🅿️ping:94.42ms

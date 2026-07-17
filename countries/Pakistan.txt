@@ -1,2 +1,0 @@
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#📡🇵🇰®️Pakistan©️Karachi🅿️ping:163.79ms
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58#📡🇵🇰®️Pakistan©️Karachi🅿️ping:163.79ms

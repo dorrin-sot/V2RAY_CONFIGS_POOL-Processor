@@ -1,2 +1,2 @@
-trojan://humanity@45.130.125.76:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:53ms
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@45.130.125.207:443?path=%2Fcbasur&security=tls&encryption=none&host=hhvl.hhapp.kdns.fr&type=ws&sni=hhvl.hhapp.kdns.fr#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.6ms
+vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?security=tls&type=ws&path=%2Fmashdi&host=WqQdZtWi6.DoVaRi24.oRg&packetEncoding=xudp&sni=WqQdZtWi6.DoVaRi24.oRg&fp=firefox#📡🇸🇨®️Seychelles©️Victoria🅿️ping:161ms
+vless://bfbc48f0-1781-4f29-9206-6325908bea10@jush.sukario.ir:443?security=tls&type=ws&path=%2Fmashdi&host=mesh1.mashadiebod.org&packetEncoding=xudp&sni=mesh1.mashadiebod.org&fp=firefox#📡🇸🇨®️Seychelles©️Victoria🅿️ping:150ms

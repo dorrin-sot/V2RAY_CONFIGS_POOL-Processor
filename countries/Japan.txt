@@ -1,8 +1,3 @@
-trojan://NQ26071394@helped-jennet.rooster465.autos:443?allowInsecure=0&sni=helped-jennet.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:316.92ms
-trojan://NQ26071394@immune-grackle.rooster465.autos:443?allowInsecure=0&sni=immune-grackle.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:295.39ms
-trojan://NQ26071394@infinite-killdeer.rooster465.autos:443?allowInsecure=0&sni=infinite-killdeer.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:310.94ms
-trojan://NQ26071394@new-eagle.rooster465.autos:443?allowInsecure=0&sni=new-eagle.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:298.18ms
-trojan://NQ26071394@one-dove.rooster465.autos:443?allowInsecure=0&sni=one-dove.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:335.13ms
-trojan://NQ26071394@sure-husky.rooster465.autos:443?allowInsecure=0&sni=sure-husky.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:297.23ms
-trojan://NQ26071394@upright-caribou.rooster465.autos:443?allowInsecure=0&sni=upright-caribou.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:295.7ms
-trojan://NQ26071394@working-tomcat.rooster465.autos:443?allowInsecure=0&sni=working-tomcat.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:293.62ms
+trojan://CF68213490@13.231.104.203:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:271ms
+trojan://CF68213490@13.231.189.62:443?sni=fair-werewolf.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:274ms
+trojan://CF68213490@54.178.0.218:443?sni=easy-barnacle.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:271ms

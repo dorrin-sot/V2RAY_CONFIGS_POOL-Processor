@@ -1,2 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:68.42ms
-vless://fe181934-a536-44cc-98cd-d62b9c16ad74@static.41.139.168.204.clients.your-server.de:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:53.09ms
+vless://b51b1aa7-6a66-4998-aeb3-d7d8bb2597bb@65.109.218.25:59849?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:31.69ms

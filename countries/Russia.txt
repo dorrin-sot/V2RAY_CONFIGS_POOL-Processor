@@ -1,1 +1,2 @@
-vless://68d3fcbe-f025-2710-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#📡🇷🇺®️Russia©️Moscow🅿️ping:79.18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@185.185.142.60:1080#📡🇷🇺®️Russia©️Moscow🅿️ping:37.59ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@185.185.142.60:1080#📡🇷🇺®️Russia©️Moscow🅿️ping:37.69ms

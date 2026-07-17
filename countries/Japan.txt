@@ -1,1 +1,6 @@
-trojan://CF68213490@free-hare.rooster465.autos:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:299.48ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?#📡🇯🇵®️Japan©️Shibuya City🅿️ping:305.29ms
+trojan://NQ26071394@hot-tapir.rooster465.autos:443?allowInsecure=0&sni=hot-tapir.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:305.29ms
+trojan://NQ26071394@one-dove.rooster465.autos:443?allowInsecure=0&sni=one-dove.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:313.61ms
+trojan://NQ26071394@real-ewe.rooster465.autos:443?allowInsecure=0&sni=real-ewe.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:295.41ms
+trojan://NQ26071394@upright-caribou.rooster465.autos:443?allowInsecure=0&sni=upright-caribou.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:313.15ms
+trojan://NQ26071394@working-tomcat.rooster465.autos:443?allowInsecure=0&sni=working-tomcat.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.19ms

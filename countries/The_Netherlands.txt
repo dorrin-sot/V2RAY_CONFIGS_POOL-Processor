@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.02ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.02ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:43.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.03ms
-vless://2d9ab024-9b0c-4b0c-80ed-5dd8ded9e3e1@whkpd.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:75.93ms
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@feed.reasonok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=feed.reasonok.com&sid=a5668d2759baa4ac#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:71.93ms
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@link.oneokgames.com:443?security=reality&encryption=none&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&fp=firefox&type=grpc&serviceName=media.v1.SyncService&sni=link.oneokgames.com&sid=ad613873130544ab#📡🇳🇱®️The Netherlands©️Doetinchem🅿️ping:72.55ms
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@117.55.202.176:443?security=reality&encryption=none&pbk=zFLwkbK3WLlo4hRToZjwkauD4qCLdzkUgG0GisVL-nk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=4ew328q3df43we11-topology-gslb-yccdn.ru&sid=5e3ab3ab228625#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.87ms
+trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1&sni=grateful-bedbug.rooster465.autos#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:103.01ms
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.206.227:2566?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&sid=b220cebe89a795&spx=/spdnet&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.6ms
+vless://83e5cd3d-e7be-4ef7-81c6-6ae55f2cb284@netherlands.vpnserverhub.com:443?security=reality&encryption=none&pbk=y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#📡🇳🇱®️The Netherlands©️Berkenwoude🅿️ping:107.91ms
+vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&sid=808a7e8a2e32c697&type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Naaldwijk🅿️ping:30.26ms
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.199.186:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.02ms

@@ -1,1 +1,0 @@
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?encryption=none&security=reality&sni=add.oneoker.com&fp=firefox&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&sid=9c478d3655bfa85d&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:66.3ms

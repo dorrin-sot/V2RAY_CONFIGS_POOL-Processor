@@ -1,0 +1,6 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#📡🇰🇷®️South Korea©️Seoul🅿️ping:280.27ms
+trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=0&sni=genuine-cougar.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:308.75ms
+trojan://NQ26071394@inviting-ferret.rooster465.autos:443?allowInsecure=1&sni=inviting-ferret.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:290.45ms
+trojan://NQ26071394@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legible-ocelot.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:300.62ms
+trojan://NQ26071394@mighty-lemming.rooster465.autos:443?allowInsecure=0&sni=mighty-lemming.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:294.47ms
+vless://c73dde3c-bc5c-4498-a1c1-c84f80e9f515@20.196.153.157:2233?encryption=none&security=none&type=tcp#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:265.06ms

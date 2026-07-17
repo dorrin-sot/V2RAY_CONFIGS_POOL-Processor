@@ -1,3 +1,0 @@
-vless://37182b68-6422-4414-9518-7df6776c0150@fn2-unlimited.pavilof.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#📡🇫🇮®️Finland©️Helsinki🅿️ping:90.76ms
-vless://df1017aa-1d35-4301-8266-f908c0bedc56@Tun.temas-bor.iR:2087?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:72.33ms
-vless://df1017aa-1d35-4301-8266-f908c0bedc56@tun.temas-bor.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:65.06ms

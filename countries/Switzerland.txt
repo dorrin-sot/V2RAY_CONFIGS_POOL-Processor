@@ -1,2 +1,0 @@
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.41.142:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#📡🇨🇭®️Switzerland©️Zurich🅿️ping:27ms
-vless://f3a30870-eb2e-4ad7-85cb-c0e65d061d5b@172.64.94.251:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=shrill-mouse-dacd.391.workers.dev&packetEncoding=xudp#📡🇨🇭®️Switzerland©️Zurich🅿️ping:27ms

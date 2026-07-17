@@ -1,2 +1,8 @@
-vless://9a801a5f-5f1e-4e6e-921f-34f4efdc2ce7@dash2.abalonhost.com:1002?mode=gun&security=reality&encryption=none&pbk=6bmOrcP4L76pk0xC3pbIGIk46EJQNeS2hhEvnoT-VVE&fp=chrome&type=grpc&sni=play.google.com&sid=46ca6881c8e805d0#📡🇫🇷®️France©️Paris🅿️ping:67.83ms
-vless://df4bda66-59d7-4b79-abd0-0e4ee14d7c70@188.130.207.217:443?type=ws&encryption=none&path=%2Fws&host=play.google.com&security=none#📡🇫🇷®️France©️Paris🅿️ping:41.85ms
+trojan://NQ26071394@ready-kangaroo.rooster465.autos:443#📡🇫🇷®️France©️Paris🅿️ping:73.85ms
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?encryption=&flow=xtls-rprx-vision&fp=firefox&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&type=#📡🇫🇷®️France©️Paris🅿️ping:31ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#📡🇫🇷®️France©️Gravelines🅿️ping:103.2ms
+vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=&flow=xtls-rprx-vision&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&security=reality&sid=9a4c7d2f8e1b6a3c&sni=www.speedtest.net&type=#📡🇫🇷®️France©️Roubaix🅿️ping:30ms
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=&flow=xtls-rprx-vision&fp=chrome&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&security=reality&sid=42b395462da31c0e&sni=speedtest.net&type=#📡🇫🇷®️France©️Roubaix🅿️ping:35ms
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=&flow=&fp=firefox&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&security=reality&sid=05fdaa8a05be46a9&sni=www.samsung.com&type=#📡🇫🇷®️France©️Paris🅿️ping:42ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:43.64ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:41.08ms

@@ -1,2 +1,0 @@
-trojan://CF68213490@54.178.0.218:443?sni=easy-barnacle.rooster465.autos&type=tcp&fp=chrome#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:44.87ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2087?security=tls&sni=a.ssll.gay&type=ws&path=%2F#📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:44.87ms

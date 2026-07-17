@@ -1,4 +1,1 @@
-vless://2d98b3dd-a5cb-4ed8-8d79-5b598514e618@jxi8n.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:107.84ms
-vless://7dc3461c-630f-4547-82a9-08042b0daba5@31.58.76.95:8443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=HN1XHrqmB_-gDnVeXgmyPZFWAZEo4aTqlU-cIWh6hm0&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:46ms
-vless://8bba3194-4856-46d1-8319-075817d87eb1@fr1.cyphervpn.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr1.cyphervpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:138ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.61.203:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:32.23ms
+vless://3b4529e8-9c14-4541-8388-fe90d737baeb@0b889c24f5229843.mechanicir.ir:56625?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Gémenos🅿️ping:77.9ms

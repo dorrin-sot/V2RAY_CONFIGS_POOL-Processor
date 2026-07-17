@@ -1,2 +1,1 @@
-trojan://BxceQaOe@18.163.5.109:35966?allowInsecure=1&sni=t.me%2Fripaojiedian#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:216.02ms
-vless://7b102311-43fd-4e8f-877e-8090623c101d@43.198.204.35:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=vp12.cc.cd&packetEncoding=xudp&sni=vp12.cc.cd&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:227ms
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:44.84ms

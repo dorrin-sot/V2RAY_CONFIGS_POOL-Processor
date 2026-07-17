@@ -1,2 +1,1 @@
-vless://a5d6bd46-6848-4140-88a0-0ede2c9dd252@Samd.softupdl.ir:55974?security=none&encryption=none&host=Play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:78.68ms
-vless://bf20777b-4e95-4262-a813-ffb28918e56f@ninja.monak2.ir:20788?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:154.91ms
+vless://1146e350-15fb-44f7-8f33-8cc3bee34e0e@ger1.fastcodz.ir:52077?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&sid=c1fcab160b4c8bed&type=grpc#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:96.3ms

@@ -1,1 +1,1 @@
-ss://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@195.85.23.13:443?allowInsecure=1&encryption=none&host=edge-4cb23bf6.pages.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=edge-4cb23bf6.pages.dev&type=ws#📡🇨🇿®️Czechia©️Prague🅿️ping:45.34ms
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@cz.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#📡🇨🇿®️Czechia©️Prague🅿️ping:67.02ms

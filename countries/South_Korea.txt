@@ -1,0 +1,7 @@
+trojan://NQ26071394@flying-swift.rooster465.autos:443?sni=flying-swift.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:317ms
+trojan://NQ26071394@gentle-platypus.rooster465.autos:443?sni=gentle-platypus.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:329ms
+trojan://NQ26071394@guided-pelican.rooster465.autos:443?sni=guided-pelican.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:320ms
+trojan://NQ26071394@mighty-lemming.rooster465.autos:443?sni=mighty-lemming.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:339ms
+trojan://NQ26071394@sensible-mongrel.rooster465.autos:443?sni=sensible-mongrel.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:335ms
+trojan://NQ26071394@shining-prawn.rooster465.autos:443?sni=shining-prawn.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:334ms
+trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?sni=thorough-foxhound.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:376ms

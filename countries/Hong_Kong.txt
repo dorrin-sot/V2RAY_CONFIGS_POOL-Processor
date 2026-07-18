@@ -1,0 +1,4 @@
+trojan://NQ26071394@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:370ms
+trojan://NQ26071394@glad-roughy.rooster465.autos:443?sni=glad-roughy.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:301ms
+trojan://NQ26071394@heroic-cow.rooster465.autos:443?sni=heroic-cow.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:307ms
+trojan://NQ26071394@striking-cheetah.rooster465.autos:443?sni=striking-cheetah.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:303ms

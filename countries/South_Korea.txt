@@ -1,1 +1,2 @@
-vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?security=reality&type=tcp&packetEncoding=xudp&sni=amazon.com&fp=chrome&sid=7ef3a8ab2886&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&encryption=none#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:265ms
+trojan://NQ26071394@gentle-platypus.rooster465.autos:443?sni=gentle-platypus.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:368ms
+trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?sni=thorough-foxhound.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:363ms

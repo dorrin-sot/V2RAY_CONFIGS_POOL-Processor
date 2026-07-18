@@ -1,1 +1,2 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?sni=146.70.90.198&allowInsecure=1&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:46ms
+trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:56ms
+trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:152ms

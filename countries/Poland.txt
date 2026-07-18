@@ -1,1 +1,1 @@
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?path=/lib/tag/mfp&security=tls&encryption=none&insecure=0&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev#📡🇵🇱®️Poland©️Poznan (Jeżyce)🅿️ping:31.7ms
+vless://0c74ec62-91b3-4dbf-bf2f-d824e09980f0@31.56.188.87:443?security=reality&type=tcp&packetEncoding=xudp&sni=site.rumedia-cdn.com&fp=chrome&flow=xtls-rprx-vision&sid=22adce68ed227a4a&pbk=HQ0kcyQp4LLPMJNtI7kEcQZw1o5AA1YNkOMfUUrsTjU&encryption=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:41ms

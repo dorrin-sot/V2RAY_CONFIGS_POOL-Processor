@@ -1,1 +1,2 @@
-vless://b42bc5f2-d25f-4af3-9376-fdf2e3cc2419@am.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇫🇷®️France©️Paris🅿️ping:76.29ms
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?security=reality&type=raw&packetEncoding=xudp&sni=parisjetaime.com&fp=chrome&flow=xtls-rprx-vision&sid=5be8210215&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:32ms
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?security=tls&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=eventloophub.org&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:109ms

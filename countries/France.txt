@@ -1,4 +1,1 @@
-trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:42.53ms
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:42.53ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:32.12ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:107.05ms
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speedtest.net&fp=chrome&security=reality&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e#📡🇫🇷®️France©️Roubaix🅿️ping:34ms

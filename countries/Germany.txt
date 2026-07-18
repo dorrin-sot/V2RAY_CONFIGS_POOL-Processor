@@ -1,1 +1,4 @@
-vless://3b4529e8-9c14-4541-8388-fe90d737baeb@2060072484833a47.nimaghaffarzadeh.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=b7c8604c2d6dbfd6&type=grpc#📡🇩🇪®️Germany©️Hamburg (Hamburg-Mitte)🅿️ping:60.46ms
+trojan://NQ26071394@3.75.174.185:443?sni=certain-prawn.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
+trojan://NQ26071394@63.178.193.196:443?sni=quiet-condor.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
+vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&sid=d5c1b9#📡🇩🇪®️Germany©️Falkenstein🅿️ping:71.84ms
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@88.216.220.147:443?security=reality&type=grpc&mode=gun&serviceName=api.v1.StreamService&packetEncoding=xudp&sni=fetch.anotherok.com&fp=firefox&sid=335555b164619360&pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms

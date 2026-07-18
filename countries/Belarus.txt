@@ -1,0 +1,2 @@
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?security=reality&type=grpc&mode=gun&serviceName=nexusGrpc&packetEncoding=xudp&sni=morphbinerkkw.ru&fp=firefox&sid=d9662905&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&encryption=none#📡🇧🇾®️Belarus©️Minsk🅿️ping:39ms
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#📡🇧🇾®️Belarus©️Minsk🅿️ping:38.95ms

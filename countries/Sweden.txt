@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.117.88.9:1080#📡🇸🇪®️Sweden©️Stockholm🅿️ping:33ms
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@sw.srv.anti-zapret.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=sw.srv.anti-zapret.com&fp=firefox&flow=xtls-rprx-vision&sid=17faf32cb516c9cb&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY#📡🇸🇪®️Sweden©️Stockholm🅿️ping:141ms

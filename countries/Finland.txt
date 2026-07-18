@@ -1,4 +1,1 @@
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@2.27.13.17:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:37ms
-vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@a.bazardam.shop:8080?security=none&type=tcp&headerType=http&path=%2F&host=a.bazardam.shop&packetEncoding=xudp&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:146ms
-vless://419bfbd4-3097-4cef-a6b3-aebd78506ed7@fin.themesh.site:443?security=reality&type=tcp&packetEncoding=none&sni=fin.themesh.site&fp=firefox&flow=xtls-rprx-vision&sid=8ccda4d8bbe0b881&pbk=yocysajpuAGT059wla3OHEQZ8yNQt8heojZuYM2MkSY#📡🇫🇮®️Finland©️Helsinki🅿️ping:141ms
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.39.125.173:2083?security=tls&type=ws&path=%2F&host=vp24.cc.cd&packetEncoding=none&sni=vp24.cc.cd&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:141ms
+vless://7cf961a6-a806-4b87-aabb-9d0ef6a765d6@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:30ms

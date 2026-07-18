@@ -1,3 +1,2 @@
-vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&fp=chrome&spx=%2FRWewVK6AZPMKxEt&type=xhttp&sni=www.yahoo.com&sid=2aa8f922d6b8f2#📡🇫🇷®️France©️Saint-Georges-de-Noisné🅿️ping:47.19ms
-vless://df4bda66-59d7-4b79-abd0-0e4ee14d7c70@188.130.207.217:443?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fws#📡🇫🇷®️France©️Paris🅿️ping:47.23ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:43.3ms
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#📡🇫🇷®️France©️Roubaix🅿️ping:36.97ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:31.89ms

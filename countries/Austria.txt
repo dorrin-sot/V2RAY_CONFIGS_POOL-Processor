@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.146.222:1080#📡🇦🇹®️Austria©️Vienna (Liesing)🅿️ping:52.58ms
+vless://3f96d95c-0b89-4be5-99df-55d10bfb3b6b@152.53.157.50:443?security=reality&encryption=none&sni=wikipedia.org&fp=firefox&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#📡🇦🇹®️Austria©️Klagenfurt🅿️ping:31.19ms

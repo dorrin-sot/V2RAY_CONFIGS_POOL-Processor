@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#📡🇫🇷®️France©️Paris 09 Opéra🅿️ping:38.61ms
-trojan://NQ26071394@15.237.250.154:443?sni=chief-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:39ms
-trojan://NQ26071394@15.237.250.154:443?sni=chief-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:42ms
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#📡🇫🇷®️France©️Roubaix🅿️ping:41ms
+vless://a7555676-0421-4307-bdaa-220b0c2299b4@45.134.38.116:443?security=reality&encryption=none&pbk=mBi2PpqpCcfwAy3Fkq5kqrs3SlZfS23j-dTYdMO4D1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.varzesh3.com&sid=7e8f9a0b#📡🇫🇷®️France©️Val d'Oingt🅿️ping:26.62ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:79.66ms

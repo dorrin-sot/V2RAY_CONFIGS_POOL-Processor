@@ -1,6 +1,0 @@
-trojan://OD90375861@52.212.156.233:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=wired-tick.rooster465.autos#📡🇸🇨®️Seychelles©️Victoria🅿️ping:78.66ms
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@v2.gafe-rezvan.ir:2087?security=tls&type=xhttp&path=%2F&host=ch-de.sdcards.ir&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=ch-de.sdcards.ir&fp=chrome&mode=auto&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:308ms
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@v2.gafe-rezvan.ir:2087?security=tls&type=xhttp&path=%2F&host=ch-us.sdcards.ir&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=ch-us.sdcards.ir&fp=chrome&mode=auto&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:303ms
-vless://bfbc48f0-1781-4f29-9206-6325908bea10@jush.sukario.ir:443?&security=tls&fp=firefox&sni=mesh1.mashadiebod.org&type=ws&headerType=none&host=mesh1.mashadiebod.org&path=%2Fmashdi#📡🇸🇨®️Seychelles©️Victoria🅿️ping:78.66ms
-vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@45.130.125.114:80?encryption=none&type=ws&host=new-scale08-cdn.sabzi.name.ng.&path=/&packetEncoding=xudp#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.95ms
-vless://fb49cbe4-2307-4784-b6d0-b714d058725a@jush.sukario.ir:443?type=ws&security=tls&sni=mesh3.mashadiebod.org&fp=firefox&path=%2Fmashdi&host=mesh3.mashadiebod.org#📡🇸🇨®️Seychelles©️Victoria🅿️ping:78.66ms

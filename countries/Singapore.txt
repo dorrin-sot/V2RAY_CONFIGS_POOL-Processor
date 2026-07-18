@@ -1,2 +1,5 @@
-trojan://CF68213490@18.141.239.172:443?sni=star-hagfish.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:192ms
-vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?security=reality&type=tcp&packetEncoding=xudp&sni=onic.pk&fp=chrome&flow=xtls-rprx-vision&sid=b68b884d89e9a242&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&encryption=none#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:290ms
+trojan://HW85960347@aware-coyote.rooster465.autos:443?allowInsecure=0&sni=aware-coyote.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:217.5ms
+trojan://HW85960347@feasible-guppy.rooster465.autos:443?allowInsecure=0&sni=feasible-guppy.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:223.3ms
+trojan://JA96378052@epic-iguana.rooster465.autos:443?allowInsecure=0&sni=epic-iguana.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:216.37ms
+trojan://JA96378052@inspired-goshawk.rooster465.autos:443?allowInsecure=0&sni=inspired-goshawk.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:225.36ms
+trojan://JA96378052@willing-eagle.rooster465.autos:443?allowInsecure=0&sni=willing-eagle.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:238.67ms

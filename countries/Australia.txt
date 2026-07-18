@@ -1,0 +1,2 @@
+trojan://PD07395842@darling-mutt.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇦🇺®️Australia©️Alexandria🅿️ping:319.81ms
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos&path=%2f#📡🇦🇺®️Australia©️Alexandria🅿️ping:336.89ms

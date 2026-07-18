@@ -1,5 +1,0 @@
-ss://aac957fd-afaa-403e-beb4-e93cb2b1c31f@190.93.246.241:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fra.servervless.de&amp;type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:44.57ms
-trojan://MITIVPN@redis.io:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=d-e&security=tls&insecure=1&host=jDe1-2v-3.App-CloUd.IR&type=ws&allowInsecure=1&sni=de-j7o-doo.App-CloUd.IR#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:44.32ms
-vless://70f3c406-63b9-4ca9-b741-8b0c6acaa4bd@190.93.246.241:2095?path=%2F%3Fed%3D2048+%40hopev2ray&security=none&encryption=none&host=de17.vlessx.us&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:44.47ms
-vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8880?path=%2Fkouroshasli_panel&security=none&encryption=none&insecure=0&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:44.83ms
-vless://9e163d37-7514-4c12-9749-51cc91a31bf0@190.93.247.155:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:44.03ms

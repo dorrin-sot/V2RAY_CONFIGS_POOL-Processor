@@ -1,2 +1,0 @@
-ss://chacha20-ietf-poly1305:vwc9nGgP8O5KeWbyrwiUow@185.185.142.60:1080#📡🇷🇺®️Russia©️Moscow🅿️ping:65.51ms
-vless://598b823c-d3fc-4013-aae5-837f10080f7a@api.kinomir.fun:40443?security=reality&encryption=none&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=33e48a03db900ff3#📡🇷🇺®️Russia©️Moscow🅿️ping:77.85ms

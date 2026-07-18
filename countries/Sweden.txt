@@ -1,2 +1,0 @@
-vless://e4638e1b-6108-4b33-82a2-80176ef3c4e5@185.146.173.32:8080?security=none&type=ws&host=paydarloop.gostarservers.ir&path=%2F%3Fed%3D2048#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.67ms
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#📡🇸🇪®️Sweden©️Stockholm🅿️ping:26.76ms

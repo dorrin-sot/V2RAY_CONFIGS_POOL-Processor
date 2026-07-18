@@ -1,0 +1,1 @@
+vless://b42bc5f2-d25f-4af3-9376-fdf2e3cc2419@myip.check.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:88.43ms

@@ -1,0 +1,1 @@
+vless://b42bc5f2-d25f-4af3-9376-fdf2e3cc2419@dk-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#📡🇨🇭®️Switzerland©️Zurich🅿️ping:116.0ms

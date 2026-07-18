@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:63.65ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.75.172.120:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.12ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:24.76ms
-trojan://KV63147582@3.76.41.23:443?fp=chrome&sni=evolving-baboon.rooster465.autos#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.53ms
-vless://985e094b-dc55-477a-bf0d-f4dfcb118164@benitoo1.naxm.ir:2086?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=benitoo.naxm.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=benitoo.naxm.ir#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:63.65ms
-vless://d28c8147-7c3d-40ec-96e9-aec3995337dc@23.251.47.193:30011?encryption=none&fp=chrome&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.9ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:28.02ms
+vless://b42bc5f2-d25f-4af3-9376-fdf2e3cc2419@da.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Falkenstein🅿️ping:72.54ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.205.161:22222?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:61.43ms

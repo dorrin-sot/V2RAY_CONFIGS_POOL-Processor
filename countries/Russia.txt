@@ -1,2 +1,1 @@
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&type=ws&path=%2Fv1&insecure=1&allowInsecure=1#📡🇷🇺®️Russia©️St Petersburg🅿️ping:62.58ms
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?encryption=none&type=ws&insecure=1&allowInsecure=1#📡🇷🇺®️Russia©️Moscow🅿️ping:109.78ms
+vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=rf1.o4ka-internet.com&sid=5629431325884ff0#📡🇷🇺®️Russia©️Moscow🅿️ping:49.25ms

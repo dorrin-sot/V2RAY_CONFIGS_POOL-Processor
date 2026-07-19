@@ -1,3 +1,2 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.120.151:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#📡🇫🇷®️France©️Paris🅿️ping:55ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.120.151:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#📡🇫🇷®️France©️Paris🅿️ping:56ms
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.120.67:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2F%3Fed%3D2048#📡🇫🇷®️France©️Paris🅿️ping:57ms
+vless://7cb39404-9b86-4446-ae99-627997458984@real2.gogoli.xyz:53921?security=reality&pbk=1BpNelF0e6LBCHdN6BbOL4Mb--MoiWVIgcZPl-0rE0Y&fp=chrome&sni=www.yahoo.com&sid=c2&spx=%2F&encryption=none&flow=xtls-rprx-vision&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:89.26ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.116.76:8882?security=&encryption=none&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:33.47ms

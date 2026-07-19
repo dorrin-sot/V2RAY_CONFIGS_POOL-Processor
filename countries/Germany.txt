@@ -1,4 +1,4 @@
-trojan://ON38567014@square-pheasant.rooster465.autos:443?sni=square-pheasant.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:108ms
-trojan://ON38567014@summary-finch.rooster465.autos:443?sni=summary-finch.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:115ms
-vless://6d38e975-e4a1-4211-90b8-416e498f3813@92.118.190.151:5000?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.32ms
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@102.177.176.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1&security=tls&sni=cf11.evan00.dpdns.org&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:44.85ms
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22222?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.77ms
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@fetch.anotherok.com:443?encryption=none&security=reality&sni=fetch.anotherok.com&fp=firefox&pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&sid=335555b164619360&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:66.74ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22222?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.77ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.2ms

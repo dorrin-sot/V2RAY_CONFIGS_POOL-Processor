@@ -1,1 +1,0 @@
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?security=tls&type=ws&path=%2Ffog&host=2.fognet.ru&packetEncoding=xudp&sni=2.fognet.ru&fp=chrome&encryption=none#📡🇱🇻®️Latvia©️Riga🅿️ping:98ms

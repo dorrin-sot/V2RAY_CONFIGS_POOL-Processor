@@ -1,1 +1,1 @@
-vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.25ms
+vless://f4140a70-09c3-4468-a21b-30e8341a69be@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:55.41ms

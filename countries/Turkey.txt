@@ -1,2 +1,0 @@
-trojan://MiTiVPN@167.82.101.252:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Sw&security=tls&alpn=http/1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:103.39ms
-vless://f7673cd7-f025-47dc-9251-46779643923e@subb.biscuitnazari.ir:8080?path=%2Farme&security=none&encryption=none&host=md.biscuitnazari.ir&type=ws#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:103.41ms

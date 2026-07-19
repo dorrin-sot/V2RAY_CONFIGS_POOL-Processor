@@ -1,0 +1,1 @@
+vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.160:443?security=tls&type=xhttp&path=%2Findex&host=www.chinns.us.ci&packetEncoding=xudp&sni=www.chinns.us.ci&fp=chrome&mode=stream-one&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:55ms

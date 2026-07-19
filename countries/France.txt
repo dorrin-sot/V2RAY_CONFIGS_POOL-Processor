@@ -1,2 +1,6 @@
-vless://5de7e72d-5f52-40c0-be9c-15ce3b95aeff@104.238.191.140:50171?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Saint-Denis-sur-Loire🅿️ping:34.57ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22222?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:31.78ms
+trojan://ON38567014@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:201ms
+trojan://ON38567014@one-quail.rooster465.autos:443?sni=one-quail.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:118ms
+trojan://ON38567014@proud-horse.rooster465.autos:443?sni=proud-horse.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:33.25ms
+trojan://ON38567014@ready-kangaroo.rooster465.autos:443?sni=ready-kangaroo.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:100ms
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:33.25ms
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:33.25ms

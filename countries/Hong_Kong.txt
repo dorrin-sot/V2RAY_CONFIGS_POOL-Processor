@@ -1,2 +1,4 @@
-ss://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:71.57ms
-vless://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:71.57ms
+trojan://ON38567014@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:369ms
+trojan://ON38567014@natural-swan.rooster465.autos:443?sni=natural-swan.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:294ms
+trojan://ON38567014@novel-mouse.rooster465.autos:443?sni=novel-mouse.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:297ms
+trojan://ON38567014@pretty-mollusk.rooster465.autos:443?sni=pretty-mollusk.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:299ms

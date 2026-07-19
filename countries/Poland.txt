@@ -1,1 +1,0 @@
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?security=tls&type=ws&path=%2Flib%2Ftag%2Fmfp%3Dchrome&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&packetEncoding=xudp&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&fp=chrome#📡🇵🇱®️Poland©️Poznan (Jeżyce)🅿️ping:32ms

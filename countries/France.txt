@@ -1,1 +1,1 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&host=gr1.fifapes.monster&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:78.52ms
+vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=%2F&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#📡🇫🇷®️France©️Paris🅿️ping:29.48ms

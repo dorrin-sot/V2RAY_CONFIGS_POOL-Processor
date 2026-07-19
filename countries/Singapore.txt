@@ -1,6 +1,2 @@
-trojan://CF68213490@13.251.115.17:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:182ms
-trojan://NQ26071394@13.212.195.78:443?sni=evident-ant.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:182ms
-trojan://NQ26071394@18.143.175.129:443?sni=organic-locust.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:180ms
-vless://b847f2ff-091f-4396-a8d0-d2fe3bfaa0bf@shalana.xyz:443?fp=chrome&insecure=1&headerType=none&alpn=h2%2Chttp%2F1.1&sni=m.youtube.com&allowInsecure=1&type=tcp&security=tls&encryption=none#📡🇸🇬®️Singapore©️Boon Lay🅿️ping:323.44ms
-vless://b847f2ff-091f-4396-a8d0-d2fe3bfaa0bf@shalana.xyz:443?insecure=1&fp=chrome&allowInsecure=1&type=tcp&alpn=h2%2Chttp%2F1.1&headerType=none&encryption=none&sni=m.tiktok.net&security=tls#📡🇸🇬®️Singapore©️Boon Lay🅿️ping:323.44ms
-vless://b847f2ff-091f-4396-a8d0-d2fe3bfaa0bf@shalana.xyz:443?security=tls&insecure=1&sni=aka.ms&alpn=h2%2Chttp%2F1.1&type=tcp&allowInsecure=1&fp=chrome&headerType=none&encryption=none#📡🇸🇬®️Singapore©️Boon Lay🅿️ping:323.44ms
+trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:241.67ms
+trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:236.81ms

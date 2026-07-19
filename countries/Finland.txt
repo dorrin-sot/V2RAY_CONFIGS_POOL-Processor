@@ -1,2 +1,2 @@
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@91.193.59.77:443?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=cf11.evan00.dpdns.org&ed=2560&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:78.52ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:78.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VEcwbU9VNVJJajdIMUR3U1FEeTlKMFZUZXhsc0xKVg==@bot.sobhanpor.ir:1080#📡🇫🇮®️Finland©️Helsinki🅿️ping:64.87ms
+vless://b8bdf08d-aa89-4fd5-8083-22f38e2cef17@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:64.75ms

@@ -1,7 +1,0 @@
-trojan://CF68213490@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:294.61ms
-trojan://CF68213490@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:291.33ms
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?sni=devoted-zebra.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:366.87ms
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:299.81ms
-trojan://CF68213490@growing-ram.rooster465.autos:443?sni=growing-ram.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:296.33ms
-trojan://CF68213490@smooth-lark.rooster465.autos:443?sni=smooth-lark.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Incheon🅿️ping:300.06ms
-vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@www.iplocation.net:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=round-term-947c.41-332.workers.dev&packetEncoding=xudp#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:291.33ms

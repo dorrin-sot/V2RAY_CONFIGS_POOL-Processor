@@ -1,1 +1,2 @@
-vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=%2F&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#📡🇫🇷®️France©️Paris🅿️ping:29.48ms
+vless://5de7e72d-5f52-40c0-be9c-15ce3b95aeff@104.238.191.140:50171?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Saint-Denis-sur-Loire🅿️ping:34.57ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22222?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:31.78ms

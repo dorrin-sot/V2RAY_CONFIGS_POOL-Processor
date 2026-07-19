@@ -1,5 +1,2 @@
-trojan://KV63147582@enabling-asp.rooster465.autos:443?sni=enabling-asp.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:92ms
-vless://8afb91d5-76bd-11f1-bd1f-525400b0a67a@172.86.66.56:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&security=reality&sni=www.akamai.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:28.83ms
-vless://8bba3194-4856-46d1-8319-075817d87eb1@ge3.cyphervpn.pro:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=ge3.cyphervpn.pro&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:59.99ms
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@31.25.11.159:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qm-zp2dNT8dDO9KWbfQrxN3IKT0JlNZkWT53aaCKfxM&security=reality&sid=5e3ab3ab228625&sni=zaplio-gook.ru&type=tcp#📡🇩🇪®️Germany©️Aachen (Aachen-Mitte)🅿️ping:24.95ms
-vless://a38a2076-c2bf-4786-b39d-618e669e12ce@91.107.179.104:20674?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:30.26ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.14ms
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#📡🇩🇪®️Germany©️Falkenstein🅿️ping:29.78ms

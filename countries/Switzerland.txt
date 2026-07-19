@@ -1,0 +1,1 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@140.238.214.247:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#📡🇨🇭®️Switzerland©️Oberengstringen🅿️ping:46ms

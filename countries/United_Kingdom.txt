@@ -1,2 +1,2 @@
-trojan://2c9fc6cc-3834-4e3d-a4e5-1b1a63929d0f@193.163.85.39:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvpn&sni=platyscelis.duckdns.org&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:26.86ms
-vless://3067642d-02fa-47e9-a6a2-fb5dda565969@45.86.159.138:2085?encryption=none&security=none&serviceName=vless&type=grpc#📡🇬🇧®️United Kingdom©️London🅿️ping:35.61ms
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.121.254:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2F%3Fed%3D2048#📡🇬🇧®️United Kingdom©️London🅿️ping:57ms
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=main.oneoker.com&sid=a9b0c08836bad3c5#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:89.67ms

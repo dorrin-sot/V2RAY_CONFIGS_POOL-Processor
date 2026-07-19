@@ -1,3 +1,6 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#📡🇸🇬®️Singapore©️Singapore🅿️ping:178.64ms
-ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888#📡🇸🇬®️Singapore©️Singapore🅿️ping:214.8ms
-vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?type=tcp&encryption=none&security=none#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:26.55ms
+trojan://CF68213490@brief-warthog.rooster465.autos:443?sni=brief-warthog.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:258ms
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:267ms
+trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:261ms
+trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:278ms
+trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:267ms
+trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:278ms

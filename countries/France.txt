@@ -1,3 +1,1 @@
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:72.83ms
-vless://935501f2-caa1-46e4-8e73-b6f9d4320849@fr.motorbazan.com:2087?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Laroque-des-Albères🅿️ping:78.81ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22222?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:43.24ms
+vless://b9a413cd-2bfd-45b5-ac4a-4c0d067da613@3o24i.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇫🇷®️France©️Paris🅿️ping:107.47ms

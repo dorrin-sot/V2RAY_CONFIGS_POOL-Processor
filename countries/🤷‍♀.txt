@@ -1,2 +1,0 @@
-trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&type=tcp&fp=chrome#📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.06ms
-vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@0.0.0.0:443?security=none&encryption=none&headerType=http&type=tcp#📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.06ms

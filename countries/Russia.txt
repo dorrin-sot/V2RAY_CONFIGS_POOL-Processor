@@ -1,0 +1,2 @@
+vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@media2.hexogate.net:80?security=none&encryption=none&host=account.xiaomi.com&headerType=http&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:82.1ms
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2fp%3Dchrome&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&fp=qq&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#📡🇷🇺®️Russia©️Moscow🅿️ping:44.6ms

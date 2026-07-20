@@ -1,1 +1,1 @@
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.229.113:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#📡🇪🇪®️Estonia©️Tallinn🅿️ping:97.31ms
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=9PFK7qve14puhWYmFyNGpmDVPEyUjwAsYHhgH3Y1HmY&amp;security=reality&amp;sni=batman.jokertv.eu&amp;type=tcp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:38ms

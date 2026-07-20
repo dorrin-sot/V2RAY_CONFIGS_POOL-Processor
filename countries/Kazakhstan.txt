@@ -1,1 +1,1 @@
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:87.86ms
+vless://b18edde3-12d1-4e5d-820e-5e13a89e27a5@194.76.18.255:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=ssl.fastly.net.cafearen.ir&mode=auto#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:44.24ms

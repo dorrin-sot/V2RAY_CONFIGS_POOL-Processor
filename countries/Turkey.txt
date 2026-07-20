@@ -1,1 +1,2 @@
-vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@media1.hexogate.net:443?security=reality&encryption=none&pbk=MMe0uBnEJrn2lbaXx92GrNxIbQ7Cv9ICH53k3lRgHzg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c83a7fdba5f630f8#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:176ms
+vless://ba613b9f-712b-4411-804b-9687cb92dbff@ohvni.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:90.6ms
+vless://eb7b6567-4115-4017-9c50-f5d074360a7f@pes.mamadhpbot.ir:2662?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:170.8ms

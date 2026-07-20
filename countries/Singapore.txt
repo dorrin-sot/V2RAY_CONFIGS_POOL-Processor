@@ -1,5 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.8.211.14:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore🅿️ping:45ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#📡🇸🇬®️Singapore©️Singapore🅿️ping:45ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#📡🇸🇬®️Singapore©️Singapore🅿️ping:45ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#📡🇸🇬®️Singapore©️Singapore🅿️ping:45ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#📡🇸🇬®️Singapore©️Singapore🅿️ping:45ms
+vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F29099%2Fapi1&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:95.53ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.222.164:22222?security=&encryption=none&headerType=&type=tcp#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:95.53ms

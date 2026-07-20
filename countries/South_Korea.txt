@@ -1,2 +1,1 @@
-trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&sni=clear-heron.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:293.67ms
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:300.46ms
+trojan://IQ68037294@whole-perch.rooster465.autos:443?sni=whole-perch.rooster465.autos&allowInsecure=1&type=tcp#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:330ms

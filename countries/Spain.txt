@@ -1,0 +1,1 @@
+vless://a27ca5ff-31c9-41b6-b85b-2c15b8d5feb5@sp.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0#📡🇪🇸®️Spain©️Badajoz🅿️ping:190.07ms

@@ -1,6 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#📡🇮🇪®️Ireland©️Dublin🅿️ping:146ms
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#📡🇮🇪®️Ireland©️Dublin🅿️ping:1380ms
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#📡🇮🇪®️Ireland©️Dublin🅿️ping:146ms
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#📡🇮🇪®️Ireland©️Dublin🅿️ping:122ms
-vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#📡🇮🇪®️Ireland©️Dublin🅿️ping:45.85ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇪®️Ireland©️Dublin🅿️ping:1380ms
+trojan://IQ68037294@moving-wren.rooster465.autos:443?sni=moving-wren.rooster465.autos&allowInsecure=1&type=tcp#📡🇮🇪®️Ireland©️Dublin🅿️ping:129ms

@@ -1,2 +1,0 @@
-trojan://945e95adf7115ef@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2FvyIX7baeTQmH2hI&type=tcp&sni=google.com&sid=019dd851#📡🇨🇭®️Switzerland©️Geneva🅿️ping:73.78ms
-vless://6471088f-de4c-4d49-aa22-6539693b9edf@fardad-ch.lorluma.ir:6800?sni=play.google.com&fp=qq&type=tcp&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&encryption=none#📡🇨🇭®️Switzerland©️Zurich🅿️ping:85.94ms

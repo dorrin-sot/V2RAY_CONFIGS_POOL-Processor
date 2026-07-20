@@ -1,1 +1,3 @@
-trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&sni=faithful-clam.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:346.0ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:265ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:263ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:264ms

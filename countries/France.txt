@@ -1,1 +1,1 @@
-vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=speedtest.net&fp=chrome&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&allowinsecure=0&type=tcp&headerType=none#📡🇫🇷®️France©️Roubaix🅿️ping:35.05ms
+vless://136119d13dfa4fb39ce9b6fe1f09fa54@88.214.24.226:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=champagne.fr&pbk=GjPdrxi_nF1nBtzdXBFLR-wuhdxOkRTEsLpaLRcRgVM&sid=aabbccdd&fp=random#📡🇫🇷®️France©️Paris🅿️ping:33ms

@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=/&security=none&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:46.33ms
+vless://162539ad-3df4-429f-8e71-ecdb7023b786@138.124.255.17:443?security=reality&encryption=none&pbk=uMcgt-eA7VjRScTnHtKhrYybcqw1Es-TRaQ6KJYJXS4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru-c-2.minzt.su#📡🇷🇺®️Russia©️Moscow🅿️ping:43ms

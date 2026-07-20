@@ -1,0 +1,2 @@
+vless://For-Freedom@lol.ps:443?path=X4azadi?ed=1024&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=apps.x4azadi.com&amp;fp=chrome&amp;type=ws&amp;sni…#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:168ms
+vless://For-Freedom@lol.ps:443?path=X4azadi?ed=1024&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=apps.x4azadi.com&amp;fp=chrome&amp;type=ws&amp;sni…#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:310ms

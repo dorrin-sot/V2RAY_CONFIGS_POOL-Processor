@@ -1,1 +1,1 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.33.3.222:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#📡🇯🇵®️Japan©️Minoh (Saitoaokita)🅿️ping:268.85ms
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:249ms

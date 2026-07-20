@@ -1,1 +1,2 @@
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#📡🇰🇷®️South Korea©️Incheon🅿️ping:251ms
+trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&sni=clear-heron.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:293.67ms
+trojan://CF68213490@diverse-thrush.rooster465.autos:443?allowInsecure=0&sni=diverse-thrush.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:300.46ms

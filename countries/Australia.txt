@@ -1,2 +1,1 @@
-trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#📡🇦🇺®️Australia©️Alexandria🅿️ping:316.18ms
-vless://bbea7c42-aec2-42b4-8bec-9b9c4afea03d@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#📡🇦🇺®️Australia©️Sydney🅿️ping:44.06ms
+trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp#📡🇦🇺®️Australia©️Alexandria🅿️ping:349ms

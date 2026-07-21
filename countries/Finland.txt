@@ -1,2 +1,1 @@
-vless://1b611f89-c650-492b-89ce-71926f9ff1f8@tr.sv.temas-bor.ir:22028?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:76.51ms
-vless://1b611f89-c650-492b-89ce-71926f9ff1f8@tun.temas-bor.ir:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:71.72ms
+vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&type=tcp&packetEncoding=xudp&sni=site.rumedia-cdn.com&fp=qq&flow=xtls-rprx-vision&sid=b08c5eb124a5877e&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:28ms

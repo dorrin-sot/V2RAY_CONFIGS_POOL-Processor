@@ -1,4 +1,5 @@
-trojan://CF68213490@sincere-crappie.rooster465.autos:443?allowInsecure=0&sni=sincere-crappie.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:324.63ms
-trojan://CF68213490@skilled-lioness.rooster465.autos:443?allowInsecure=0&sni=skilled-lioness.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:303.53ms
-trojan://CF68213490@smooth-hornet.rooster465.autos:443?allowInsecure=0&sni=smooth-hornet.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:307.56ms
-trojan://CF68213490@star-moray.rooster465.autos:443?allowInsecure=0&sni=star-moray.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:306.8ms
+hysteria2://G0bFosyMJiP4wHB4TggU0j3j@45.76.202.45:8443?insecure=1&sni=bing.com#📡🇯🇵®️Japan©️Shinagawa🅿️ping:274ms
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:258ms
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250ms
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250ms
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@italy.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250ms

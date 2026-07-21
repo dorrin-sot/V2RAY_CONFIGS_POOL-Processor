@@ -1,9 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:102.32ms
-trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:45ms
-vless://0cc0dfd0-597a-44aa-a6ba-25a3f8be1dc6@169.40.32.59:37275?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25.55ms
-vless://157e4763-6153-4798-9b25-c53cbc1b5b01@speed2.cho4.ir:2083?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=QcTpC1xvXM6yAtE-rLbdIl41ULWDz3O7a8QpN5ESZQI&sid=88a2aef507a4feb3#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:102.32ms
-vless://157e4763-6153-4798-9b25-c53cbc1b5b01@speed2.cho4.ir:2083?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=QcTpC1xvXM6yAtE-rLbdIl41ULWDz3O7a8QpN5ESZQI&sid=88a2aef507a4feb3#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:112.07ms
-vless://1a0b89a6-6ff5-46e8-9f86-cb95a65c854e@64.188.79.72:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&security=reality&sid=823257b7b9ab9d02&sni=myzh.pro&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27ms
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:178.97ms
-vless://4e8cd0d9-b7da-417c-8953-d04c6c57a6c1@cd7bgmsi0a6d.dop69.com:24266?type=ws&path=/&host=&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:70.03ms
-vless://dcd7f9d7-ed99-492b-88dd-ba1b78941440@tun.temas-bor.ir:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:63.51ms
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:210.12ms
+vless://4e8cd0d9-b7da-417c-8953-d04c6c57a6c1@cd7bgmsi0a6d.dop69.com:24266?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:75.22ms
+vless://78a1da80-7383-4ff6-b0ff-b6626b2f72cd@134.122.93.83:440?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.68ms
+vless://a56e597e-02cb-47f2-9b30-32d65a2fd749@185.110.189.52:8080?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg (West)🅿️ping:31.53ms
+vless://b0aacce6-eacf-41b3-9ab1-d16175d3dce9@75.119.151.16:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=de.samanehha.io&mode=stream-one&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:48.84ms
+vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.77ms
+vless://dcd7f9d7-ed99-492b-88dd-ba1b78941440@tun.temas-bor.ir:2087?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:164.18ms
+vless://fcf4db22-3134-452f-a5d2-107f04afc89c@gr113.allenshop66248.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:71.74ms

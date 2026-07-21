@@ -1,4 +1,0 @@
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.51:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms
-vless://bfbc48f0-1781-4f29-9206-6325908bea10@45.130.125.239:443?encryption=none&fp=firefox&host=mesh1.mashadiebod.org&path=/mashdi&security=tls&sni=mesh1.mashadiebod.org&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.7ms
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.138:2053?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.96ms
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.41ms

@@ -1,0 +1,4 @@
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.33.19.136:2053?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#📡🇦🇷®️Argentina©️San Justo🅿️ping:236.5ms
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.216.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#📡🇦🇷®️Argentina©️Buenos Aires🅿️ping:242.94ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#📡🇦🇷®️Argentina©️Adrogué🅿️ping:253.72ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#📡🇦🇷®️Argentina©️Adrogué🅿️ping:253.72ms

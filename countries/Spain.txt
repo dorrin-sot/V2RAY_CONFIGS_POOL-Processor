@@ -1,0 +1,1 @@
+vless://44aed101-147c-4f97-bd46-7e4c301595fa@FasTer.guard-net.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&fm=%7B%22quicParams%22:%7B%22congestion%22:%22bbr%22%7D%7D&sni=status.play.google.com&fp=ios&fragment=120-150,2-4,tlshello&pbk=3W2-Wo42s2L9YHB_8SQye_Ya0CPjceCvBN9DyjwE4SY&sid=989a2bda6e795fc6#📡🇪🇸®️Spain©️Navalcarnero🅿️ping:71.48ms

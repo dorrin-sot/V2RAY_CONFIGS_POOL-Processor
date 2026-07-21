@@ -1,0 +1,3 @@
+trojan://NQ26071394@3.255.100.31:443#📡🇮🇪®️Ireland©️Dublin🅿️ping:43.74ms
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452#📡🇮🇪®️Ireland©️Dublin🅿️ping:46.37ms
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#📡🇮🇪®️Ireland©️Dublin🅿️ping:46ms

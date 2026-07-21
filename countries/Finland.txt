@@ -1,4 +1,1 @@
-trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.38ms
-vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&sni=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.38ms
-vless://91883854-c0e7-43ec-8113-69adaa466805@rky19.pastilbastani.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:89.69ms
-vless://91883854-c0e7-43ec-8113-69adaa466805@rky19.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:89.69ms
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:24.74ms

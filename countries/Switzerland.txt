@@ -1,0 +1,1 @@
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@83.228.210.39:443?type=tcp&encryption=none&security=none#📡🇨🇭®️Switzerland©️Geneva🅿️ping:51.44ms

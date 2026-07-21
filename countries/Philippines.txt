@@ -1,2 +1,0 @@
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.46:443?type=tcp&encryption=none&security=none#📡🇵🇭®️Philippines©️Manila🅿️ping:66.26ms
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.48:443?type=tcp&encryption=none&security=none#📡🇵🇭®️Philippines©️Manila🅿️ping:61.45ms

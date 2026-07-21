@@ -1,6 +1,6 @@
-trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.7ms
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&security=reality&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&sid=c3e5d2cd032ef410#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38ms
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&security=reality&sid=c3e5d2cd032ef410&sni=plugins.jetbrains.com&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:39ms
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?security=reality&encryption=none&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&sid=c3e5d2cd032ef410#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:37ms
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?security=reality&encryption=none&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&sid=c3e5d2cd032ef410#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38ms
-vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?security=reality&encryption=none&pbk=0pXshPAXJ2f2weevsuwKGT5o8uhfYDaZKAdmxmC_4QQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=plugins.jetbrains.com&sid=c3e5d2cd032ef410#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30ms

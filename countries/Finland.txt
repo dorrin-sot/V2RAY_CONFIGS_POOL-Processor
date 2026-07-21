@@ -1,2 +1,2 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:116.35ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:116.35ms
+vless://1b611f89-c650-492b-89ce-71926f9ff1f8@tr.sv.temas-bor.ir:22028?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:76.51ms
+vless://1b611f89-c650-492b-89ce-71926f9ff1f8@tun.temas-bor.ir:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:71.72ms

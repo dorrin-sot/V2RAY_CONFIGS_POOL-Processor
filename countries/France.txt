@@ -1,0 +1,2 @@
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?security=tls&type=ws&path=%2Fsg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#📡🇫🇷®️France©️Roubaix🅿️ping:34ms
+vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=firefox&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#📡🇫🇷®️France©️Roubaix🅿️ping:57.93ms

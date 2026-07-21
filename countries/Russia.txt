@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime51.workers.dev&path=%2F#📡🇷🇺®️Russia©️Kaliningrad🅿️ping:45.42ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime51.workers.dev&packetEncoding=xudp&encryption=none#📡🇷🇺®️Russia©️Kaliningrad🅿️ping:46ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&packetEncoding=xudp&encryption=none#📡🇷🇺®️Russia©️Kaliningrad🅿️ping:45.42ms
+vless://6304afe5-33b5-47ca-9817-d2823f56334f@194.55.239.175:9445?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#📡🇷🇺®️Russia©️Sudak🅿️ping:61.1ms
+vless://6304afe5-33b5-47ca-9817-d2823f56334f@194.55.239.175:9445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#📡🇷🇺®️Russia©️Sudak🅿️ping:61.1ms

@@ -1,0 +1,1 @@
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.7ms

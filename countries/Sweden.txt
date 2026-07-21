@@ -1,5 +1,1 @@
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45ms
-vless://459447f6-3440-48f5-a0fa-de9c22d8d613@190.93.247.56:2082?path=/?ed=2560&security=none&encryption=none&host=us1.LemOeX.blog&type=httpupgrade#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44ms
-vless://DIGIV2rAY@185.146.173.93:2095/?type=ws&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44ms
-vless://a27ca5ff-31c9-41b6-b85b-2c15b8d5feb5@94dfeedbd5ee0690.mbcloudy.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=789d7b5ed35fef93#📡🇸🇪®️Sweden©️Stockholm🅿️ping:60.13ms
-vless://a27ca5ff-31c9-41b6-b85b-2c15b8d5feb5@suop1.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=6115f6a9eb8467c6#📡🇸🇪®️Sweden©️Stockholm🅿️ping:68.2ms
+vless://748f9035-775e-4b78-ae55-dfc54d6d51b5@185.146.173.85:80?type=ws&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=/Daily_Configs-netmaster?ed=2048#📡🇸🇪®️Sweden©️Stockholm🅿️ping:46ms

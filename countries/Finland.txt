@@ -1,4 +1,0 @@
-vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2083?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:22ms
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cbfe#📡🇫🇮®️Finland©️Helsinki🅿️ping:25ms
-vless://9d66932d-9eec-47de-972a-e98dee7231c1@fanland.lorqina.ir:8880?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&sid=69d1&spx=/uS5CSktTYiyCyav&flow=xtls-rprx-vision#📡🇫🇮®️Finland©️Helsinki🅿️ping:185.82ms
-vless://b51b1aa7-6a66-4998-aeb3-d7d8bb2597bb@65.109.183.83:59849?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.91ms

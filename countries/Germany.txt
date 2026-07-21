@@ -1,5 +1,1 @@
-trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?sni=ger.wafer.fun&type=ws&path=%2FChGF4VS2wmOOrQCXl1&alpn=http%2F1.1&fp=chrome#📡🇩🇪®️Germany©️Nuremberg🅿️ping:132ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@181.214.1.222:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:45ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22222?security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.59ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?security=&encryption=none&headerType=&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.55ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22223?security=&encryption=none&headerType=&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.11ms
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?security=reality&encryption=none&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=backend.xwhiteness.site#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:213ms

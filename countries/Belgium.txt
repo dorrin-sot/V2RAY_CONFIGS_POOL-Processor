@@ -1,1 +1,0 @@
-vless://a27ca5ff-31c9-41b6-b85b-2c15b8d5feb5@cdn1.portalcode.ir:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=4488dae1a85e1d52.rainzone.ir&mode=auto&sni=4488dae1a85e1d52.rainzone.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#📡🇧🇪®️Belgium©️Brussels (Brussels Capital)🅿️ping:75.78ms

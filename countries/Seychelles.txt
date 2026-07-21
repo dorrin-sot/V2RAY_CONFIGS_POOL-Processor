@@ -1,0 +1,6 @@
+trojan://humanity@45.130.125.160:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.207:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.207:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.207:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#📡🇸🇨®️Seychelles©️Victoria🅿️ping:46ms
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.51:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#📡🇸🇨®️Seychelles©️Victoria🅿️ping:44ms
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.51:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#📡🇸🇨®️Seychelles©️Victoria🅿️ping:45ms

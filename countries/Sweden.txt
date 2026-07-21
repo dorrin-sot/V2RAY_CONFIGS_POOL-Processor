@@ -1,1 +1,1 @@
-vless://ddf34d13-d411-4e60-9a33-0b3b7d439705@90dde47a7ab24d1e.mbcloudy.ir:56625?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:69.89ms
+vless://2ea8890c-05ba-4c56-beba-b689796475cb@swser1.mbcloudy.ir:50567?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=29a833ab20778306&allowinsecure=0&type=tcp&headerType=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:59.6ms

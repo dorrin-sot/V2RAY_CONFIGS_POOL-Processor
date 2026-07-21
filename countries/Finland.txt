@@ -1,1 +1,1 @@
-vless://37182b68-6422-4414-9518-7df6776c0150@fn2-unlimited.pavilof.ir:1020?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:54.95ms
+vless://c33b6b74-1923-4ba3-bc2c-4e4bf9d8f2b2@65.21.158.19:15013?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.86ms

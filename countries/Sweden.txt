@@ -1,2 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22224?encryption=none&security=none&type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.15ms
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:26.64ms
+vless://06e811a4-8f6f-41fe-a44a-9052209c104c@185.146.173.29:8880?security=none&type=httpupgrade&host=DrVesta.cleanmobile.wWw.speedtest.Net.Greate.mObile.1.2.3.4.dashboard.g-G.G-g.a-a.a-a.xn--qoqp1di0o5k1b.cOm.&path=/www.speedtest.net?ed=8880#📡🇸🇪®️Sweden©️Stockholm🅿️ping:44.93ms

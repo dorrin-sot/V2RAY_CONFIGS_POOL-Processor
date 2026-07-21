@@ -1,3 +1,4 @@
-vless://1b611f89-c650-492b-89ce-71926f9ff1f8@us.sv.temas-bor.ir:22027?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:73.92ms
-vless://5f7628b5-be67-4ff7-885b-33fb9eb8c8a4@89.167.1.199:2087?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.22ms
-vless://b8069ac2-041f-432d-90d3-5af2139ec2da@de.sv.temas-bor.ir:22006?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:58.4ms
+trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.38ms
+vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&sni=/#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.38ms
+vless://91883854-c0e7-43ec-8113-69adaa466805@rky19.pastilbastani.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:89.69ms
+vless://91883854-c0e7-43ec-8113-69adaa466805@rky19.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:89.69ms

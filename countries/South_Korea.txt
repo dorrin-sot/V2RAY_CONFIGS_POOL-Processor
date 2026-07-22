@@ -1,2 +1,1 @@
-trojan://CF68213490@charming-puma.rooster465.autos:443?allowInsecure=0&sni=charming-puma.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:303.09ms
-vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=none&encryption=none&host=holy-violet-858e.471.workers.dev&type=ws#📡🇰🇷®️South Korea©️Incheon🅿️ping:303.09ms
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@141.164.45.187:8008#📡🇰🇷®️South Korea©️Seoul🅿️ping:268.69ms

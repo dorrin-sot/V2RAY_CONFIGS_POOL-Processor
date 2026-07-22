@@ -1,6 +1,0 @@
-ss://b98edf3e-77ab-457d-9228-4b7a3cfb5ac0@de.melov2ray.shop:443?path=%2Fmelov2ray&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=De.Melov2ray.Shop#📡🇦🇺®️Australia©️Beaumaris🅿️ping:581ms
-trojan://OD90375861@82.117.225.123:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:269ms
-trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&type=raw&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:346ms
-trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:373ms
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:346ms
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&type=raw&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:388ms

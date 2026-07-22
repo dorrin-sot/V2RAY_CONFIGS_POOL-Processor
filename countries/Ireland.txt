@@ -1,2 +1,0 @@
-trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:42ms
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&type=raw&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:159ms

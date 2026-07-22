@@ -1,0 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.231.123.117:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%29ca5bef9:175503#📡🇯🇵®️Japan©️Shibuya City🅿️ping:267.28ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.231.29.220:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%2916a89ef:154955#📡🇯🇵®️Japan©️Shibuya City🅿️ping:260.06ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.176.215.63:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%29e2322f9:87491#📡🇯🇵®️Japan©️Shibuya City🅿️ping:264.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3.112.199.47:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%29ca5bef9:175503#📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.32ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.168.190.90:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%29e2322f9:87491#📡🇯🇵®️Japan©️Shibuya City🅿️ping:262.25ms
+trojan://IQ68037294@guided-warthog.rooster465.autos:443?allowInsecure=1&sni=guided-warthog.rooster465.autos#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:359ms
+trojan://IQ68037294@pleased-lobster.rooster465.autos:443?allowInsecure=1&sni=pleased-lobster.rooster465.autos#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:331ms

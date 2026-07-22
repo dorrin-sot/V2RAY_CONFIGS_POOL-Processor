@@ -1,0 +1,1 @@
+vless://be2bcd98-0ecc-000a-aa1a-b453a1878393@45.145.6.247:443?sni=s3-fi-1.rucdn777.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇱🇻®️Latvia©️Riga🅿️ping:54ms

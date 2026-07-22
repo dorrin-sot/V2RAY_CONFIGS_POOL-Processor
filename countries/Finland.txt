@@ -1,0 +1,1 @@
+vless://d55b396c-0010-4afe-8bbf-fae21808abb5@f35.england-shoes.shop:8080?path=/imi&security=none&encryption=mlkem768x25519plus.native.0rtt.k3rBLf_MvdMnaFy_MiGYaPmEu3z8R487OiM-sq08yHo&host=play.google.com&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:65.56ms

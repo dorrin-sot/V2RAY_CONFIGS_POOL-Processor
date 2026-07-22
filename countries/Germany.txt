@@ -1,4 +1,2 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.72ms
-vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-up.perecbass.ru&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&sid=8c4d9e1f&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:28.92ms
-vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?encryption=none&security=reality&sni=www.github.com&fp=qq&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&flow=xtls-rprx-vision#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27ms
-vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@94.249.225.41:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=ssl.cougarboardsstore.store&amp;fp=qq&amp;pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&amp;sid&amp;packetEncoding=xudp#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:28ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.159.53.205:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24ms
+vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?allowInsecure=0&sni=pol1.hatvpn.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#📡🇩🇪®️Germany©️Hamburg🅿️ping:29ms

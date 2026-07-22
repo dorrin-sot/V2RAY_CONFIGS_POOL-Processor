@@ -1,2 +1,1 @@
-vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:35.49ms
-vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?security=tls&type=ws&path=%2F&host=edgetunnel-cmliu.lyqnihao.dpdns.org&packetEncoding=none&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&fp=chrome#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:45ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#📡🇬🇧®️United Kingdom©️London🅿️ping:37ms

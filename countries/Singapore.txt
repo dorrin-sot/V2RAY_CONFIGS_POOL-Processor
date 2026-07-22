@@ -1,4 +1,1 @@
-trojan://WG39087154@endless-kiwi.rooster465.autos:443?sni=endless-kiwi.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:259ms
-trojan://WG39087154@eternal-gazelle.rooster465.autos:443?sni=eternal-gazelle.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Hougang)🅿️ping:284ms
-trojan://WG39087154@fair-reptile.rooster465.autos:443?sni=fair-reptile.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:266ms
-trojan://WG39087154@still-mastodon.rooster465.autos:443?sni=still-mastodon.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Hougang)🅿️ping:254ms
+ss://YWVzLTI1Ni1nY206SWV2Tm9HTlFKVjZM@194.87.10.37:8388#📡🇸🇬®️Singapore©️Singapore🅿️ping:188.77ms

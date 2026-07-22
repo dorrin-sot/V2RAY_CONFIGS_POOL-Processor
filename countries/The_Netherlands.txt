@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.74ms
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&type=ws&path=/in-pdr#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:45ms
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nlx.opngtr.nl:443?sni=nlx.savesafe.space&fp=firefox&security=tls#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:117ms
-vless://64beb03f-886e-48be-9bdf-2fa68156fd74@us3.boboly.ir:43780?sni=ourworldindata.org&fp=chrome&security=tls#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:104ms
-vless://6fa1b8eb-56f4-4f41-97dc-e0185bcfc575@sentinel.unlimitedprojects.fun:443?sni=sentinel.unlimitedprojects.fun&alpn=h2%2Chttp/1.1&fp=firefox&security=tls#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:148ms
+ss://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:121ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:39ms
+trojan://PD07395842@pro-crane.rooster465.autos:443?sni=pro-crane.rooster465.autos&type=tcp&fp=chrome#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:109ms
+trojan://XG59623478@89.39.70.159:443?sni=upward-hedgehog.rooster465.autos&type=tcp&fp=chrome#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:35ms
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl.getsavesafe.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl.savesafe.space&fp=firefox&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b647&pbk=6QnP4rZtnZt6XIfn246ODggMjbXbFPryxaF2whFhKGU&encryption=none#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:141ms

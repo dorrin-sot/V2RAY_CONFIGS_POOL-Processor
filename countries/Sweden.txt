@@ -1,0 +1,2 @@
+vless://2ea8890c-05ba-4c56-beba-b689796475cb@swser1.mbcloudy.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=29a833ab20778306#📡🇸🇪®️Sweden©️Stockholm🅿️ping:144ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45ms

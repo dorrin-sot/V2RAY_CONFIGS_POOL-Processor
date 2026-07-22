@@ -1,2 +1,0 @@
-vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:34.98ms
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:42.72ms

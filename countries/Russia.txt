@@ -1,1 +1,3 @@
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?path=%2F&security=tls&encryption=none&type=ws&sni=va.ylkszy.eu.org#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:45.5ms
+vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.46.89:443?security=reality&encryption=none&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.tracker.yandex.net&sid=bb6c8a1e7c#📡🇷🇺®️Russia©️Moscow🅿️ping:51.0ms
+vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.69.118:443?security=reality&encryption=none&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.tracker.yandex.net&sid=bb6c8a1e7c#📡🇷🇺®️Russia©️Moscow🅿️ping:55.03ms
+vless://ad3a6251-3aee-4cab-9244-77bdc9233e3c@tw03.kinomir.fun:40443?security=reality&encryption=none&pbk=lE58e_UJlvF4EsejAljEtyFwaVhLLwEavnBf47YeoHM&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=5acd#📡🇷🇺®️Russia©️Moscow🅿️ping:76.11ms

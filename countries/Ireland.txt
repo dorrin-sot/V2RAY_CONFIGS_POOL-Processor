@@ -1,1 +1,3 @@
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&type=raw&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:110ms
+trojan://WG39087154@fun-labrador.rooster465.autos:443?sni=fun-labrador.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:144ms
+trojan://WG39087154@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:144ms
+trojan://WG39087154@moving-wren.rooster465.autos:443?sni=moving-wren.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:119ms

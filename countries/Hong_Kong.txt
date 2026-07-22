@@ -1,3 +1,9 @@
-trojan://HW85960347@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:306ms
-trojan://IQ68037294@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:297ms
-trojan://PD07395842@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:279ms
+trojan://WG39087154@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:341ms
+trojan://WG39087154@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:299ms
+trojan://WG39087154@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:299ms
+trojan://WG39087154@full-ox.rooster465.autos:443?sni=full-ox.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:327ms
+trojan://WG39087154@normal-elk.rooster465.autos:443?sni=normal-elk.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:302ms
+trojan://WG39087154@novel-mouse.rooster465.autos:443?sni=novel-mouse.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:290ms
+trojan://WG39087154@polite-martin.rooster465.autos:443?sni=polite-martin.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:315ms
+trojan://WG39087154@saved-mudfish.rooster465.autos:443?sni=saved-mudfish.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:315ms
+trojan://WG39087154@well-marmot.rooster465.autos:443?sni=well-marmot.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:300ms

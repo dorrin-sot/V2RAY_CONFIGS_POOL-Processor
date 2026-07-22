@@ -1,3 +1,4 @@
-trojan://IQ68037294@apt-midge.rooster465.autos:443?sni=apt-midge.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:255ms
-trojan://IQ68037294@electric-rhino.rooster465.autos:443?sni=electric-rhino.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:262ms
-trojan://IQ68037294@prepared-turkey.rooster465.autos:443?sni=prepared-turkey.rooster465.autos#📡🇸🇬®️Singapore©️Singapore (Hougang)🅿️ping:254ms
+trojan://WG39087154@endless-kiwi.rooster465.autos:443?sni=endless-kiwi.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:259ms
+trojan://WG39087154@eternal-gazelle.rooster465.autos:443?sni=eternal-gazelle.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Hougang)🅿️ping:284ms
+trojan://WG39087154@fair-reptile.rooster465.autos:443?sni=fair-reptile.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:266ms
+trojan://WG39087154@still-mastodon.rooster465.autos:443?sni=still-mastodon.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Hougang)🅿️ping:254ms

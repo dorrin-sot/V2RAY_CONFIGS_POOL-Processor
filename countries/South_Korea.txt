@@ -1,1 +1,5 @@
-trojan://IQ68037294@stirred-sunbeam.rooster465.autos:443?sni=stirred-sunbeam.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:322ms
+trojan://WG39087154@fun-seagull.rooster465.autos:443?sni=fun-seagull.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:332ms
+trojan://WG39087154@main-dragon.rooster465.autos:443?sni=main-dragon.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:332ms
+trojan://WG39087154@positive-bear.rooster465.autos:443?sni=positive-bear.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:335ms
+trojan://WG39087154@proud-pheasant.rooster465.autos:443?sni=proud-pheasant.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:373ms
+trojan://WG39087154@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:333ms

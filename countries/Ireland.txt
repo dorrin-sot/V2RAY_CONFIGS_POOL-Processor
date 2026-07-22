@@ -1,0 +1,3 @@
+trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:43ms
+trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:45ms
+trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:121ms

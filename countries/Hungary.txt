@@ -1,1 +1,0 @@
-trojan://Aimer@141.11.203.191:8443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:45ms

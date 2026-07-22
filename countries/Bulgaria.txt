@@ -1,2 +1,0 @@
-trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:45ms
-trojan://channel-daily-configs@104.17.97.5:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:45ms

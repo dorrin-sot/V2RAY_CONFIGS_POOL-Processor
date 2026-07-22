@@ -1,2 +1,2 @@
-trojan://99b166ff-25ab-4bda-9493-618d491c2a9a@103.224.212.213:443/?type=tcp&security=tls&sni=us232.support-putin-kill-all-ukrainians.98848.xyz#📡🇦🇺®️Australia©️Beaumaris🅿️ping:177ms
-trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@us2.trojanvh.xyz:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&headerType=none&host=us2.trojanvh.xyz#📡🇦🇺®️Australia©️Beaumaris🅿️ping:625ms
+trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&allowInsecure=1&type=tcp#📡🇦🇺®️Australia©️Alexandria🅿️ping:350ms
+trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp#📡🇦🇺®️Australia©️Alexandria🅿️ping:348ms

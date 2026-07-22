@@ -1,1 +1,2 @@
-vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@s.avrilon.us:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.fKjJG1_qT-AmknE6MsSm7t7Kb32Mn51I-EDDfvXypQk&pbk=OFTdI5QSuZjKXDYSaAGtsP6uzQe8SUMq71VG5UUkTgU&headerType=&fp=chrome&spx=%2F432d8cb3f2c244a&type=tcp&flow=xtls-rprx-vision&sni=youtubekids.com&sid=144dadaa39ab#📡🇸🇬®️Singapore©️Singapore🅿️ping:244.64ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:45ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:46ms

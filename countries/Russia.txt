@@ -1,2 +1,0 @@
-vless://40e5e566-2d21-4f24-afd2-196279c64e3d@217.149.22.175:443?security=none&encryption=none&headerType=none&type=tcp#📡🇷🇺®️Russia©️Nakhodka🅿️ping:37.77ms
-vless://a96373c2-6c78-44dc-ac4b-33fd3d32c68b@ru.rush-server.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=findmypackets.com&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&type=tcp&headerType=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:60.46ms

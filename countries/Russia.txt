@@ -1,2 +1,1 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@185.148.106.25:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:47ms
-vless://29ca503d-e6b8-4509-b666-48133f450857@213.241.198.25:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:45ms
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?path=%2F&security=tls&encryption=none&type=ws&sni=va.ylkszy.eu.org#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:45.5ms

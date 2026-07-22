@@ -1,2 +1,0 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@147.78.140.25:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#📡🇧🇬®️Bulgaria©️Sofia (Sofia Center)🅿️ping:46ms
-vless://29ca503d-e6b8-4509-b666-48133f450857@89.117.112.25:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:45ms

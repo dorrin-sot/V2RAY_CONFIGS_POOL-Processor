@@ -1,2 +1,0 @@
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?sni=kind-unicorn.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:128ms
-trojan://NQ26071394@ready-lion.rooster465.autos:443?sni=ready-lion.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:147ms

@@ -1,1 +1,1 @@
-vless://1ae6bff4-1516-44f3-b9da-87bcab5191b1@185.226.93.120:8443?security=reality&encryption=none&pbk=VQtNAOH-O0dwJVIx4gyBgi2VRD4HJh3qLKm6tpAvigA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c6906dcafe931ef2#📡🇹🇷®️Turkey©️Istanbul🅿️ping:61ms
+vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:8080?path=%2Farme&security=none&encryption=none&host=md.biscuitnazari.ir&type=ws#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:108.46ms

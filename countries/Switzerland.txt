@@ -1,0 +1,2 @@
+vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&host=pro.turbooserver.com&type=ws#📡🇨🇭®️Switzerland©️Geneva🅿️ping:117ms
+vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&host=pro.turbooserver.com&type=ws#📡🇨🇭®️Switzerland©️Geneva🅿️ping:130ms

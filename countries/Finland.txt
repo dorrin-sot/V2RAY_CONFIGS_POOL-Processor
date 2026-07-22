@@ -1,0 +1,2 @@
+vless://441f3279-01d0-4559-be52-508e49d5ca7e@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#📡🇫🇮®️Finland©️Helsinki🅿️ping:64.11ms
+vless://4610f6e6-d5da-409c-85da-dee776f47dc3@jam.techinfodigital.nz:51192?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=yb-HFcDn9YpWHQJ0b22m42pq3nl5CMxq42d4YbQz9D8&sid=34257495&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:59.58ms

@@ -1,1 +1,1 @@
-vless://eaf28b90-7c6c-4b27-8406-7b2511ae1e13@dc0537bc5b712ba5.HelExW.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:101.43ms
+vless://1ae6bff4-1516-44f3-b9da-87bcab5191b1@185.226.93.120:8443?security=reality&encryption=none&pbk=VQtNAOH-O0dwJVIx4gyBgi2VRD4HJh3qLKm6tpAvigA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c6906dcafe931ef2#📡🇹🇷®️Turkey©️Istanbul🅿️ping:61ms

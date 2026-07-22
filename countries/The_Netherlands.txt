@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.56ms
+trojan://NQ26071394@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&type=tcp&fp=chrome#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:119ms
+trojan://NQ26071394@upward-hedgehog.rooster465.autos:443?sni=upward-hedgehog.rooster465.autos&type=tcp&fp=chrome#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:110ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@37.153.171.25:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#📡🇳🇱®️The Netherlands©️Roosendaal🅿️ping:45ms
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.186:443?path=%2Ffp&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=juzibaipiao.5112233.xyz#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:45ms

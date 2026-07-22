@@ -1,1 +1,0 @@
-vless://AstroVPN_official@5.10.245.17:2087?type=ws&path=%2F%40AstroVPN_official%2F%40AstroVPN_official%2F%40AstroVPN_official&host=bssyn.ahssih.accuratenetworkchecker.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=bssyn.ahssih.accuratenetworkchecker.ir#📡🇨🇼®️Curacao©️Willemstad🅿️ping:44.78ms

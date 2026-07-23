@@ -1,1 +1,1 @@
-vless://aea30a00-4cbb-4acc-b1c2-cb53a7522d09@45.144.214.53:443?security=reality&encryption=none&pbk=dQ1UuZtHmkxbOa0CuhzD8xx5l2oX3PTYvEWWE7C2Djk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru%3A443#📡🇹🇷®️Turkey©️Esenler🅿️ping:57.12ms
+vless://e1bc0b88-6fa2-4dd7-a936-d5fff3ebfe6c@64.49.15.67:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=qq&pbk=VhsxX3w5SvS-XTnHi_xg85bq9aoIU79NrmEg9Aig52w&sid=79472fefa9c9f227&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:60.53ms

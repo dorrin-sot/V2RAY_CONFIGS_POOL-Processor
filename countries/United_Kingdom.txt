@@ -1,1 +1,1 @@
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&security=reality&sid=6a2e3af684799b19&sni=cdn.pinecloud.net&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:84.64ms
+vless://9d66932d-9eec-47de-972a-e98dee7231c1@ukall.lorqina.ir:31118?security=reality&encryption=none&pbk=LUCLCEE0jswfTEzoonfVHLw_1l-j4uROgNJi12jJsnc&headerType=none&fp=chrome&spx=%2Fivz6hbvizWPPCpo&type=tcp&flow=xtls-rprx-vision&sni=de.nachrichten.yahoo.com&sid=1604fe#📡🇬🇧®️United Kingdom©️Slough🅿️ping:79.0ms

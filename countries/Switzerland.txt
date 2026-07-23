@@ -1,2 +1,1 @@
-trojan://a3fbc071f3a9c14@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2FKW4lqfORk8uXWXv&type=tcp&sni=google.com&sid=08c8f4b33c#📡🇨🇭®️Switzerland©️Geneva🅿️ping:110.61ms
-vless://ef340ab7-b1a5-a3de-cdcd-5e5d4f2cf9fd@onkwo.ojcenter.com:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.telewebion.ir&sid=b6eae5ce#📡🇨🇭®️Switzerland©️Geneva🅿️ping:115ms
+trojan://---------BanV2ray------------@179.237.74.104:428?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=b4#📡🇨🇭®️Switzerland©️Geneva🅿️ping:42.32ms

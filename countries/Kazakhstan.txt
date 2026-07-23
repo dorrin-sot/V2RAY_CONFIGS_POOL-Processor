@@ -1,2 +1,0 @@
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@31.43.179.163:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:45ms
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:130ms

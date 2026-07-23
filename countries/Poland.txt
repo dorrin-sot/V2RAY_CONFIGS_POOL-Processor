@@ -1,5 +1,2 @@
-trojan://PI36027154@62.112.222.26:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=upright-hamster.rooster465.autos#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:48.28ms
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=&encryption=none&type=ws#📡🇵🇱®️Poland©️Warsaw🅿️ping:31ms
-vless://594b601b-b807-4998-a44e-9466f92ee4fa@193.111.117.8:1443?security=reality&encryption=none&pbk=jtEyL2mfSJ5rlvpMfYgkY6HaleCFRif0DnOOOXNHhxg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pls.snowfall.top&sid=0441f3e34348cb45#📡🇵🇱®️Poland©️Ożarów🅿️ping:44ms
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FBIA_TELEGRAM%40v2ray_configs_pools&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:35.4ms
-vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security=reality&encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=d6b2e9f1a4c8d3f5#📡🇵🇱®️Poland©️Warsaw🅿️ping:32.02ms
+trojan://NQ26071394@62.112.222.12:443?security=tls&headerType=none&allowInsecure=0&type=tcp&sni=ready-lion.rooster465.autos&insecure=0#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:44.92ms
+trojan://PI36027154@62.112.222.26:443?security=tls&headerType=none&allowInsecure=0&type=tcp&sni=upright-hamster.rooster465.autos&insecure=0#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:43.3ms

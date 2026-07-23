@@ -1,2 +1,1 @@
-vless://4618309c-a461-481d-b4be-677e0b668df1@sw.serverkingomz.ir:8085?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=6mKB5FSyERnA5b5bO_N-4WfRGehbsMe-SJk9l8OzC08&sid=55711aa52f91fefc&type=tcp&headerType=none#📡🇸🇪®️Sweden©️Hägersten🅿️ping:125.82ms
-vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@swg.raketa-balance.com:443?security=reality&encryption=none&pbk=Q8SjY3b6H8hnsg2TVIgNpnoQ2zjOacm727EJkEIPSkg&fp=chrome&type=grpc&serviceName=grpc-service&sni=swg.raketa-balance.com&sid=6c6082a2223c1d03#📡🇸🇪®️Sweden©️Stockholm🅿️ping:120ms
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.27ms

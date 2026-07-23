@@ -1,3 +1,0 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?security=&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:73ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:39ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp&sni=%2F#📡🇮🇹®️Italy©️Siziano🅿️ping:42ms

@@ -1,4 +1,0 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:37ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?security=&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:38ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.18:8880?security=&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:33ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.directdnsai.shop:8880?security=&amp;encryption=none&amp;type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:116ms

@@ -1,0 +1,2 @@
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#📡🇪🇸®️Spain©️Madrid🅿️ping:44.8ms
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&insecure=0&allowInsecure=0#📡🇪🇸®️Spain©️Madrid🅿️ping:44.8ms

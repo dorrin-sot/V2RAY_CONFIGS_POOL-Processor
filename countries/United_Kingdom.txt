@@ -1,1 +1,1 @@
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdn.pinecloud.net&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#📡🇬🇧®️United Kingdom©️London🅿️ping:69.46ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:38.49ms

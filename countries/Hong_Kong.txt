@@ -1,5 +1,1 @@
-trojan://WG39087154@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:303ms
-trojan://WG39087154@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:258ms
-trojan://WG39087154@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:281ms
-trojan://WG39087154@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:276ms
-trojan://WG39087154@novel-mouse.rooster465.autos:443?sni=novel-mouse.rooster465.autos&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:253ms
+trojan://JA96378052@saved-mudfish.rooster465.autos:443?sni=saved-mudfish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:260ms

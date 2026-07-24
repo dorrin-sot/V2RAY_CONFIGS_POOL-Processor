@@ -1,2 +1,1 @@
-trojan://WG39087154@summary-finch.rooster465.autos:443?sni=summary-finch.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:67ms
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.edge-9d7c.com&fp=safari&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:89.75ms
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.30.104:443?security=tls&type=xhttp&path=%2Fkavir&host=dey.lnmarketplace.net&packetEncoding=xudp&alpn=h2&sni=dey.lnmarketplace.net&fp=chrome&mode=stream-one&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29ms

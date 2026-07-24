@@ -1,3 +1,2 @@
-trojan://PD07395842@13.39.195.215:443?sni=tough-pigeon.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:32ms
-trojan://WG39087154@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:72ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:43.73ms
+trojan://IQ68037294@humane-bird.rooster465.autos:443?sni=humane-bird.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:66ms
+trojan://PD07395842@united-bedbug.rooster465.autos:443?sni=united-bedbug.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:77ms

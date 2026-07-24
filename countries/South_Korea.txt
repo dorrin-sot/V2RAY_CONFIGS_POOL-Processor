@@ -1,9 +1,2 @@
-trojan://WG39087154@absolute-boxer.rooster465.autos:443?sni=absolute-boxer.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:286ms
-trojan://WG39087154@arriving-hyena.rooster465.autos:443?sni=arriving-hyena.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:286ms
-trojan://WG39087154@closing-crow.rooster465.autos:443?sni=closing-crow.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:297ms
-trojan://WG39087154@free-tuna.rooster465.autos:443?sni=free-tuna.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:294ms
-trojan://WG39087154@growing-tuna.rooster465.autos:443?sni=growing-tuna.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:294ms
-trojan://WG39087154@maximum-gorilla.rooster465.autos:443?sni=maximum-gorilla.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:281ms
-trojan://WG39087154@outgoing-cockatoo.rooster465.autos:443?sni=outgoing-cockatoo.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:297ms
-trojan://WG39087154@superb-dory.rooster465.autos:443?sni=superb-dory.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:297ms
-trojan://WG39087154@sweeping-parakeet.rooster465.autos:443?sni=sweeping-parakeet.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:297ms
+trojan://IQ68037294@arriving-hyena.rooster465.autos:443?sni=arriving-hyena.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:315ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?security=none&type=ws&path=%2Ffp%3Drandomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:315ms

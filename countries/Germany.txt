@@ -1,3 +1,2 @@
-vless://4618309c-a461-481d-b4be-677e0b668df1@hd.serverkingomz.ir:1335?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=zAynCN1ibXipvIctze2V53oxmWRqB0IvgdjNiZ1asQU&sid=43d6ad5259d6c6f3&type=tcp&headerType=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:69.44ms
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.175:8880?encryption=none&security=none&type=ws&host=cnd.poland.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:44.67ms
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.175:8880?encryption=none&security=none&type=ws&host=cnd.uk.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:44.67ms
+trojan://WG39087154@summary-finch.rooster465.autos:443?sni=summary-finch.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:67ms
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.edge-9d7c.com&fp=safari&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:89.75ms

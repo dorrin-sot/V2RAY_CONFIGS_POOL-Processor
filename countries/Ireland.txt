@@ -1,1 +1,1 @@
-vless://dd6244e1-38dc-420c-a881-b2b5aca9f3ea@83.138.14.227:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=xuN9H19HOW2Vm8hkRDwnWP7yRtxmqcNbmFMel4HqiCc&sid=a8246a62b1d71045&type=tcp&headerType=none#📡🇮🇪®️Ireland©️Tallaght🅿️ping:43.6ms
+trojan://WG39087154@fun-labrador.rooster465.autos:443?sni=fun-labrador.rooster465.autos&type=tcp&fp=chrome#📡🇮🇪®️Ireland©️Dublin🅿️ping:84ms

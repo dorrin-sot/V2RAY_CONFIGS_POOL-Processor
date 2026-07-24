@@ -1,0 +1,5 @@
+trojan://WG39087154@flexible-pony.rooster465.autos:443?sni=flexible-pony.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:302ms
+trojan://WG39087154@included-hedgehog.rooster465.autos:443?sni=included-hedgehog.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:290ms
+trojan://WG39087154@moral-buzzard.rooster465.autos:443?sni=moral-buzzard.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:288ms
+trojan://WG39087154@stirring-bat.rooster465.autos:443?sni=stirring-bat.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:290ms
+trojan://WG39087154@sweeping-parakeet.rooster465.autos:443?sni=sweeping-parakeet.rooster465.autos&type=tcp&fp=chrome#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:295ms

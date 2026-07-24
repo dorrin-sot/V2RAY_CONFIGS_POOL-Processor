@@ -1,1 +1,5 @@
-trojan://PI36027154@62.112.222.26:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=upright-hamster.rooster465.autos#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:45.27ms
+trojan://WG39087154@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:85ms
+trojan://WG39087154@legible-possum.rooster465.autos:443?sni=legible-possum.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:88ms
+trojan://WG39087154@patient-gannet.rooster465.autos:443?sni=patient-gannet.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:88ms
+trojan://WG39087154@polite-martin.rooster465.autos:443?sni=polite-martin.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:89ms
+trojan://WG39087154@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp&fp=chrome#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:85ms

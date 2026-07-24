@@ -1,1 +1,1 @@
-vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:35.64ms
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdn.pinecloud.net&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#📡🇬🇧®️United Kingdom©️London🅿️ping:69.46ms

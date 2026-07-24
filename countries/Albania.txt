@@ -1,1 +1,1 @@
-vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#📡🇦🇱®️Albania©️Tirana🅿️ping:125.62ms
+vless://2f8f7335-8caa-4a5e-80e3-70a6dbca52ed@45.88.89.248:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hub.docker.com&fp=firefox&pbk=xHzZ0vuU2KEhJYDVcStTXqN_KWtXa-Y7hUdpfICv-Dc&sid=d4b96e4da919542a&type=tcp&headerType=none#📡🇦🇱®️Albania©️Tirana🅿️ping:31.23ms

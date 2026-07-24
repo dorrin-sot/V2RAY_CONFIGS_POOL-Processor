@@ -1,2 +1,1 @@
-trojan://NQ26071394@62.112.222.12:443?security=tls&headerType=none&allowInsecure=0&type=tcp&sni=ready-lion.rooster465.autos&insecure=0#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:44.92ms
-trojan://PI36027154@62.112.222.26:443?security=tls&headerType=none&allowInsecure=0&type=tcp&sni=upright-hamster.rooster465.autos&insecure=0#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:43.3ms
+trojan://PI36027154@62.112.222.26:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=upright-hamster.rooster465.autos#📡🇵🇱®️Poland©️Warsaw (Ursynów)🅿️ping:45.27ms

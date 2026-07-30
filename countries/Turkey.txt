@@ -1,2 +1,0 @@
-vless://a962e5f4-4bb7-4cf9-b32a-8d4e4f2aa805@tr1.rebata.ir:2040?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&sid=9634e9421a05e65f#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:52.25ms
-vless://fd5d3017-c682-46dd-9259-a6a884e918df@arme.biscuitnazari.ir:9443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:123.2ms

@@ -1,0 +1,1 @@
+vless://687644ad-2c9c-4d77-bbb0-5ec69c8554dd@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra=%7B#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:40.85ms

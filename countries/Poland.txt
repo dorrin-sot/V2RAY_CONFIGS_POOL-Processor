@@ -1,0 +1,1 @@
+vless://8107aba3-b2bb-4dba-b965-259663821527@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.79ms

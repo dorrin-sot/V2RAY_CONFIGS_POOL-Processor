@@ -1,1 +1,0 @@
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?security=tls&type=ws&path=%2F&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3h2http%2F1.1&sni=po.fastbrokencompony.com&fp=ios&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:6ms

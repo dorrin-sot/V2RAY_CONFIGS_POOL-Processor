@@ -1,2 +1,3 @@
-vless://1896c6c9-a941-4688-a865-29027bf7f8e6@107.181.151.39:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=6c825bc79850&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk#📡🇫🇮®️Finland©️Helsinki🅿️ping:62ms
-vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&encryption=none&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=b08c5eb124a5877e#📡🇫🇮®️Finland©️Helsinki🅿️ping:46.66ms
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&insecure=0&obfs=salamander&sni=assets.gateway-stream.com&obfs-password=fd3olglr2bmimgje#📡🇫🇮®️Finland©️Helsinki🅿️ping:43.79ms
+vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@wizi1.wizardx1.com:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=icloud.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:40.03ms
+vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:46.38ms

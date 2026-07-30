@@ -1,1 +1,1 @@
-trojan://JA96378052@saved-mudfish.rooster465.autos:443?sni=saved-mudfish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:260ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#📡🇭🇰®️Hong Kong©️Sha Tin Wai🅿️ping:184.68ms

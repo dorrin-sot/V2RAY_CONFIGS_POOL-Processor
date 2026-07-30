@@ -1,2 +1,0 @@
-trojan://OD90375861@87.121.33.171:443?sni=selected-bison.rooster465.autos&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:273ms
-trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:318ms

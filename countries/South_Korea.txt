@@ -1,2 +1,0 @@
-trojan://IQ68037294@arriving-hyena.rooster465.autos:443?sni=arriving-hyena.rooster465.autos&type=tcp&fp=chrome#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:315ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?security=none&type=ws&path=%2Ffp%3Drandomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#📡🇰🇷®️South Korea©️Seo-gu🅿️ping:315ms

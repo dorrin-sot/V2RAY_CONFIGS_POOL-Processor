@@ -1,2 +1,4 @@
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:171ms
-vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=none&type=ws&path=%2FFREE%20By%20Tharuwa%20(0767597317)&host=m.zoom.us&packetEncoding=xudp&encryption=none#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:167ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXOFQ0NE5TTHVjemNuY0dJZjkybTZR@178.128.101.77:1080#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:169ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#📡🇸🇬®️Singapore©️Singapore🅿️ping:165ms
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&path=%2f#📡🇸🇬®️Singapore©️Singapore🅿️ping:165ms
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&path=%2f#📡🇸🇬®️Singapore©️Singapore🅿️ping:167.3ms

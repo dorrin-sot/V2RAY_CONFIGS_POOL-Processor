@@ -1,2 +1,1 @@
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.217:2053?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%408.210.127.248%3A1080&host=vlso.1d.mom&packetEncoding=xudp&sni=vlso.1d.mom&fp=chrome#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:7ms
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.246:2096?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%408.210.127.248%3A1080&host=vlso.1d.mom&packetEncoding=xudp&sni=vlso.1d.mom&fp=chrome#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:6ms
+vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@britain.relvuno.ir:6500?security=reality&type=tcp&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:30.48ms

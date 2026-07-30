@@ -1,2 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@43.206.95.245:2377?plugin=obfs-local%3Bobfs=tls%3Bobfs-host=%28Telegram%F0%9F%87%A8%F0%9F%87%B3%20@VPNine1%2934b5fbc:109157#📡🇯🇵®️Japan©️Shibuya City🅿️ping:244.23ms
-vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.com&fp=chrome&sid=a32e8c4a&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&encryption=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253ms

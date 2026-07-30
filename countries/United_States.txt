@@ -1,4 +1,8 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#📡🇺🇸®️United States©️Phoenix🅿️ping:144ms
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=64.94.95.115&allowInsecure=1&type=tcp&fp=chrome#📡🇺🇸®️United States©️Dallas🅿️ping:121ms
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe06.myxasecure.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=swe06.myxasecure.space&fp=firefox&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#📡🇺🇸®️United States©️Turlock🅿️ping:31ms
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@162.159.38.119:8443?encryption=none&security=tls&sni=ad-004.vector9nmb3.info&type=ws&host=ad-004.vector9nmb3.info&path=/#📡🇺🇸®️United States©️Ashburn🅿️ping:13.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#📡🇺🇸®️United States©️Bethany🅿️ping:146ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#📡🇺🇸®️United States©️Bethany🅿️ping:176ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#📡🇺🇸®️United States©️Dallas🅿️ping:126ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#📡🇺🇸®️United States©️Dallas🅿️ping:130ms
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#📡🇺🇸®️United States©️Ashburn🅿️ping:104.21ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#📡🇺🇸®️United States©️Ashburn🅿️ping:44.41ms
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf.levikogjgfdd.ir:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#📡🇺🇸®️United States©️Ashburn🅿️ping:43.84ms
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@millionaire.levikogjgfdd.ir:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#📡🇺🇸®️United States©️Ashburn🅿️ping:104.21ms

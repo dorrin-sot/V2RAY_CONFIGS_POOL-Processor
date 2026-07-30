@@ -1,1 +1,2 @@
-vless://687644ad-2c9c-4d77-bbb0-5ec69c8554dd@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra=%7B#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:40.85ms
+vless://57f118fd-e930-44c3-ac74-035112f1472d@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:57.31ms
+vless://9fed1566-7a38-4e8e-b7a3-cfff39d6cbd0@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:50.58ms

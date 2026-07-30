@@ -1,4 +1,2 @@
-ss://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=barayeiran-mahsang.gerald81.dpdns.org&amp;path=%2Fbarayeiranmahsang%3Fed%3D2560#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:7.3ms
-ss://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=barayeiran-mahsang.gerald81.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=barayeiran-mahsang.gerald81.dpdns.org#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:7.3ms
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.66:2053?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:7.3ms
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&fp=qq&type=xhttp&sni=api.getsavesafe.net&sid=16f5b3bddf7f68ae#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:31.34ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:18.91ms

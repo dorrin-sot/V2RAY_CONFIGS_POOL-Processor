@@ -1,2 +1,1 @@
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.130.125.239:2087?encryption=none&fp=chrome&host=tot1.erooo12345.xyz&path=/&security=tls&sni=tot1.erooo12345.xyz&type=ws#📡🇸🇨®️Seychelles©️Victoria🅿️ping:6.91ms
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?type=ws&host=leecher56.matinheydri.workers.dev&path=/#📡🇸🇨®️Seychelles©️Victoria🅿️ping:6.91ms
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?security=tls&type=ws&path=%2F&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3h2http%2F1.1&sni=po.fastbrokencompony.com&fp=ios&encryption=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:6ms

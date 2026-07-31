@@ -1,2 +1,1 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:17ms
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:18ms
+vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@51.89.229.242:2053?security=reality&type=grpc&mode=gun&serviceName=api.v1.data&sni=play.google.com&fp=firefox&sid=524efc1f88592266&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY#📡🇬🇧®️United Kingdom©️Erith🅿️ping:23ms

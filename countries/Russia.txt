@@ -1,3 +1,2 @@
-vless://6fa9f6ae-877b-4858-b128-a8377fd9038b@ru.themesh.site:443?security=reality&type=raw&packetEncoding=xudp&sni=ru.themesh.site&fp=chrome&flow=xtls-rprx-vision&sid=d4f1c403150d9964&pbk=zA-R_HtKJR1Hb0c1KXA3Yxh1TH_SPi1oV6cDfWURdQs#📡🇷🇺®️Russia©️Moscow🅿️ping:94ms
-vless://9cddcc01-3dfb-46e0-85d8-e3c6818232cf@103.88.241.176:443?security=reality&type=raw&sni=userapi.com&fp=safari&flow=xtls-rprx-vision&sid=998432bc&pbk=sntQ0HsOXhaye-K7bKrMw1w3cRmjgp0lT5IhP-ngwlU&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:42ms
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.98:2200?security=none&type=ws&path=%2Fv1&host=rzd.ru&packetEncoding=xudp&sni=tn.tmn141246.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:42ms
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=aae8&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:23ms
+vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:47.22ms

@@ -1,0 +1,5 @@
+ss://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#📡🇹🇼®️Taiwan©️Taipei🅿️ping:287.26ms
+ss://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#📡🇹🇼®️Taiwan©️Taipei🅿️ping:289.08ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#📡🇹🇼®️Taiwan©️Taipei🅿️ping:287.26ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#📡🇹🇼®️Taiwan©️Taipei🅿️ping:289.08ms
+vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?encryption=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#📡🇹🇼®️Taiwan©️Taipei🅿️ping:287.26ms

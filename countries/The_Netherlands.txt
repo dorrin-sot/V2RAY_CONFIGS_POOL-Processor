@@ -1,5 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.2ms
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@213.176.67.31:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=node4.mxvpn.dev&sid=bbc68cec8bb8d2e3#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:10.91ms
-vless://6fa1b8eb-56f4-4f41-97dc-e0185bcfc575@sentinel.unlimitedprojects.fun:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2Fdata&host=sentinel.unlimitedprojects.fun&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=sentinel.unlimitedprojects.fun&fp=firefox&mode=auto#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:54ms
-vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=113241ad01e99a2d&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.51ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.42ms
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:37.99ms
+vless://645dd6a3-e732-4bbb-bbe4-4bcd1d20fb5d@kovira.kovira2.ir:13424?path=%2F&security=&encryption=none&host=chatgpt.com&type=ws#📡🇳🇱®️The Netherlands©️Berkenwoude🅿️ping:31.15ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:2087?security=tls&sni=hkh.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#📡🇳🇱®️The Netherlands©️Berkenwoude🅿️ping:31.15ms

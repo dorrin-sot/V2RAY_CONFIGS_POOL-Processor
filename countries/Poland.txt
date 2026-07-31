@@ -1,0 +1,2 @@
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=Leviko_v2ray&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=a8ae#📡🇵🇱®️Poland©️Warsaw🅿️ping:29.88ms
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=telegram-Leviko-v2ray&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=a8ae#📡🇵🇱®️Poland©️Warsaw🅿️ping:29.75ms

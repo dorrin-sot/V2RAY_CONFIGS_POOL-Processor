@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.25:20166#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:190.34ms
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444/?type=grpc&encryption=none&flow=&serviceName=web.max.ru&sni=web.max.ru&fp=chrome&security=reality&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:240ms
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:200ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.sub-flow.online#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:200ms

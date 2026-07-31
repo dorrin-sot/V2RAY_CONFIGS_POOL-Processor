@@ -1,2 +1,0 @@
-vless://5b96be74-656d-4bb7-85c2-d2d8a3b7c2f3@90.156.254.164:19562?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=9e&pbk=T66pm2f_PN4Hya_A_5K0X1HQb717SUCODyoUO7Gk3Ws#📡🇱🇻®️Latvia©️Riga🅿️ping:165.17ms
-vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?encryption=none&security=none&type=tcp#📡🇱🇻®️Latvia©️Riga🅿️ping:34.78ms

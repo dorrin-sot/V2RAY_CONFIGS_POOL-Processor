@@ -1,2 +1,1 @@
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:200ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.sub-flow.online#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:200ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#📡🇭🇰®️Hong Kong©️Sha Tin Wai🅿️ping:186.18ms

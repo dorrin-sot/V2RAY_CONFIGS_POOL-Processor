@@ -1,0 +1,1 @@
+trojan://humanity@45.130.125.158:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇸🇨®️Seychelles©️Victoria🅿️ping:6.59ms

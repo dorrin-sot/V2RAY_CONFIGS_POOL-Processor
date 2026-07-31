@@ -1,1 +1,1 @@
-vless://ab044a84-8263-42ab-a1f1-2fd5ebace70d@212.237.217.7:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=firefox&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.6ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@95.217.176.149:2053/?type=ws&encryption=none&flow=&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:34ms

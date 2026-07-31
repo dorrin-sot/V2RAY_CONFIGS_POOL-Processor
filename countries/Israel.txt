@@ -1,1 +1,2 @@
+vless://54df90c8-373e-4b32-8baa-d1e377147f64@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:49.54ms
 vless://705badf9-a4c0-4e94-aecf-0c7b481de1de@188.72.103.3:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h2,http/1.1&encryption=none&extra={#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:49.54ms

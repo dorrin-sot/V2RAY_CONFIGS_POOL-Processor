@@ -1,6 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.51ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.38ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.42ms
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:37.99ms
-vless://645dd6a3-e732-4bbb-bbe4-4bcd1d20fb5d@kovira.kovira2.ir:13424?path=%2F&security=&encryption=none&host=chatgpt.com&type=ws#📡🇳🇱®️The Netherlands©️Berkenwoude🅿️ping:31.15ms
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:2087?security=tls&sni=hkh.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#📡🇳🇱®️The Netherlands©️Berkenwoude🅿️ping:31.15ms

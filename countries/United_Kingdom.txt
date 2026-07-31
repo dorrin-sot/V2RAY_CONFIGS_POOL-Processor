@@ -1,2 +1,2 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@217.163.76.97:443?security=tls&sni=vh.ylks.xyz&type=ws&path=/3b2dg5zv2kftsfko?ed#📡🇬🇧®️United Kingdom©️Havant🅿️ping:6.44ms
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:23.45ms
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:17ms
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:18ms

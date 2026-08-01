@@ -1,0 +1,1 @@
+vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@pla.tunnelguard.ru:443?security=tls&type=xhttp&path=%2F&host=pla.tunnelguard.ru&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=pla.tunnelguard.ru&fp=firefox&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A30%7D&encryption=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:196ms

@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#📡🇹🇷®️Turkey©️Bursa🅿️ping:70.16ms
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#📡🇹🇷®️Turkey©️Istanbul🅿️ping:45ms
-vless://fa0aeef3-532a-43c7-a272-536f7b5aa015@tr.iblamelooks.ir:1080?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:48.39ms
+vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@38.180.112.246:52315?security=none&type=ws&path=%2F&packetEncoding=xudp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:42ms
+vless://7cdfde5c-1322-4a5e-aa88-826112dd6327@silenceux.ir:2087?security=none&type=tcp&headerType=http&path=%2F&host=fast.com&packetEncoding=xudp#📡🇹🇷®️Turkey©️Umraniye🅿️ping:61ms

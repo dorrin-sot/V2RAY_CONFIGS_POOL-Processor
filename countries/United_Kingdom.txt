@@ -1,1 +1,2 @@
-vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@51.89.229.242:2053?security=reality&type=grpc&mode=gun&serviceName=api.v1.data&sni=play.google.com&fp=firefox&sid=524efc1f88592266&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY#📡🇬🇧®️United Kingdom©️Erith🅿️ping:23.44ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:27ms
+vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@51.89.229.242:2053?security=reality&type=grpc&mode=gun&serviceName=api.v1.data&sni=play.google.com&fp=chrome&sid=524efc1f88592266&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY#📡🇬🇧®️United Kingdom©️Erith🅿️ping:24.18ms

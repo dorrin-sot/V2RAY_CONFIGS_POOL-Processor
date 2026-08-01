@@ -1,3 +1,3 @@
-vless://98d8b8cb-19d0-4823-b13b-b47a2fe0a82b@93.114.98.216:443?encryption=none&security=none&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:40.37ms
-vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@xoxmarox.corecloud.space:42268?path=%2F&security=none&encryption=none&host=play.google.com&type=httpupgrade#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:44.76ms
-vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@xoxmarox.corecloud.space:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:51.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#📡🇹🇷®️Turkey©️Bursa🅿️ping:70.16ms
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#📡🇹🇷®️Turkey©️Istanbul🅿️ping:45ms
+vless://fa0aeef3-532a-43c7-a272-536f7b5aa015@tr.iblamelooks.ir:1080?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:48.39ms

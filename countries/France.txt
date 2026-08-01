@@ -1,4 +1,2 @@
-vless://0f3965de-fd00-40cb-94a6-d4c81a9b9216@nl10.roscomsosal.de:443?security=tls&type=tcp&packetEncoding=xudp&sni=nl10.roscomsosal.de&fp=qq&flow=xtls-rprx-vision#📡🇫🇷®️France©️Roubaix🅿️ping:18.84ms
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#📡🇫🇷®️France©️Roubaix🅿️ping:18.75ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.24ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22223?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.36ms
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=node12.mxvpn.dev&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&path=/#📡🇫🇷®️France©️Paris🅿️ping:29.86ms
+vless://5e3f974b-06fc-4555-907a-6681391b7c17@us2.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&host=BIA_TELEGRAM%3F%3D%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#📡🇫🇷®️France©️Paris🅿️ping:29.86ms

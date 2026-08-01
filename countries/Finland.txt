@@ -1,2 +1,1 @@
-vless://28cb2674-f643-320e-3316-93049bd12ada@dl2dl2dl2.lornavps.ir:8855?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:55ms
-vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:24508?security=none&type=xhttp&path=%2F&packetEncoding=xudp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=mlkem768x25519plus.native.0rtt.jg5htI_yozFJXcRSD4U2vql00DwtQWPYDbYlG-o4ozs#📡🇫🇮®️Finland©️Helsinki🅿️ping:59ms
+vless://4926d92f-81e2-4c68-9ddf-4470f376c49c@65.109.219.3:443?security=reality&encryption=none&pbk=eVLFrQx077o9uFmtkX2jFL3SMjru1BBdKJBHFFn3shQ&headerType=none&fp=qq&spx=%2F&type=tcp&sni=play.google.com&sid=b7ebb6c8#📡🇫🇮®️Finland©️Helsinki🅿️ping:34ms

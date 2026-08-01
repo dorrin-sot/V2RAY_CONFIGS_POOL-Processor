@@ -1,1 +1,1 @@
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@43.168.16.112:443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2fp%3Dchrome&host=sni.ehb.cc.cd&packetEncoding=xudp&sni=sni.ehb.cc.cd&fp=chrome#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:199ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.59:40118?security=reality&encryption=none&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=5895914d#📡🇭🇰®️Hong Kong©️Kwun Tong🅿️ping:244.67ms

@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#📡🇬🇧®️United Kingdom©️Totnes🅿️ping:20.67ms
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:20.71ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:36ms
+vless://34eaf2f3-894f-472e-a36c-0e08a30f0829@185.199.198.182:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#📡🇬🇧®️United Kingdom©️Slough🅿️ping:27ms

@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.191.247:50099#📡🇹🇼®️Taiwan©️Taipei🅿️ping:299.09ms
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@211.75.210.34:443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2&host=sni.ehb.cc.cd&packetEncoding=xudp&sni=sni.ehb.cc.cd&fp=chrome#📡🇹🇼®️Taiwan©️Taipei🅿️ping:282ms

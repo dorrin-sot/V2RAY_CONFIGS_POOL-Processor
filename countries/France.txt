@@ -1,4 +1,5 @@
-vless://85457383-b175-8f3f-fb29-4db891cd2127@fr.luxmoboleshop.com:8443?headerType=http&host=play.google.com&encryption=none&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&fp=firefox&sid=f49da53c&sni=icloud.com&security=reality&spx=%2F&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:84.71ms
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@france.zestmarket.ir:6800?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇫🇷®️France©️Paris (7th Arrondissement)🅿️ping:25.09ms
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@france.zestmarket.ir:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇫🇷®️France©️Paris (7th Arrondissement)🅿️ping:25.09ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22223?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.45ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.34ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.89ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.58ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22223?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.89ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22224?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.18ms

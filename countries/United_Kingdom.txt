@@ -1,3 +1,2 @@
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@uk-fardad.oorluma.ir:6800?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇬🇧®️United Kingdom©️Erith🅿️ping:34.34ms
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@uk-fardad.oorluma.ir:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇬🇧®️United Kingdom©️Erith🅿️ping:34.34ms
-vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=none&encry=#📡🇬🇧®️United Kingdom©️London🅿️ping:6.41ms
+vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=&encryption=none&headerType=&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:7.45ms
+vless://d8b42cd5-a149-4356-9e61-111111111111@194.242.129.110:1447?security=&encryption=none&headerType=&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:6.16ms

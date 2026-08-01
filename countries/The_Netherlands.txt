@@ -1,6 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.73ms
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15.29ms
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.0.11:80?type=ws&host=Fastapi.Org&path=%2F#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.39ms
-vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:16.25ms
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@nl-fardad.oorluma.ir:6800?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:72.74ms
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@nl-fardad.oorluma.ir:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:72.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@nl2.levikogjgfdd.ir:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.55ms

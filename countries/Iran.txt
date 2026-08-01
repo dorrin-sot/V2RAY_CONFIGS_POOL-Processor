@@ -1,0 +1,2 @@
+vless://8ebb4d50-0d9a-466c-9aa4-a49d170490cc@185.141.213.184:2052?security=reality&encryption=none&pbk=DEHLqKRES372jqMRudEOm3POk1UQBi-PzSpdLYhHAmI&headerType=none&fp=chrome&spx=%2F72pjw4gCqn2lu2I&type=tcp&sni=www.sony.com&sid=f385#📡🇮🇷®️Iran©️Tehrān🅿️ping:86.97ms
+vless://db89d081-76c1-4fed-9547-0a4031cb45f2@37.152.186.116:42798?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Nā’īn🅿️ping:84.38ms

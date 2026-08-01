@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#📡🇹🇷®️Turkey©️Bursa🅿️ping:73.62ms
-vless://1e9d4dbf-706e-4d26-9714-dd5f365ef7c0@arme.biscuitnazari.ir:9443?mode=gun&security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&fp=edge&spx=%2F9890eb6a2ee1c04&type=grpc&sni=play.google.com&sid=c72f2d50af#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:46.4ms
-vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@tfcnjddhbcd3.dop72.com:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:49.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#📡🇹🇷®️Turkey©️Bursa🅿️ping:71.44ms
+vless://fb968228-8e53-44c7-92fd-aff568097590@helixgaming.ir:80?encryption=none&host=play.google.com&path=/&security=none&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:47.99ms

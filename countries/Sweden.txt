@@ -1,1 +1,1 @@
-vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443?security=reality&type=raw&packetEncoding=xudp&sni=st.onnstreaming.ru&fp=random&flow=xtls-rprx-vision&sid=e8e019c424ccb765&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:37ms
+vless://bf6869b1-d9c7-453c-9c35-3a1ba6ab1b2c@185.146.173.92:8880?security=none&type=ws&host=V2ray.D.weufgwoof.cfd.#📡🇸🇪®️Sweden©️Stockholm🅿️ping:6.49ms

@@ -1,1 +1,2 @@
-vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&path=%2Fdata%2Flist%2Fout.php%3Fed%3D2560&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&packetEncoding=xudp&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&encryption=none#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.53.62:1080#📡🇧🇬®️Bulgaria©️Sofia (Old City Center)🅿️ping:32.92ms
+vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@ga.speedserver.site:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:74.89ms

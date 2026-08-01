@@ -1,3 +1,0 @@
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&sni=wired-tick.rooster465.autos&type=tcp&path=/#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:236.55ms
-trojan://ON38567014@endless-crappie.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=endless-crappie.rooster465.autos&fp=chrome#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:250.79ms
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#📡🇯🇵®️Japan©️Koto-ku (Toyosu)🅿️ping:279.8ms

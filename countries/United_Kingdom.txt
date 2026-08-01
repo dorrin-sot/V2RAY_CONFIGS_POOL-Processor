@@ -1,1 +1,3 @@
-vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@britain.relvuno.ir:6500?security=reality&type=tcp&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:30.37ms
+vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@uk-fardad.oorluma.ir:6800?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇬🇧®️United Kingdom©️Erith🅿️ping:34.34ms
+vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@uk-fardad.oorluma.ir:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇬🇧®️United Kingdom©️Erith🅿️ping:34.34ms
+vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=none&encry=#📡🇬🇧®️United Kingdom©️London🅿️ping:6.41ms

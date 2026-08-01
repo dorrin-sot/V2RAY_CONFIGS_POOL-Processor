@@ -1,0 +1,1 @@
+vless://5098e189-3462-4ff7-8ddd-4aaecfd060ea@45.192.2.157:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http%2F1.1&sni=yandex.net&fp=qq&flow=xtls-rprx-vision&sid=f34818a561dfd1fe&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA#📡🇧🇷®️Brazil©️São Paulo🅿️ping:14ms

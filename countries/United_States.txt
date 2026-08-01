@@ -1,17 +1,9 @@
-trojan://521314@millionaire.levikogjgfdd.ir:443#📡🇺🇸®️United States©️Ashburn🅿️ping:22.69ms
-trojan://humanity@162.159.38.119:443#📡🇺🇸®️United States©️Ashburn🅿️ping:14.11ms
-trojan://humanity@216.24.57.1:443#📡🇺🇸®️United States©️San Francisco (South of Market)🅿️ping:6.31ms
-vless://216f7cae-5aef-442d-a184-2b0119f7155c@199.232.8.15:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Chicago🅿️ping:8.71ms
-vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Ashburn🅿️ping:105.8ms
-vless://37ea91b9-4b42-4ca2-b92a-35276e3a16ec@199.232.21.51:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Chicago🅿️ping:6.2ms
-vless://44c8ef16-5a1e-9d04-4e30-0ce12e789841@x4g-production-8f3d.up.railway.app:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:20.54ms
-vless://4af481af-0bc3-3511-4c07-c4d6bdbeda11@x4g-production-3704.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttp-siz10%2F4af481af-0bc3-3511-4c07-c4d6bdbeda11&host=x4g-production-3704.up.railway.app&mode=auto&sni=x4g-production-3704.up.railway.app&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:34.47ms
-vless://5e3f974b-06fc-4555-907a-6681391b7c17@us2.levikogjgfdd.ir:40443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Buffalo🅿️ping:110.29ms
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf.levikogjgfdd.ir:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Ashburn🅿️ping:101.2ms
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@millionaire.levikogjgfdd.ir:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Ashburn🅿️ping:22.69ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@63.141.128.219:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Austin (Four Points Centre)🅿️ping:6.69ms
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@cf.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#📡🇺🇸®️United States©️Ashburn🅿️ping:130.3ms
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Los Angeles🅿️ping:141.12ms
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Tempe (South Tempe)🅿️ping:6.34ms
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Ashburn🅿️ping:22.69ms
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#📡🇺🇸®️United States©️Ashburn🅿️ping:14.48ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#📡🇺🇸®️United States©️Dallas🅿️ping:124ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.87:2087?security=tls&type=ws&path=%2Ffdip%3Dtw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#📡🇺🇸®️United States©️Ashburn🅿️ping:18ms
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.168.146.122:443?security=tls&type=ws&path=%2Fsg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#📡🇺🇸®️United States©️Seattle🅿️ping:149ms
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443?security=tls&type=ws&path=%2Fsg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#📡🇺🇸®️United States©️San Jose (Ballbach and SOFA)🅿️ping:7ms
+vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.45.6:8080?security=none&type=ws&path=%2Fmvpnpph2026&host=pphfree3.mvpnpvpn.de5.net&packetEncoding=xudp&encryption=none#📡🇺🇸®️United States©️San Jose (Ballbach and SOFA)🅿️ping:7ms
+vless://5e3f974b-06fc-4555-907a-6681391b7c17@186.246.19.79:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=2bc0&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&encryption=none#📡🇺🇸®️United States©️Buffalo🅿️ping:97ms
+vless://8ddedcc7-6c4e-4df3-a190-ac40926f6694@cf.levikogjgfdd.ir:8880?path=/pyip&encryption=none&host=late-boat-fbd7.152-de6.workers.dev&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:20.52ms
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?security=tls&type=ws&path=%2Ffp%3Drandom&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#📡🇺🇸®️United States©️Ashburn🅿️ping:14ms
+vless://f49bfe10-7fb1-40c5-8e3a-bb30e1647e27@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#📡🇺🇸®️United States©️San Francisco🅿️ping:6.19ms

@@ -1,3 +1,0 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:26.45ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?type=tcp&encryption=none&security=none#📡🇮🇹®️Italy©️Milan🅿️ping:23.95ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?encryption=none&type=grpc&authority=v2rayNplus--v2rayNplus--v2rayNplus#📡🇮🇹®️Italy©️Milan🅿️ping:25.48ms

@@ -1,2 +1,0 @@
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@poland.spectrum.vu:443?flow=xtls-rprx-vision&security=reality&sni=poland.spectrum.vu&fp=chrome&pbk=5Z6WxIOriNZSwKfzNvn38fbH0E2prqDla_l8l9YQnRo&sid=2a6f8c4d1e9b&type=tcp&path=/#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:36.81ms
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?type=tcp&encryption=none&security=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:28.81ms

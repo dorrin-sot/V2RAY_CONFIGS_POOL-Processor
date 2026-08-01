@@ -1,2 +1,1 @@
-vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@gr059.bamajobin.ir:2053?security=reality&type=grpc&mode=gun&serviceName=api.v1.data&packetEncoding=xudp&sni=play.google.com&fp=firefox&sid=524efc1f88592266&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:36ms
-vless://f055899d-026b-49b5-88ed-0227795082da@2.26.135.189:443?security=reality&type=raw&packetEncoding=xudp&sni=smorodina.mycdn-me.ru&fp=firefox&flow=xtls-rprx-vision&sid=a1f9c0e21d7b6485&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:36ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.73:443?security=tls&sni=jpg.ylks01.eu.org&type=ws&path=/blue#📡🇬🇧®️United Kingdom©️Havant🅿️ping:6.47ms

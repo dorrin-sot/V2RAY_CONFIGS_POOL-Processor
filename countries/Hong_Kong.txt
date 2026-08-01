@@ -1,5 +1,2 @@
-hysteria2://4861843a-3187-4885-83d9-2f69fed13fc9@hkt1.nekohub.xyz:20001?insecure=1&sni=www.bing.com#📡🇭🇰®️Hong Kong©️Central🅿️ping:350ms
-hysteria2://4861843a-3187-4885-83d9-2f69fed13fc9@hkt1.nekohub.xyz:20007?insecure=1&sni=www.bing.com#📡🇭🇰®️Hong Kong©️Central🅿️ping:251ms
-hysteria2://4861843a-3187-4885-83d9-2f69fed13fc9@hkt1.nekohub.xyz:20010?insecure=1&sni=www.bing.com#📡🇭🇰®️Hong Kong©️Central🅿️ping:252ms
-hysteria2://4861843a-3187-4885-83d9-2f69fed13fc9@hkt1.nekohub.xyz:20011?insecure=1&sni=www.bing.com#📡🇭🇰®️Hong Kong©️Central🅿️ping:218ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#📡🇭🇰®️Hong Kong©️Lai Chi Kok🅿️ping:180.3ms
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:186.83ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#📡🇭🇰®️Hong Kong©️Sha Tin Wai🅿️ping:183.62ms

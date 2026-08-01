@@ -1,1 +1,2 @@
-vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@pla.tunnelguard.ru:443?security=tls&type=xhttp&path=%2F&host=pla.tunnelguard.ru&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=pla.tunnelguard.ru&fp=firefox&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A30%7D&encryption=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:196ms
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@poland.spectrum.vu:443?flow=xtls-rprx-vision&security=reality&sni=poland.spectrum.vu&fp=chrome&pbk=5Z6WxIOriNZSwKfzNvn38fbH0E2prqDla_l8l9YQnRo&sid=2a6f8c4d1e9b&type=tcp&path=/#📡🇵🇱®️Poland©️Warsaw (Mokotów)🅿️ping:36.81ms
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?type=tcp&encryption=none&security=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:28.81ms

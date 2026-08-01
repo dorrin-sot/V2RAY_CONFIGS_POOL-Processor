@@ -1,2 +1,0 @@
-vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@38.180.216.63:52315?security=none&type=ws&path=%2F&packetEncoding=xudp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:35ms
-vless://f055899d-026b-49b5-88ed-0227795082da@2.26.135.189:443?security=reality&type=raw&packetEncoding=xudp&sni=smorodina.mycdn-me.ru&fp=firefox&flow=xtls-rprx-vision&sid=a1f9c0e21d7b6485&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE#📡🇪🇪®️Estonia©️Tallinn🅿️ping:7ms

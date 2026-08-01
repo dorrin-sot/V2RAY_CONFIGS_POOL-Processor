@@ -1,2 +1,1 @@
-vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@38.180.112.246:52315?security=none&type=ws&path=%2F&packetEncoding=xudp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:42ms
-vless://7cdfde5c-1322-4a5e-aa88-826112dd6327@silenceux.ir:2087?security=none&type=tcp&headerType=http&path=%2F&host=fast.com&packetEncoding=xudp#📡🇹🇷®️Turkey©️Umraniye🅿️ping:61ms
+vless://fd5d3017-c682-46dd-9259-a6a884e918df@arme.biscuitnazari.ir:9443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:52.93ms

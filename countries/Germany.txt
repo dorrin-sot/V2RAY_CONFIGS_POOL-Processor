@@ -1,4 +1,2 @@
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:33.37ms
-vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.5ms
-vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:18.6ms
-vless://b5f03bd3-0c55-416b-8ef9-da02593c1466@2.27.15.95:7443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:6.65ms
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?security=tls&type=ws&path=%2F&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&packetEncoding=xudp&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&encryption=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:6ms
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&type=tcp&packetEncoding=xudp&sni=3.oncloudnineservicestreang.com&fp=firefox&flow=xtls-rprx-vision&sid=1991780b928b292d&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:20ms

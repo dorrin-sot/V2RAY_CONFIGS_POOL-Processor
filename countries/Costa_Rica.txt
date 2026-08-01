@@ -1,1 +1,0 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@190.93.246.79:8443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:6.38ms

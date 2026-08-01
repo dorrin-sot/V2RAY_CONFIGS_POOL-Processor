@@ -1,1 +1,1 @@
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node.mxvpn.dev:443?&security=reality&flow=xtls-rprx-vision&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&fp=firefox&sni=node.mxvpn.dev&type=tcp&headerType=none&host=node.mxvpn.dev&path=%2F#📡🇸🇪®️Sweden©️Stockholm🅿️ping:38.93ms
+vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443?security=reality&type=raw&packetEncoding=xudp&sni=st.onnstreaming.ru&fp=random&flow=xtls-rprx-vision&sid=e8e019c424ccb765&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:37ms

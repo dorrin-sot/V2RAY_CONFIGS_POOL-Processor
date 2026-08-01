@@ -1,5 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.34ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.89ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.58ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22223?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.89ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22224?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.18ms
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?security=tls&type=ws&path=%2Fsg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#📡🇫🇷®️France©️Roubaix🅿️ping:19ms

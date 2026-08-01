@@ -1,2 +1,0 @@
-vless://71cb0cd3-61f2-45a6-943d-2b374edd0b33@185.91.54.126:8445?authority=360.yandex.ru&encryption=none&fp=qq&mode=gun&pbk=-22oLFCHao66M820QocQMqCdKF0ckLuVYMtcth92vjk&security=reality&serviceName=ns&sni=360.yandex.ru&type=grpc#📡🇷🇺®️Russia©️St Petersburg🅿️ping:111.09ms
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:22.92ms

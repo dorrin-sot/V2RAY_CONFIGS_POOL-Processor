@@ -1,2 +1,0 @@
-vless://t.me.TradeIP@channel.tradeip.store:443?headerType=none&fp=chrome&sni=play.google.com&type=tcp&security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&spx=%2F000a5dcfc873675&sid=06f4e6&flow=xtls-rprx-vision#📡🇨🇭®️Switzerland©️Geneva🅿️ping:30.73ms
-vless://t.me.TradeIP@channel.tradeip.store:8443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=%2F000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=5625decfd1e54011#📡🇨🇭®️Switzerland©️Geneva🅿️ping:30.74ms

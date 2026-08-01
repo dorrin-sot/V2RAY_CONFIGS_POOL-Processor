@@ -1,1 +1,1 @@
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#📡🇸🇬®️Singapore©️Singapore🅿️ping:168.86ms
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?sni=139.59.238.97&allowInsecure=1&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:162ms

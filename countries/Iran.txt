@@ -1,1 +1,0 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@45.131.4.9:2053?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#📡🇮🇷®️Iran©️Tehrān🅿️ping:6.96ms

@@ -1,1 +1,1 @@
-vless://Test@65.109.177.15:13748?security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&headerType=none&fp=firefox&spx=%2FpjIAcqZhfppRt4G&type=tcp&sni=play.google.com&sid=a5c7ea22ff1d#📡🇫🇮®️Finland©️Helsinki🅿️ping:32.5ms
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@138.124.112.197:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node6.mxvpn.dev&sid=bbc68cec8bb8d2e3#📡🇫🇮®️Finland©️Helsinki🅿️ping:30.12ms

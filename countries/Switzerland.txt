@@ -1,2 +1,1 @@
-vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@fardad-ch.lorluma.ir:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#📡🇨🇭®️Switzerland©️Zurich🅿️ping:21.02ms
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#📡🇨🇭®️Switzerland©️Geneva🅿️ping:63.43ms
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#📡🇨🇭®️Switzerland©️Geneva🅿️ping:20.66ms

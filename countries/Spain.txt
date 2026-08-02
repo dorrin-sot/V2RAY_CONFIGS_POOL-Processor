@@ -1,1 +1,1 @@
-trojan://humanity@185.18.250.252:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#📡🇪🇸®️Spain©️Madrid🅿️ping:6.47ms
+trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?sni=www.vk.com&allowInsecure=1&type=tcp&fp=chrome#📡🇪🇸®️Spain©️Donostia / San Sebastian🅿️ping:30ms

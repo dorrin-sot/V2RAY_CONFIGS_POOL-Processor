@@ -1,2 +1,1 @@
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@212.183.88.102:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=vh.ylks.xyz&type=ws&path=/3b2dg5zv2kftsfko?ed#📡🇦🇹®️Austria©️Vienna🅿️ping:6.66ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@212.183.88.102:443?security=tls&sni=vh.ylks.xyz&type=ws&path=/3b2dg5zv2kftsfko?ed#📡🇦🇹®️Austria©️Vienna🅿️ping:6.66ms

@@ -1,1 +1,1 @@
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node1.mxvpn.dev:443?flow=xtls-rprx-vision&security=reality&sni=node1.mxvpn.dev&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&path=/#📡🇸🇪®️Sweden©️Stockholm🅿️ping:40.2ms
+vless://3f130a8d-e865-4d1e-92c0-775e3e670bcc@185.146.173.50:8080?type=ws&path=DAILYConfigs%3Fed%3D8080&host=DAILYconfigs-dailyCONFIGS-dailyCONFIGS-speedtest.net.vigilantecollection.com.&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:6.52ms

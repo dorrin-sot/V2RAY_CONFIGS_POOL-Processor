@@ -1,1 +1,1 @@
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@138.124.112.197:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node6.mxvpn.dev&sid=bbc68cec8bb8d2e3#📡🇫🇮®️Finland©️Helsinki🅿️ping:30.12ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:61.69ms

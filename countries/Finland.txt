@@ -1,3 +1,0 @@
-vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:40.02ms
-vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:26596?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.22ms
-vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@gb.sv.temas-bor.ir:22012?type=tcp&encryption=none&security=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.29ms

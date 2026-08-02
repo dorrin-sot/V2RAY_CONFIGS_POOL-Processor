@@ -1,2 +1,0 @@
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@185.146.173.33:2096?security=tls&sni=de.zafarinoco.ir&type=ws&path=/#📡🇸🇪®️Sweden©️Stockholm🅿️ping:6.46ms
-vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Jakobsberg🅿️ping:38.3ms

@@ -1,2 +1,4 @@
-vless://bc3196bf-f551-4390-978c-d76407550fbe@tr-play.mobileemdad.top:42542?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:47.15ms
-vless://bc3196bf-f551-4390-978c-d76407550fbe@tr-play.mobileemdad.top:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:45.83ms
+vless://470c7664-3262-afbb-2bef-f6f0f5e83815@185.226.94.191:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.203#📡🇹🇷®️Turkey©️Istanbul🅿️ping:46ms
+vless://470c7664-3262-afbb-2bef-f6f0f5e83815@185.226.94.191:80?type=ws&path=%2F#📡🇹🇷®️Turkey©️Istanbul🅿️ping:40ms
+vless://594f6aef-16f8-4a86-8e2e-a217344a96aa@pro-tr.emrata.top:443?type=tcp&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&fp=firefox&sni=pro-tr.emrata.top&flow=xtls-rprx-vision#📡🇹🇷®️Turkey©️Istanbul🅿️ping:51ms
+vless://b3779e17-7ac3-47af-a648-bccef9e02ceb@pro-tr.emrata.top:443?type=tcp&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&fp=firefox&sni=pro-tr.emrata.top&flow=xtls-rprx-vision#📡🇹🇷®️Turkey©️Istanbul🅿️ping:63ms

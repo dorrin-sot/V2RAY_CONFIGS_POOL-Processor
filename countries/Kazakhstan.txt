@@ -1,0 +1,1 @@
+vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.10.163:443?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&encryption=none#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:100ms

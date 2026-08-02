@@ -1,0 +1,5 @@
+trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls&sni=fair-reptile.rooster465.autos#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:167ms
+vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&type=ws&headerType=none&host=m.zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29&fp=android#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:167ms
+vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?security=false&type=ws&headerType=none&host=m.zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:168ms
+vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?type=ws&headerType=none&security=none&encryption=none&path=%2FFREE+By+Tharuwa+%280767597317%29&host=m.zoom.us&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:171ms
+vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?type=ws&headerType=none&security=none&encryption=none&path=%2FFREE+By+Tharuwa+%280767597317%29&host=m.zoom.us&fp=edge#📡🇸🇬®️Singapore©️Singapore (Somapah)🅿️ping:160ms

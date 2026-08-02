@@ -1,2 +1,2 @@
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?security=tls&type=ws&path=%2Fvws%2F&host=bab-6.site&packetEncoding=xudp&sni=bab-6.site&fp=chrome&encryption=none#📡🇫🇷®️France©️Gravelines🅿️ping:19ms
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?security=tls&type=ws&path=%2Fvws%2F&host=bab-6.site&packetEncoding=xudp&sni=bab-6.site&fp=chrome&encryption=none#📡🇫🇷®️France©️Gravelines🅿️ping:36ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:15.14ms
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:33.06ms

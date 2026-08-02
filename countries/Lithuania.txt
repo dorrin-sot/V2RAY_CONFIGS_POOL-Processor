@@ -1,0 +1,1 @@
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&alpn=h2&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ddc-chr2.astralweb.tech#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:49.09ms

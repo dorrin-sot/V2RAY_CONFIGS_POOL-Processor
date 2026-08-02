@@ -1,1 +1,1 @@
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?security=tls&type=ws&path=%2F&host=yykir7al.ndaiwcu.workers.dev&packetEncoding=xudp&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&encryption=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:27ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#📡🇵🇱®️Poland©️Warsaw🅿️ping:27ms

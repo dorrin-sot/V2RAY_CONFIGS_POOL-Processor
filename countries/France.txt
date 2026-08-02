@@ -1,2 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22224?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.3ms
-vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=b8aa&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:11ms
+vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.211:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=9e96f30390d6be81&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:6ms

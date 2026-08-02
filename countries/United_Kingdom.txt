@@ -1,3 +1,5 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:17.53ms
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?allowInsecure=1&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:18.19ms
-vless://cbb2ae6a-bf33-4e62-b59a-80b81f98dadf@me.plytob.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇬🇧®️United Kingdom©️London🅿️ping:20.38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:32.6ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:34.9ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#📡🇬🇧®️United Kingdom©️London🅿️ping:47.46ms
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:26.0ms
+vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@gr055.bamajobin.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=api.v1.data#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:32.67ms

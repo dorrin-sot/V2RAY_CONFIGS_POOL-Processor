@@ -1,3 +1,1 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl01.skorostnet.space:443?type=tcp&security=reality&sni=pl01.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&fp=edge&encryption=none&flow=xtls-rprx-vision#📡🇵🇱®️Poland©️Warsaw🅿️ping:41ms
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl03.skorostnet.space:443?type=tcp&security=reality&sni=pl03.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&fp=edge&encryption=none&flow=xtls-rprx-vision#📡🇵🇱®️Poland©️Warsaw🅿️ping:35ms
-vless://f50822b7-02ec-4611-83bd-ff29411e0e10@91.193.18.173:8443?type=grpc&security=reality&fp=firefox&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5&sni=addons.mozilla.org&serviceName=api.v1.telemetry.EventStream#📡🇵🇱®️Poland©️Warsaw🅿️ping:23ms
+vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?&type=tcp&headerType=none&path=%2F#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.28ms

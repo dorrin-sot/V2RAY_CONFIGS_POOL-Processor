@@ -1,1 +1,0 @@
-vless://f50822b7-02ec-4611-83bd-ff29411e0e10@212.2.34.104:8443?type=grpc&security=reality&fp=firefox&pbk=u5kkIBpqT_qOVMCs_Cgc1YrU89NVLZ6w_gdEyBj4Cjw&sid=b9cd333706f5&sni=dl.google.com&mode=gun&serviceName=grpc#📡🇧🇭®️Bahrain©️Manama🅿️ping:23ms

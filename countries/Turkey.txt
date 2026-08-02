@@ -1,1 +1,0 @@
-vless://a03df445-0666-4d61-acde-9705009e409c@turok2.o4ka-internet.com:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=turok2.o4ka-internet.com&sid=5629431325884ff0#📡🇹🇷®️Turkey©️Istanbul🅿️ping:83.42ms

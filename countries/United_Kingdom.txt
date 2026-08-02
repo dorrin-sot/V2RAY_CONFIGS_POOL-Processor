@@ -1,5 +1,0 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:25.23ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:24.17ms
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?allowInsecure=1&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:16.34ms
-vless://136a87e1-c414-4010-b73b-18d0fca70d68@pi.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:25.23ms
-vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@54.37.5.30:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:23.28ms

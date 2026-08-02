@@ -1,1 +1,1 @@
-vless://c3388667-987b-40eb-bd28-2540961cab07@141.101.123.72:8443?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#📡🇵🇱®️Poland©️Warsaw🅿️ping:10.95ms
+vless://8d5f13dc-c427-4452-a44f-7f7d5301dcea@82.40.62.209:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:54.21ms

@@ -1,4 +1,1 @@
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.39.232.66:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#📡🇰🇷®️South Korea©️Incheon🅿️ping:238.41ms
-vless://26524cce-d514-4014-a426-365fb266a14d@158.179.174.225:36364?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#📡🇰🇷®️South Korea©️Chuncheon-si🅿️ping:276.1ms
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.93:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:231.64ms
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&flow=xtls-rprx-vision-udp443#📡🇰🇷®️South Korea©️Yangcheondong🅿️ping:246.54ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#📡🇰🇷®️South Korea©️Seoul🅿️ping:314.43ms

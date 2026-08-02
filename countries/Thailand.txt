@@ -1,1 +1,1 @@
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@171.103.221.162:10026?&security=tls&fp=chrome&sni=sni.ehb.cc.cd&type=ws&headerType=none&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2#📡🇹🇭®️Thailand©️Sirindhorn🅿️ping:200.9ms
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#📡🇹🇭®️Thailand©️Bangkok🅿️ping:186.85ms

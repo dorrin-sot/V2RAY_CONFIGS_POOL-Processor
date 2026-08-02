@@ -1,2 +1,0 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.117:62145?&type=tcp&headerType=none&path=%2F#📡🇨🇴®️Colombia©️Cota🅿️ping:184.42ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.61:62145?&type=tcp&headerType=none&path=%2F#📡🇨🇴®️Colombia©️Cota🅿️ping:181.58ms

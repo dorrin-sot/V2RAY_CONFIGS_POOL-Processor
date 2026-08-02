@@ -1,4 +1,0 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#📡🇵🇱®️Poland©️Warsaw🅿️ping:27.05ms
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:62.3ms
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fi1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&type=tcp&sni=deepl.com&sid=a8ae#📡🇵🇱®️Poland©️Warsaw🅿️ping:26.42ms
-vless://db8dc0ce-d9ef-4362-b2b3-72e0532bf166@82.40.62.103:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:54.77ms

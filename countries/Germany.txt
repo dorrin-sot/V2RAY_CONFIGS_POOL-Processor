@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@bl1.levikogjgfdd.ir:1080#📡🇩🇪®️Germany©️Falkenstein🅿️ping:20.65ms
-vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:18.58ms
-vless://4ef9367b-06e5-4f05-b0a6-e45ab785ff42@s3.vip-canepanel.shop:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:17.01ms
-vless://b3506a00-c476-4b9b-859b-8362a1373ef1@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:6.12ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#📡🇩🇪®️Germany©️Düsseldorf (Stadtbezirk IX)🅿️ping:9.78ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Bad Soden am Taunus🅿️ping:18.01ms
+vless://1f7d2407-09bc-4d10-9cb6-338f799a2a1f@node.safecorex.net:8444?security=reality&encryption=none&pbk=auD1qWKYieKOam0HCy5TfJcnXrsjM18nIj6XSoTcA1k&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=73975cb764c7368c#📡🇩🇪®️Germany©️Falkenstein🅿️ping:20.86ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@3.67.232.136:443?security=tls&sni=Vh.yLkS.Xyz&type=ws&path=/pai6buclahf9cxx3?ed#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:6.58ms
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@tun.temas-bor.ir:1963?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:17.51ms

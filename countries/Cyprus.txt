@@ -1,0 +1,1 @@
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&encryption=none&security=none#📡🇨🇾®️Cyprus©️Larnaca🅿️ping:78.15ms

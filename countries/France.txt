@@ -1,2 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.34ms
-vless://f66e556c-a006-5d1a-2d52-a8de1df7d18c@185.171.202.229:8443?mode=auto&security=reality&encryption=none&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&host=play.google.com&fp=firefox&spx=%2F&type=xhttp&sni=play.google.com&sid=f49da53c#📡🇫🇷®️France©️Paris🅿️ping:24.4ms

@@ -1,1 +1,1 @@
-vless://4cbefb4d-328c-411d-bf76-780df1082df8@stockholm-meow.nethcloud.top:8443?security=reality&type=xhttp&path=%2F&host=wikihow.com&packetEncoding=none&sni=wikihow.com&fp=firefox&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&mode=auto#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:52ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&encryption=none&headerType=none&type=tcp#📡🇭🇰®️Hong Kong©️Lai Chi Kok🅿️ping:289.9ms

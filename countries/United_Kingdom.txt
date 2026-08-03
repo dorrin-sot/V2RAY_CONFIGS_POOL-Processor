@@ -1,2 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.193.29.38:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#📡🇬🇧®️United Kingdom©️London🅿️ping:6.43ms
-vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:6.36ms
+vless://34eaf2f3-894f-472e-a36c-0e08a30f0829@185.199.198.182:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#📡🇬🇧®️United Kingdom©️Slough🅿️ping:27.0ms

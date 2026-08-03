@@ -1,1 +1,3 @@
-ss://YWVzLTI1Ni1nY206TmxScFpHVk5UMmw2UTFOQmJIWjVOVE0zVVc4MFptRkZkME5SZEZSRVpVOTRUek14U0dKUVptdDRSRkp6VTBaRFlsWnZPVWhDT0d4SmVUbHVTMHRXWXc9PQ@94.198.219.24:45855#📡🇷🇺®️Russia©️St Petersburg🅿️ping:41.32ms
+vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.66:2053?encryption=none&security=reality&sni=dns.adguard-dns.com&alpn=http%2F1.1&pbk=RaAQd349NbMoL5WJOfT_RWvlT2s6sav0pOgEsoSm2zw&sid=f0131a4772b494d4&type=grpc&serviceName=grpc&packetEncoding=xudp&fp=edge#📡🇷🇺®️Russia©️Moscow🅿️ping:70ms
+vless://d73e9fed-2d40-4f9b-9d29-a7478f47f0b6@95.163.232.242:443?alpn=http/1.1&encryption=none&fp=firefox&host=w.upgrade101.club&path=/ws-f28c040ba3857b276cc22135&security=tls&sni=w.upgrade101.club&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:64ms
+vless://d73e9fed-2d40-4f9b-9d29-a7478f47f0b6@95.163.232.242:443?alpn=http/1.1&encryption=none&fp=firefox&host=w.upgrade101.club&path=/ws-f28c040ba3857b276cc22135&security=tls&sni=w.upgrade101.club&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:77ms

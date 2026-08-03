@@ -1,2 +1,0 @@
-vless://88d33db0-3ba2-4dcc-8094-0f61c94821a8@trackydev.site:2053?encryption=none&type=xhttp&host=trackydev.site&headerType=auto&path=%2F&security=tls&fp=chrome&sni=load.microsoft.com#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:221.7ms
-vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?encryption=none&type=ws&host=trackydev.site&headerType=none&path=%2F&security=tls&fp=chrome&sni=m.youtube.com#📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:178.89ms

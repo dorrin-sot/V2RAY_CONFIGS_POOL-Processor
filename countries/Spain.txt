@@ -1,1 +1,2 @@
-vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@82.22.47.50:25129?type=ws&headerType=none&path=/xray#📡🇪🇸®️Spain©️Madrid🅿️ping:34.04ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#📡🇪🇸®️Spain©️Barcelona🅿️ping:28.09ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#📡🇪🇸®️Spain©️Barcelona🅿️ping:28.36ms

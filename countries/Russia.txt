@@ -1,3 +1,1 @@
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@186.246.29.207:443?security=reality&encryption=none&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nrt.sunrocket.org#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:94.56ms
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:43.04ms
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:43.04ms
+ss://YWVzLTI1Ni1nY206TmxScFpHVk5UMmw2UTFOQmJIWjVOVE0zVVc4MFptRkZkME5SZEZSRVpVOTRUek14U0dKUVptdDRSRkp6VTBaRFlsWnZPVWhDT0d4SmVUbHVTMHRXWXc9PQ@94.198.219.24:45855#📡🇷🇺®️Russia©️St Petersburg🅿️ping:41.32ms

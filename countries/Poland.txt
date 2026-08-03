@@ -1,3 +1,1 @@
-vless://5a01fefd-e1e3-4e4e-b9e0-f66668ce0449@VIP.mexokj.iR:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:235.71ms
-vless://c8e4856d-be25-4909-a3d6-c4728921cf20@4aem4.pastilbastani.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.02ms
-vless://c8e4856d-be25-4909-a3d6-c4728921cf20@4aem4.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:38.02ms
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:16.36ms

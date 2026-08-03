@@ -1,2 +1,2 @@
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:40.53ms
-vless://904a9a3e-1d23-4b33-9830-cab1a34d0b41@0in.pin.spaidan.ir:32073?encryption=none&host=&path=%2F&security=none&type=httpupgrade#📡🇫🇮®️Finland©️Helsinki🅿️ping:55.14ms
+vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.76.80.205:443?security=reality&encryption=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#📡🇫🇮®️Finland©️Helsinki🅿️ping:36.36ms
+vless://83e13b2f-250f-43e4-8257-486c341ffb81@fl.lorzema.ir:2583?mode=gun&security=reality&encryption=none&pbk=noT46H0V_OysEB7xcYbl-YdWRpvBQ87C8TOlSwqrcVg&fp=chrome&type=grpc&serviceName=yourServiceName&sni=yahoo.com&sid=99a46066104c46f9#📡🇫🇮®️Finland©️Helsinki🅿️ping:39.48ms

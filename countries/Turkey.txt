@@ -1,2 +1,1 @@
-vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=none&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#📡🇹🇷®️Turkey©️Istanbul🅿️ping:53.55ms
-vless://bf027535-f968-4a17-9249-ae764e3b2c48@217.11.164.92:37194?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:39.25ms
+vless://924915fd-cb91-4e0d-9bcb-452b0127bcc2@cdn-xui37.korvexe.ir:47402?security=reality&encryption=none&pbk=DmeABR7lSmvueMDp80Y7A9SteIlbGUhExedf_rmTGBY&headerType=none&fp=chrome&spx=%2F3418ae7af17fcf9&type=tcp&sni=www.cloudflare.com&sid=4e55576b#📡🇹🇷®️Turkey©️Istanbul🅿️ping:60.3ms

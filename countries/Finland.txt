@@ -1,4 +1,0 @@
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.54ms
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:32.95ms
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@fw.ch-moltisanti.ru:443?security=reality&encryption=none&pbk=hRllSmqS51Qaj-QyVKUxaB3NxHXY6yi-eITBeFPqnXQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fw.ch-moltisanti.ru&sid=825d392c67e4#📡🇫🇮®️Finland©️Helsinki🅿️ping:78ms
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@fw.ch-moltisanti.ru:8443?mode=auto&path=%2Fapi%2F&security=reality&encryption=none&pbk=-NZHYgZ9TqbGhZhmpYAR-vHTU12MqxC53nQ1pfz-h38&host=fw.ch-moltisanti.ru&fp=firefox&spx=%2F&type=xhttp&sni=fw.ch-moltisanti.ru&sid=e0a74f1dfdfd#📡🇫🇮®️Finland©️Helsinki🅿️ping:48ms

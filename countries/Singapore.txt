@@ -1,3 +1,2 @@
-vless://28b3deb1-c9ae-445f-b015-c73ff0f5210a@sg2.vpnlegasi.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=isi_bug_disini#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:177.9ms
-vless://28b3deb1-c9ae-445f-b015-c73ff0f5210a@sg2.vpnlegasi.com:443?path=/vlessws&security=tls&encryption=none&type=ws&sni=isi_bug_disini#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:177.9ms
-vless://28b3deb1-c9ae-445f-b015-c73ff0f5210a@sg2.vpnlegasi.com:80?path=/vlessws&encryption=none&type=ws&host=isi_bug_disini#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:179.7ms
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?sni=139.59.238.97&allowInsecure=1&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:164ms
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d1742269&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc#📡🇸🇬®️Singapore©️Singapore🅿️ping:162ms

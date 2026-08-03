@@ -1,1 +1,3 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#📡🇫🇷®️France©️Paris🅿️ping:15ms
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.flux3ni5o.info:8443?security=tls&type=ws&path=%2F&host=ad-010.flux3ni5o.info&packetEncoding=xudp&sni=ad-010.flux3ni5o.info&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:14.18ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.53.125:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.23ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.53.125:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.18ms

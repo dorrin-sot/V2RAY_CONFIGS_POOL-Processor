@@ -1,0 +1,2 @@
+vless://28b3deb1-c9ae-445f-b015-c73ff0f5210a@sg2.vpnlegasi.com:80?path=/vlessws&encryption=none&type=ws&host=isi_bug_disini#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:169ms
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&packetEncoding=xudp&encryption=none#📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:169ms

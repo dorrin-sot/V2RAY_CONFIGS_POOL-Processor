@@ -1,0 +1,8 @@
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#📡🇫🇷®️France©️Paris🅿️ping:14.23ms
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#📡🇫🇷®️France©️Villeneuve-lès-Maguelone🅿️ping:15.41ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&host=CHANNEL--ELiV2RAY---ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:89.71ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&host=CHANNEL-ELiV2RAY-ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:89.71ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL---ELiV2RAY-ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:89.71ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL--ELiV2RAY-ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:89.71ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.150.100:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.23ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.64.110:22224?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.22ms

@@ -1,2 +1,2 @@
-vless://73c8ad8a-5803-49fb-8183-39f34ad3a3ea@198.44.177.117:60101?allowInsecure=1#📡🇮🇹®️Italy©️Milan🅿️ping:25.71ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇮🇹®️Italy©️Milan🅿️ping:25.71ms
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80/?type=ws&encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F#📡🇮🇹®️Italy©️Milan🅿️ping:29ms
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80/?type=ws&encryption=none&flow=&host=OV-Italy1.09vpn.com&path=/vless/#📡🇮🇹®️Italy©️Milan🅿️ping:15ms

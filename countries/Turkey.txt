@@ -1,2 +1,0 @@
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@158.94.216.196:2056?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:44.32ms
-vless://ea8938b3-c3a5-4699-97d1-efc982aa05ae@89.251.8.143:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Konya🅿️ping:40.6ms

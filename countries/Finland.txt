@@ -1,1 +1,0 @@
-vless://483b3264-3d53-40a6-a0ae-81799dddeada@85.192.49.8:10108?mode=gun&security=reality&encryption=none&pbk=sIyOGkF1P5vOD51IeEb9aKzPhBAhXrH2w3XCnFKbchI&fp=firefox&type=grpc&serviceName=api&sni=www.icloud.com&sid=b828bffc5f#📡🇫🇮®️Finland©️Helsinki🅿️ping:34.1ms

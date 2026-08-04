@@ -1,5 +1,2 @@
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@ukall.lorqina.ir:27963?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Erith🅿️ping:34.48ms
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.193.29.38:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:186.33ms
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@46.226.162.22:2053?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:10.97ms
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:21.67ms
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:21.67ms
+vless://1a6d2f60-6c75-470b-891a-457b13d70a8e@54.37.6.39:6500?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#📡🇬🇧®️United Kingdom©️London (City of London)🅿️ping:24ms
+vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d6ff9019a77e354a&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg#📡🇬🇧®️United Kingdom©️London🅿️ping:14ms

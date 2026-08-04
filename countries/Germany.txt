@@ -1,16 +1,10 @@
-trojan://S2afbE52L3@51.75.69.164:2087#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:13.82ms
-trojan://S2afbE52L3@51.75.69.164:2087#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:7.33ms
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:41.29ms
-vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:7.33ms
-vless://298cb204-dadc-567d-e3bc-e092a69a8044@dl1.HelloWorld.lornavps.ir:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp&headerType=http&encryption=none&path=%2F&host=play.google.com&fragment=10-100%2C100-200%2Ctlshello&noise=rand%3A10-20%2C100-200#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:13.82ms
-vless://298cb204-dadc-567d-e3bc-e092a69a8044@dl1.HelloWorld.lornavps.ir:8080?security=none&type=tcp&headerType=http&encryption=none&path=%2F&host=play.google.com&fragment=10-100%2C100-200%2Ctlshello&noise=rand%3A10-20%2C100-200#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:13.82ms
-vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@103.27.156.63:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:6.73ms
-vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:25.63ms
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@191.44.108.249:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:12.09ms
-vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520?security=reality&encryption=none&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&headerType=none&type=tcp&sni=yahoo.com&sid=a8de8bc1e9f5ef#📡🇩🇪®️Germany©️Falkenstein🅿️ping:11ms
-vless://b46d67ed-3ed1-47c7-b8ec-ec645afc39f8@chsrv.21ayar.ir:7911?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:15.71ms
-vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:67.11ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@150.230.146.170:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.sub-flow.online&fp=firefox&type=ws&allowInsecure=0&sni=forfreeuse.sub-flow.online#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:7ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@92.119.90.67:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.sub-flow.online&fp=firefox&type=ws&allowInsecure=0&sni=forfreeuse.sub-flow.online#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:6ms
-vless://f3d2dbde-f8c1-4fd1-a4ff-32c2fd476d65@nod4.kaafserver.ir:8443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Falkenstein🅿️ping:21.06ms
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:6.82ms
+trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33ms
+trojan://ND91608427@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60ms
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:46ms
+trojan://UO36402987@many-cricket.rooster465.autos:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
+trojan://UO36402987@many-cricket.rooster465.autos:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31ms
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=raw&packetEncoding=xudp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:9ms
+vless://59c07b8c-1f64-4c5c-9b37-c2654109604c@176.122.164.194:16384?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=155b65eefb96e334&pbk=7rqDoetaJ-DcI7dlfwlF1DaZu8aJIngP1dAqnEIAixg#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:11ms
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:16ms
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.193.221:1234?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:10ms

@@ -1,10 +1,14 @@
-trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33ms
-trojan://ND91608427@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60ms
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:46ms
-trojan://UO36402987@many-cricket.rooster465.autos:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
-trojan://UO36402987@many-cricket.rooster465.autos:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31ms
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?security=none&type=raw&packetEncoding=xudp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:9ms
-vless://59c07b8c-1f64-4c5c-9b37-c2654109604c@176.122.164.194:16384?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=155b65eefb96e334&pbk=7rqDoetaJ-DcI7dlfwlF1DaZu8aJIngP1dAqnEIAixg#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:11ms
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.192.171:1234?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:16ms
-vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.193.221:1234?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:10ms
+trojan://808ab92962abbca@ht.configfast.site:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=&fp=firefox&spx=/uO67yaslc2fZg9k&type=tcp&sni=google.com&sid=e3916e0f2c8b438b#📡🇩🇪®️Germany©️Nuremberg🅿️ping:22.79ms
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@178.104.53.175:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:26.35ms
+vless://48830385-d494-4248-999a-3ab38aa42101@104.248.253.254:25128?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:7.71ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@128.140.114.57:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Falkenstein🅿️ping:10.93ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:8.94ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:16.62ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@167.233.233.187:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:10.79ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.62ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@168.119.156.100:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Falkenstein🅿️ping:10.78ms
+vless://81d1e488-369b-4596-b7fb-19fa069b920e@46.225.208.199:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.13ms
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&encryption=none&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=479826bdfc3eb86e#📡🇩🇪®️Germany©️Saarbrücken (Mitte)🅿️ping:7ms
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&encryption=none&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=479826bdfc3eb86e#📡🇩🇪®️Germany©️Saarbrücken (Mitte)🅿️ping:8ms
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:16.4ms
+vless://bccd6085-b88a-40ec-872c-a59cff204afc@gotveran.sav-savteam.ir:2010?encryption=none&type=tcp&headerType=http&host=play.google.com#📡🇩🇪®️Germany©️Nuremberg🅿️ping:20.7ms

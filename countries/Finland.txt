@@ -1,6 +1,5 @@
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:47.74ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ%3D%3D@31.76.30.79:10808#📡🇫🇮®️Finland©️Helsinki🅿️ping:32.0ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#📡🇫🇮®️Finland©️Helsinki🅿️ping:119.32ms
-vless://136a87e1-c414-4010-b73b-18d0fca70d68@pi.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:41.85ms
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:34.41ms
-vless://60111042-2b80-4e11-9d02-82696ae4cabd@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:34.41ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@cf.090227.xyz:443?security=tls&type=ws&path=%2Ffdip%3Dtw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#📡🇫🇮®️Finland©️Helsinki🅿️ping:37ms
+vless://45c876f9-4900-40c0-b269-94871e78df54@95.85.247.4:443?security=reality&encryption=none&pbk=DuBWDQyWu_GSuXJ1obaGfRsaLuAUjM9-FfjNaDhTC34&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl01.port-server.online&sid=2474ace4845fcdef#📡🇫🇮®️Finland©️Helsinki🅿️ping:37ms
+vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?security=tls&type=ws&path=%2F%40Marisa_kristi&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&packetEncoding=xudp&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome#📡🇫🇮®️Finland©️Helsinki🅿️ping:29ms
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi1.hys.braidx.tech#📡🇫🇮®️Finland©️Helsinki🅿️ping:37ms
+vless://ab044a84-8263-42ab-a1f1-2fd5ebace70d@212.237.217.7:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=firefox&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#📡🇫🇮®️Finland©️Helsinki🅿️ping:46.33ms

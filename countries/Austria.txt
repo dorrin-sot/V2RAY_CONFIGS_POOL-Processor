@@ -1,1 +1,1 @@
-vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@5.181.21.234:443?sid=6c6082a2223c1d03&sni=fl4.raketa-balance.com&type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&flow=xtls-rprx-vision&encryption=none#📡🇦🇹®️Austria©️Vienna (Inner city)🅿️ping:33.08ms
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#📡🇦🇹®️Austria©️Vienna🅿️ping:39ms

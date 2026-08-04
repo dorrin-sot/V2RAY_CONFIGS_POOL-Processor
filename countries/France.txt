@@ -1,2 +1,1 @@
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.110.106.98:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:18.33ms
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:10.78ms
+vless://1e04d54e-bf59-4376-9f08-b60053690f0e@62.60.156.129:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zb1mmO7cUlrroAVle2DFJ7kiDJLyk_1QXxagGWV95V0&security=reality&sid=33dd7cd18edeb288&sni=par1newone.mooo.com&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:10.79ms

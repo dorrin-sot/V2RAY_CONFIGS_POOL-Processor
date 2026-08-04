@@ -1,4 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.193.29.38:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:6.82ms
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@46.226.162.22:2053?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:11.4ms
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:25.36ms
-vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:25.36ms
+vless://2498ff45-e115-4cad-ba51-15878bd56b0e@104.194.143.141:9900?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=G2mb-fgV51Fo4RnY1NKF-0PKrJCJtHy03Vej25bCwH8&security=reality&sid=be9abc8d26b6&sni=play.google.com&spx=%2Fj5qxrmzVpExVeMs&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:20.15ms

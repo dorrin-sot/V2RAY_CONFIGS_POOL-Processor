@@ -1,4 +1,4 @@
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.163:443?type=tcp&encryption=none&security=none#📡🇵🇭®️Philippines©️Manila🅿️ping:40.24ms
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.238:443?type=tcp&encryption=none&security=none#📡🇵🇭®️Philippines©️Manila🅿️ping:40.96ms
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?type=tcp&encryption=none&security=none#📡🇵🇭®️Philippines©️Manila🅿️ping:44.49ms
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.70:443?type=tcp&encryption=none&security=none#📡🇵🇭®️Philippines©️Manila🅿️ping:40.31ms
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.165:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#📡🇵🇭®️Philippines©️Manila🅿️ping:42.7ms
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.187:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#📡🇵🇭®️Philippines©️Manila🅿️ping:45.18ms
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.193:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#📡🇵🇭®️Philippines©️Manila🅿️ping:42.86ms
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.197:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#📡🇵🇭®️Philippines©️Manila🅿️ping:42.89ms

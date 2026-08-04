@@ -1,0 +1,3 @@
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#📡🇸🇬®️Singapore©️Singapore🅿️ping:169.07ms
+trojan://auto@194.53.53.4:443#📡🇸🇬®️Singapore©️Singapore (Geylang)🅿️ping:6.43ms
+vless://cfb310a9-7846-45dd-b72c-37597d6e33b3@217.217.254.126:2053?encryption=none&fp=&pbk=B1e_iMjxReenyAiFXDymzmzFNHqhvwc_RMdD3o3KYRE&security=reality&sid=64e6ad70ed4c248f&sni=www.apple.com&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:158.54ms

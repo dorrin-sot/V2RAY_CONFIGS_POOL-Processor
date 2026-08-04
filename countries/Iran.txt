@@ -1,3 +1,0 @@
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:104.71ms
-trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:87.97ms
-vless://ee512c0a-42e5-4a50-8637-7a3699fe9c7b@gr-2.tiptop-1.top:8443?encryption=none&security=tls&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:176.29ms

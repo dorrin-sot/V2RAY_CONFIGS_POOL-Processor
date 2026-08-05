@@ -1,1 +1,2 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl11.skorostnet.space:443?type=tcp&security=reality&sni=fl11.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&fp=firefox&encryption=none&flow=xtls-rprx-vision#📡🇫🇮®️Finland©️Helsinki🅿️ping:49.15ms
+vless://85bc5923-c4b6-4dd4-b83e-7c2e301fb253@ir.pasargadgames.ir:26131?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:43.02ms
+vless://caec7e57-ca9e-4738-a2c3-4ed513d83451@62.238.55.96:1234?security=none&encryption=none&host=play.google.com%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:37.38ms

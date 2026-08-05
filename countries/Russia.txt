@@ -1,3 +1,0 @@
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=aae8&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:23ms
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@185.247.16.49:2237?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#📡🇷🇺®️Russia©️St Petersburg🅿️ping:43.03ms
-vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:63.57ms

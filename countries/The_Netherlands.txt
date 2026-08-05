@@ -1,11 +1,2 @@
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=5.255.102.165#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.37ms
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:28.49ms
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:19.15ms
-vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=113241ad01e99a2d&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:16ms
-vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=113241ad01e99a2d&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15ms
-vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=15affa0af66dfc79&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&encryption=none#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15ms
+vless://vl_test1@91.84.117.29:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=vk.com&fp=edge&sid=67&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&mode=auto&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:17ms

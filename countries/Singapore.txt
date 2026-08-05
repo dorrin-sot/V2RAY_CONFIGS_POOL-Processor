@@ -1,1 +1,4 @@
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#📡🇸🇬®️Singapore©️Singapore🅿️ping:168.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
+vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=aka.ms#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
+vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=netflix.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
+vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=whatapp.net#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms

@@ -1,1 +1,1 @@
-vless://272a24c8-a34e-4729-ab05-fc7ba53c12f3@in-play.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:50.69ms
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#📡🇹🇷®️Turkey©️Istanbul🅿️ping:44.01ms

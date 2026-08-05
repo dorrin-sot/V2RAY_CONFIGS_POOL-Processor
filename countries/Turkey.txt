@@ -1,1 +1,1 @@
-vless://1e9d4dbf-706e-4d26-9714-dd5f365ef7c0@arme.biscuitnazari.ir:9443?mode=gun&security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&fp=edge&spx=%2F9890eb6a2ee1c04&type=grpc&sni=play.google.com&sid=c72f2d50af#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:52.55ms
+vless://e5156fba-baa6-4210-bcf3-3f5560df1283@arme.biscuitnazari.ir:8889?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=3WLKK37y3OMoln3kQD3XjhaZJerNcrFDmI9-lS-w8g4&security=reality&sid=e463&sni=www.icloud.com&spx=%2F59d582132da2745&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:58.27ms

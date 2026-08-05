@@ -1,0 +1,2 @@
+vless://a2738d8d-ed26-4b13-a4a2-b89c7238cd10@78.159.240.31:26443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jOBo4R259-p0H2EcHMPO_R1uPZ8hyM_Yj1K5Nejch2U&security=reality&sid=d681ac08&sni=shopping-api-gateway.cdek.shopping&type=raw#📡🇷🇺®️Russia©️Moscow🅿️ping:51.73ms
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@russia.vypnet.su:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc#📡🇷🇺®️Russia©️St Petersburg🅿️ping:68ms

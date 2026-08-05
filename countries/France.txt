@@ -1,2 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:14.26ms
-vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@germany2.avrilon.us:443?flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&security=reality&sni=image.semiconductor.samsung.com&fp=chrome&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&sid=2f3178a1d747&spx=%2F49b9d6fab1f9e6c&allowinsecure=0&type=tcp&headerType=none#📡🇫🇷®️France©️Roubaix🅿️ping:17.45ms
+trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#📡🇫🇷®️France©️Paris🅿️ping:15ms
+trojan://ND91608427@15.237.219.234:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=careful-tadpole.rooster465.autos#📡🇫🇷®️France©️Drucat🅿️ping:15ms

@@ -1,2 +1,1 @@
-trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#📡🇫🇷®️France©️Paris🅿️ping:15ms
-trojan://ND91608427@15.237.219.234:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=careful-tadpole.rooster465.autos#📡🇫🇷®️France©️Drucat🅿️ping:15ms
+vless://f9d8ca28-2fff-45de-9b25-3bf29186018e@15.237.177.139:43248?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=3355cf9734b0150e&pbk=LPLKpq5_G1WB6BqJhrCKQp1oQly3akbsVjvYPZrbGgg#📡🇫🇷®️France©️Paris🅿️ping:14ms

@@ -1,2 +1,1 @@
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@185.215.184.31:8443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#📡🇪🇪®️Estonia©️Narva🅿️ping:35ms
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#📡🇪🇪®️Estonia©️Tallinn🅿️ping:18ms
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#📡🇪🇪®️Estonia©️Tallinn🅿️ping:40ms

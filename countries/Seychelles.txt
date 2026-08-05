@@ -1,1 +1,1 @@
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?type=tcp&encryption=none&security=none#📡🇸🇨®️Seychelles©️Victoria🅿️ping:6.95ms
+trojan://humanity@45.130.125.158:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios#📡🇸🇨®️Seychelles©️Victoria🅿️ping:7ms

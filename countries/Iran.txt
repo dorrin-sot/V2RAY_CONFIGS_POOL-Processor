@@ -1,2 +1,4 @@
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:152ms
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:196ms
+vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:99.46ms
+vless://a89159ad-c590-451c-99cb-42b5ecf938c2@arvancloud.ir:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:97.76ms
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:98.34ms
+vless://e1da4e62-38ad-4481-8330-fc47ace8bd3a@line2.gymplusplus.com:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:99.3ms

@@ -1,2 +1,2 @@
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@45.206.5.122:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=qq&flow=xtls-rprx-vision&sid=500aec9e9e5e2212&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:95ms
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@50.7.226.197:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=b25E83ngaQt0K7Ygx4dz6sIu7QjW3-VydFx2v9-HPwg&sid=349f5c88&flow=xtls-rprx-vision#📡🇬🇧®️United Kingdom©️London🅿️ping:17ms
+trojan://521314@5.10.215.9:443?sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram%D1%80%D2%B9%D2%AE%D0%81%D1%80%D2%B9%D2%AE%D1%96%20%40VPNine1#📡🇬🇧®️United Kingdom©️London🅿️ping:6.45ms
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:17.67ms

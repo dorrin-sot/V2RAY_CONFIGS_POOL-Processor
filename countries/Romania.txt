@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#📡🇷🇴®️Romania©️Voluntari🅿️ping:31.76ms
-vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?encryption=none&type=tcp&headerType=http#📡🇷🇴®️Romania©️Bucharest🅿️ping:43.8ms
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#📡🇷🇴®️Romania©️Iași🅿️ping:55ms

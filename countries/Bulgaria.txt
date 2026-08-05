@@ -1,2 +1,0 @@
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:31ms
-vless://3ccba794-1c6d-48a8-acf2-f5caf0e69d86@104.18.0.1:443?security=tls&type=ws&path=%2F&host=all.speedtest03.ccwu.cc&packetEncoding=xudp&sni=all.speedtest03.ccwu.cc&fp=chrome&encryption=none#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:31ms

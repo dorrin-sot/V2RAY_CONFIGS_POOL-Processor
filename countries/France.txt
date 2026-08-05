@@ -1,3 +1,0 @@
-vless://1a6d2f60-6c75-470b-891a-457b13d70a8e@france.relvuno.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#📡🇫🇷®️France©️Paris (7th Arrondissement)🅿️ping:25.75ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&type=raw&packetEncoding=xudp&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:27ms
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&type=tcp&packetEncoding=xudp&encryption=none#📡🇫🇷®️France©️Paris🅿️ping:45ms

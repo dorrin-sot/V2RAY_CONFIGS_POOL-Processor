@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:26.26ms
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?allowInsecure=1&sni=hk.catxstar.com#📡🇬🇧®️United Kingdom©️London🅿️ping:15.83ms
+vless://21b887ba-e23a-48f2-9882-7cb1f1ff9923@91.193.58.201:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=mkkkk.prodnsspeed10.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mkkkk.prodnsspeed10.ir#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:6.44ms
+vless://c8fe7ac3-b856-43a3-83c6-7add01473004@104.194.148.31:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=Ktlxb7kcAIB9_kWTWqD4EOcSLfwQsNqTrc3xBokhYBo&security=reality&sid=90&sni=www.nvidia.com&spx=%2FyCXkE90WA3xmofa&type=xhttp&x_padding_bytes=100-1000#📡🇬🇧®️United Kingdom©️London🅿️ping:19.81ms

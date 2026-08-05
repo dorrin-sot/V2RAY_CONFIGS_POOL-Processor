@@ -1,1 +1,1 @@
-vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@87.251.69.48:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=at16.fastlanehosting.ru&fp=chrome&encryption=none#📡🇦🇹®️Austria©️Judenburg🅿️ping:18ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.198:443?security=tls&sni=jpe.ylks01.eu.org&type=ws&path=/?proxyip#📡🇦🇹®️Austria©️Vienna🅿️ping:6.83ms

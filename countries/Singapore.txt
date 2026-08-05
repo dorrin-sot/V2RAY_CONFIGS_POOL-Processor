@@ -1,1 +1,1 @@
-trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:192ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.219.144.168:443?security=tls&sni=ve.ylks.xyz&type=ws&path=/?proxyip#📡🇸🇬®️Singapore©️Singapore🅿️ping:168.58ms

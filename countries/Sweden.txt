@@ -1,1 +1,1 @@
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:443?security=reality&encryption=none&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sa.ch-moltisanti.ru&sid=825d392c67e4#📡🇸🇪®️Sweden©️Stockholm🅿️ping:29.91ms
+vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.nvidia.com&fp=firefox&flow=xtls-rprx-vision&sid=58c5b3ee013bdc8f&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&encryption=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:29ms

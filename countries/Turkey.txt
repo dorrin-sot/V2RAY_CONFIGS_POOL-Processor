@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#📡🇹🇷®️Turkey©️Bursa🅿️ping:59.29ms
-trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#📡🇹🇷®️Turkey©️Istanbul🅿️ping:7ms
-vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?path=%2F&security=none&encryption=none&host=nl-bl-nl.karmatel.ir&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:54.38ms
+vless://7dfe2f33-54c5-43cf-a654-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:63.61ms
+vless://7dfe2f33-54c5-43cf-a654-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?security=&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:63.61ms

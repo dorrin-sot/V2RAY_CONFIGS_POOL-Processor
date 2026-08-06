@@ -1,1 +1,0 @@
-vless://f7cfd1cb-c602-405b-88c4-6fc173bdf4ca@adgof.mgodping12.xyz:2086?type=grpc&security=tls&fp=chrome&serviceName=&sni=&alpn=h2%2Chttp%2F1.1%2Ch3#📡🇮🇷®️Iran©️Tehran🅿️ping:85.68ms

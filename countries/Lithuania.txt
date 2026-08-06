@@ -1,1 +1,1 @@
-vless://SoonTeam@ge.imsoon.org:8443?encryption=none&security=reality&sni=wxug.com&fp=chrome&pbk=BZumLiR7Rg4gs5wa7yntqC5fyZV9Dr8ZpeoAUN5BOxQ&sid=ce77fcf457&spx=/446d13373223738&type=grpc#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:19.3ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.69.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime06.workers.dev&packetEncoding=xudp#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:7ms

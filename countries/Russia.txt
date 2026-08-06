@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:7ms
-vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=%2Fv1&host=rzd.ru&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:136.37ms

@@ -1,0 +1,1 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime54.workers.dev&packetEncoding=xudp#📡🇵🇹®️Portugal©️Lisbon🅿️ping:6ms

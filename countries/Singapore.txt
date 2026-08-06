@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
-vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=aka.ms#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
-vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=netflix.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
-vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=whatapp.net#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:189.94ms
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?sni=139.59.238.97&allowInsecure=1&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:162ms

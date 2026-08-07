@@ -1,2 +1,1 @@
-vless://594d466e-8ac3-4fda-b1d1-eeb817853518@107.181.151.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=5a018643df03&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg#📡🇫🇮®️Finland©️Helsinki🅿️ping:48ms
-vless://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?security=reality&encryption=none&pbk=118rMk41g_0BeoQDR2V_1f8ABzC1WKXdolzE-LxqowM&headerType=none&fp=firefox&spx=%2FdOSQM9dA3rf8Ag2&type=tcp&sni=www.amd.com&sid=bff835c98c#📡🇫🇮®️Finland©️Helsinki🅿️ping:28.99ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@95.216.168.240:2053?encryption=none&fp=firefox&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:32.65ms

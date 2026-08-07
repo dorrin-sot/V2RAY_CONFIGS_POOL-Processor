@@ -1,2 +1,2 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#📡🇬🇧®️United Kingdom©️London🅿️ping:25ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.131:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#📡🇬🇧®️United Kingdom©️London🅿️ping:6ms
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:6.39ms
+vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:5.97ms

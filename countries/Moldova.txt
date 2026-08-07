@@ -1,2 +1,0 @@
-vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@217.156.66.91:443?security=reality&encryption=none&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=deadbeef#📡🇲🇩®️Moldova©️Chisinau🅿️ping:49.67ms
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?security=reality&encryption=none&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rezerv23.yunus.guru&sid=afeed89ae23b36ed#📡🇲🇩®️Moldova©️Chisinau🅿️ping:47.79ms

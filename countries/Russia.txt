@@ -1,0 +1,2 @@
+vless://062675c2-23ed-455c-b48e-16d682a6f57d@95.163.232.183:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=safari&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&serviceName=5post.gate.v1#📡🇷🇺®️Russia©️Moscow🅿️ping:47.74ms
+vless://5366b9aa-b989-4b3e-96b6-f415d548424b@95.163.232.183:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=safari&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&serviceName=5post.gate.v1#📡🇷🇺®️Russia©️Moscow🅿️ping:47.74ms

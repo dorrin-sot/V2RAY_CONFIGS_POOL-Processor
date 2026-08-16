@@ -1,0 +1,4 @@
+trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#📡🇰🇷®️South Korea©️Incheon🅿️ping:239.76ms
+trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:228.2ms
+trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls#📡🇰🇷®️South Korea©️Incheon🅿️ping:238.28ms
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.93:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:250.33ms

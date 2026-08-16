@@ -1,6 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:14.98ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.42ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.77ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:14.58ms
 vless://32fff625-bdaa-4aad-8b45-14a02b1d5f9d@45.92.1.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&security=reality&sni=www.ray-balance.space&type=tcp#📡🇳🇱®️The Netherlands©️Lelystad🅿️ping:3.3ms
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=64c1fe36c7846400&sni=anyfile2file.com&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:13.27ms
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.253.42.79:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=firefox&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:121.91ms
+vless://c5c76051-abad-4dfe-bf16-1ee0ee3aca31@82.26.74.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.byteark.com&fp=firefox&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:5.91ms

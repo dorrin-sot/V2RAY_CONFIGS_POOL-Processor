@@ -1,4 +1,11 @@
 trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#📡🇰🇷®️South Korea©️Incheon🅿️ping:239.76ms
 trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:228.2ms
 trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls#📡🇰🇷®️South Korea©️Incheon🅿️ping:238.28ms
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#📡🇰🇷®️South Korea©️Incheon🅿️ping:258.67ms
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:228.0ms
+trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:227.86ms
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:227.09ms
+trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:232.12ms
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:235.84ms
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:223.84ms
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.93:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:250.33ms

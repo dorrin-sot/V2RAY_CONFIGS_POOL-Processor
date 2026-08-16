@@ -1,5 +1,4 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#📡🇺🇸®️United States©️Dallas🅿️ping:116.64ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:94.28ms
 trojan://MiTiVPN@151.101.56.8:443?path=&security=tls&alpn=http/1.1&insecure=0&host=s3z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.fastly.com#📡🇺🇸®️United States©️Chicago🅿️ping:3.01ms
 vless://8957414e-9e89-45bc-ac4b-ea2f561eed6c@199.232.78.159:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#📡🇺🇸®️United States©️San Francisco🅿️ping:6.15ms
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#📡🇺🇸®️United States©️Ashburn🅿️ping:55.72ms

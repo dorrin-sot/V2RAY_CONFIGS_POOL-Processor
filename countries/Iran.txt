@@ -1,3 +1,0 @@
-vless://1bc7aa95-9100-4e8e-de41-ae62b3419ae9@185.126.14.200:10635?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:81.76ms
-vless://6a55cbf2-cd1d-40dc-ab4c-143e18e73b74@185.126.14.200:51033?type=grpc&encryption=none&serviceName=&authority=&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:88.36ms
-vless://ced3f588-d14f-4363-8171-33d8f0087606@185.126.14.200:11980?type=ws&encryption=none&path=%2F&host=&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:86.9ms

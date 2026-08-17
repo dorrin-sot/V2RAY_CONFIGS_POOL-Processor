@@ -1,1 +1,10 @@
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:177.37ms
+trojan://PQ05174892@13.212.91.165:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:164.48ms
+trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#📡🇸🇬®️Singapore©️Singapore🅿️ping:176.75ms
+trojan://PQ05174892@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:179.14ms
+vless://18fd9aa7-72a7-4e15-844a-62088815834c@paid.sshehi.ggff.net:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=m.youtube.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:337.21ms
+vless://49c86212-ae0b-430e-9abb-244e715b533f@paid.sshehi.ggff.net:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=aka.ms#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:337.21ms
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@103.152.136.29:8443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#📡🇸🇬®️Singapore©️Singapore (Singapore River)🅿️ping:4.6ms
+vless://9ce39e1e-1431-4616-95d6-fbc525321442@paid.sshehi.ggff.net:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=facebook.net#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:337.21ms
+vless://b70d07ed-cea8-437f-9a30-ca7357ebb3fa@paid.sshehi.ggff.net:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.tiktok.com#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:337.21ms
+vless://d70a0b2b-1ec2-4770-bee0-8426de6ee7ba@paid.sshehi.ggff.net:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=whatsapp.net#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:337.21ms

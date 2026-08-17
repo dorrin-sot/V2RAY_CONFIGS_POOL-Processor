@@ -1,7 +1,2 @@
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:16.55ms
-vless://2b24afbe-7582-43bf-8034-1d1e83574ad2@185.143.233.235:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.13ms
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehran🅿️ping:105.21ms
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.12ms
-vless://a89159ad-c590-451c-99cb-42b5ecf938c2@arvancloud.ir:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:3.55ms
+vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:66.95ms
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:17.19ms
-vless://e1da4e62-38ad-4481-8330-fc47ace8bd3a@line2.gymplusplus.com:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:59.78ms

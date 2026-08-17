@@ -1,3 +1,0 @@
-trojan://AE62539071@15.237.214.103:443#📡🇫🇷®️France©️Paris🅿️ping:15.05ms
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.97.46:8443?path=%2F&security=tls&encryption=none&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&sni=kjgdksgghre466.pages.dev#📡🇫🇷®️France©️Paris🅿️ping:28.13ms
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:11.1ms

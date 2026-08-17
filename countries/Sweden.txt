@@ -1,1 +1,1 @@
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.231.102.219:443?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:25.98ms
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-se.alohaapp.uk:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&sid=b9f8f9772217538f&sni=&headerType=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&fp=firefox#📡🇸🇪®️Sweden©️Stockholm🅿️ping:43.42ms

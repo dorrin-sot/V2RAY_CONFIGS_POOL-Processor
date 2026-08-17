@@ -1,3 +1,1 @@
-vless://0b6cf606-9771-4bb1-b61d-5982bddc78fc@tr.koomeh.net:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&type=xhttp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:53.69ms
-vless://0b6cf606-9771-4bb1-b61d-5982bddc78fc@tr.koomeh.net:80?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&type=xhttp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:53.69ms
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#📡🇹🇷®️Turkey©️Istanbul🅿️ping:46.47ms

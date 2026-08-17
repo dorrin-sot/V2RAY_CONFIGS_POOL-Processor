@@ -1,1 +1,9 @@
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:228.84ms
+trojan://AE62539071@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#📡🇯🇵®️Japan©️Shibuya City🅿️ping:240.74ms
+trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:242.37ms
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.43ms
+trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.83ms
+trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&sni=casual-bee.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.24ms
+trojan://ND91608427@healthy-louse.rooster465.autos:443?allowInsecure=1&sni=healthy-louse.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:235.82ms
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.22ms
+trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:236.99ms
+trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.16ms

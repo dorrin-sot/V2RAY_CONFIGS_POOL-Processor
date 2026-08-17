@@ -1,3 +1,0 @@
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.56.48.63:2053?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇫🇷®️France©️Paris🅿️ping:17.4ms
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.97.46:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇫🇷®️France©️Paris🅿️ping:28.13ms
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.97.46:8443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇫🇷®️France©️Paris🅿️ping:28.13ms

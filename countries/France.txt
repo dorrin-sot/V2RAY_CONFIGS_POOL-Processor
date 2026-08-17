@@ -1,2 +1,1 @@
-trojan://AE62539071@chief-cricket.rooster465.autos:443?security=tls&path=%2f#📡🇫🇷®️France©️Paris🅿️ping:54.84ms
-trojan://FH72359861@correct-pony.rooster465.autos:443?allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:22.51ms
+vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?&type=ws&headerType=none&path=%2Fvless#📡🇫🇷®️France©️Paris🅿️ping:96.58ms

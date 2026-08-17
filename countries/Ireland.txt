@@ -1,3 +1,0 @@
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇮🇪®️Ireland©️Dublin🅿️ping:65.97ms
-trojan://FH72359861@3.253.78.205:443?allowInsecure=0&sni=balanced-heron.rooster465.autos#📡🇮🇪®️Ireland©️Dublin🅿️ping:21.44ms
-trojan://FH72359861@summary-firefly.rooster465.autos:443?allowInsecure=1#📡🇮🇪®️Ireland©️Dublin🅿️ping:41.98ms

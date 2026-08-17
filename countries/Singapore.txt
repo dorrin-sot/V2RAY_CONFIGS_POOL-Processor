@@ -1,0 +1,4 @@
+trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:177.06ms
+trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:176.33ms
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:177.37ms
+trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:178.0ms

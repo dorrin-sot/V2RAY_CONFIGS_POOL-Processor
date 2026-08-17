@@ -1,5 +1,7 @@
-trojan://AE62539071@18.194.130.12:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.07ms
-trojan://FH72359861@202.78.163.233:443#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:25.84ms
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.24:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.78ms
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:12.4ms
+trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?allowInsecure=1#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:42.72ms
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:37.38ms
+vless://603819a3-dd65-408a-abab-15d8dc49887f@165.245.255.56:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:12.05ms
+vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@record.sinafc.ir:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=-zXkpxfsN4tyaVW5Hn1TSeAXOiEJDx-G7Fo_F2hl_SM&headerType=&fp=chrome&spx=%2F563bc318ddee518&type=tcp&sni=api-prod.nova.nvidia.com&sid=34eb4e7f11ba#📡🇩🇪®️Germany©️Nuremberg🅿️ping:32.8ms
+vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@record.sinafc.ir:2087?security=reality&encryption=none&pbk=-zXkpxfsN4tyaVW5Hn1TSeAXOiEJDx-G7Fo_F2hl_SM&headerType=&fp=chrome&spx=%2F563bc318ddee518&type=tcp&sni=api-prod.nova.nvidia.com&sid=34eb4e7f11ba#📡🇩🇪®️Germany©️Nuremberg🅿️ping:32.8ms
 vless://c7e9c591-2764-423a-afca-efbd010fd396@147.45.197.233:2053?encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.76ms
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@64.188.112.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&security=reality&sid=6547735997055a35&sni=nodefulcrum.mooo.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.47ms

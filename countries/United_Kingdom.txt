@@ -1,1 +1,1 @@
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:8.82ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@193.219.99.64:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:17.39ms

@@ -1,1 +1,1 @@
-vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:2.92ms
+trojan://PQ05174892@54.169.228.116:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:162.98ms

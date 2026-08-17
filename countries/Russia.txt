@@ -1,4 +1,0 @@
-vless://393cf343-b4a2-42bc-b726-a8b8de887b7b@193.168.46.180:443?type=raw&security=reality&encryption=none&sni=rruu.persik.host&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&flow=xtls-rprx-vision&headerType=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:62.69ms
-vless://ab2cea85-d7eb-07d0-aa5a-98bab5d37dab@139.100.197.28:52006?flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&type=raw#📡🇷🇺®️Russia©️St Petersburg🅿️ping:39.89ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&fp=qq&type=ws&host=forfreeuse.rtqa.ru&path=%2F#📡🇷🇺®️Russia©️Moscow🅿️ping:49.97ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&type=ws&host=forfreeuse.rtqa.ru&path=%2F#📡🇷🇺®️Russia©️Moscow🅿️ping:49.97ms

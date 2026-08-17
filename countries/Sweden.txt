@@ -1,1 +1,2 @@
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@62.182.193.24:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Spånga🅿️ping:23.1ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@62.182.193.24:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#📡🇸🇪®️Sweden©️Spånga🅿️ping:23.1ms
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?type=grpc&security=reality&encryption=none&sni=stashfuro-eweqee.ru&fp=chrome&alpn=http%2F1.1&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&headerType=none&serviceName=nexusGrpc#📡🇸🇪®️Sweden©️Stockholm🅿️ping:58.14ms

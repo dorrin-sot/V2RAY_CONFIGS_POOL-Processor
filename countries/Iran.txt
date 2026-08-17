@@ -1,3 +1,0 @@
-vless://7472e2dd-50ff-40ab-a881-c7ddf0395c39@varzesh3.com:2095?path=%2Fpgcfws-r4&security=none&encryption=none&host=newcloud.hamrahconff.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:8.36ms
-vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:66.95ms
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:17.19ms

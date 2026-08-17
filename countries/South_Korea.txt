@@ -1,4 +1,3 @@
-trojan://FH72359861@43.202.61.210:443?allowInsecure=0&sni=loyal-molly.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:219.84ms
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:233.15ms
 trojan://FH72359861@kind-grizzly.rooster465.autos:443?allowInsecure=0#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:233.4ms
-trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:260.78ms
+trojan://PQ05174892@awake-redbird.rooster465.autos:443#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:243.44ms

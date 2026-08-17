@@ -1,7 +1,5 @@
-trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?allowInsecure=1#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:42.72ms
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:3.18ms
-vless://93709520-71fe-4913-8e2e-5d8138f1e72f@sv1.mobileemdad.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#📡🇩🇪®️Germany©️Nuremberg🅿️ping:25.2ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@147.45.197.233:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.76ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@163.5.187.118:2053?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:11.04ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.20:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:21.14ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.47.4:2053?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:10.84ms
+trojan://AE62539071@18.194.130.12:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.07ms
+trojan://FH72359861@202.78.163.233:443#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:25.84ms
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.24:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.78ms
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:12.4ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@147.45.197.233:2053?encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.76ms

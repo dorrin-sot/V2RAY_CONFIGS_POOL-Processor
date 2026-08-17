@@ -1,0 +1,2 @@
+vless://22696950-587f-42c0-af24-c1ffab17d0cd@91.197.3.43:52463?security=reality&encryption=none&pbk=zOv4BhJVbINHdcULln0vQ_6sxKiGjJPj4uyMttX9pWo&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=cdaed92e1d0c#📡🇱🇻®️Latvia©️Riga🅿️ping:29.62ms
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@193.124.254.60:443?type=tcp&encryption=none&security=none#📡🇱🇻®️Latvia©️Riga🅿️ping:27.23ms

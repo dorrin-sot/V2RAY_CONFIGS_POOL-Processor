@@ -1,4 +1,4 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#📡🇺🇸®️United States©️Dallas🅿️ping:116.64ms
-trojan://MiTiVPN@151.101.56.8:443?path=&security=tls&alpn=http/1.1&insecure=0&host=s3z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.fastly.com#📡🇺🇸®️United States©️Chicago🅿️ping:3.01ms
-vless://8957414e-9e89-45bc-ac4b-ea2f561eed6c@199.232.78.159:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#📡🇺🇸®️United States©️San Francisco🅿️ping:6.15ms
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#📡🇺🇸®️United States©️Ashburn🅿️ping:55.72ms
+trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#📡🇺🇸®️United States©️Portland🅿️ping:161.49ms
+vless://c3b09dd3-1da6-4b3b-bb4f-ccd22ee6d720@8.6.112.0:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:3.29ms
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F#📡🇺🇸®️United States©️San Francisco🅿️ping:2.8ms
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️San Francisco🅿️ping:2.8ms

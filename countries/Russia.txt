@@ -1,5 +1,0 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.81.33.215:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=russia.cendora.ru&fp=edge&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3#📡🇷🇺®️Russia©️Moscow🅿️ping:44.76ms
-vless://87b320fe-2329-498d-997b-7b956a99eecb@213.178.155.239:443?type=grpc&security=reality&sni=max.ru&fp=firefox&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&sid=be7d4026&serviceName=bridge-akenai-grpc-max#📡🇷🇺®️Russia©️St Petersburg🅿️ping:62.85ms
-vless://abc4c4d2-3760-4003-8cb7-322f8ec1a9c5@213.178.155.239:443?type=grpc&security=reality&sni=max.ru&fp=firefox&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&sid=0d0440286388a044&serviceName=bridge-akenai-grpc-max#📡🇷🇺®️Russia©️St Petersburg🅿️ping:62.85ms
-vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:43.24ms
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:42.07ms

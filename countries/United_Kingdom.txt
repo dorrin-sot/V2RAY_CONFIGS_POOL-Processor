@@ -1,1 +1,2 @@
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:47.14ms
+vless://348b1b7d-fe7b-43f9-84b5-a2917925c8a8@213.193.252.90:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=en2.wolffast.net&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:8.76ms
+vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@212.135.38.193:443?security=reality&flow=xtls-rprx-vision&pbk=LQ4cJhrzBRuRu3Nb3xUaHEBkPEJ7P5Uca5bFAbMj0is&sid=b8e2ce6fc1d12895&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#📡🇬🇧®️United Kingdom©️London🅿️ping:7.91ms

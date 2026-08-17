@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:45.87ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:20.98ms
+vless://348b1b7d-fe7b-43f9-84b5-a2917925c8a8@194.61.121.102:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=pl3.freehiliters.com&fp=firefox&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&sid=8718c58d3d51db59#📡🇵🇱®️Poland©️Warsaw🅿️ping:32.45ms

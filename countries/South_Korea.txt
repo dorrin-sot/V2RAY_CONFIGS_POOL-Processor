@@ -1,7 +1,5 @@
-trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#📡🇰🇷®️South Korea©️Incheon🅿️ping:258.67ms
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:228.0ms
-trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:227.86ms
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:227.09ms
-trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:232.12ms
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:235.84ms
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:223.84ms
+trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:233.38ms
+trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:260.78ms
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:234.18ms
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:233.26ms
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:233.19ms

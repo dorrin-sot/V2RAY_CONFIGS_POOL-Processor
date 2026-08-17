@@ -1,1 +1,1 @@
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?encryption=none&security=none&type=grpc&authority=&serviceName=grpc&mode=gun#📡🇪🇪®️Estonia©️Tallinn🅿️ping:5.91ms
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?sni=estproxy4.lockdwn.com&alpn=h2,http/1.1&fp=edge&security=tls#📡🇪🇪®️Estonia©️Tallinn (Lasnamäe linnaosa)🅿️ping:43.01ms

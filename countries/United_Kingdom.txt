@@ -1,1 +1,1 @@
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@78.141.239.13:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=/&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇬🇧®️United Kingdom©️Newcastle upon Tyne🅿️ping:9.68ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@78.141.239.13:443/?type=ws&encryption=none&flow=&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&fp=chrome#📡🇬🇧®️United Kingdom©️Newcastle upon Tyne🅿️ping:9.68ms

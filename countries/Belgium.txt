@@ -1,3 +1,3 @@
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=/&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇧🇪®️Belgium©️Zaventem🅿️ping:21.75ms
-vless://82439eb0-2668-41f9-a7db-7c73b3ac5e42@109.69.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#📡🇧🇪®️Belgium©️Mont-Saint-Guibert🅿️ping:6.43ms
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@128.127.181.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=be.quattro-tech.ru&type=tcp#📡🇧🇪®️Belgium©️Jodoigne (Saint-Remy-Geest)🅿️ping:6.15ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443/?type=ws&encryption=none&flow=&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&fp=chrome#📡🇧🇪®️Belgium©️Zaventem🅿️ping:21.75ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#📡🇧🇪®️Belgium©️Zaventem🅿️ping:21.75ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.71.227.213:443?type=tcp&encryption=none&security=none#📡🇧🇪®️Belgium©️Zaventem🅿️ping:21.75ms

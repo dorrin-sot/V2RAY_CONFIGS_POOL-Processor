@@ -1,6 +1,0 @@
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.…#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.12ms
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.14ms
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.14ms
-vless://2b24afbe-7582-43bf-8034-1d1e83574ad2@185.143.233.235:80?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.13ms
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?type=tcp&encryption=none&security=none#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.12ms
-vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?path=%2F&security=tls&encryption=none&insecure=0&host=new01.asaltabie.monster&fp=chrome&type=ws&allowInsecure=0&sni=new01.asaltabie.monster#📡🇮🇷®️Iran©️Tehran🅿️ping:142.22ms

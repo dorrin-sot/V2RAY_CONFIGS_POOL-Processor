@@ -1,1 +1,0 @@
-vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?type=tcp&encryption=none&security=none#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:3.81ms

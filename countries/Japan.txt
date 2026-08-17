@@ -1,5 +1,5 @@
-trojan://PQ05174892@13.115.145.243:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=smooth-cougar.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:227.82ms
-trojan://PQ05174892@13.115.145.243:443?allowInsecure=0&sni=smooth-cougar.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:227.82ms
-trojan://PQ05174892@champion-alien.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.14ms
-trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=#📡🇯🇵®️Japan©️Shibuya City🅿️ping:242.1ms
-trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?allowInsecure=0&sni=ethical-raccoon.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:242.1ms
+trojan://FH72359861@18.181.213.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lasting-jaguar.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:228.71ms
+trojan://FH72359861@18.181.213.219:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lasting-jaguar.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:228.71ms
+trojan://FH72359861@loyal-killdeer.rooster465.autos:443?security=tls&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:244.19ms
+trojan://FH72359861@loyal-killdeer.rooster465.autos:443?security=tls&path=/#📡🇯🇵®️Japan©️Shibuya City🅿️ping:244.19ms
+trojan://PQ05174892@13.115.145.243:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:227.82ms

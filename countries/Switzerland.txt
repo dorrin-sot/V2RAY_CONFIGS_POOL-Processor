@@ -1,1 +1,0 @@
-vless://c245122a-f149-4e32-8eaa-e875e88a5ab6@shop.magazinetut.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#📡🇨🇭®️Switzerland©️Zurich🅿️ping:22.08ms

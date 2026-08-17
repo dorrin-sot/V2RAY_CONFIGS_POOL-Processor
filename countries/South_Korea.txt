@@ -1,6 +1,2 @@
-trojan://FH72359861@43.202.61.210:443?allowInsecure=0&sni=loyal-molly.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:219.84ms
-trojan://FH72359861@balanced-stag.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-stag.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:232.7ms
-trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#📡🇰🇷®️South Korea©️Yongsan-dong🅿️ping:234.39ms
-trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:232.76ms
-trojan://PQ05174892@15.164.227.68:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=united-grouse.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:227.37ms
+trojan://ND91608427@uncommon-feline.rooster465.autos:443#📡🇰🇷®️South Korea©️Incheon🅿️ping:233.19ms
 trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#📡🇰🇷®️South Korea©️Incheon🅿️ping:227.37ms

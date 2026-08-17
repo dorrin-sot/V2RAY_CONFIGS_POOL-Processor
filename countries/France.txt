@@ -1,1 +1,5 @@
-trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&type=tcp&fp=chrome#📡🇫🇷®️France©️Paris🅿️ping:15.05ms
+trojan://ND91608427@fancy-skink.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#📡🇫🇷®️France©️Paris🅿️ping:29.92ms
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#📡🇫🇷®️France©️Paris🅿️ping:29.92ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.84.173:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇫🇷®️France©️Paris🅿️ping:11.76ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.84.173:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇫🇷®️France©️Paris🅿️ping:11.76ms
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@95.182.97.46:2053?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#📡🇫🇷®️France©️Paris🅿️ping:11.79ms

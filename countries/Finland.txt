@@ -1,1 +1,1 @@
-vless://9ffc5514-c744-4259-a270-8509918c9217@pt-play.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621#📡🇫🇮®️Finland©️Helsinki🅿️ping:42.11ms
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@fi1.levikogjgfdd.ir:443?sni=fin2.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision&type=tcp&security=reality&encryption=none&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:55.3ms

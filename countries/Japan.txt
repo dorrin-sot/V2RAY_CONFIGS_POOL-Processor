@@ -1,3 +1,2 @@
-trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.96ms
-trojan://FH72359861@emerging-porpoise.rooster465.autos:443?allowInsecure=0&sni=emerging-porpoise.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.01ms
-trojan://PQ05174892@concise-guinea.rooster465.autos:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:236.87ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:257.31ms
+trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&sni=casual-bee.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.24ms

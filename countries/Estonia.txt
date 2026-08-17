@@ -1,1 +1,2 @@
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#📡🇪🇪®️Estonia©️Tallinn🅿️ping:29.54ms
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&security=tls&type=tcp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:57.34ms
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?encryption=none&fp=chrome&security=tls&type=tcp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:57.34ms

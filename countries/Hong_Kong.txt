@@ -1,2 +1,0 @@
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?type=tcp&encryption=none&security=none#📡🇭🇰®️Hong Kong©️Mong Kok🅿️ping:188.0ms
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:202.22ms

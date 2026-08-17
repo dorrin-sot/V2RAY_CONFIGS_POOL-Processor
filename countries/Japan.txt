@@ -1,5 +1,2 @@
-trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.96ms
-trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:242.37ms
-trojan://FH72359861@light-filly.rooster465.autos:443?security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.25ms
-trojan://FH72359861@welcome-owl.rooster465.autos:443?allowInsecure=1&sni=welcome-owl.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.76ms
 trojan://ND91608427@18.178.132.111:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=devoted-heron.rooster465.autos&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:227.73ms
+trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:227.73ms

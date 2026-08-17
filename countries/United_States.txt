@@ -1,10 +1,5 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#📡🇺🇸®️United States©️Phoenix🅿️ping:141.06ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#📡🇺🇸®️United States©️Phoenix🅿️ping:141.19ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#📡🇺🇸®️United States©️New York🅿️ping:84.87ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#📡🇺🇸®️United States©️New York🅿️ping:84.58ms
-trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#📡🇺🇸®️United States©️Portland🅿️ping:162.56ms
-vless://50dbe8d9-abef-46e5-d44b-00117a5025d3@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#📡🇺🇸®️United States©️Newark🅿️ping:169.37ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#📡🇺🇸®️United States©️New York🅿️ping:76.61ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#📡🇺🇸®️United States©️New York🅿️ping:76.58ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#📡🇺🇸®️United States©️New York🅿️ping:76.58ms
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F#📡🇺🇸®️United States©️San Francisco🅿️ping:3.11ms
+trojan://MiTiVPN@151.101.56.8:443#📡🇺🇸®️United States©️Chicago🅿️ping:2.9ms
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=/&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#📡🇺🇸®️United States©️Ashburn🅿️ping:19.98ms
+vless://b158613f-1fa0-43d1-8c13-2627dcb76d92@217.60.183.88:8443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Washington D.C.🅿️ping:9.25ms
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️San Francisco🅿️ping:3.11ms
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?type=tcp&encryption=none&security=none#📡🇺🇸®️United States©️Tempe (South Tempe)🅿️ping:3.2ms

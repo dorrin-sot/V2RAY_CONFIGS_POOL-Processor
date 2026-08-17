@@ -1,1 +1,1 @@
-vless://2d1470a0-fa48-4d3b-8378-b827b744ac00@beatr519-in1.599789.xyz:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=edge#📡🇮🇳®️India©️Mumbai🅿️ping:197.46ms
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#📡🇮🇳®️India©️Navi Mumbai (Panvel)🅿️ping:171.69ms

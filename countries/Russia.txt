@@ -1,0 +1,2 @@
+vless://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:49.97ms
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?type=tcp&encryption=none&security=none#📡🇷🇺®️Russia©️Moscow🅿️ping:42.01ms

@@ -1,1 +1,1 @@
-vless://ce3d89da-f418-4c38-a1f3-ef243be06044@sw.sinner.website:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇸🇪®️Sweden©️Stockholm🅿️ping:50.88ms
+vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.231.102.219:443?type=tcp&encryption=none&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:25.98ms

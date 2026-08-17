@@ -1,2 +1,2 @@
-vless://1ef571c9-b9f0-48bb-a6d6-866c98c80eb9@213.176.73.235:443?sni=note.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#📡🇫🇷®️France©️Paris🅿️ping:8.56ms
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?type=tcp&encryption=none&security=none#📡🇫🇷®️France©️Paris🅿️ping:11.1ms
+trojan://AE62539071@chief-cricket.rooster465.autos:443?security=tls&path=%2f#📡🇫🇷®️France©️Paris🅿️ping:54.84ms
+trojan://FH72359861@correct-pony.rooster465.autos:443?allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:22.51ms

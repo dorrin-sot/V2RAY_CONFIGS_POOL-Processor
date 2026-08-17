@@ -1,2 +1,1 @@
-vless://9ef6db89-3cad-4c66-b38c-315730b5c336@185.143.234.122:80?path=%2F&security=none&encryption=none&host=amm2.avenflow.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.11ms
-vless://9ef6db89-3cad-4c66-b38c-315730b5c336@185.143.234.122:80?path=/&security=none&encryption=none&host=amm2.avenflow.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:0.11ms
+vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:16.21ms

@@ -1,0 +1,15 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:261.56ms
+trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.98ms
+trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:267.46ms
+trojan://FH72359861@casual-stallion.rooster465.autos:443?allowInsecure=0&sni=casual-stallion.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:236.93ms
+trojan://FH72359861@endless-kiwi.rooster465.autos:443?allowInsecure=1#📡🇯🇵®️Japan©️Shibuya City🅿️ping:243.01ms
+trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:255.26ms
+trojan://FH72359861@light-filly.rooster465.autos:443?security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.25ms
+trojan://FH72359861@magical-airedale.rooster465.autos:443?allowInsecure=0&sni=magical-airedale.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:240.65ms
+trojan://FH72359861@touching-ostrich.rooster465.autos:443?allowInsecure=0&sni=touching-ostrich.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.77ms
+trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.17ms
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.22ms
+trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:266.93ms
+trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:248.92ms
+trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.16ms
+trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=1&sni=thankful-mustang.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.31ms

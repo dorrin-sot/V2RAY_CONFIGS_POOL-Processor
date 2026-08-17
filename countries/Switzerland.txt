@@ -1,3 +1,0 @@
-vless://8f4d9689-c25d-40a7-ae8f-39b1681dce20@shop.magazinetut.online:443?flow=xtls-rprx-vision&encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#📡🇨🇭®️Switzerland©️Zurich🅿️ping:22.08ms
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.41.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&security=reality&sid=bd72&sni=deepl.com&type=tcp#📡🇨🇭®️Switzerland©️Zurich🅿️ping:8.3ms
-vless://c245122a-f149-4e32-8eaa-e875e88a5ab6@shop.magazinetut.online:443?flow=xtls-rprx-vision&encryption=none&security=tls&fp=chrome&type=tcp&headerType=none#📡🇨🇭®️Switzerland©️Zurich🅿️ping:22.08ms

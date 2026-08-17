@@ -1,0 +1,1 @@
+vless://2d1470a0-fa48-4d3b-8378-b827b744ac00@beatr519-in1.599789.xyz:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=edge#📡🇮🇳®️India©️Mumbai🅿️ping:197.46ms

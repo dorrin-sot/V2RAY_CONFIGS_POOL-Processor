@@ -1,0 +1,1 @@
+vless://f0b1b21b-b047-47d6-917a-06ac48b56dec@78.135.77.164:8443?security=reality&encryption=none&pbk=sfniYcyPB45tdyS_VcPEIqlePCF43RNL8qp9L7THXAA&headerType=none&fp=chrome&spx=%2F2731f58ded48c8e&type=tcp&sni=www.speedtest.net&sid=ef27fd#📡🇹🇷®️Turkey©️Beylikduzu🅿️ping:45.83ms

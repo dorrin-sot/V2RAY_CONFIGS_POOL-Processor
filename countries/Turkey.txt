@@ -1,3 +1,0 @@
-trojan://8bS8vVC5CQ2GsckhM8hIT1jv@193.124.46.65:443?security=tls&sni=193.124.46.65&fp=chrome&allowinsecure=0&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:46.88ms
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=#📡🇹🇷®️Turkey©️Istanbul🅿️ping:46.77ms
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=193.124.46.65#📡🇹🇷®️Turkey©️Istanbul🅿️ping:46.77ms

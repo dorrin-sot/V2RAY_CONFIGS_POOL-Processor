@@ -1,2 +1,0 @@
-trojan://AE62539071@13.229.94.200:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:162.76ms
-trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:162.76ms

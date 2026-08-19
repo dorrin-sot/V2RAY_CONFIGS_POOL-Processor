@@ -1,5 +1,7 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:3.69ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.56:62145?allowInsecure=1#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:3.69ms
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@130.12.242.16:443?encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=savesafe.info&type=xhttp&fp=edge#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:7.18ms
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@130.12.242.24:443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:5.96ms
-vless://f4540796-ce50-4c2b-a41c-58f18f36ab96@nltw6.lckdwn.ru:8443?type=tcp&encryption=none&security=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:56.24ms
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.7ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.72ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.71ms
+trojan://AE62539071@emerging-weevil.rooster465.autos:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:21.84ms
+vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.18:443?encryption=none&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.77ms
+vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.38:443?encryption=none&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.8ms

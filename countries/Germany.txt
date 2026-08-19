@@ -1,8 +1,5 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Uk4wZEdVL05BWW9oTkl4WjVmdTJsQVJrc1ZhY1ZzeHBvNU1zbFJUalY4bz0=@92.5.97.62:59924#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:9.89ms
-trojan://PQ05174892@casual-quail.rooster465.autos:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Neuenhagen🅿️ping:24.42ms
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@138.124.33.169:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:19.17ms
-vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.55ms
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Nuremberg🅿️ping:13.51ms
-vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@64.188.112.82:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.56ms
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.32ms
-vless://fd305df3-dece-4f25-a0cf-f734e5ef3b62@146.75.119.82:80?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:9.53ms
+trojan://AE62539071@enough-basilisk.rooster465.autos:443#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:39.71ms
+trojan://AE62539071@game-firefly.rooster465.autos:443#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:39.23ms
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2053?security=reality&encryption=none&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=a6bbc4aecf5d961f#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.86ms
+vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@45.80.111.7:443?encryption=none&type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=2--ldej--MiTiVPN---MiTiVPN-o.KingNetwork.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:3.27ms
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@64.188.112.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&security=reality&sid=6547735997055a35&sni=nodefulcrum.mooo.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.56ms

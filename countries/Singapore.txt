@@ -1,3 +1,6 @@
-trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:163.22ms
-trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:178.35ms
-trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:171.79ms
+trojan://AE62539071@elegant-marten.rooster465.autos:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:202.52ms
+trojan://AE62539071@excited-sole.rooster465.autos:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:176.51ms
+trojan://AE62539071@massive-terrapin.rooster465.autos:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:174.49ms
+trojan://AE62539071@rested-osprey.rooster465.autos:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:177.57ms
+trojan://AE62539071@sacred-anemone.rooster465.autos:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:176.12ms
+trojan://FH72359861@13.212.59.213:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=guided-ferret.rooster465.autos&allowInsecure=1&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:163.28ms

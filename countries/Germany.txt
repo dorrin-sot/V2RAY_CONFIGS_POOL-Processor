@@ -1,1 +1,1 @@
-vless://279ecffb-4d3d-46a4-84b5-3b59e587ad8e@94.237.30.228:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=play.google.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.61ms
+vless://046bc2bc-3ab7-4dd3-b9b2-69679c0025b6@146.75.119.82:80?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:9.53ms

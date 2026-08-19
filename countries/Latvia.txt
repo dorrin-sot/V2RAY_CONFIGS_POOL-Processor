@@ -1,2 +1,1 @@
-vless://03e6c071-d34b-4236-9d06-a57cc364bede@myhistory.shadownet.pro:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=myhistory.shadownet.pro&path=%2FMyHistorySecondPart&insecure=0#📡🇱🇻®️Latvia©️Riga🅿️ping:73.87ms
-vless://dbacac09-9ee8-400c-b53b-745a769c220a@filehost6.videobooster21.com:443?type=tcp&security=reality&sni=filehost6.videobooster21.com&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=firefox&encryption=none&flow=xtls-rprx-vision#📡🇱🇻®️Latvia©️Riga (Latgales priekšpilsēta)🅿️ping:40.88ms
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?type=tcp&encryption=none&security=none#📡🇱🇻®️Latvia©️Riga🅿️ping:41.28ms

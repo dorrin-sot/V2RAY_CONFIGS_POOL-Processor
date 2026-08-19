@@ -1,1 +1,1 @@
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.bridge.anti-zapret.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=test.bridge.anti-zapret.com&fp=chrome&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:17.81ms
+trojan://AE62539071@91.199.84.120:443#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.81ms

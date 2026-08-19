@@ -1,2 +1,1 @@
 vless://5770093c-4b70-4847-8eb5-c5fe195f4f21@212.104.128.107:443?alpn=h3,h2,http/1.1&fm={#📡🇫🇮®️Finland©️Helsinki🅿️ping:3.2ms
-vless://baf498db-7039-4ba5-90df-d5f5e5c75331@107.181.147.22:443?security=reality&encryption=none&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&sid=8492240eab92#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.27ms

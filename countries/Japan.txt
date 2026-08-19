@@ -1,4 +1,3 @@
-trojan://AE62539071@right-seahorse.rooster465.autos:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.01ms
 trojan://EQ30679154@3.112.44.90:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=brave-tomcat.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.79ms
 trojan://EQ30679154@3.112.44.90:443?allowInsecure=0&sni=brave-tomcat.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.79ms
 trojan://EQ30679154@54.199.234.4:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=liked-eft.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:233.8ms
@@ -6,4 +5,5 @@ trojan://EQ30679154@54.199.234.4:443?allowInsecure=0&sni=liked-eft.rooster465.au
 trojan://EQ30679154@definite-gazelle.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.5ms
 trojan://EQ30679154@definite-gazelle.rooster465.autos:443?allowInsecure=0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.5ms
 trojan://EQ30679154@open-octopus.rooster465.autos:443?allowInsecure=0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.11ms
+trojan://FH72359861@13.113.71.200:443?sni=trusting-elf.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.8ms
 trojan://FH72359861@13.231.123.71:443?sni=winning-shrimp.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.75ms

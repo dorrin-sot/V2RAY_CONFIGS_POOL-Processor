@@ -1,1 +1,1 @@
-trojan://AE62539071@91.199.84.120:443#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.81ms
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:196.13ms

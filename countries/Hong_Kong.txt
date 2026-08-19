@@ -1,1 +1,2 @@
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:195.17ms
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:195.17ms
+vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@103.148.73.144:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#📡🇭🇰®️Hong Kong©️Sha Tin Wai🅿️ping:193.01ms

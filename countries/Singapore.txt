@@ -1,4 +1,1 @@
-trojan://AE62539071@47.131.229.80:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:164.48ms
-trojan://FH72359861@13.212.77.228:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:164.7ms
-trojan://PQ05174892@13.212.174.21:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:165.59ms
-vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?type=tcp&encryption=none&security=none#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:10.43ms
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#📡🇸🇬®️Singapore©️Singapore🅿️ping:165.65ms

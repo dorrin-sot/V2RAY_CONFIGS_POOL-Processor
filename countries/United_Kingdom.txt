@@ -1,2 +1,0 @@
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️London🅿️ping:28.14ms
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?type=tcp&encryption=none&security=none#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:8.81ms

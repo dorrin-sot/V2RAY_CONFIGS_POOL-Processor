@@ -1,8 +1,0 @@
-trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=darling-mutt.rooster465.autos#📡🇦🇺®️Australia©️Alexandria🅿️ping:270.5ms
-trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=together-dingo.rooster465.autos#📡🇦🇺®️Australia©️Alexandria🅿️ping:268.13ms
-trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls#📡🇦🇺®️Australia©️Alexandria🅿️ping:268.13ms
-trojan://FC60532879@fleet-hawk.rooster465.autos:443?security=tls&sni=fleet-hawk.rooster465.autos#📡🇦🇺®️Australia©️Alexandria🅿️ping:271.25ms
-trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=grown-rhino.rooster465.autos&fp=chrome#📡🇦🇺®️Australia©️Alexandria🅿️ping:281.99ms
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.48.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#📡🇦🇺®️Australia©️Sydney🅿️ping:270.36ms
-vless://8f4211ee-290c-4d66-a269-ccf08e3eef3a@fin.melov2ray.shop:443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3&sni=FIn.Melov2ray.Shop#📡🇦🇺®️Australia©️Beaumaris🅿️ping:300.26ms
-vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&sid=d15c17cef9b2e456&sni=www.cloudflare.com#📡🇦🇺®️Australia©️North Sydney🅿️ping:310.09ms

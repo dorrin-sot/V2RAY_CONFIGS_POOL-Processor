@@ -1,0 +1,3 @@
+trojan://FH72359861@13.212.77.228:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=probable-weasel.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:164.7ms
+trojan://FH72359861@13.250.119.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=casual-basilisk.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:164.45ms
+trojan://FH72359861@47.129.7.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=stable-racer.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:162.52ms

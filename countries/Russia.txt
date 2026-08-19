@@ -1,0 +1,2 @@
+vless://13796234-f1c3-4ff2-9faa-a65983129054@82.202.139.129:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&sid=a7f3c91e2b6d0485&sni=profitscheck.com&fp=ios#📡🇷🇺®️Russia©️Moscow🅿️ping:45.61ms
+vless://ffb1d5ed-7d45-4f9b-8a35-d5e4cf5cc677@83.217.192.22:443?type=grpc&security=reality&pbk=pu4IXSGCV3Rw02jrKU8ayNCXvZzQZ9KwavMizPFtHxw&sid=179324b747cb4ab6&sni=get.univesalsrv.com&serviceName=sync.v2.FeedService&fp=qq#📡🇷🇺®️Russia©️Moscow🅿️ping:42.08ms

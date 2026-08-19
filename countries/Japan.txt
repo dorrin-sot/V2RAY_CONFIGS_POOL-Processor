@@ -1,4 +1,5 @@
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=t11.qifei.app#📡🇯🇵®️Japan©️Osaka🅿️ping:245.3ms
+trojan://AE62539071@right-seahorse.rooster465.autos:443?security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.01ms
+trojan://FH72359861@flying-swift.rooster465.autos:443?security=tls&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.04ms
 trojan://FH72359861@pretty-adder.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.29ms
 trojan://FH72359861@pretty-adder.rooster465.autos:443?security=tls&sni=pretty-adder.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.29ms
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp.servers.gracevpnbuy.com&sid=b91a73752053b039#📡🇯🇵®️Japan©️Koto-ku🅿️ping:245.8ms

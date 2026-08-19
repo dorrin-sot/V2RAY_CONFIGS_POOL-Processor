@@ -1,7 +1,5 @@
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.7ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.72ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.77ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.71ms
-trojan://AE62539071@emerging-weevil.rooster465.autos:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:21.84ms
-vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.18:443?encryption=none&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.77ms
-vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.38:443?encryption=none&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:2.8ms
+vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&headerType=none&fp=firefox&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:10.32ms
+vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:10.32ms
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:3.1ms

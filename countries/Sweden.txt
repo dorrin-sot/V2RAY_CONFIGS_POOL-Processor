@@ -1,2 +1,1 @@
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@sw1-chr.astralweb.tech:443?encryption=none&security=tls#📡🇸🇪®️Sweden©️Stockholm🅿️ping:45.62ms
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&sid=b9f8f9772217538f#📡🇸🇪®️Sweden©️Stockholm🅿️ping:24.88ms

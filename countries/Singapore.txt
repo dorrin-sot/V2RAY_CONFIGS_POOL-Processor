@@ -1,1 +1,1 @@
-trojan://FH72359861@13.212.59.213:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=guided-ferret.rooster465.autos&allowInsecure=1&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:163.28ms
+trojan://AE62539071@47.129.157.81:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=noted-bass.rooster465.autos#📡🇸🇬®️Singapore©️Singapore🅿️ping:163.67ms

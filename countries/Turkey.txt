@@ -1,1 +1,2 @@
-vless://f0b1b21b-b047-47d6-917a-06ac48b56dec@78.135.77.164:8443?security=reality&encryption=none&pbk=sfniYcyPB45tdyS_VcPEIqlePCF43RNL8qp9L7THXAA&headerType=none&fp=chrome&spx=%2F2731f58ded48c8e&type=tcp&sni=www.speedtest.net&sid=ef27fd#📡🇹🇷®️Turkey©️Beylikduzu🅿️ping:45.83ms
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#📡🇹🇷®️Turkey©️Istanbul🅿️ping:47.63ms
+vless://bee6af4c-3186-43f9-a05f-8730ed281ce2@hamid3.morganyt.ir:443?type=tcp&encryption=none&security=none#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:59.93ms

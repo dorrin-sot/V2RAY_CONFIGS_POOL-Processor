@@ -1,1 +1,1 @@
-vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=%2F&headerType=http&type=tcp#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:59.51ms
+vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@91.92.136.28:443?security=reality&encryption=none&pbk=VuM9HrCRtt7gaOXYkrPggV3GT_HKj18_5y6PcQKjWgQ&headerType=none&fp=chrome&type=tcp&sni=ripe.net&sid=0a076a71#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:34.6ms

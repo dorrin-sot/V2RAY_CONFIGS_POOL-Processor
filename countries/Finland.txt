@@ -1,2 +1,1 @@
-vless://%40Cooonfig@65.109.188.123:50198?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.11ms
-vless://%40Cooonfig@65.109.188.123:50198?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:40.37ms
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.1ms

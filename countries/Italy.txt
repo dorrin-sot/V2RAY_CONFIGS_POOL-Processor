@@ -1,0 +1,1 @@
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.75:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=it.savesafe.cc&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&type=tcp&headerType=none#📡🇮🇹®️Italy©️Cremona🅿️ping:16.79ms

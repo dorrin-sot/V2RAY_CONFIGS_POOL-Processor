@@ -1,0 +1,1 @@
+vless://63a0b5e2-b684-4b05-b964-686aa416a868@194.110.207.195:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lerring.no&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&allowInsecure=1#📡🇳🇴®️Norway©️Sandefjord🅿️ping:16.26ms

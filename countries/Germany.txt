@@ -1,7 +1,3 @@
-trojan://FH72359861@35.159.21.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=summary-lemming.rooster465.autos#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.76ms
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:26.18ms
-trojan://PQ05174892@63.179.149.234:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=usable-dogfish.rooster465.autos#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.07ms
-trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇩🇪®️Germany©️Haßfurt🅿️ping:19.59ms
 vless://c7e9c591-2764-423a-afca-efbd010fd396@150.230.146.170:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:9.43ms
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.28:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.87ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:56.56ms

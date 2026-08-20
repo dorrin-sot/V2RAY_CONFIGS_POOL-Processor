@@ -1,4 +1,0 @@
-trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#📡🇫🇷®️France©️Paris🅿️ping:14.48ms
-trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#📡🇫🇷®️France©️Paris🅿️ping:15.52ms
-trojan://PQ05174892@13.38.66.171:443?security=tls&headerType=none&type=tcp&sni=musical-shrew.rooster465.autos#📡🇫🇷®️France©️Paris🅿️ping:14.41ms
-trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#📡🇫🇷®️France©️Paris🅿️ping:16.08ms

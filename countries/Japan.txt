@@ -8,4 +8,3 @@ trojan://HC04361579@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-al
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.97ms
 trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:233.36ms
 trojan://PQ05174892@ready-monarch.rooster465.autos:443?security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253.69ms
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.servers.gracevpnbuy.com&fp=firefox&security=reality&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039#📡🇯🇵®️Japan©️Koto-ku🅿️ping:234.74ms

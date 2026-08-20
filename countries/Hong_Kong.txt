@@ -1,3 +1,5 @@
+trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:197.61ms
+trojan://FH72359861@natural-swan.rooster465.autos:443?allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.59ms
 vless://04752ec5-76d1-4649-a7ab-cc7eabef2340@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:194.97ms
 vless://4a143bba-f03d-469b-9a7c-2b5d3480d884@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:194.97ms
 vless://680a12c9-fed8-4c6c-af88-5fab31d1f8e8@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:194.97ms

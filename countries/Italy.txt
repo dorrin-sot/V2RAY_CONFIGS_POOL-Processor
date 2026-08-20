@@ -1,0 +1,1 @@
+vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#📡🇮🇹®️Italy©️Milan🅿️ping:25.76ms

@@ -1,9 +1,4 @@
-trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.27ms
-trojan://PQ05174892@3.120.37.181:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.18ms
-trojan://PQ05174892@3.124.187.220:443?sni=rapid-firefly.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.04ms
-trojan://PQ05174892@35.156.115.70:443?sni=fine-elf.rooster465.autos&type=tcp&path=%2f#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.08ms
-trojan://PQ05174892@54.93.54.137:443?sni=informed-alpaca.rooster465.autos&type=tcp&fp=chrome#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.35ms
-vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?type=tcp&encryption=none&security=none#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:5.82ms
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@144.31.228.225:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=firefox&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=http#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.75ms
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@144.31.228.225:8443?encryption=none&fp=firefox&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=http#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.75ms
+trojan://humanity@45.80.111.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:3.12ms
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:3.12ms
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@144.31.228.225:8443?encryption=none&fp=firefox&host=wikihow.com&mode=auto&path=/&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=http#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:8.75ms
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.108:443?sid=62b6d6e64d461d78&fp=firefox&mode=auto&sni=api.getsavesafe.space&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&type=xhttp&security=reality#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.99ms

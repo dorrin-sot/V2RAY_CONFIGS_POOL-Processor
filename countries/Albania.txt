@@ -1,1 +1,1 @@
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@85.155.228.35:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=github.com#📡🇦🇱®️Albania©️Tirana🅿️ping:43.55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSEZGV3Y3bnA5M0RCTEtaVXZWbTd1@157.22.240.141:57925#📡🇦🇱®️Albania©️Tirana🅿️ping:41.18ms

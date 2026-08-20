@@ -1,1 +1,3 @@
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?flow=xtls-rprx-vision&fp=chrome&path=/%20&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#📡🇫🇷®️France©️Wattrelos🅿️ping:7.43ms
+trojan://AE62539071@13.39.249.40:443?security=tls&sni=one-quail.rooster465.autos&path=/#📡🇫🇷®️France©️Paris🅿️ping:16.1ms
+trojan://FH72359861@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&path=/#📡🇫🇷®️France©️Paris🅿️ping:15.02ms
+vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053?encryption=none&fp=&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&security=reality&sid=e52e7fd8585ac5c1&sni=www.apple.com&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:8.16ms

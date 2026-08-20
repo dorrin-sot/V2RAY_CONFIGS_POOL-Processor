@@ -1,2 +1,0 @@
-vless://9bf091a8-96af-4ccb-8b53-265c0d112ad0@estonyiamarz.horlutr.ir:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=%2F&headerType=http&type=tcp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:30.55ms
-vless://9bf091a8-96af-4ccb-8b53-265c0d112ad0@estonyiamarz.horlutr.ir:2087?security=none&encryption=none&host=%2F&headerType=http&type=tcp#📡🇪🇪®️Estonia©️Tallinn🅿️ping:30.55ms

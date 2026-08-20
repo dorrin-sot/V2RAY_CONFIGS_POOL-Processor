@@ -1,2 +1,0 @@
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&encryption=none&path=%2Fvless%2F&fp=chrome&alpn=http%2F1.1&headerType=none#📡🇮🇹®️Italy©️Milan🅿️ping:32.01ms
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&sni=it.savesafe.cc#📡🇮🇹®️Italy©️Cremona🅿️ping:17.37ms

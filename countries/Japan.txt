@@ -1,6 +1,1 @@
-trojan://AE62539071@polished-imp.rooster465.autos:443?type=tcp&security=tls&sni=polished-imp.rooster465.autos&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.62ms
-trojan://FH72359861@internal-peacock.rooster465.autos:443?security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:248.98ms
-trojan://FH72359861@sterling-fowl.rooster465.autos:443?security=tls&sni=sterling-fowl.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:242.87ms
-trojan://PQ05174892@champion-alien.rooster465.autos:443?security=tls#📡🇯🇵®️Japan©️Shibuya City🅿️ping:251.65ms
-vless://0490617a-818b-40e4-b517-8e09bfd4f30b@uh-jp01.ziyoufly.xyz:55555?&security=reality&flow=xtls-rprx-vision&pbk=1XQ60qYOfBZJpcilNV9Fu7OSpuO5_6-zrNZIYhB_YU4&sid=af317506&fp=chrome&sni=www.yahoo.co.jp&type=tcp&headerType=none&host=www.yahoo.co.jp&path=%2F#📡🇯🇵®️Japan©️Shibuya City🅿️ping:375.2ms
-vless://9c7501fb-4e23-44d8-9a9e-973807ae4f35@203.137.165.164:57554?encryption=none&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:251.75ms
+trojan://FH72359861@52.68.147.250:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:235.92ms

@@ -1,1 +1,3 @@
-trojan://ND91608427@ace-starling.rooster465.autos:443#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.41ms
+trojan://HC04361579@eminent-lamb.rooster465.autos:443?Telegram=@Config4Connect,@Config4Connect,@Config4Connect,@Config4Connect,@Config4Connect,@Config4Connect,@Config4Connect&sni=#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:190.35ms
+vless://3dfd4ca4-dd85-4ee0-96d7-fa2900d76f65@156.224.79.35:443?encryption=none&security=reality&sni=navi.bankrate.com&host=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&speed=20ms&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:187.17ms
+vless://3dfd4ca4-dd85-4ee0-96d7-fa2900d76f65@189.24.106.163:443?encryption=none&security=reality&sni=navi.bankrate.com&host=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&speed=180ms&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:9.4ms

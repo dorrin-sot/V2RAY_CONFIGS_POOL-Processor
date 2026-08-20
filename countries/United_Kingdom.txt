@@ -1,1 +1,1 @@
-vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=firefox&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:8.88ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K0tHZzFJUENtd291L1Rib3gzNUNENEREZE5Zb0FGTit5d2pTY2gyRjZMRT0@144.24.225.94:61312#📡🇬🇧®️United Kingdom©️Newport🅿️ping:13.94ms

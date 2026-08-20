@@ -1,1 +1,0 @@
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#📡🇸🇬®️Singapore©️Singapore🅿️ping:2.94ms

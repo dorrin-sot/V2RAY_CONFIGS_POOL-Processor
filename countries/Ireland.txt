@@ -1,1 +1,2 @@
-trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls&path=%2f#📡🇮🇪®️Ireland©️Dublin🅿️ping:60.65ms
+trojan://FH72359861@54.216.139.140:443?sni=cunning-grub.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇮🇪®️Ireland©️Dublin🅿️ping:26.82ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇮🇪®️Ireland©️Dublin🅿️ping:21.42ms

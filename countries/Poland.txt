@@ -1,3 +1,0 @@
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:19.36ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:21.07ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇵🇱®️Poland©️Poznan (Jeżyce)🅿️ping:25.28ms

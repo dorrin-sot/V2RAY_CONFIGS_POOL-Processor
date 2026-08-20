@@ -1,3 +1,1 @@
-trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:26.18ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@150.230.146.170:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:9.43ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.28:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.87ms
+vless://56971dae-1974-4ebe-a903-00e310828dd5@163.53.244.247:443?security=reality&encryption=none&pbk=KdveJDEjZkGpf3Ymw3Ptu0cjDQ9geOY3ueMniWuWa2E&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=2694d28edfdd2c38#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.15ms

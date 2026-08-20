@@ -1,2 +1,0 @@
-vless://ff16e22b-5530-4c42-8ece-838f27c3263e@193.39.168.84:443?type=xhttp&security=tls&fp=firefox&sni=ru2.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/stream-one/#📡🇷🇺®️Russia©️Moscow🅿️ping:42.27ms
-vless://ff16e22b-5530-4c42-8ece-838f27c3263e@193.39.168.84:443?type=xhttp&security=tls&fp=firefox&sni=ru2.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/stream-one/#📡🇷🇺®️Russia©️Moscow🅿️ping:43.72ms

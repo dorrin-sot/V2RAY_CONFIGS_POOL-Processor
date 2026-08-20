@@ -1,5 +1,1 @@
-trojan://AE62539071@13.39.249.40:443?security=tls&sni=one-quail.rooster465.autos&path=/#📡🇫🇷®️France©️Paris🅿️ping:15.11ms
-trojan://AE62539071@13.39.249.40:443?security=tls&sni=one-quail.rooster465.autos&path=/#📡🇫🇷®️France©️Paris🅿️ping:16.1ms
-trojan://FH72359861@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&path=/#📡🇫🇷®️France©️Paris🅿️ping:15.02ms
-trojan://FH72359861@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&path=/#📡🇫🇷®️France©️Paris🅿️ping:15.15ms
-vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053?encryption=none&fp=&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&security=reality&sid=e52e7fd8585ac5c1&sni=www.apple.com&type=tcp#📡🇫🇷®️France©️Roubaix🅿️ping:8.16ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL---ELiV2RAY-ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:88.58ms

@@ -1,6 +1,9 @@
+trojan://AE62539071@literate-cow.rooster465.autos:443?security=tls&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.2ms
+trojan://FH72359861@13.158.129.134:443?sni=grateful-leech.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇯🇵®️Japan©️Shibuya City🅿️ping:236.27ms
 trojan://FH72359861@18.177.139.241:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=steady-prawn.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.92ms
 trojan://FH72359861@18.179.9.194:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=closing-falcon.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.75ms
 trojan://FH72359861@54.249.17.79:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=flying-swift.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:234.7ms
+trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-heron.rooster465.autos&path=/#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.3ms
 trojan://PQ05174892@18.183.179.0:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=key-sponge.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:235.0ms
 trojan://PQ05174892@18.183.245.11:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=bright-buffalo.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:235.63ms
-vless://6f339a8a-6c15-4104-a9ef-95f2082e8e53@103.76.85.207:443?flow=xtls-rprx-vision&fp=chrome&pbk=wz7upg9oyxhWauuxq8wT0vwm-zwq2GlGqXPuRyjHVTs&security=reality&sid=d243260730435fb4&sni=www.apple.com&type=tcp#📡🇯🇵®️Japan©️Taitō City🅿️ping:259.62ms
+vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#📡🇯🇵®️Japan©️Shibuya City🅿️ping:223.01ms

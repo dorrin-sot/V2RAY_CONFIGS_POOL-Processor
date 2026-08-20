@@ -1,0 +1,2 @@
+vless://3bde3993-ece7-4e26-95f1-a2dda32bbf4a@fast26.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=edge&sni=fast26.slopllex.app&fm={#📡🇧🇷®️Brazil©️Estácio🅿️ping:42.23ms
+vless://e7c11cc8-e4ae-45cf-98ef-6d9bc9cc5aa7@200.165.234.238:8443?security=reality&type=grpc&mode=gun&serviceName=nss&sni=id.pervye.ru&fp=firefox&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&encryption=none#📡🇧🇷®️Brazil©️São Gonçalo🅿️ping:42.18ms

@@ -1,0 +1,2 @@
+trojan://AE62539071@54.74.159.195:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#📡🇮🇪®️Ireland©️Dublin🅿️ping:26.8ms
+trojan://AE62539071@54.74.159.195:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#📡🇮🇪®️Ireland©️Dublin🅿️ping:26.8ms

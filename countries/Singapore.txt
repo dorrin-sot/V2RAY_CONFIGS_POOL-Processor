@@ -1,3 +1,1 @@
-vless://3dfd4ca4-dd85-4ee0-96d7-fa2900d76f65@104.234.233.249:443?encryption=none&security=reality&sni=navi.bankrate.com&host=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&speed=38ms&type=tcp&headerType=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:217.19ms
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&headerType=none&encryption=none&type=tcp&security=none#📡🇸🇬®️Singapore©️Singapore (Bishan)🅿️ping:180.22ms
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?headerType=none&encryption=none&type=tcp&security=none#📡🇸🇬®️Singapore©️Singapore (Bishan)🅿️ping:180.22ms
+trojan://PQ05174892@13.212.77.186:443?sni=promoted-rattler.rooster465.autos&type=tcp&fp=chrome#📡🇸🇬®️Singapore©️Singapore🅿️ping:161.8ms

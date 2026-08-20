@@ -1,2 +1,1 @@
-trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇮🇪®️Ireland©️Dublin🅿️ping:26.74ms
-trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇮🇪®️Ireland©️Dublin🅿️ping:26.86ms
+trojan://PQ05174892@34.244.253.42:443?sni=nice-elephant.rooster465.autos&fp=chrome&type=tcp&path=%2f#📡🇮🇪®️Ireland©️Dublin🅿️ping:26.85ms

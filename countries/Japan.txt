@@ -1,3 +1,0 @@
-trojan://AE62539071@whole-perch.rooster465.autos:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:249.88ms
-vless://3dfd4ca4-dd85-4ee0-96d7-fa2900d76f65@156.231.113.56:443?encryption=none&security=reality&sni=navi.bankrate.com&host=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&speed=46ms&type=tcp&headerType=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:240.43ms
-vless://3dfd4ca4-dd85-4ee0-96d7-fa2900d76f65@45.202.245.218:443?encryption=none&security=reality&sni=navi.bankrate.com&host=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&speed=46ms&type=tcp&headerType=none#📡🇯🇵®️Japan©️Shibuya City🅿️ping:253.57ms

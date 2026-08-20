@@ -1,0 +1,1 @@
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=wild-sky-f384.alvlirm3737.workers.dev&type=ws&allowInsecure=0&sni=wild-sky-f384.alvlirm3737.workers.dev#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:3.27ms

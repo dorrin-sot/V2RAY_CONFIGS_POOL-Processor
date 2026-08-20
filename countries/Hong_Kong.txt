@@ -1,1 +1,0 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.195.4.7:443?security=reality&encryption=none&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&host=asia.cendora.ru&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asia.cendora.ru&sid=e53048e82bb20077#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:199.25ms

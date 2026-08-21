@@ -1,5 +1,6 @@
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443/?insecure=1&sni=player.wwwinternetvideo.click#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:14.86ms
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&sid=f648da8196bdb32e&allowInsecure=1#📡🇩🇪®️Germany©️Nuremberg🅿️ping:12.85ms
+vless://2b9889fd-c379-46a0-88bf-0b1c13df2de1@164.90.171.176:55397?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.21ms
 vless://2b9889fd-c379-46a0-88bf-0b1c13df2de1@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.21ms
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087?path=%2Fde-vless-ws&security=tls&encryption=none&insecure=0&host=node2.onepanel123.ru&fp=chrome&type=ws&allowInsecure=0&sni=node2.onepanel123.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:85.54ms
-vless://603819a3-dd65-408a-abab-15d8dc49887f@157.230.119.240:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.46ms
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:10.21ms

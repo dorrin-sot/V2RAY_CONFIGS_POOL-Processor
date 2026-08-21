@@ -1,1 +1,2 @@
 trojan://FH72359861@pro-crane.rooster465.autos:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:22.25ms
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@bridge.meshbeat.online:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#📡🇳🇱®️The Netherlands©️Oude Meer🅿️ping:17.02ms

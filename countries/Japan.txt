@@ -1,0 +1,2 @@
+trojan://FH72359861@adapted-quetzal.rooster465.autos:443?security=tls&sni=adapted-quetzal.rooster465.autos#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.84ms
+trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-heron.rooster465.autos&path=/#📡🇯🇵®️Japan©️Shibuya City🅿️ping:233.77ms

@@ -1,4 +1,5 @@
 vless://00c68fef-5218-4d1d-8fdd-27c2fbfc39bd@95.182.98.196:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=play.google.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#📡🇫🇷®️France©️Paris🅿️ping:11.8ms
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@91.239.208.15:443?security=tls&flow=xtls-rprx-vision-udp443&sni=fr15.mechvpn.online&fp=chrome&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:11.79ms
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#📡🇫🇷®️France©️Paris🅿️ping:27.02ms
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr186.mechvpn.online:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=fr186.mechvpn.online&path=%2F#📡🇫🇷®️France©️Paris🅿️ping:11.84ms
 vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=reality&sni=yahoo.com&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa#📡🇫🇷®️France©️Paris🅿️ping:20.11ms

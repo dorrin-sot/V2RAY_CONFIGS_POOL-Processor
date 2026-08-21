@@ -1,1 +1,2 @@
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443#📡🇫🇷®️France©️Paris🅿️ping:27.02ms
+vless://NamedZadim@95.182.96.120:80?security=reality&encryption=none&pbk=CMlXrhikqsy7lZl3kfLuiwrgdHn4hm3Jgr8gf_ZnYRM&headerType=none&fp=safari&spx=/f6e3a33d3cdf195&type=tcp&flow=xtls-rprx-vision&sni=console.hetzner.com&sid=d3fb#📡🇫🇷®️France©️Paris🅿️ping:28.72ms

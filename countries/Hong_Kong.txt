@@ -1,2 +1,1 @@
-trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:197.61ms
-trojan://FH72359861@natural-swan.rooster465.autos:443?allowInsecure=1#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.59ms
+vless://e01b5875-0b0b-4056-bbf5-0b0ecdc97937@9wf3-zili1w.laurelmedco.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk&security=reality&sid=977a84fa5512be5a&sni=www.cloudflare.com&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:204.51ms

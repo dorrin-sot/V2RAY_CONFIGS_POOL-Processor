@@ -1,5 +1,4 @@
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:11.51ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:11.36ms
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RlQ1VVF2SWlVUG1kVXJzeDVhdkk2K2RHcncxOUpvemo4eGViTitzQ0hkdw0@89.168.113.242:59924#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:9.88ms
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:11.36ms
 vless://457ebbd7-2059-4288-b7dd-dd3b7628bf45@154.222.9.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=5be97fb85093a3a9#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:9.36ms

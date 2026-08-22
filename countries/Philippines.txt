@@ -1,3 +1,0 @@
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.162:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#📡🇵🇭®️Philippines©️Manila🅿️ping:46.89ms
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.239:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#📡🇵🇭®️Philippines©️Manila🅿️ping:41.99ms
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#📡🇵🇭®️Philippines©️Manila🅿️ping:44.63ms

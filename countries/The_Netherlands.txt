@@ -1,3 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:3.31ms
-trojan://AE62539071@193.169.239.14:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=emerging-weevil.rooster465.autos#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:8.3ms
-trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:23.28ms

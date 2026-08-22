@@ -1,0 +1,10 @@
+trojan://AE62539071@194.99.79.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=humorous-parakeet.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.74ms
+trojan://EQ30679154@185.244.208.185:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=striking-cheetah.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.75ms
+trojan://FH72359861@194.99.79.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=smiling-ray.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.84ms
+trojan://HC04361579@185.14.47.125:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=eminent-lamb.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:177.45ms
+trojan://HC04361579@185.14.47.38:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=normal-elk.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.78ms
+trojan://HC04361579@185.244.208.60:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=renewing-ewe.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.97ms
+trojan://HC04361579@185.244.208.60:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=renewing-ewe.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.97ms
+trojan://PQ05174892@185.14.47.101:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ideal-robin.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:181.02ms
+trojan://PQ05174892@185.14.47.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=well-marmot.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.71ms
+trojan://PQ05174892@185.14.47.228:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=wealthy-loon.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.2ms

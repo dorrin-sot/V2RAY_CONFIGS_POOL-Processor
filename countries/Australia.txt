@@ -1,0 +1,5 @@
+trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#📡🇦🇺®️Australia©️Alexandria🅿️ping:278.34ms
+trojan://PD07395842@true-pony.rooster465.autos:443?sni=true-pony.rooster465.autos&peer=true-pony.rooster465.autos&security=tls#📡🇦🇺®️Australia©️Alexandria🅿️ping:271.18ms
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.48.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#📡🇦🇺®️Australia©️Sydney🅿️ping:270.38ms
+vless://60813de7-15e4-4d05-95a1-567c3f2f213b@iP.mEloV2raY.shOp:443?type=ws&path=%2Fmelov2ray&security=none#📡🇦🇺®️Australia©️Beaumaris🅿️ping:157.01ms
+vless://921db318-1694-4408-9cc7-c93df39f7f8e@au.monkora.org:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=au.monkora.org#📡🇦🇺®️Australia©️Campbelltown🅿️ping:300.75ms

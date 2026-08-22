@@ -1,1 +1,1 @@
-vless://6aeb24c8-efc1-4a8a-8b70-f4373c57cdc2@163.128.99.49:443?security=reality&encryption=none&pbk=bOl3cE95DyTP45SarBNVL9VSwvAQETENlm0iMNaxLyo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=93a993bbc8b86684#📡🇸🇬®️Singapore©️Singapore (Queenstown Estate)🅿️ping:181.84ms
+vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&sid=4014ce9b0d82ad9d&type=tcp&headerType=none#📡🇸🇬®️Singapore©️Singapore🅿️ping:166.18ms

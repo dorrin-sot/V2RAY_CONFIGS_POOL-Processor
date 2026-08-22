@@ -1,0 +1,2 @@
+vless://dcd4895e-8c67-4405-8a14-fee61b02dd11@190.93.247.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:3.95ms
+vless://f739f7e6-98b5-40a5-9c8e-037124e1c1ee@190.93.247.155:80?path=%2Fvless&security=none&encryption=none&host=Nl1.vless.site.&type=ws&sni=nl1.vless.site#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:3.95ms

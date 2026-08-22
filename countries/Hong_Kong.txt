@@ -8,3 +8,4 @@ trojan://HC04361579@185.244.208.60:443?security=tls&insecure=0&headerType=none&t
 trojan://PQ05174892@185.14.47.101:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ideal-robin.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:181.02ms
 trojan://PQ05174892@185.14.47.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=well-marmot.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.71ms
 trojan://PQ05174892@185.14.47.228:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=wealthy-loon.rooster465.autos#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:178.2ms
+vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@128.1.12.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&sid=96b6483bfb4ac526&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:202.34ms

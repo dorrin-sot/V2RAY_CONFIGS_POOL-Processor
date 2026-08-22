@@ -1,2 +1,0 @@
-vless://07f32a11-daa7-4e40-97e5-5382330df800@188.72.103.3:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2FuploadFile%2F&host=ee-4.nodes.ac&sni=ee-4.nodes.ac&fp=edge&alpn=h2%2Chttp%2F1.1&headerType=none&mode=packet-up#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:42.12ms
-vless://86045e92-64d2-4586-b22c-7777ac18d573@188.72.103.3:443?type=xhttp&security=tls&encryption=none&path=%2Fmedia%2Flive%2F&host=cdnyan6.floatingcars.net&sni=cdnyan6.floatingcars.net&fp=firefox&alpn=h2%2Chttp%2F1.1&headerType=none&mode=packet-up#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:42.12ms

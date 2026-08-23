@@ -1,1 +1,1 @@
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?encryption=none&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#📡🇯🇵®️Japan©️Shibuya City🅿️ping:258.08ms
+vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#📡🇯🇵®️Japan©️Shibuya City🅿️ping:282.62ms

@@ -1,1 +1,1 @@
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=jp.servers.gracevpnbuy.com&amp;fp=firefox&amp;pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&amp;sid=b91a73752053b039&amp;type=tcp&amp;headerType=none#📡🇯🇵®️Japan©️Koto-ku🅿️ping:270ms
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#📡🇯🇵®️Japan©️Shibuya City🅿️ping:272ms

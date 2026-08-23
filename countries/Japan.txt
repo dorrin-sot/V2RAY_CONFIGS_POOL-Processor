@@ -1,0 +1,1 @@
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=jp.servers.gracevpnbuy.com&amp;fp=firefox&amp;pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&amp;sid=b91a73752053b039&amp;type=tcp&amp;headerType=none#📡🇯🇵®️Japan©️Koto-ku🅿️ping:270ms

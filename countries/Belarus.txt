@@ -1,1 +1,1 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinjoin-video-stri.ru&fp=firefox&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=0bc73dd1f045#📡🇧🇾®️Belarus©️Minsk🅿️ping:58.61ms
+vless://NamedZadim@95.182.96.120:80?security=reality&amp;encryption=none&amp;pbk=CMlXrhikqsy7lZl3kfLuiwrgdHn4hm3Jgr8gf_ZnYRM&amp;headerType=none&amp;fp=safari&amp;spx=%2Ff6e3a33d3cdf195&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=console.hetzner.com&amp;sid=d3fb#📡🇧🇾®️Belarus©️Minsk🅿️ping:58.61ms

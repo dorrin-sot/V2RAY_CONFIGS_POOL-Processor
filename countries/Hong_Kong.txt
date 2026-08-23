@@ -1,1 +1,2 @@
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@128.1.12.19:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=JOIN_BEDE_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:202.34ms
+vless://f33e604e-d0c0-4775-91e2-934cc2e8d37c@pro-it.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:24.96ms

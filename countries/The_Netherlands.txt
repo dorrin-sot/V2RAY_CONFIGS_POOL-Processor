@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#📡🇳🇱®️The Netherlands©️Meppel🅿️ping:36.02ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.159:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:41.69ms
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@ned.waldron.ir:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=edge&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:71.68ms
+vless://604d4a69-9f65-477c-8103-1c44bffd7092@195.63.135.96:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=YAGFX8W6o2l3UWIAMEP93ULo0NSQ2iFM8DopfcFDBUk&fp=chrome&type=grpc&sni=steamcommunity.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.86ms

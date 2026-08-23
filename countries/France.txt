@@ -1,1 +1,0 @@
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr199.mechvpn.online#📡🇫🇷®️France©️Noisiel🅿️ping:11.52ms

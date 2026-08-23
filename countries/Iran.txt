@@ -1,1 +1,2 @@
-vless://904cd6f2-9740-44e5-9353-58207c8e64c7@185.143.232.253:8080?path=%2F&type=ws&security=none&encryption=none&host=2ja0n7x60a.star2.panelpars.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:24.86ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S0NvbUVRMjhjVlhJelZseGRwVHk2TFhMb2NrWEV4WlVoMXhVSlQ0OS9uaz06U0w2eDl0bENaRkhJUitvcS9wdjdIT0hFRXdQUzdtN0pvM0xWNU5LdkdaST0@tun3.pcapps.ir:2083#📡🇮🇷®️Iran©️Tehran🅿️ping:114.76ms
+vless://69682450-4f4f-4750-8595-aec68e7f283b@tun.pcapps.ir:2092?security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=phonepanel.ir#📡🇮🇷®️Iran©️Tehran🅿️ping:152.05ms

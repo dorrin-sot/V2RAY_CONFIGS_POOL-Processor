@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:58.83ms
-vless://da98e502-5e93-4fc5-bd61-388c557df29c@178.236.254.21:2083?security=reality&encryption=none&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swe-one.quiet-rogue.site&sid=32a37218722f0081#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:76.87ms
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?path=%2Fapi%2Fv1%2Fdevices%2F7c05e2fb91%2Ftelemetry&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl3.meshbeat.online&type=ws&allowInsecure=0&sni=nl3.meshbeat.online#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:34.75ms

@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:266.69ms
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@47.76.171.37:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:264.37ms

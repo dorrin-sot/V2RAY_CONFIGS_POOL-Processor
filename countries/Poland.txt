@@ -1,1 +1,1 @@
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl1.nihaovpn.ru&fp=firefox&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&sid=d9622c6fea10c1&type=tcp&headerType=none#📡🇵🇱®️Poland©️Warsaw🅿️ping:74.48ms
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.180.42.210:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&fp=qq&encryption=none&flow=xtls-rprx-vision#📡🇵🇱®️Poland©️Warsaw🅿️ping:94.17ms

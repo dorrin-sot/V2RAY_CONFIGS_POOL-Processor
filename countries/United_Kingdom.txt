@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#📡🇬🇧®️United Kingdom©️Streatham🅿️ping:45.7ms
-vless://1996007c-e7bc-464b-999b-cac28cec6c3e@138.124.125.211:443?encryption=none&type=tcp&security=reality&pbk=RVj8E6YuWeOq9XzIVLQCKM39qa-Cknp-GYvVAA1UPFo&sid=72cceb78&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision#📡🇬🇧®️United Kingdom©️Coventry🅿️ping:71.35ms
-vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?mode=auto&path=%2F%3Fed%3D2082&security=&encryption=none&host=h.cafearen.ir&type=xhttp#📡🇬🇧®️United Kingdom©️London🅿️ping:61.57ms
+vless://2ed0d2a0-dbba-4cc2-95df-a197831d9978@109.169.37.129:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=fd55b698ee8c3629#📡🇬🇧®️United Kingdom©️Gosport🅿️ping:36.0ms
+vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?&security=tls&fp=qq&sni=gb1.wba-pn.ru&type=ws&headerType=none&host=gb1.wba-pn.ru&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:47.77ms

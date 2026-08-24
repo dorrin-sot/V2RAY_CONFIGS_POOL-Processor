@@ -1,3 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:48.91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.39ms
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg@193.0.179.84:31348#📡🇳🇱®️The Netherlands©️Dronten🅿️ping:36.18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#📡🇳🇱®️The Netherlands©️Meppel🅿️ping:39.59ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:41.18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.249:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:39.17ms
+vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?fp=chrome&sid=f3e8b2b1&sni=www.cisco.com&type=tcp&pbk=MfOXevYFoqnwIn6dUiPZvWYRfYHyb5lzBy3R1OSsrWg&headerType=none&encryption=none&spx=/&security=reality&flow=xtls-rprx-vision#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.42ms

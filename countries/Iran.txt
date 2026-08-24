@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:99.48ms
+ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:96.62ms
+vless://601f1cf3-3d17-404e-901f-8cf5ab8383c4@tun.relluma.ir:3454?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.lggQV2Gwz_dtnqKNlCaRbYIDp39SIknoBFM-abNBQm0&type=ws#📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:214.45ms

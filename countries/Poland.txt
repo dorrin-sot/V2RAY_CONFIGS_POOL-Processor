@@ -1,1 +1,1 @@
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1%40freenettir%20%C2%B3#📡🇵🇱®️Poland©️Warsaw🅿️ping:32.43ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:32.41ms

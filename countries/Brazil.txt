@@ -1,2 +1,1 @@
-vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:701?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#📡🇧🇷®️Brazil©️Birigui🅿️ping:87.69ms
-vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:701?encryption=none&security=none&type=tcp&headerType=none#📡🇧🇷®️Brazil©️Birigui🅿️ping:87.69ms
+vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@200.165.230.19:2087?encryption=none&pbk=iWxxH0TWB1Ciz6sEwtfjUVY61OcTDihou5IJfkt0O0Q&security=reality&serviceName=grpc&sid=f2a4c6e8&sni=vk.com&type=grpc&fp=qq#📡🇧🇷®️Brazil©️São José do Rio Preto🅿️ping:22.71ms

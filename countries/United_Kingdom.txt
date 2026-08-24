@@ -1,1 +1,1 @@
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?&security=tls&fp=qq&sni=gb1.wba-pn.ru&type=ws&headerType=none&host=gb1.wba-pn.ru&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:111.35ms
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.29.sslip.io:443?security=reality&encryption=none&pbk=qOraT1A2tq0v0HIZlcplEnqXx4Sn-99z_EKNqTEZv1M&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=6ecabc17bcfb4291#📡🇬🇧®️United Kingdom©️Slough🅿️ping:52.74ms

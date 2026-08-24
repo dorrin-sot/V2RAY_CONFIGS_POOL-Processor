@@ -1,5 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:54.09ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:52.78ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.21ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:29.84ms
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.190:2096?sni=vp40.cc.cd&type=ws&host=vp40.cc.cd&path=/fp=chrome&security=tls#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:8.09ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.249:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:35.31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:59.5ms
 vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@nltw8.lckdwn.ru:8443?type=tcp&security=reality&sni=dzen.ru&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&fp=edge&spx=%2Fj0wwmtt5ighhegg&encryption=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:83.51ms

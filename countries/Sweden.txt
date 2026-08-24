@@ -1,3 +1,1 @@
-vless://24166122-2e99-491e-9fae-11310aa18068@185.146.173.37:443?security=tls&sni=xn--mgbaasql3ledele.pinocchio1.ir.&type=grpc&fp=chrome#📡🇸🇪®️Sweden©️Stockholm🅿️ping:7.46ms
-vless://82fdc77c-5def-4930-89a6-afb5cc609d4b@185.146.173.237:8880?type=ws&host=github-_-_-_-_-_-vpn_proxy66_marg_bar_khamenei.proxy66.shop.&path=/VPN_PROXY66.VPN_PROXY66#📡🇸🇪®️Sweden©️Stockholm🅿️ping:7.01ms
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:80?security=none&type=ws&host=LG2.topshop20.com&path=/DSDaswd22!11*fdfm55247.COM.#📡🇸🇪®️Sweden©️Stockholm🅿️ping:7.88ms

@@ -1,1 +1,1 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc#📡🇷🇺®️Russia©️Moscow🅿️ping:36.96ms
+vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#📡🇷🇺®️Russia©️Olyokminsk🅿️ping:19.27ms

@@ -1,1 +1,1 @@
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:93.35ms
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:34.17ms

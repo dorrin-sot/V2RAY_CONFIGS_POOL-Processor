@@ -1,1 +1,1 @@
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.131.210.55:2096?security=tls&sni=De04.SiMaNsAnAt.Ir.&type=ws&host=De04.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#📡🇧🇿®️Belize©️Belize City🅿️ping:7.57ms
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.131.210.55:2096?security=tls&sni=De04.SiMaNsAnAt.Ir.&type=ws&host=De04.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#📡🇧🇿®️Belize©️Belize City🅿️ping:8.11ms

@@ -1,1 +1,1 @@
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?path=%2Fapi%2Fv1%2Fdevices%2F7c05e2fb91%2Ftelemetry&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl3.meshbeat.online&type=ws&allowInsecure=0&sni=nl3.meshbeat.online#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:34.75ms
+vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?security=reality&encryption=none&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&fp=chrome&spx=%2F&type=grpc&serviceName=grpc&sni=google.com&sid=6a326909#📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:33.55ms

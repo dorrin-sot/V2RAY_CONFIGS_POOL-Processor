@@ -1,4 +1,1 @@
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@45.150.66.31:443?encryption=none&path=%2F&security=tls&sni=gb1.wba-pn.ru&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:59.54ms
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:67.12ms
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?security=&encryption=none&headerType=&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:67.12ms
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#📡🇬🇧®️United Kingdom©️London🅿️ping:44.54ms
+vless://f4d91abd-8436-49be-a032-fcc95a204d90@91.193.58.201:2087?alpn=h2&authority=&encryption=none&fp=chrome&security=tls&serviceName=Update&sni=sakhtehsite.com&type=grpc#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:6.99ms

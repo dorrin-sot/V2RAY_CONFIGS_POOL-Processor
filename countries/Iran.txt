@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:102.77ms
-ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:125.28ms
+vless://b60f1c21-f73f-4dfa-8410-fb203bd3a7d6@ip4.ihoma2.site:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=d5.ihoomayon.ir&fp=firefox&type=ws&allowInsecure=0&sni=d5.ihoomayon.ir#📡🇮🇷®️Iran©️Tehrān (District 17)🅿️ping:109.24ms

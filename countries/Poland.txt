@@ -1,1 +1,1 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.180.42.210:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&fp=qq&encryption=none&flow=xtls-rprx-vision#📡🇵🇱®️Poland©️Warsaw🅿️ping:94.17ms
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?path=%2Fmusiclovers85%3Fed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#📡🇵🇱®️Poland©️Warsaw🅿️ping:8.16ms

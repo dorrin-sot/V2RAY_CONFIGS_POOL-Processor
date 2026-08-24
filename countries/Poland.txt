@@ -1,1 +1,1 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?path=%2Fmusiclovers85%3Fed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#📡🇵🇱®️Poland©️Warsaw🅿️ping:7.8ms
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1%40freenettir%20%C2%B3#📡🇵🇱®️Poland©️Warsaw🅿️ping:32.43ms

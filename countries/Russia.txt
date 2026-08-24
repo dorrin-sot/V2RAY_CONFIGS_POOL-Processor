@@ -1,1 +1,5 @@
-vless://51afc65b-70f9-46f9-bbf5-6dab07fb94c6@edge2.rumedia-cdn.com:2083?security=reality&encryption=none&pbk=UPNrOP5K4VMKioVmi1o15crjzHP3tkeMQr-ivgBNNQU&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=eb95c48c14152f51#📡🇷🇺®️Russia©️Moscow🅿️ping:46.67ms
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:1900#📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:50.88ms
+ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:50110#📡🇷🇺®️Russia©️St Petersburg🅿️ping:14.82ms
+ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@195.58.48.97:40119#📡🇷🇺®️Russia©️Kop'yevo🅿️ping:13.55ms
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:84.32ms
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:84.32ms

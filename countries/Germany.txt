@@ -1,2 +1,4 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.89ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22223?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemN4WQ@45.95.2.25:8388#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.22ms
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:30.29ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.97ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22223?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:30.83ms

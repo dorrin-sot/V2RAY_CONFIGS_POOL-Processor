@@ -1,1 +1,1 @@
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#📡🇫🇷®️France©️Paris🅿️ping:81.13ms
+vless://0772109c-a680-4896-b005-d86513194f96@node14.mxvpn.dev:443?type=tcp&security=reality&sni=node14.mxvpn.dev&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&fp=firefox&encryption=none&flow=xtls-rprx-vision#📡🇫🇷®️France©️Paris🅿️ping:51.62ms

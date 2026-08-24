@@ -1,1 +1,5 @@
-ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#📡🇸🇬®️Singapore©️Singapore🅿️ping:202.11ms
+ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#📡🇸🇬®️Singapore©️Singapore🅿️ping:266.9ms
+ss://YWVzLTI1Ni1nY206TUJXZDlNSDBKTWgyRzVvZA@194.87.10.112:8388#📡🇸🇬®️Singapore©️Singapore🅿️ping:261.75ms
+ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:21381#📡🇸🇬®️Singapore©️Singapore🅿️ping:202.89ms
+ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:31352#📡🇸🇬®️Singapore©️Singapore🅿️ping:236.66ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.40:443?security=tls&sni=hkh.ylks.link&type=ws&path=/#📡🇸🇬®️Singapore©️Singapore🅿️ping:9.22ms

@@ -1,2 +1,0 @@
-trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:86.53ms
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:66.84ms

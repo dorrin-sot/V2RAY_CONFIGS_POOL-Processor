@@ -1,1 +1,2 @@
-vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@200.165.230.19:2087?encryption=none&pbk=iWxxH0TWB1Ciz6sEwtfjUVY61OcTDihou5IJfkt0O0Q&security=reality&serviceName=grpc&sid=f2a4c6e8&sni=vk.com&type=grpc&fp=qq#📡🇧🇷®️Brazil©️São José do Rio Preto🅿️ping:22.71ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:501?security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:83.53ms
+vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#📡🇧🇷®️Brazil©️São Paulo🅿️ping:239.72ms

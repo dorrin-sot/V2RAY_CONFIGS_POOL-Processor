@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:26.25ms
-vless://21638@shop.jarorobo.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/506b62ca7ff0649&type=tcp&sni=sribsrch.ecom.samsung.com&sid=06b75703cbf1#📡🇩🇪®️Germany©️Nuremberg🅿️ping:93.67ms
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:27.89ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22223?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31.81ms

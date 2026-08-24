@@ -1,5 +1,0 @@
-trojan://humanity@gr3.levikogjgfdd.ir:443?security=tls&fp=chrome&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:62.26ms
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.24:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.23ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.36.98:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.53ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.36.98:22222?encryption=none&security=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.53ms
-vless://ef2c48a7-c113-4610-9d81-b35779660d9e@138.124.32.222:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de2.oblaco.bet#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:46.26ms

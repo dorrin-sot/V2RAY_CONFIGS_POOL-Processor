@@ -1,1 +1,6 @@
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#📡🇧🇷®️Brazil©️São Paulo🅿️ping:236.01ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:201?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:66.0ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:201?security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:66.0ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:501?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:40.0ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:501?security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:40.0ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:701?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:98.77ms
+vless://680cfae0-ac97-40b2-b174-00480afd6120@201.24.54.210:701?security=none&encryption=none&headerType=none&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:98.77ms

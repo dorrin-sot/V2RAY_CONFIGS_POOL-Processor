@@ -1,0 +1,2 @@
+vless://7bd3eadc-adc9-486e-b34c-2b6b0889c901@140.82.52.38:30702?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#📡🇫🇷®️France©️Aubervilliers🅿️ping:41.68ms
+vless://7bd3eadc-adc9-486e-b34c-2b6b0889c901@140.82.52.38:30702?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#📡🇫🇷®️France©️Aubervilliers🅿️ping:41.68ms

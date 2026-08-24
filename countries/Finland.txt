@@ -1,0 +1,1 @@
+vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@212.147.246.134:3389?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:28.98ms

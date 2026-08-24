@@ -1,2 +1,1 @@
-vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@95.163.232.54:8443?type=tcp&security=reality&sni=max.ru&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c#📡🇷🇺®️Russia©️Moscow🅿️ping:28.67ms
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@176.108.247.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=RLfpBLdhLN7E2fFs5dLltcvLQkyRko4uxfs0maIJCW0&type=tcp&headerType=none#📡🇷🇺®️Russia©️Moscow🅿️ping:22.88ms
+vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#📡🇷🇺®️Russia©️Olyokminsk🅿️ping:42.62ms

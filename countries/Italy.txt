@@ -1,2 +1,0 @@
-vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?fp=chrome&security=tls&sni=it2ws.wba-pn.ru&type=ws#📡🇮🇹®️Italy©️Milan🅿️ping:103.42ms
-vless://2e736ef7-fc59-4161-bc64-e1416c74aae5@57.131.18.86:6300?fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&security=reality&sni=play.google.com&type=tcp#📡🇮🇹®️Italy©️Milan🅿️ping:38.52ms

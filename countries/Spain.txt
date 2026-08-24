@@ -1,1 +1,1 @@
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.202:443?security=reality&encryption=none&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ray-balance.space#📡🇪🇸®️Spain©️Barcelona🅿️ping:56.1ms
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:8.17ms

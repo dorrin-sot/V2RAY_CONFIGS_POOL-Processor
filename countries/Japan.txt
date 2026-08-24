@@ -1,2 +1,0 @@
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@170.205.39.165:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#📡🇯🇵®️Japan©️Shibuya City🅿️ping:269.59ms
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@206.251.53.91:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#📡🇯🇵®️Japan©️Shibuya City🅿️ping:277.18ms

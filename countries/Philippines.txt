@@ -1,1 +1,0 @@
-vless://7c0ae486-6e09-465c-9232-67a50f329eb9@45.195.2.114:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&fp=qq&alpn=http%2F1.1#📡🇵🇭®️Philippines©️Manila🅿️ping:41.41ms

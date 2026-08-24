@@ -1,1 +1,1 @@
-vless://3b5fddd1-b156-4544-80fb-7c3071e63bc1@fardad-no.berzema.ir:6800?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#📡🇳🇴®️Norway©️Oslo🅿️ping:36.69ms
+vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&sid=68da&sni=deepl.com#📡🇳🇴®️Norway©️Stokmarknes🅿️ping:34.61ms

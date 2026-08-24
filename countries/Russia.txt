@@ -1,1 +1,0 @@
-vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yt.orpheous.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&flow=xtls-rprx-vision#📡🇷🇺®️Russia©️Olyokminsk🅿️ping:24.38ms

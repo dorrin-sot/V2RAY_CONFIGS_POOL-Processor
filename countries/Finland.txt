@@ -1,0 +1,6 @@
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#📡🇫🇮®️Finland©️Helsinki🅿️ping:83.97ms
+vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@xb9ndpq97jn.jqpl97malmz.kajpqxmmdlel.freeino.org:4046?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:13.5ms
+vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@xb9ndpq97jn.jqpl97malmz.kajpqxmmdlel.freeino.org:4049?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:14.73ms
+vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@xb9ndpq97jn.jqpl97malmz.kajpqxmmdlel.freeino.org:7080?security=none&encryption=none&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.04ms
+vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@xb9ndpq97jn.jqpl97malmz.kajpqxmmdlel.freeino.org:7080?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:44.04ms
+vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@xb9ndpq97jn.jqpl97malmz.kajpqxmmdlel.freeino.org:7090?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:28.53ms

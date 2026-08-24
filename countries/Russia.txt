@@ -1,5 +1,2 @@
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:1900#📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:50.88ms
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:50110#📡🇷🇺®️Russia©️St Petersburg🅿️ping:14.82ms
-ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@195.58.48.97:40119#📡🇷🇺®️Russia©️Kop'yevo🅿️ping:13.55ms
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:84.32ms
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:84.32ms
+ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:50110#📡🇷🇺®️Russia©️St Petersburg🅿️ping:14.14ms
+vless://2b092ee6-5e4b-0032-8236-a46bec9393fd@185.137.232.194:443?mode=auto&path=%2Fassets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=firefox&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#📡🇷🇺®️Russia©️Moscow🅿️ping:35.66ms

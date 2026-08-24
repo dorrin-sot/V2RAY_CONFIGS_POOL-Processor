@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:110.36ms
-vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=&encryption=none&host=bale.ai&headerType=http&type=tcp#📡🇮🇷®️Iran©️Yazd (Javad Al Aeme)🅿️ping:135.51ms
+ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:102.33ms
+vless://2b76d5ba-e8f5-49cd-b5cb-03a1884964d0@paly.comalfa.kingsizeh.dpdns.org:2029?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇮🇷®️Iran©️Eslamshahr (Shahrak-e-Shahab Sang)🅿️ping:283.1ms

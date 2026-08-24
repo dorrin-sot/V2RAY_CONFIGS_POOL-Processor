@@ -1,0 +1,2 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.219.171:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:45.8ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.219.171:22224?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:41.33ms

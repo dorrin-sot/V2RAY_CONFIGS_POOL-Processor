@@ -1,1 +1,0 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@95.85.247.137:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=-Ip8VUNFCdnt03bAS90yHxL91mf49D2dJmkKB_d_n0g&sid=b5dd1544&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:103.55ms

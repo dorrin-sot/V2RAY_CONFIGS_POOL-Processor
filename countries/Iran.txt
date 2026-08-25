@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:106.65ms
+ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:180.65ms
+vless://b2235684-da26-41d9-e3b5-bf8acdf3706a@s5.zynetrax.ir:2087?mode=auto&pcs=52c36f3722d73827cc3977541830ab65967d8335c6e7122dd5ff810de57252bb&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s5.zynetrax.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s5.zynetrax.ir#📡🇮🇷®️Iran©️Tehran (District 14)🅿️ping:214.25ms

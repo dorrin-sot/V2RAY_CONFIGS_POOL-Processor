@@ -1,0 +1,1 @@
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eeb.webinarly.fun:443?mode=gun&security=tls&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=edge.sync.v1&allowInsecure=0&sni=eeb.webinarly.fun#📡🇪🇪®️Estonia©️Tallinn🅿️ping:49.0ms

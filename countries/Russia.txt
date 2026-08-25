@@ -1,3 +1,1 @@
-vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=%2Frepository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=qq&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#📡🇷🇺®️Russia©️St Petersburg🅿️ping:9.27ms
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@77.232.43.195:443?mode=auto&path=%2Fweb%2Fcdn%2Fv2%2Fassets&security=reality&encryption=none&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&fp=firefox&type=xhttp&sni=ya.ru&sid=2b5b1ffa8a6a1a68#📡🇷🇺®️Russia©️Moscow🅿️ping:49.67ms
-vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.20:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ai-6a8c51f9.noooo.win#📡🇷🇺®️Russia©️Moscow🅿️ping:41.39ms
+vless://2e79f3ca-b8db-4d4d-a96e-8f7313480696@168.222.203.14:4100?encryption=none&security=none&type=ws&path=%2Fv1#📡🇷🇺®️Russia©️Moscow🅿️ping:77.07ms

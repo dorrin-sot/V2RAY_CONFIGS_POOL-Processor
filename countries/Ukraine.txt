@@ -1,0 +1,1 @@
+vless://3ebb81df-0e7f-4c2a-98d1-d7f470563259@50.7.249.218:8443?encryption=none&security=tls&sni=apkav-5.bosx.net&alpn=http%2F1.1&type=ws&path=%2Fapi%2Fconnect#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:125.1ms

@@ -1,3 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:25.85ms
-vless://4b83df2d-80d5-4131-aec6-9e565f33136e@pnl.forvian.ir:8888?encryption=mlkem768x25519plus.native.0rtt.eVWNrSx36CEJRTxKxdalEDHS5rO-BEAhsZP73bUYNxs&security=tls&sni=pnl.forvian.ir&fp=chrome&alpn=h2,http/1.1,h3&type=grpc&authority=&serviceName=grpc&mode=gun#📡🇩🇪®️Germany©️Nuremberg🅿️ping:96.86ms
-vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@94.237.102.117:3389?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.66ms
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M2VXVHQ2NnR6OHA4c3RZTEIydmM3UT09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@Mari.Sav-savteAm.iR:2014#📡🇩🇪®️Germany©️Nuremberg🅿️ping:96.93ms
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Smxia21CdURJUnUrcWdza2xHMVhlZz09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@Shada.Sav-savteAm.iR:2012#📡🇩🇪®️Germany©️Nuremberg🅿️ping:66.26ms
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Tk9zdlIwOTVQdGxaQXJtWnJnY3BVZz09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@goRdan.Sav-savteAm.iR:2011#📡🇩🇪®️Germany©️Nuremberg🅿️ping:200.98ms
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206blpTcjJianFyZ2U0VTRiRjJPK0hRZz09OkhIVEpZVHAxdGhoZFVaYkpNN25Fc2c9PQ==@Lako.Sav-savteAm.iR:2013#📡🇩🇪®️Germany©️Nuremberg🅿️ping:122.39ms
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.24:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31.55ms
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?encryption=none&path=/&security=none&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:35.49ms
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=de.wlrus.cfd&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:60.5ms
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:52.99ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22224?security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:55.16ms

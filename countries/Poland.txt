@@ -1,1 +1,3 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&flow=xtls-rprx-vision&encryption=none&sni=api-maps.yandex.ru&security=reality&fp=firefox&type=tcp&headerType=none&sid=01e4de88#📡🇵🇱®️Poland©️Warsaw🅿️ping:103.8ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:32.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#📡🇵🇱®️Poland©️Warsaw🅿️ping:32.31ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:33.23ms

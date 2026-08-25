@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:126.81ms
+ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:124.37ms
+vless://3249cda3-b405-436c-b085-313e5809d7a0@185.249.9.89:1080?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:84.07ms

@@ -1,1 +1,1 @@
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?encryption=none&security=reality&sni=stackoverflow.com&fp=chrome&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&sid=0ea83f18e6b2&type=grpc&authority=&serviceName=grpc&mode=gun#📡🇵🇱®️Poland©️Warsaw🅿️ping:29.41ms
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&flow=xtls-rprx-vision&encryption=none&sni=api-maps.yandex.ru&security=reality&fp=firefox&type=tcp&headerType=none&sid=01e4de88#📡🇵🇱®️Poland©️Warsaw🅿️ping:107.95ms

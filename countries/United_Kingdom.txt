@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.175.227.220:443#📡🇬🇧®️United Kingdom©️London🅿️ping:34.5ms
-vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.66:443?flow=xtls-rprx-vision&security=reality&pbk=WRK4JiKTQ6ygRHh1tRfUzuSO1-v2fKfsFoy3O9pXOi8&headerType=none&encryption=none&type=tcp&sid=00e32d694f37c137&sni=167.104.223.66.sslip.io&fp=chrome#📡🇬🇧®️United Kingdom©️Slough🅿️ping:37.12ms
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.29:443?flow=xtls-rprx-vision&encryption=none&sni=167.104.223.29.sslip.io&type=tcp&headerType=none&sid=6ecabc17bcfb4291&pbk=qOraT1A2tq0v0HIZlcplEnqXx4Sn-99z_EKNqTEZv1M&security=reality&fp=firefox#📡🇬🇧®️United Kingdom©️Slough🅿️ping:51.19ms
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.66:443?flow=xtls-rprx-vision&security=reality&pbk=WRK4JiKTQ6ygRHh1tRfUzuSO1-v2fKfsFoy3O9pXOi8&headerType=none&encryption=none&type=tcp&sid=00e32d694f37c137&sni=167.104.223.66.sslip.io&fp=chrome#📡🇬🇧®️United Kingdom©️Slough🅿️ping:41.55ms

@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:40.45ms
-ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ==@149.102.132.180:443#📡🇬🇧®️United Kingdom©️London🅿️ping:67.57ms
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.66:443?security=reality&encryption=none&pbk=WRK4JiKTQ6ygRHh1tRfUzuSO1-v2fKfsFoy3O9pXOi8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.66.sslip.io&sid=00e32d694f37c137#📡🇬🇧®️United Kingdom©️Slough🅿️ping:41.7ms
+vless://b2dbc58c-3a92-448f-aa95-6c8fdfffb282@109.169.85.138:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=1dc6d8a2045a7c9d#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:34.13ms

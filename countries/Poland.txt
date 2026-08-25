@@ -1,1 +1,1 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&flow=xtls-rprx-vision&encryption=none&sni=api-maps.yandex.ru&security=reality&fp=firefox&type=tcp&headerType=none&sid=01e4de88#📡🇵🇱®️Poland©️Warsaw🅿️ping:107.95ms
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&flow=xtls-rprx-vision&encryption=none&sni=api-maps.yandex.ru&security=reality&fp=firefox&type=tcp&headerType=none&sid=01e4de88#📡🇵🇱®️Poland©️Warsaw🅿️ping:103.8ms

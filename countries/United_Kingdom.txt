@@ -1,0 +1,2 @@
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@94.247.142.137:2096?security=tls&sni=GeR7.SimAnSaNat.iR.&type=ws&host=GeR7.SimAnSaNat.iR.&fp=chrome&alpn=h2#📡🇬🇧®️United Kingdom©️London🅿️ping:7.44ms
+vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:36.2ms

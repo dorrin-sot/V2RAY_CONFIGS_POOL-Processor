@@ -1,1 +1,1 @@
-vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#📡🇫🇮®️Finland©️Helsinki🅿️ping:28.42ms
+vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?&security=tls&fp=firefox&sni=fin4.wba-pn.ru&type=ws&headerType=none&path=%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.5ms

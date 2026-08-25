@@ -1,2 +1,0 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=chrome&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:88.56ms
-vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@185.147.27.165:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=user-6a8c51f9.noooo.win&type=tcp&fp=edge#📡🇷🇺®️Russia©️Moscow🅿️ping:19.86ms

@@ -1,1 +1,1 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.236.41:443?security=tls&sni=xinh.ylks.link&type=ws&path=/blue#📡🇸🇬®️Singapore©️Singapore🅿️ping:34.34ms
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:214.34ms

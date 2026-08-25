@@ -1,2 +1,1 @@
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?encryption=none&path=/&security=none&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:65.09ms
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:48.47ms
+vless://ed3a873c-aae2-4de0-9366-0fbea7f34acf@84.21.189.98:8443?security=reality&encryption=none&pbk=4KnE37yTOsJdP72-zbpN9NuL8VMH9LQC7CIWvGMXVRQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=5c11551f290914#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:55.1ms

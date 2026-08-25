@@ -1,3 +1,0 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.127:62145?security=&encryption=none&headerType=none&type=tcp#📡🇨🇴®️Colombia©️Cota🅿️ping:183.89ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.238.19:62145?security=&encryption=none&headerType=none&type=tcp#📡🇨🇴®️Colombia©️Cota🅿️ping:187.79ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.241:62145?security=&encryption=none&headerType=none&type=tcp#📡🇨🇴®️Colombia©️Cota🅿️ping:188.17ms

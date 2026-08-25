@@ -1,1 +1,0 @@
-vless://603819a3-dd65-408a-abab-15d8dc49887f@168.144.166.121:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#📡🇦🇺®️Australia©️Alexandria🅿️ping:289.17ms

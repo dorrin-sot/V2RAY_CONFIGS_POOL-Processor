@@ -1,1 +1,0 @@
-vless://a0e48bd2-3360-486b-9042-ee17951d76da@66.163.118.75:11000?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=-SCG3nhoolYHPmSo7rb6STiiuKlyXMlZyf8nF2tKSFE&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇪🇸®️Spain©️Santa Coloma de Gramenet🅿️ping:55.47ms

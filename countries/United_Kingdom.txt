@@ -1,5 +1,2 @@
-ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ==@149.102.132.180:443#📡🇬🇧®️United Kingdom©️London🅿️ping:39.59ms
-vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:38.3ms
-vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.66:443?security=reality&encryption=none&pbk=WRK4JiKTQ6ygRHh1tRfUzuSO1-v2fKfsFoy3O9pXOi8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.66.sslip.io&sid=00e32d694f37c137#📡🇬🇧®️United Kingdom©️Slough🅿️ping:56.24ms
-vless://603819a3-dd65-408a-abab-15d8dc49887f@159.65.85.141:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#📡🇬🇧®️United Kingdom©️Erith🅿️ping:53.1ms
-vless://d006fdc7-9aed-4763-bc40-e45aa7c54658@165.232.108.151:443?path=%2F&security=tls&encryption=none&insecure=0&host=rzwsyya1.ujstc4eymicyxtacnf7r.workers.dev&type=ws&allowInsecure=0&sni=rzwsyya1.ujstc4eymicyxtacnf7r.workers.dev#📡🇬🇧®️United Kingdom©️Whitehead🅿️ping:39.73ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:40.45ms
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ==@149.102.132.180:443#📡🇬🇧®️United Kingdom©️London🅿️ping:67.57ms

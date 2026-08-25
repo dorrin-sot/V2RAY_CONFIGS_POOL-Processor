@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.31ms
-vless://768c5708-b345-4ad3-9387-08a8048de790@adgof.mgodping12.xyz:2086?type=grpc&security=tls&fp=chrome&serviceName=&sni=&alpn=h2%2Chttp%2F1.1%2Ch3#📡🇮🇷®️Iran©️Tehran🅿️ping:125.46ms
-vless://80e34bdc-31c9-4e4d-ac78-f33d9340b8ef@cdn.sebra.ir:2096?encryption=none&security=tls&type=httpupgrade&headerType=none&path=/&sni=sezar.sebra.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:196.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDBPZmVhVTl2dUh2MmxxRzFINXh1WFhVWXpmT1JRZQ==@tw.lampcomputervz.ir:9403#📡🇮🇷®️Iran©️Tehran🅿️ping:187.87ms

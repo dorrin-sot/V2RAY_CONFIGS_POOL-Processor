@@ -1,2 +1,0 @@
-vless://2b3b4920-e712-4613-b0df-75a80b403f49@185.146.173.58:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/servernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:33.96ms
-vless://2b3b4920-e712-4613-b0df-75a80b403f49@185.146.173.58:8080?path=/servernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:33.96ms

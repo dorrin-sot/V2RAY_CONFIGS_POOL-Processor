@@ -1,3 +1,0 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:41.85ms
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@88.119.176.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&sid=bc599ecdd54c1b3f&sni=unas.denegnet.cc#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:32.97ms
-vless://c1d62d53-2fcd-4951-ab96-c81486f59775@84.32.215.3:443?security=reality&flow=xtls-rprx-vision&sni=w-mebel.pro&type=tcp&fp=firefox&pbk=3ioSDy998cS2J-O6M9rzh8fDaybnOJ2PDPfd7ulFpH4&sid=51941b7edff5bc55#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:66.33ms

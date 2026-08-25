@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:46.54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:55.3ms
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@kz2.techdatacloud.org:443?security=reality&encryption=none&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloud.mail.ru&sid=dfbfa87e9f37f1f0#📡🇵🇱®️Poland©️Warsaw🅿️ping:131.47ms
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@5.180.42.103:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#📡🇵🇱®️Poland©️Warsaw🅿️ping:111.32ms
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=a8ae#📡🇵🇱®️Poland©️Warsaw🅿️ping:41.88ms

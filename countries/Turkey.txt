@@ -1,2 +1,1 @@
-vless://6110baf2-241e-4ba6-a2e1-6ffbacd903f9@93.114.98.84:32855?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.4ms
-vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:30.98ms
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.97:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:260.28ms

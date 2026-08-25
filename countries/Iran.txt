@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:105.15ms
-vless://f176fecc-7e48-4563-bfb4-fff83a379984@res1.mohamadtak3tare.ir:45193?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=P_cosX7bq116CV2VW3YzSwPDFps1ERvoJ5eGpfDyt3Y&sid=4fdd53d6&spx=%2F5Qx8dCKpvRY2iR4&type=xhttp&mode=auto&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:121.5ms
+ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.35ms

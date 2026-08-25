@@ -1,6 +1,0 @@
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com#📡🇮🇹®️Italy©️Milan🅿️ping:60.09ms
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&sni=ov-italy1.09vpn.com#📡🇮🇹®️Italy©️Milan🅿️ping:60.09ms
-vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:8443?type=tcp&security=reality&fp=firefox&pbk=UQ6dyuQKvCZjFH3BiGswrecUsrptDXQ67dvKFuQC5DA&sid=74933f39a9693c&sni=yandex.ru#📡🇮🇹®️Italy©️Milan🅿️ping:40.77ms
-vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@it.morinsq.su:443?security=reality&encryption=none&pbk=D3qByJ6qqJd5phYkfAtJpBqAhSb8VHPax1ZhvI3ZKEE&headerType=&fp=chrome&spx=/&type=tcp&sni=it.morinsq.su&sid=96e380212691bba8#📡🇮🇹®️Italy©️Milan🅿️ping:61.59ms
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#📡🇮🇹®️Italy©️Siziano🅿️ping:36.71ms
-vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com&packetEncoding=xudp&encryption=none#📡🇮🇹®️Italy©️Milan🅿️ping:60.09ms

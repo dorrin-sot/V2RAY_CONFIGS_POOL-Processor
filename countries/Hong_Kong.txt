@@ -1,2 +1,1 @@
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?type=grpc&security=reality&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2&sni=360.yandex.ru&serviceName=grpc&spx=/#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:38.69ms
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&sni=tesla.com&sid=af1bdd293097b664#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:282.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:274.83ms

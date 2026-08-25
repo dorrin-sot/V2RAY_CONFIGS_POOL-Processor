@@ -1,3 +1,4 @@
-vless://6cca01cd-5918-4b46-bff4-7a3d7c80cdad@193.106.173.239:140?security=&encryption=none&headerType=none&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:21.37ms
-vless://6cca01cd-5918-4b46-bff4-7a3d7c80cdad@193.106.173.239:145?security=&encryption=none&headerType=none&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:132.93ms
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?encryption=none&security=none&type=ws&host=cnd.netherlands.myfilecdn.com&path=/cdn/assets/stream#📡🇷🇺®️Russia©️Moscow🅿️ping:35.37ms
+vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?host=rzd.ru&encryption=none&path=%2Fv1&security=none&type=ws#📡🇷🇺®️Russia©️Moscow🅿️ping:19.02ms
+vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053?flow=xtls-rprx-vision&headerType=none&sni=www.rumedia-cdn.com&type=tcp&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&fp=firefox&security=reality&sid=688c54e7b1ebddec&encryption=none#📡🇷🇺®️Russia©️Moscow🅿️ping:28.43ms
+vless://a237ca49-48d5-466f-aee5-c44f728a99ab@138.16.129.32:8443?encryption=none&type=tcp&sni=www.rumedia-cdn.com&fp=chrome&headerType=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&flow=xtls-rprx-vision#📡🇷🇺®️Russia©️Moscow🅿️ping:23.39ms
+vless://c7a30b74-560c-4561-8f0b-7d70e85c9b5e@178.248.236.138:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=VUc_2yzS6cjaq_MB8TScaCftgT3oJtP6zpotM5yM_Xg&security=reality&sid=dde21fff&sni=rutube.ru&type=tcp#📡🇷🇺®️Russia©️Makhachkala🅿️ping:27.58ms

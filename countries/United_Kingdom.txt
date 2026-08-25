@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:48.25ms
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#📡🇬🇧®️United Kingdom©️Erith🅿️ping:39.75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI@140.238.64.207:42345#📡🇬🇧®️United Kingdom©️Slough🅿️ping:35.35ms

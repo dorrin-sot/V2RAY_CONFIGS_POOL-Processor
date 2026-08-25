@@ -1,2 +1,3 @@
 ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.31ms
-vless://ea818950-0794-4cb2-a82f-eaafb4a53602@s4.zynetraq.ir:2087?pcs=1aeacc25d232c936f0199a487fc17da95ba59fb6c06656846214cec835d3ac23&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=s4.zynetraq.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s4.zynetraq.ir&allowInsecure=0#📡🇮🇷®️Iran©️Tehran (District 14)🅿️ping:192.45ms
+vless://768c5708-b345-4ad3-9387-08a8048de790@adgof.mgodping12.xyz:2086?type=grpc&security=tls&fp=chrome&serviceName=&sni=&alpn=h2%2Chttp%2F1.1%2Ch3#📡🇮🇷®️Iran©️Tehran🅿️ping:125.46ms
+vless://80e34bdc-31c9-4e4d-ac78-f33d9340b8ef@cdn.sebra.ir:2096?encryption=none&security=tls&type=httpupgrade&headerType=none&path=/&sni=sezar.sebra.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:196.37ms

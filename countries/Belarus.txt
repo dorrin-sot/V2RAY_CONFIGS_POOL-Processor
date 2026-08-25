@@ -1,1 +1,1 @@
-vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=mold.speedload.online&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&path=%2f#📡🇧🇾®️Belarus©️Minsk🅿️ping:18.69ms
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinjoin-video-stri.ru&fp=firefox&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=0bc73dd1f045#📡🇧🇾®️Belarus©️Minsk🅿️ping:0.77ms

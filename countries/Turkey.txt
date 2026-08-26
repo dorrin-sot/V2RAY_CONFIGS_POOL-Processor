@@ -1,1 +1,1 @@
-vless://069a88bd-e9e7-998e-33e3-d5a2273b80ba@trm2.techtap.ir:443?security=reality&encryption=none&pbk=7Epc5AJ0KNZM2IPZH998QLVwk-tS2lcsZNRnviI62DY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=3e28e8909c96729f#📡🇹🇷®️Turkey©️Istanbul🅿️ping:242.76ms
+vless://a3a02846-fc3d-461a-8cf5-69bd9fa958db@free.diginoisb.ir:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#📡🇹🇷®️Turkey©️Istanbul🅿️ping:81.38ms

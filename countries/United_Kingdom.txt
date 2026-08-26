@@ -1,1 +1,7 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.36:443?security=tls&sni=kkh.ylks.link&type=ws&path=/blue#📡🇬🇧®️United Kingdom©️Havant🅿️ping:7.9ms
+vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:34.28ms
+vless://d8b42cd5-b149-4356-9e61-111111111111@45.140.36.74:1040?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:29.04ms
+vless://d8b42cd5-b149-4356-9e61-333333333333@45.140.36.74:1056?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:30.12ms
+vless://d8b42cd5-b149-4356-9e61-333333333333@45.140.36.74:1056?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:30.12ms
+vless://d8b42cd5-b149-4356-9e61-444444444444@45.140.36.74:1062?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:29.74ms
+vless://d8b42cd5-b149-4356-9e61-444444444444@45.140.36.74:1063?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:56.81ms
+vless://d8b42cd5-b149-4356-9e61-444444444444@45.140.36.74:1063?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:56.81ms

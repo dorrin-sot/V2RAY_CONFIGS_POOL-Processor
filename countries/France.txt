@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#📡🇫🇷®️France©️Roubaix🅿️ping:30.87ms
+vless://14337163-3c81-4aa8-b048-bed99a24ec81@172.239.26.211:53147?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:64.83ms
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@79.127.215.226:443?security=reality&encryption=none&pbk=5isIe0GLddqsEuDcnLop5Ex3q4Ibg_AKpogxAvhLMWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4501f602#📡🇫🇷®️France©️Ajaccio🅿️ping:69.31ms

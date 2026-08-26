@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#📡🇵🇱®️Poland©️Warsaw🅿️ping:45.36ms
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#📡🇵🇱®️Poland©️Warsaw🅿️ping:7.91ms
+vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?path=/&security=tls&encryption=none&insecure=0&host=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yykir7al.ndaiwcu.workers.dev#📡🇵🇱®️Poland©️Warsaw🅿️ping:27.71ms

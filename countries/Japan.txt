@@ -1,2 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:266.25ms
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@jp.alertyagency.com:443?security=reality&encryption=none&pbk=a7QPumBr-7EpnnPJ8TRr38MapK3xNGt59kfdPwud4xA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=48ced39e#📡🇯🇵®️Japan©️Shibuya City🅿️ping:260.7ms

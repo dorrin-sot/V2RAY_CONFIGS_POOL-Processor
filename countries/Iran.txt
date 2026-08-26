@@ -1,1 +1,1 @@
-vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?security=none&encryption=none&headerType=none&type=tcp#📡🇮🇷®️Iran©️Tehrān🅿️ping:113.36ms
+vless://d1276fda-a0a6-11f1-a546-d05099de93b5@six.khomain.org:80?encryption=none&type=ws&path=/?ed=2048&host=6.khomain.org&allowInsecure=1#📡🇮🇷®️Iran©️Tehrān🅿️ping:163.36ms

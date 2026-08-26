@@ -1,1 +1,1 @@
-vless://b3845381-b31f-4ed5-b2c7-c312d9a859f7@trtnew.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:102.02ms
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:201.64ms

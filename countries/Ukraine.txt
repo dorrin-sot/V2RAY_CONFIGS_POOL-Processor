@@ -1,1 +1,0 @@
-vless://069a88bd-e9e7-998e-33e3-d5a2273b80ba@Ukraine.techtap.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=7Epc5AJ0KNZM2IPZH998QLVwk-tS2lcsZNRnviI62DY&sid=3e28e8909c96729f&allowInsecure=1#📡🇺🇦®️Ukraine©️Dnipro🅿️ping:66.78ms

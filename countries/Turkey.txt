@@ -1,1 +1,1 @@
-vless://959eed6c-0347-43f7-bf59-d644101534b4@sv2.helpower.ir:2036?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:166.49ms
+vless://41a9711b-5b34-4fd8-a877-85c6f4d0e418@213.156.152.110:443?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:66.86ms

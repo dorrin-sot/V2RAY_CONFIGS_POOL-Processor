@@ -1,0 +1,1 @@
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@ie.orpheous.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru#📡🇮🇪®️Ireland©️Dublin🅿️ping:66.66ms

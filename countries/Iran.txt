@@ -1,4 +1,1 @@
-ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:94.5ms
-ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:95.91ms
-vless://beafaf90-6722-4a16-8de1-ba9301a34588@185.143.232.5:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=m.littleehappy.info&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:48.77ms
-vless://beafaf90-6722-4a16-8de1-ba9301a34588@185.143.232.5:80?path=%2F&security=none&encryption=none&host=m.littleehappy.info&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:48.77ms
+ss://YWVzLTI1Ni1nY206Mmpta2hzOTV2czAydmV4eg@iran-kala.xyz:27112?type=tcp,udp#📡🇮🇷®️Iran©️Tehrān🅿️ping:101.15ms

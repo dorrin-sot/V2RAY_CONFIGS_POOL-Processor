@@ -1,1 +1,1 @@
-vless://a3a02846-fc3d-461a-8cf5-69bd9fa958db@free.diginoisb.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#📡🇹🇷®️Turkey©️Istanbul🅿️ping:95.25ms
+vless://959eed6c-0347-43f7-bf59-d644101534b4@sv2.helpower.ir:2036?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:166.49ms

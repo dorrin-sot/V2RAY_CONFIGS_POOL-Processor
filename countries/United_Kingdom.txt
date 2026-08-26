@@ -1,2 +1,4 @@
-vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:35.09ms
-vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:35.09ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.135.252.176:443#📡🇬🇧®️United Kingdom©️London🅿️ping:41.3ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.135.73.3:443#📡🇬🇧®️United Kingdom©️London🅿️ping:35.79ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.178.212.194:443#📡🇬🇧®️United Kingdom©️London🅿️ping:39.4ms
+vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:35.37ms

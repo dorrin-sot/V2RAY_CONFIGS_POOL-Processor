@@ -1,1 +1,1 @@
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:163.83ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:164.27ms

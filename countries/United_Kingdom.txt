@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ==@149.102.132.180:443#📡🇬🇧®️United Kingdom©️London🅿️ping:35.89ms
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.36:443?security=tls&sni=kkh.ylks.link&type=ws&path=/blue#📡🇬🇧®️United Kingdom©️Havant🅿️ping:7.64ms
-vless://d8b42cd5-b149-4356-9e61-111111111111@45.140.36.74:1044?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:30.86ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.36:443?security=tls&sni=kkh.ylks.link&type=ws&path=/blue#📡🇬🇧®️United Kingdom©️Havant🅿️ping:7.9ms

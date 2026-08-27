@@ -1,1 +1,2 @@
-vless://6017b67c-5a4b-4299-84c6-909462508790@Polesimoen.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:52.27ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#📡🇵🇱®️Poland©️Warsaw🅿️ping:31.52ms
+vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#📡🇵🇱®️Poland©️Warsaw🅿️ping:50.3ms

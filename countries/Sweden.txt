@@ -1,2 +1,0 @@
-vless://5631df39-0f66-4b1b-bcf3-a7b5dd9e3b06@185.146.173.58:8080?security=none&type=ws&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&path=SHHPROXY%3Fed%3D8080#📡🇸🇪®️Sweden©️Stockholm🅿️ping:6.83ms
-vless://6017b67c-5a4b-4299-84c6-909462508790@swedenguy.pravio.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇸🇪®️Sweden©️Stockholm🅿️ping:14.42ms

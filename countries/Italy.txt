@@ -1,2 +1,1 @@
-vless://6017b67c-5a4b-4299-84c6-909462508790@Italymynewconf.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇮🇹®️Italy©️Milan🅿️ping:111.35ms
-vless://6017b67c-5a4b-4299-84c6-909462508790@Italymynewconf.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇮🇹®️Italy©️Milan🅿️ping:50.67ms
+vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#📡🇮🇹®️Italy©️Milan🅿️ping:85.95ms

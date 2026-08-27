@@ -1,1 +1,1 @@
-vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#📡🇨🇿®️Czechia©️Veselí nad Lužnicí🅿️ping:36.01ms
+vless://6017b67c-5a4b-4299-84c6-909462508790@czeckhellllooo.hchdhsbs12gd.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇨🇿®️Czechia©️Prague🅿️ping:82.78ms

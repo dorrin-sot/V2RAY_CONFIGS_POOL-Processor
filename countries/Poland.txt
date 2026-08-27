@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#📡🇵🇱®️Poland©️Warsaw🅿️ping:31.52ms
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#📡🇵🇱®️Poland©️Warsaw🅿️ping:50.3ms
+vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#📡🇵🇱®️Poland©️Warsaw (Śródmieście)🅿️ping:90.06ms

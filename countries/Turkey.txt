@@ -1,2 +1,0 @@
-vless://0c78a3d8-5353-4a84-8398-79d29b3879b0@sv3.helpower.ir:2036?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:137.14ms
-vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@tr.web.doctor-alan-cloud.ir:2086?path=%2Fv-ws-tr&security=&encryption=none&host=tr.cdn.doctor-alan.ir&type=ws#📡🇹🇷®️Turkey©️Istanbul🅿️ping:117.19ms

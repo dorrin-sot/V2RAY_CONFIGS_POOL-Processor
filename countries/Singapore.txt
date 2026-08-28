@@ -1,0 +1,1 @@
+vless://24018b14-6080-464d-aa86-867875a6a345@149.28.138.97:30680?type=ws&security=tls&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=%2F%40Marisa_kristi&fp=chrome#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:192.53ms

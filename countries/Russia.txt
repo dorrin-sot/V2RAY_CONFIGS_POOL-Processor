@@ -1,6 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Sl9pd1M3SWJTSkVFYVVTWEdsQXBR@89.223.69.240:1080#📡🇷🇺®️Russia©️St Petersburg🅿️ping:32.95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPalJFLXVidzBULXp2b254T3o5MFZxcmtXcHBDTEh2OQ@178.236.240.26:1080#📡🇷🇺®️Russia©️Moscow🅿️ping:45.64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja0w5TjFzRTh2UkRVVndoR0J2R2ZFVXlNWnVaYWpsaw@178.236.240.26:1080#📡🇷🇺®️Russia©️Moscow🅿️ping:45.64ms
-ss://YWVzLTI1Ni1nY206OGFkOWQ3MmE1NTcxZGY4Ng@194.87.196.208:10990#📡🇷🇺®️Russia©️St Petersburg🅿️ping:7.88ms
-vless://099f0859-cb81-4a57-b6d8-2c8e18030627@178.72.147.246:2200?type=ws&host=rzd.ru&path=%2Fv1#📡🇷🇺®️Russia©️St Petersburg🅿️ping:8.35ms
-vless://92e20947-b564-4f08-8c1a-c6f3c66f763b@178.72.147.249:2200?type=ws&host=rzd.ru&path=%2Fv1#📡🇷🇺®️Russia©️St Petersburg🅿️ping:8.31ms

@@ -1,2 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.57.97:22223?type=tcp&headerType=none&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:67.56ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.57.97:22224?security=&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:71.52ms
+vless://2dc50eec-e028-4097-9f1c-9a1bbb37a49f@78.129.184.117:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=strapi.io&fp=firefox&security=reality&pbk=_8LiLlqEXJGXbg_G8KI1fXBlPnRoM3no-0oxxRRMcSw&sid=efcfd3c41c1762b0#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:47.27ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:37.12ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22224?encryption=none&security=none&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:37.12ms

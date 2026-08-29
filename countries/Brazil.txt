@@ -1,0 +1,1 @@
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?mode=gun&security=reality&encryption=none&pbk=GYGRmooJbciRJqgRyAhyuY4taALwvAGNN721zIKA4g0&fp=firefox&type=grpc&serviceName=a8a08a507c&sni=www.cloudflare.com&sid=d2f6787eda1b6fa0#📡🇧🇷®️Brazil©️Birigui🅿️ping:51.11ms

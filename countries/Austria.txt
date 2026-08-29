@@ -1,0 +1,1 @@
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@au.windconnect.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jykHELMbLLn1SDyllhXRWbAAneDWlJmiGPylnz7ECVc&sid=3f0641de339bb8da&sni=au.windconnect.pro#📡🇦🇹®️Austria©️Vienna🅿️ping:46.7ms

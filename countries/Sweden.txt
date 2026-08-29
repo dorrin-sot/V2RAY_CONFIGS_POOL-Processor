@@ -1,0 +1,2 @@
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@130.49.178.164:8443?host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c491730%7C+%F0%9F%87%B8%F0%9F%87%AA+%E7%91%9E%E5%85%B8+08+%7C+130.49.178.164%3A8443&security=tls&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws#📡🇸🇪®️Sweden©️Stockholm🅿️ping:32.61ms
+vless://Telegram-ipV2Ray-uyz@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.69.Site.&security=none#📡🇸🇪®️Sweden©️Stockholm🅿️ping:35.08ms

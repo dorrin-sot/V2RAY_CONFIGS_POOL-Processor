@@ -1,1 +1,2 @@
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:39.77ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ%3D%3D@am11.levikogjgfdd.ir:8388#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:106.51ms
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:36.8ms

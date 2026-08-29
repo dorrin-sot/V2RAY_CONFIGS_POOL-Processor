@@ -1,1 +1,0 @@
-vless://603819a3-dd65-408a-abab-15d8dc49887f@159.65.95.7:8880?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#📡🇬🇧®️United Kingdom©️East Ham🅿️ping:92.4ms

@@ -1,1 +1,1 @@
-vless://ea48c5b6-7a19-4fea-9902-17004a424452@95.216.27.15:2053?security=reality&encryption=none&pbk=JmAuytyIXW4klA7zqeSYi3EtWR0d4fNJCq4nR0LMQE8&headerType=none&type=tcp&sni=www.apple.com&sid=07316dd7d0e11c90#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.12ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&insecure=1&obfs=salamander&obfs-password=uw9b2qq5rx#📡🇫🇮®️Finland©️Helsinki🅿️ping:9.11ms

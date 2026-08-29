@@ -1,2 +1,2 @@
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#📡🇫🇮®️Finland©️Helsinki🅿️ping:10.84ms
-vless://d3770583-2c9d-41ec-8d07-eb5c037150bc@fant2.milkabebar.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:48.18ms
+vless://3293f850-2b85-42b7-82a9-22a112e05e68@95.216.142.36:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.05ms
+vless://ea48c5b6-7a19-4fea-9902-17004a424452@95.216.27.15:2053?security=reality&sni=www.apple.com&pbk=JmAuytyIXW4klA7zqeSYi3EtWR0d4fNJCq4nR0LMQE8&sid=07316dd7d0e11c90&type=tcp&headerType=none&encryption=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.85ms

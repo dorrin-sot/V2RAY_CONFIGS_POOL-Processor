@@ -1,1 +1,0 @@
-vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443/?type=ws&encryption=none&flow=&host=sync.watchwave.link&path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&sni=cdn.tracker.yandex.net&fp=qq#📡🇮🇱®️Israel©️Tel Aviv🅿️ping:30.32ms

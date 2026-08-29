@@ -1,2 +1,1 @@
-vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--&encryption=none#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:91.09ms
-vless://9c62ffbf-1f35-4108-b444-81835e6d3be1@tr1p.soundfiy.ir:1824?security=reality&encryption=none&pbk=JIv_D-Lpo1cosiCUgu-qzGSJwOCGciyXSZ8ucNn6aBo&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=8390ee7a5996648b#📡🇹🇷®️Turkey©️Istanbul🅿️ping:81.17ms
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@sitoman.info:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=lw-5.injaadvie.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=lw-5.injaadvie.ir#📡🇹🇷®️Turkey©️Istanbul🅿️ping:28.48ms

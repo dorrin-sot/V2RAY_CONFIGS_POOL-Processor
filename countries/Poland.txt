@@ -1,1 +1,1 @@
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#📡🇵🇱®️Poland©️Warsaw🅿️ping:8.46ms
+vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#📡🇵🇱®️Poland©️Warsaw🅿️ping:26.49ms

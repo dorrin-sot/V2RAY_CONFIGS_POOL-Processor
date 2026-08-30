@@ -1,1 +1,2 @@
-vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@5.188.26.176:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=kGxErpyTzyh6Md1MLGYaR_0j3X6jrCzgTDRqRbbfOCg&sid=a1b2c3d4&type=tcp&headerType=none#📡🇷🇺®️Russia©️St Petersburg🅿️ping:40.09ms
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#📡🇷🇺®️Russia©️St Petersburg🅿️ping:35.37ms
+vless://bec4b96c-0328-4abd-be5e-437ac9f65bcd@185.96.80.147:443?path=cfbot&security=tls&alpn=h2&encryption=none&insecure=0&host=seksi-lady.ru&fp=chrome&type=ws&allowInsecure=0&sni=seksi-lady.ru#📡🇷🇺®️Russia©️Moscow🅿️ping:52.68ms

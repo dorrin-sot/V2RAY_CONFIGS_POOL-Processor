@@ -1,1 +1,1 @@
-vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:193.49ms
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#📡🇸🇬®️Singapore©️Singapore🅿️ping:259.87ms

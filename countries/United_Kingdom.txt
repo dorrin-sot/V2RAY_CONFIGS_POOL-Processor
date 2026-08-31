@@ -1,5 +1,1 @@
-vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.29:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=fc36b4a584871aa5#📡🇬🇧®️United Kingdom©️Slough🅿️ping:39.65ms
-vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.29:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=fc36b4a584871aa5#📡🇬🇧®️United Kingdom©️Slough🅿️ping:69.68ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22224?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:33.71ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.176.1:22222?encryption=none&security=none&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:33.93ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.176.1:22222?encryption=none&security=none&type=tcp&headerType=none#📡🇬🇧®️United Kingdom©️London🅿️ping:39.48ms
+vless://3bcb31ef-840e-415d-abb3-28628add98d0@ww5.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:112.02ms

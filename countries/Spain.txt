@@ -1,1 +1,1 @@
-vless://95b25338-be30-4e0d-9695-d840f0f2d73c@213.182.199.137:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=f--r-s-s.kingcloud-1.ir&fp=chrome&type=ws&allowInsecure=0&sni=f--r-s-s.kingcloud-1.ir#📡🇪🇸®️Spain©️Estepona🅿️ping:10.75ms
+vless://dd7429eb-b77b-4a8d-be86-c34cac86faf7@ww8.levikogjgfdd.ir:34710?security=reality&encryption=none&pbk=MXOVePed0T2SVOfYSEtecn2yApnsVC12dJ6nkujWTVU&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=14b0eb7919eb7d#📡🇪🇸®️Spain©️Barcelona🅿️ping:111.0ms

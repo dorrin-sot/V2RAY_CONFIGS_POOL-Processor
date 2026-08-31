@@ -1,1 +1,1 @@
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&host=&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#📡🇫🇮®️Finland©️Helsinki🅿️ping:2.28ms
+vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#📡🇫🇮®️Finland©️Helsinki🅿️ping:20.21ms

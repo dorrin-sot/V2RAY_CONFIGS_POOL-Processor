@@ -1,5 +1,0 @@
-ss://YWVzLTI1Ni1nY206dWRnajJpalZvRi10NEt2ag==@iran-kala.xyz:27112#📡🇮🇷®️Iran©️Tehrān🅿️ping:150.39ms
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#📡🇮🇷®️Iran©️Tehrān🅿️ping:100.67ms
-vless://3a3a3766-a177-4a08-bd0e-edca24f57320@pc.onlineshoppys.ir:2096?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=dash.zendegizibast.ir&sni=dash.zendegizibast.ir&fp=chrome#📡🇮🇷®️Iran©️Tehran🅿️ping:121.63ms
-vless://3a3a3766-a177-4a08-bd0e-edca24f57320@ziba.moblemangol.ir:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=dash.zendegizibast.ir&sni=dash.zendegizibast.ir&fp=chrome#📡🇮🇷®️Iran©️Tehran🅿️ping:170.82ms
-vless://888ace32-07d3-4000-b6c2-1268d9715f1b@ticket.cutizeh.ir:1102?security=reality&encryption=mlkem768x25519plus.native.0rtt.UCqBcsBrb4-UnCcEuEnzaAbu4q30CfIboc8eW7x_Ajw&pbk=DbArC_oPTXXRSuurm980XmEJTAQrz31ThG_3C0xFlxg&host=ookla.com&headerType=none&fp=chrome&type=tcp&sni=ookla.com&sid=5a6cac3470a92c66#📡🇮🇷®️Iran©️Tehran🅿️ping:183.7ms

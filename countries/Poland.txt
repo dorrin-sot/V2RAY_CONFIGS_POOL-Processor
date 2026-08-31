@@ -1,2 +1,0 @@
-vless://3a3a3766-a177-4a08-bd0e-edca24f57320@64.176.73.73:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#📡🇵🇱®️Poland©️Warsaw🅿️ping:25.16ms
-vless://a5284762-b362-41ef-a668-4c2e11f512a2@64.176.73.73:443?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&sid=04a72ee1672dd21a&spx=%2F#📡🇵🇱®️Poland©️Warsaw🅿️ping:24.45ms

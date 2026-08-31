@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#📡🇨🇦®️Canada©️Montreal (Ville-Marie)🅿️ping:117.44ms
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@www.speedtest.net:443?mode=auto&path=%2F%40mahdi_383ir&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=zahra2011.tr&fp=firefox&type=xhttp&sni=zahra2011.tr#📡🇨🇦®️Canada©️Toronto🅿️ping:56.1ms
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇨🇦®️Canada©️Toronto🅿️ping:10.68ms

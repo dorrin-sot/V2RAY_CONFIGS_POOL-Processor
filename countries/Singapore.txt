@@ -1,2 +1,1 @@
-vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=none&encryption=none&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:30.53ms
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#📡🇸🇬®️Singapore©️Singapore🅿️ping:264.26ms
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=none&encryption=none&type=ws#📡🇸🇬®️Singapore©️Singapore🅿️ping:60.04ms

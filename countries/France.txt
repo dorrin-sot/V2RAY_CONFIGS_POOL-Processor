@@ -1,0 +1,2 @@
+trojan://7sw5ecg1ib2x58w8@152.228.208.125:8443?alpn=h2%2Chttp%2F1.1&fp=firefox&security=tls&sni=pamhmtze4620.dop100.com&type=tcp#📡🇫🇷®️France©️Gravelines🅿️ping:38.72ms
+vless://c885be8d-83a7-435e-aec7-60d679684301@152.228.208.125:443?encryption=none&security=tls&sni=pamhmtze4620.dop100.com&type=tcp#📡🇫🇷®️France©️Gravelines🅿️ping:38.72ms

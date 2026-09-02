@@ -1,10 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:34.45ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:34.22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.58ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:31.95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.165:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.52ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:32.31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.96ms
-trojan://vaj6czo9k9k338e9@31.15.17.68:51060?security=reality&pbk=HzJpzhs8DSY5kcbIU_j0B6Q7eKoPD0VrMdIkxson7l0&headerType=&fp=chrome&spx=%2F589e5521705a94f&type=tcp&sni=aws-us-east-1.amazon.com&sid=787f0980b64e3c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:55.65ms
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:40614?security=reality&encryption=none&pbk=gAu6Cnthj_gbV7vvjoTgNUbJ9aoeFBagC2XNXH6Jgg8&headerType=&fp=chrome&spx=%2F80eaff2bfe690d4&type=tcp&sni=intel.com&sid=65#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:172.98ms
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:164.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#📡🇳🇱®️The Netherlands©️Meppel🅿️ping:62.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:34.57ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.34ms
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.31ms
+vless://2f600710-9f4e-4eab-8de1-89f60a878e55@72.56.75.54:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=app2.goonars.com&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:63.58ms
+vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@192.145.31.5:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&type=ws#📡🇳🇱®️The Netherlands©️Dronten🅿️ping:57.05ms
+vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@192.145.31.5:443?security=none&encryption=none&type=ws#📡🇳🇱®️The Netherlands©️Dronten🅿️ping:57.05ms

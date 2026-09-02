@@ -1,1 +1,1 @@
-hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#📡🇷🇺®️Russia©️Moscow🅿️ping:26.27ms
+ss://chacha20-ietf-poly1305:dd1_5PYzOZE5yuhYxxHOEvRtdf5r7gh_@193.233.219.92:1080#📡🇷🇺®️Russia©️St Petersburg🅿️ping:46.82ms

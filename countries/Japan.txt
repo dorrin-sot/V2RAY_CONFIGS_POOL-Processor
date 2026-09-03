@@ -1,6 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:247.71ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:263.24ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.83ms
-vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40mtmvpn&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#📡🇯🇵®️Japan©️Shibuya City🅿️ping:239.94ms
-vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#📡🇯🇵®️Japan©️Shibuya City🅿️ping:239.94ms
-vless://ef413f33-39e6-4143-8084-e65076c2de03@31.76.91.198:47050?security=reality&encryption=none&pbk=C7bvUEE2_1o8gD-uRY1D3iY5w4KfeLELTmKCcm4V3wo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=ef957bcb74957eb4#📡🇯🇵®️Japan©️Shibuya City🅿️ping:241.4ms
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?type=grpc&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&sni=ads.x5.ru&mode=gun&serviceName=grpc&fp=chrome#📡🇯🇵®️Japan©️Shibuya City🅿️ping:238.53ms
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#📡🇯🇵®️Japan©️Chiyoda City🅿️ping:285.68ms

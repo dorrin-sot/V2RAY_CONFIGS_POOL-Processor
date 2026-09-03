@@ -1,1 +1,1 @@
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#📡🇷🇺®️Russia©️St Petersburg🅿️ping:34.72ms
+vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15206?security=reality&encryption=none&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.routeon.pro#📡🇷🇺®️Russia©️Moscow🅿️ping:22.49ms

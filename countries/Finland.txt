@@ -1,1 +1,2 @@
-vless://%40Cooonfig%40Cooonfig%40%40@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:12.26ms
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.52ms
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.52ms

@@ -1,0 +1,1 @@
+vless://f7e7626b-0d0f-45d9-8021-c61bcdb1f490@82.40.62.197:49912?security=reality&encryption=none&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:69.24ms

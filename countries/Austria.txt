@@ -1,1 +1,1 @@
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@150.241.72.143:12200?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Kjw_K41-jWxqzAMtOby5y0KREhyjybuHsAHfCEFo6Sc&sid=222afa5374b722b9&sni=au.windconnect.pro#📡🇦🇹®️Austria©️Vienna🅿️ping:30.52ms
+vless://8c64cae9-a513-4e37-a68c-980bcaf2c591@150.241.72.43:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=at1.hat.onl&sid=76132b3b39704c44#📡🇦🇹®️Austria©️Vienna🅿️ping:39.78ms

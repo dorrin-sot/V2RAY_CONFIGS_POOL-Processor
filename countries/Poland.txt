@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206UFN3YXZUSFdEMG5rZmN5Vw==@62.146.171.57:80#📡🇵🇱®️Poland©️Warsaw🅿️ping:163.22ms
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:75.84ms
+vless://d5fc533b-c4dc-40d3-8134-f078847b6e5e@82.40.62.183:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.51ms

@@ -1,2 +1,0 @@
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@185.189.45.247:443?security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#📡🇸🇪®️Sweden©️Stockholm🅿️ping:130.01ms
-vless://cc24b2ac-26f2-48ad-9ce4-b2b37d14490a@pswed1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#📡🇸🇪®️Sweden©️Spånga🅿️ping:22.03ms

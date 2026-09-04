@@ -1,2 +1,0 @@
-vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:142.84ms
-vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@91.228.227.172:8080?security=none&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:114.27ms

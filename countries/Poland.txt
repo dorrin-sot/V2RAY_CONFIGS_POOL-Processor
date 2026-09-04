@@ -1,1 +1,1 @@
-vless://d5fc533b-c4dc-40d3-8134-f078847b6e5e@82.40.62.183:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.51ms
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=/&type=grpc&serviceName=TunService&sni=www.google.com#📡🇵🇱®️Poland©️Warsaw🅿️ping:44.65ms

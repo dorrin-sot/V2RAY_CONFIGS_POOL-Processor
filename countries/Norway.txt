@@ -1,0 +1,1 @@
+vless://19a368d5-41bf-4821-986c-ed84901f4f30@151.242.168.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=frantax.my3cx.de&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#📡🇳🇴®️Norway©️Sandefjord🅿️ping:15.53ms

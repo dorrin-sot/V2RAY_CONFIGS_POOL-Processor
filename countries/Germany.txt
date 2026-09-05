@@ -1,2 +1,2 @@
-trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:66.28ms
-vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?encryption=none&path=%2F5c62e3c616d8&security=none&type=ws#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:32.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:30.72ms
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&serviceName=chat.deepseek.com&mode=gun#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:29.51ms

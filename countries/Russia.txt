@@ -1,1 +1,2 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.140:443?security=tls&sni=zdy726.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:7.03ms
+vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&fp=firefox&sni=cdn.okko.tv&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&serviceName=UpdateService#📡🇷🇺®️Russia©️Moscow🅿️ping:22.21ms
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?&security=tls&fp=edge&sni=ru05.abvpn.ru&type=ws&headerType=none&host=ru05.abvpn.ru&path=%2Fwebsocket#📡🇷🇺®️Russia©️Moscow🅿️ping:81.51ms

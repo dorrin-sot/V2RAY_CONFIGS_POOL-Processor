@@ -1,5 +1,6 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#📡🇺🇸®️United States©️Los Angeles🅿️ping:209.82ms
-vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#📡🇺🇸®️United States©️San Francisco🅿️ping:44.09ms
-vless://3614a2a2-b0db-43f7-9a34-b1248539d848@mtra-lo-turkey-1ip.zelnora.ir:64584?encryption=none&security=none&type=tcp&headerType=none&host=212.87.199.63#📡🇺🇸®️United States©️Jackson🅿️ping:86.6ms
-vless://895f982f-2ba8-4367-93aa-97586cc404d1@altaria.proxy.rlwy.net:50745?encryption=none&host=&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:43.08ms
-vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#📡🇺🇸®️United States©️Newark🅿️ping:69.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#📡🇺🇸®️United States©️Ashburn🅿️ping:138.3ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#📡🇺🇸®️United States©️Phoenix🅿️ping:247.09ms
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2082?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:31.09ms
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#📡🇺🇸®️United States©️Ashburn🅿️ping:11.16ms
+vless://c8c06f90-c267-47a6-a91a-967e58e61db0@204.44.127.222:37262?security=none&encryption=none&headerType=none&type=tcp#📡🇺🇸®️United States©️Los Angeles🅿️ping:219.77ms
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#📡🇺🇸®️United States©️New York🅿️ping:247.97ms

@@ -1,0 +1,3 @@
+vless://d6faa463-2d36-4229-853f-47f0a1305ef9@91.228.227.172:110?security=&encryption=none&headerType=&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:153.31ms
+vless://d6faa463-2d36-4229-853f-47f0a1305ef9@91.228.227.172:443?security=&encryption=none&headerType=&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:137.75ms
+vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#📡🇹🇷®️Turkey©️Istanbul🅿️ping:67.59ms

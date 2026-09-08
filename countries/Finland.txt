@@ -1,2 +1,0 @@
-vless://1d2e5805-69c0-4948-861c-57e4f778624e@php.paydar.site:443?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:40.18ms
-vless://1d2e5805-69c0-4948-861c-57e4f778624e@php.paydar.site:443?security=none&headerType=none&encryption=none&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:40.18ms

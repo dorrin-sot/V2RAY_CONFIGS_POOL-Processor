@@ -1,1 +1,1 @@
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:32.34ms
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&security=none&type=ws&path=%2F4bc027a44532#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:32.36ms

@@ -1,1 +1,1 @@
-vless://d6bb41bf-6748-4bd8-a4d1-d5934927523b@tr555.clonecloudcenter.ir:15219?security=reality&encryption=mlkem768x25519plus.native.0rtt.heNKz7MfBWm-YAFmHMKDM1i9nmlhGMjpyHZPjmHnmDY&pbk=ZUboXq95Y7w8gC7Paa8Ra0M02DHIp5X3Xf_U3mK0gVw&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=3b15bd7377cf3c21#📡🇹🇷®️Turkey©️Istanbul🅿️ping:139.75ms
+vless://11fe5d06-5dd6-4188-a92f-f9320dd561e2@Goh.iranpuls.ir:443?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#📡🇹🇷®️Turkey©️Ümraniye🅿️ping:144.13ms

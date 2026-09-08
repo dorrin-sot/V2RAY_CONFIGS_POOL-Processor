@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#📡🇫🇷®️France©️Roubaix🅿️ping:40.13ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#📡🇫🇷®️France©️Roubaix🅿️ping:32.21ms
+vless://f79462e3-d519-44cd-bd1e-3b468dd66878@45.80.215.6:1300?encryption=mlkem768x25519plus.native.0rtt.BEXGOTJfnwdc0PhdaCnyuQvcTKswMNUnenxcP40ipAg&security=none&type=tcp&headerType=http&path=%2F&host=zoom.us#📡🇫🇷®️France©️Aubervilliers🅿️ping:35.43ms

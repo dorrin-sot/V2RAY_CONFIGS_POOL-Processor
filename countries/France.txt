@@ -1,2 +1,0 @@
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@fr-1.starsping.com:443?mode=auto&sid=a88550765b9956ee&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&type=xhttp&spx=%2F&path=%2F&fp=safari&security=reality&sni=play.google.com#📡🇫🇷®️France©️Paris🅿️ping:119.73ms
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.60:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#📡🇫🇷®️France©️Paris🅿️ping:58.12ms

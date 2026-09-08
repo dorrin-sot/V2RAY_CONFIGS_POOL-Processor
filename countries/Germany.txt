@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:46.94ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:49.46ms
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@193.222.99.142:443?security=reality&encryption=none&pbk=EAV8mxNj3Bg_PuuXJTfFY0gmI7xn1PDm1r9Cd1OGPTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-1.kihsuyhf8jkiugsxb.cfd#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:113.14ms
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@2.26.84.22:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ia6cEEqjnawIhBPzcHFWSNsQIOJcHQU5t5FebSphWGA&security=reality&sni=de-6.kihsuyhf8jkiugsxb.cfd&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:37.33ms
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@64.188.91.247:443?security=reality&encryption=none&pbk=eBPoRhgoi1Wc3_CWGAfvF6dO_QqXzPWcpUKTycvx3Ck&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-3.kihsuyhf8jkiugsxb.cfd#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:37.08ms
-vless://3ee07848-0e0c-4ab3-84ee-099c8788d8c5@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#📡🇩🇪®️Germany©️Nuremberg🅿️ping:55.69ms
-vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.1.83:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#📡🇩🇪®️Germany©️Falkenstein🅿️ping:43.87ms
+trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls#📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:56.75ms
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.79ms

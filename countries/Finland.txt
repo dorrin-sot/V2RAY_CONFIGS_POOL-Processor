@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaalExTg@138.124.15.120:8388#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.32ms
+vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@87.121.89.42:443?security=reality&encryption=none&pbk=JhutTb8LnJILjPU2SVKR45BQlu7iq1-snyEu06Cs9z4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=video.sream-video.shop#📡🇫🇮®️Finland©️Helsinki🅿️ping:37.12ms

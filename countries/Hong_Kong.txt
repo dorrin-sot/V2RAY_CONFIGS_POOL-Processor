@@ -1,2 +1,0 @@
-vless://e962823c-b197-48c9-b89f-4b18dc44e93c@212.192.13.172:27089?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=%2F&security=none&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:245.0ms
-vless://e962823c-b197-48c9-b89f-4b18dc44e93c@212.192.13.172:443?encryption=none&security=none&type=tcp#📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:246.74ms

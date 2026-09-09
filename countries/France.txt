@@ -1,0 +1,1 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:34.17ms

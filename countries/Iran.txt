@@ -1,2 +1,1 @@
-vless://6582f42f-1cd7-4efd-a199-d7cdadeb77d2@87.107.5.107:48291?encryption=none&headerType=http&host=Aparat.com&path=%2F&security=none&type=tcp#📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:97.0ms
-vless://b2ca657e-c135-4888-bc7d-a9f986789cc0@fRt.torflay.ir:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=HLpLMCvrPiRj4klewfrHBu0Yqz8EX6Hzk2v-vy44wQQ&fp=chrome&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=1e0815e664af2cd4#📡🇮🇷®️Iran©️Kerman🅿️ping:160.23ms
+vless://f0c415b0-0178-4754-982e-b6ae60f50aa4@185.143.233.238:80?path=%2Fpgcfws-r4&security=&encryption=none&host=Subscrip.caroptions.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:29.26ms

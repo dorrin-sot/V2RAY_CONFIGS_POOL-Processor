@@ -1,1 +1,1 @@
-vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:67.41ms
+vless://79cb6885-13d6-4d41-8cdf-582674475953@mds2m2tv.danqela.ir:25971?security=reality&encryption=none&pbk=KTh4tTeC0HCXCfSjv6YN3RMqElzDRB5ggtMeP0KrjFo&host=apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=check-host.net&sid=ea0e8829389b277c#📡🇹🇷®️Turkey©️Istanbul🅿️ping:114.34ms

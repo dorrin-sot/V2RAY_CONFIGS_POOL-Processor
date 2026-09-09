@@ -1,1 +1,1 @@
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#📡🇷🇺®️Russia©️Moscow🅿️ping:26.34ms
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#📡🇷🇺®️Russia©️Moscow🅿️ping:28.33ms

@@ -1,0 +1,1 @@
+vless://80a1bf79-c260-4569-aec6-46ce9d8758a8@sr1.simbank.shop:443?security=reality&encryption=none&pbk=M2Mr5HUZ8gbB3xaUL1yVBuc-7kmtKweN1HxZwG5RKjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g1.simbank.shop&sid=519f693ed2cd705b#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:118.14ms

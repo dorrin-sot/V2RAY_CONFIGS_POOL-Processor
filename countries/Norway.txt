@@ -1,0 +1,2 @@
+vless://8a00b922-5cb0-4c59-bc54-96738f8e47dc@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#📡🇳🇴®️Norway©️Sandefjord🅿️ping:28.66ms
+vless://b1dff0ed-8404-4f07-950f-783dde2f993d@194.110.207.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none#📡🇳🇴®️Norway©️Sandefjord🅿️ping:28.66ms

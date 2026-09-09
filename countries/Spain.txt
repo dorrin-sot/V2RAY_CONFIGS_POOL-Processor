@@ -1,0 +1,1 @@
+trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#📡🇪🇸®️Spain©️Estepona🅿️ping:8.48ms

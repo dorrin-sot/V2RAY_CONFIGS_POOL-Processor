@@ -1,1 +1,2 @@
-vless://78440584-c334-44a8-bab1-8b1a7d08012b@Rital-caca.tempfast.ir:4323?encryption=mlkem768x25519plus.native.0rtt.rNxdYoCPN9GH1GEHCbOag6E1ni8cEQGqcZPrRS2JVyI&security=reality&type=tcp&headerType=none&host=play.google.com&sni=play.googleapis.com&fp=chrome&pbk=T7pTw3G0AIiLmvi96auuSsRjv1q52lpexxO2oITguhA&sid=40d9e0206a1bd03d#📡🇮🇹®️Italy©️Milan🅿️ping:64.31ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#📡🇮🇹®️Italy©️Milan🅿️ping:39.08ms
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#📡🇮🇹®️Italy©️Milan🅿️ping:47.61ms

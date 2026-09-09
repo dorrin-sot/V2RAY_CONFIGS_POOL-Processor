@@ -1,2 +1,0 @@
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#📡🇺🇦®️Ukraine©️Ukrainka🅿️ping:39.62ms
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&path=%2F4bc027a44532#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:32.81ms

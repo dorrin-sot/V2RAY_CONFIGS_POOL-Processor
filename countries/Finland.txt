@@ -1,2 +1,0 @@
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&type=xhttp&path=%2Fapi%2Fv3%2Fstream%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.24ms
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?encryption=none&security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&type=xhttp&path=%2Fapi%2Fv3%2Fstream%2F#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.24ms

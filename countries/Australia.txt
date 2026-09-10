@@ -1,1 +1,3 @@
-vless://d9d0f208-d582-41d5-bb7b-742671402810@153.76.204.161:3085?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=ImWhg9OJ8xUd2Fj4ZkgnURYCABBqumTCqYZNRuxAf34&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl4-6vkfut.vpvr4ib84nuv6hdkt.ru&sid=8ee637a5a05b603b#📡🇦🇺®️Australia©️Brisbane🅿️ping:50.07ms
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.238:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@VPNine1#📡🇦🇺®️Australia©️Surry Hills🅿️ping:7.36ms
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#📡🇦🇺®️Australia©️Surry Hills🅿️ping:7.96ms
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@VPNine1#📡🇦🇺®️Australia©️Surry Hills🅿️ping:8.69ms

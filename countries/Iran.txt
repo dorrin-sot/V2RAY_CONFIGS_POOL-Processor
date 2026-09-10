@@ -1,1 +1,1 @@
-vless://f0c415b0-0178-4754-982e-b6ae60f50aa4@185.143.233.238:80?path=%2Fpgcfws-r4&security=&encryption=none&host=Subscrip.caroptions.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:29.26ms
+vless://6582f42f-1cd7-4efd-a199-d7cdadeb77d2@87.107.5.107:48291?encryption=none&headerType=http&host=Aparat.com&path=%2F&security=none&type=tcp#📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:85.94ms

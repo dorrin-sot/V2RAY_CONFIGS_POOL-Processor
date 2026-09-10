@@ -1,0 +1,2 @@
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:281.95ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.119:443?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=/blue#📡🇸🇬®️Singapore©️Singapore🅿️ping:8.07ms

@@ -1,1 +1,0 @@
-vless://02b0a73a-1e76-5a85-a53b-c0f82d347a77@177.3.212.169:443?mode=auto&path=%2F1d94ba93ba1fd10e&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nlt.bearln.net&fp=chrome&type=xhttp&allowInsecure=0&sni=nlt.bearln.net#📡🇧🇷®️Brazil©️Aparecida de Goiânia🅿️ping:43.02ms

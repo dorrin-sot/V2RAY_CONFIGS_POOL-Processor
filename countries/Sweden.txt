@@ -1,0 +1,1 @@
+vless://ef9a5567-cbda-498a-cd3c-cd4e7ba6f880@185.146.173.82:2096?security=tls&sni=DNS-GAME.MpoTehran.ir&type=grpc&serviceName=Alfred-Config/Alfred-Config/qAlfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config/Alfred-Config&fp=chrome&alpn=http/1.1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:8.15ms

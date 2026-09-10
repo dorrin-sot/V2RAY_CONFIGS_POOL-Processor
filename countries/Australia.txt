@@ -1,3 +1,0 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.238:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@VPNine1#📡🇦🇺®️Australia©️Surry Hills🅿️ping:7.36ms
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#📡🇦🇺®️Australia©️Surry Hills🅿️ping:7.96ms
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@VPNine1#📡🇦🇺®️Australia©️Surry Hills🅿️ping:8.69ms

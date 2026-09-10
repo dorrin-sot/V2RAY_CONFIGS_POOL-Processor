@@ -1,1 +1,1 @@
-vless://f036e294-919e-4515-b431-aa8b2bae8b42@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#📡🇬🇧®️United Kingdom©️London🅿️ping:53.8ms
+vless://f10b3ea9-bd7d-47f9-bdeb-6a32f075b657@uka.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#📡🇬🇧®️United Kingdom©️Erith🅿️ping:53.91ms

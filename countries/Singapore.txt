@@ -1,1 +1,0 @@
-vless://5bfb1d65-4dac-48c6-a5c8-3a4be1964b84@status.luminesight.com:443?encryption=none&security=tls&sni=status.luminesight.com&fp=firefox&allowinsecure=0&type=ws&host=dews.irandoc.info&path=%2F15754%2Fsocket#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:77.1ms

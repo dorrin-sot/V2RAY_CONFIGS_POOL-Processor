@@ -1,0 +1,1 @@
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=web-socket.tgdaosheng.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=web-socket.tgdaosheng.ggff.net#📡🇸🇰®️Slovakia©️Bratislava🅿️ping:41.81ms

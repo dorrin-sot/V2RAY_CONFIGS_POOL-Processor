@@ -1,0 +1,2 @@
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?encryption=none&security=reality&sni=bg2.univesalsrv.com&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&authority=%2F%3FTELEGRAM%40TOOTFFARANGI&serviceName=api.v2.PushService&mode=gun#📡🇧🇬®️Bulgaria©️Sofia (Old City Center)🅿️ping:59.01ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:6.83ms

@@ -1,1 +1,0 @@
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195-162-69-203.sslip.io:8443?security=tls&fp=firefox&sni=195-162-69-203.sslip.io#📡🇹🇷®️Turkey©️Istanbul🅿️ping:76.27ms

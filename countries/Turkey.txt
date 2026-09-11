@@ -1,0 +1,1 @@
+vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Istanbul🅿️ping:95.23ms

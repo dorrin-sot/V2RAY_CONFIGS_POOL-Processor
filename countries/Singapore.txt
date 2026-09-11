@@ -1,0 +1,1 @@
+vless://873eb281-00d2-45cb-a7ca-81b71d035d92@45.77.241.190:8441?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&fp=chrome&type=ws&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:192.52ms

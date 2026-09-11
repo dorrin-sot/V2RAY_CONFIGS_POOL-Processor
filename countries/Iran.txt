@@ -1,0 +1,1 @@
+vless://74deeb95-0c33-4878-8eb2-c41d5004cb56@ippp.immahan.ir:443?security=tls&type=ws&headerType=&path=%2Fws&host=vip2.tu5pars.ir&sni=vip2.tu5pars.ir&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:188.73ms

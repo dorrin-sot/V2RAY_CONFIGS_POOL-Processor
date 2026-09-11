@@ -1,3 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.25ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22223?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.78ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:62.45ms
+vless://172bb44b-36a7-45f4-99ad-64ccad804ea6@ir9g6t1r.danqela.ir:11486?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇷®️France©️Strasbourg🅿️ping:155.14ms
+vless://172bb44b-36a7-45f4-99ad-64ccad804ea6@s7s5gvec.selqora.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:78.78ms
+vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&encryption=none&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=a44ff7d2e80213c2#📡🇫🇷®️France©️Paris🅿️ping:40.34ms

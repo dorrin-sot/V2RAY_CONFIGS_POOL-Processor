@@ -1,2 +1,0 @@
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#📡🇲🇬®️Madagascar©️Andriamena🅿️ping:40.61ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#📡🇲🇬®️Madagascar©️Andriamena🅿️ping:40.61ms

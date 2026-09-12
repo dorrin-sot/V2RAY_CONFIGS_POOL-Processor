@@ -1,1 +1,1 @@
-vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@65.109.216.210:443?security=reality&encryption=none&pbk=OT_dW2iPacfnhBst0DzvzUn6QCNdrn3ZgLQ1W1969Vw&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=fdd5268c36deb610#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.68ms
+vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=5a018643df03#📡🇫🇮®️Finland©️Helsinki🅿️ping:73.17ms

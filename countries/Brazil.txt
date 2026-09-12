@@ -1,1 +1,0 @@
-vless://574911f3-cdba-4092-a69c-fbd76c183981@177.3.215.41:443?security=reality&encryption=none&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=idontknow.whit3.net&sid=ca9273f1a19a886e#📡🇧🇷®️Brazil©️Aparecida de Goiânia🅿️ping:0.91ms

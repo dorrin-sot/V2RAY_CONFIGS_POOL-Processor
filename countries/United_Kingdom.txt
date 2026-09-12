@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubXB5VHNfNXZLc1NLZURfQVdKcGFxeU9odFdFUDRCNQ@2.28.225.166:33#📡🇬🇧®️United Kingdom©️London🅿️ping:53.55ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#📡🇬🇧®️United Kingdom©️London🅿️ping:34.27ms
+ss://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&type=tcp&sid=823ec0b7b5084ffe&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&fp=chrome&sni=www.apple.com&spx=%2F&headerType=none&encryption=none#📡🇬🇧®️United Kingdom©️London🅿️ping:36.47ms

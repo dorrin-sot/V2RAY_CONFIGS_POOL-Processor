@@ -1,3 +1,1 @@
-vless://b0a75e7e-85eb-4072-9b65-0898b008b161@Snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=Ho.v-duravex.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:71.64ms
-vless://b0a75e7e-85eb-4072-9b65-0898b008b161@Snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=Ho.v-duravex.ir&path=%2F&encryption=none&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:71.64ms
-vless://b0a75e7e-85eb-4072-9b65-0898b008b161@Snapp.ir:80?host=Ho.v-duravex.ir&path=%2F&encryption=none&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:71.64ms
+vless://19bc6bd3-cac5-4387-b8c1-b2b803cd5219@185.31.8.131:443?security=reality&encryption=none&pbk=ygUJeKZl4smtwd75QmvtLx6T1mEUNh4iylRUJSYYrVo&headerType=none&fp=chrome&spx=%2Fws%3Fed%3D443&type=tcp&sni=typeiran.com&sid=50460a#📡🇮🇷®️Iran©️Tehrān🅿️ping:83.78ms

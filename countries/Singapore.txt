@@ -1,0 +1,1 @@
+vless://af1efe27-3c9b-452a-ac60-f6af26a03c76@mengcut.mengko.net:443?sni=mengcut.mengko.net&allowInsecure=0&security=tls&encryption=none&host=dews.irandoc.info&insecure=0&path=%2Fap#📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:65.52ms

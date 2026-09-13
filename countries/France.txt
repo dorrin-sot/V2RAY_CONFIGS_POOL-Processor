@@ -1,4 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:34.61ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22224?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:34.61ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22223?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.37ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22224?type=raw#📡🇫🇷®️France©️Paris🅿️ping:34.56ms

@@ -1,0 +1,1 @@
+vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@190.93.246.216:2083?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:8.42ms

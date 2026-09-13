@@ -1,3 +1,2 @@
-vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:27.83ms
-vless://d5e3a0e1-66e6-4ffa-b695-92484570a22d@185.222.160.185:443?security=reality&encryption=none&pbk=mBi2PpqpCcfwAy3Fkq5kqrs3SlZfS23j-dTYdMO4D1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mtalk.google.com&sid=4f8a2c91#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.87ms
-vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:27.83ms
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@mv88naa12inetwjq4yxg.tulfexa.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=sheets.google.com&fp=firefox&alpn=http%2F1.1&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&sid=5ed5b9e0e28bb1b4#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:48.8ms
+vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@78.141.221.126:25585?security=&encryption=none&headerType=none&type=tcp#📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:27.62ms

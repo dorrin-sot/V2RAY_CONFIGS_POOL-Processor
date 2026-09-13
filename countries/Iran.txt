@@ -1,1 +1,2 @@
-vless://19bc6bd3-cac5-4387-b8c1-b2b803cd5219@185.31.8.131:443?security=reality&encryption=none&pbk=ygUJeKZl4smtwd75QmvtLx6T1mEUNh4iylRUJSYYrVo&headerType=none&fp=chrome&spx=%2Fws%3Fed%3D443&type=tcp&sni=typeiran.com&sid=50460a#📡🇮🇷®️Iran©️Tehrān🅿️ping:83.78ms
+vless://b0a75e7e-85eb-4072-9b65-0898b008b161@Snapp.ir:80?encryption=none&host=Ho.v-duravex.ir&path=%2F&security=none&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:46.43ms
+vless://ddaf0340-f28b-4144-ab00-f1c2d097dc62@vip.superturk.ir:2087?encryption=none&fp=chrome&pbk=5HzjqYhUmYpvQmxSXdEFnWUk9IggjXfgsTTFr0_F0zY&security=reality&sid=4b31&sni=telewebion.ir&spx=/03e311fccd343c9&type=tcp#📡🇮🇷®️Iran©️Tehran🅿️ping:220.11ms

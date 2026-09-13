@@ -1,1 +1,0 @@
-vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@185.70.199.109:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=9ec76c42649e1923#📡🇵🇱®️Poland©️Warsaw🅿️ping:36.93ms

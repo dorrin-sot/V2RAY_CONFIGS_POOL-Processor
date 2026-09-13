@@ -1,0 +1,1 @@
+vless://d97255e6-31b0-423f-ba40-689d9ebadce2@177.3.208.167:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.uva.nl&fp=firefox&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&allowInsecure=1#📡🇧🇷®️Brazil©️São José do Rio Preto🅿️ping:42.84ms

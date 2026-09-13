@@ -1,2 +1,0 @@
-vless://becd3b04-62a8-4b74-be67-be746008b4c2@144.31.7.182:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&insecure=0&sni=cdn-582.spliceflowtech.com&encryption=none&fp=firefox&alpn=h2&security=tls&type=grpc&serviceName=grpc#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.46ms
-vless://becd3b04-62a8-4b74-be67-be746008b4c2@144.31.7.182:443?allowInsecure=0&insecure=0&sni=cdn-582.spliceflowtech.com&encryption=none&fp=firefox&alpn=h2&security=tls&type=grpc&serviceName=grpc#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.46ms

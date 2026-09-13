@@ -1,2 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.129:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:38.31ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.129:22222?encryption=none&type=tcp&allowInsecure=1#📡🇫🇷®️France©️Paris🅿️ping:38.31ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:36.61ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.7ms

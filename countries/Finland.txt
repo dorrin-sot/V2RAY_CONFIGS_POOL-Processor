@@ -1,1 +1,1 @@
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.6ms
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@softledger.asoft.help:443?security=reality&encryption=none&pbk=oFp3R2HXBuvIPexOkwFcVBwpDIg-GXM0SGqRjFpVE08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=softledger.asoft.help&sid=89b596866c14aab4#📡🇫🇮®️Finland©️Helsinki🅿️ping:13.76ms

@@ -1,1 +1,1 @@
-vless://d97255e6-31b0-423f-ba40-689d9ebadce2@177.3.208.167:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.uva.nl&fp=firefox&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&allowInsecure=1#📡🇧🇷®️Brazil©️São José do Rio Preto🅿️ping:42.84ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.231:443?security=tls&sni=jpb.ylks01.eu.org&type=ws&path=%2F#📡🇧🇷®️Brazil©️Casa Verde🅿️ping:6.99ms

@@ -1,2 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.254.51:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.66ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.254.51:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:62.82ms
+vless://2145a558-40c8-4750-beb7-81405be61dd9@95.182.116.217:2083?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=l5fJf9u8MzKzOfIRc9b45Fb7F9ettOD1NfEgkeq9NWY&security=reality&sid=f87508517742&sni=www.goo.gl&spx=%2F108867663d1c2ef&type=xhttp&x_padding_bytes=100-1000#📡🇫🇷®️France©️Paris🅿️ping:36.83ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22222?encryption=none&headerType=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:66.78ms

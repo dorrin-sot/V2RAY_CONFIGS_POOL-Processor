@@ -1,1 +1,1 @@
-vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.73:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=e1f8a3b6#📡🇫🇮®️Finland©️Turku🅿️ping:30.25ms
+vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@87.121.89.42:443?security=reality&encryption=none&pbk=JhutTb8LnJILjPU2SVKR45BQlu7iq1-snyEu06Cs9z4&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=video.sream-video.shop#📡🇫🇮®️Finland©️Helsinki🅿️ping:8.0ms

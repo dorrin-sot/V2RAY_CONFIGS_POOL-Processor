@@ -1,1 +1,0 @@
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.65ms

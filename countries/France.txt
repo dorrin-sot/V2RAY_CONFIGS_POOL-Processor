@@ -1,3 +1,4 @@
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#📡🇫🇷®️France©️Paris🅿️ping:1.23ms
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#📡🇫🇷®️France©️Paris🅿️ping:1.57ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.29.85:22224?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:136.57ms
+vless://9bbe5565-56fa-4935-940d-1442f443fcc8@31.77.156.137:19000?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:145.29ms
+vless://9bbe5565-56fa-4935-940d-1442f443fcc8@31.77.156.137:51584?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:34.81ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.02ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.98ms

@@ -1,4 +1,1 @@
-vless://88eb60cb-5be5-4923-93df-c50b5ac8345e@185.143.234.120:2086?security=none&type=ws&path=%2F#📡🇮🇷®️Iran©️Tehrān🅿️ping:28.05ms
-vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@45.131.4.9:80?type=ws&host=IRON.man.policeoficer-45.GAMERme.IR#📡🇮🇷®️Iran©️Tehrān🅿️ping:6.96ms
-vless://f5c799a0-46d0-4c2f-8e1e-acccb1a87019@irraspi.darklink.ir:2056?path=%2Fmina&security=&encryption=none&host=irraspi.darklink.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:112.01ms
-vless://f5c799a0-46d0-4c2f-8e1e-acccb1a87019@irraspi.darklink.ir:2063?path=%2Fmina&security=&encryption=none&host=irraspi.darklink.ir&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:111.69ms
+vless://5cdfbe52-dc46-43ff-b93a-b7e34e39131e@zs.lanzivo.ir:443?mode=stream-up&path=%2F&security=tls&encryption=none&insecure=0&host=zs.lanzivo.ir&type=xhttp&allowInsecure=0&sni=zs.lanzivo.ir#📡🇮🇷®️Iran©️Ahvāz🅿️ping:213.36ms

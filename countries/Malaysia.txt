@@ -1,0 +1,2 @@
+vless://b82330a7-c64a-46a4-b109-e71b63cb26c4@198.20.153.87:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:247.62ms
+vless://b82330a7-c64a-46a4-b109-e71b63cb26c4@56.69.45.182:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn#📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:286.46ms

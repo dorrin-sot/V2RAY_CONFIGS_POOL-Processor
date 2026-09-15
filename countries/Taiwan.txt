@@ -1,2 +1,0 @@
-vless://3269919d-8b04-4f45-8e74-86c5806d0813@151.242.188.209:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn#📡🇹🇼®️Taiwan©️Taipei🅿️ping:248.55ms
-vless://3269919d-8b04-4f45-8e74-86c5806d0813@83.147.15.86:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn#📡🇹🇼®️Taiwan©️Taipei🅿️ping:223.47ms

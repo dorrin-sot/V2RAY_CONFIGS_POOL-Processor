@@ -1,1 +1,1 @@
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#📡🇷🇺®️Russia©️Moscow🅿️ping:48.96ms
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf3.rumedia-cdn.com&type=ws#📡🇷🇺®️Russia©️Novosibirsk🅿️ping:71.86ms

@@ -1,2 +1,1 @@
-vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.169:443?mode=auto&path=%2Fscript&security=reality&encryption=none&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&fp=qq&type=xhttp&sni=mc.yandex.tr&sid=94c9dbbf07366d96#📡🇷🇺®️Russia©️St Petersburg🅿️ping:23.64ms
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#📡🇷🇺®️Russia©️Moscow🅿️ping:72.13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZldKWFRmeEF1UU1JX21ZazVjanlEc2lGVTQyNUpjWA==@88.218.94.15:1080#📡🇷🇺®️Russia©️Moscow🅿️ping:66.05ms

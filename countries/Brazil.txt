@@ -1,0 +1,2 @@
+vless://729425fa-585b-458e-841a-ea30872d4ac2@177.3.208.167:443?security=reality&encryption=none&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.uva.nl&sid=940dbf5b#📡🇧🇷®️Brazil©️São José do Rio Preto🅿️ping:59.23ms
+vless://729425fa-585b-458e-841a-ea30872d4ac2@177.3.208.167:443?security=reality&encryption=none&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.uva.nl&sid=940dbf5b#📡🇧🇷®️Brazil©️São José do Rio Preto🅿️ping:75.71ms

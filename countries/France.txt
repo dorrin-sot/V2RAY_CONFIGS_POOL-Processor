@@ -1,2 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22223?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:38.42ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.93ms

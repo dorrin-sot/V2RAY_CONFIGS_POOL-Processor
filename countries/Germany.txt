@@ -1,8 +1,4 @@
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&insecure=0&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#📡🇩🇪®️Germany©️Werda🅿️ping:47.3ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMVhUNlEzblNDUHI0Yl93cjFtTHlLdk9IQmlYVXFLSw@78.46.204.122:443#📡🇩🇪®️Germany©️Falkenstein🅿️ping:35.63ms
-trojan://4yphdcvkt15i492i@193.148.253.28:443?security=none&headerType=&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.59ms
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#📡🇩🇪®️Germany©️Kropp🅿️ping:1.44ms
-vless://2b3ac636-67cd-4881-8b3a-640c84c44d0a@78.46.204.122:443?security=reality&encryption=none&pbk=MQwKv7mfS-Rd1h3cDtteSq5r8buY-EskhxLb2OA-LCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=3149ce78f70b78fe#📡🇩🇪®️Germany©️Falkenstein🅿️ping:35.63ms
-vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:33.99ms
-vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:90.22ms
-vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=&encryption=none&headerType=none&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:33.99ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#📡🇩🇪®️Germany©️Werda🅿️ping:51.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@91.107.146.97:1080#📡🇩🇪®️Germany©️Nuremberg🅿️ping:29.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@94.249.187.46:1080#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:31.15ms
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?encryption=none&fp=&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:180.2ms

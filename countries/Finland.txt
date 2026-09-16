@@ -1,2 +1,2 @@
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@89.47.55.5:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.63ms
-vless://9a06775c-7fcd-48a1-8bb1-c99ab5719576@fnht2.sorcepack.ir:29774?encryption=mlkem768x25519plus.native.0rtt.zv7nj9KQIs5kh06GTsRh3Do0zBi9SyJukxjxZOr210U&security=none&type=tcp&headerType=http&host=azki.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:13.43ms
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@89.47.55.5:443?path=%2F&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.34ms
+vless://Channel%3Atelegram%3ATurboConfigs@65.109.205.148:8084?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.73ms

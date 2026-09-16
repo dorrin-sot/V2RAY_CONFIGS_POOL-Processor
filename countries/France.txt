@@ -1,4 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.121:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:41.41ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.121:22223?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.47ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.121:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.33ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22223?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:36.99ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL---ELiV2RAY-ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:119.91ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL--ELiV2RAY-ELiV2RAY.IR&type=ws#📡🇫🇷®️France©️Paris🅿️ping:119.91ms

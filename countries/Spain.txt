@@ -1,0 +1,2 @@
+trojan://humanity@185.114.72.31:2053?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#📡🇪🇸®️Spain©️Madrid🅿️ping:64.19ms
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.97.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#📡🇪🇸®️Spain©️Titulcia🅿️ping:1.63ms

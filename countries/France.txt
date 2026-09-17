@@ -1,1 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.160.193:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:34.14ms
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&path=%2F&mode=auto#📡🇫🇷®️France©️Paris🅿️ping:1.41ms
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:443?path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#📡🇫🇷®️France©️Paris🅿️ping:1.41ms

@@ -1,1 +1,1 @@
-vless://e054ea15-80b1-4d19-b422-6d6855c88364@pool.arosakforosh.ir:6422?mode=auto&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.i6xtvCpnlGhVOMcqCvCmYgV9f-NaHwGkQBvI0PTOeD4&type=xhttp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:134.87ms
+vless://d9ce62fc-851b-49db-b52a-d015357a2f3a@netsecureteam5.ir:4444?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:68.73ms

@@ -1,0 +1,2 @@
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#📡🇸🇦®️Saudi Arabia©️Riyadh🅿️ping:102.91ms
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?path=%2F&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#📡🇸🇦®️Saudi Arabia©️Riyadh🅿️ping:102.91ms

@@ -1,2 +1,1 @@
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#📡🇷🇺®️Russia©️Moscow🅿️ping:52.66ms
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#📡🇷🇺®️Russia©️Moscow🅿️ping:36.73ms
+vless://bcc2f72f-62ea-4d2d-914a-8a6ae5409724@78.159.245.51:6443?security=reality&encryption=none&pbk=o-QrksJtRE_UOjwUEAkN_T_3wo8HWXFo5F97BOmzKAw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=docs.helpscenter.xyz&sid=4c2f8435d7555b76#📡🇷🇺®️Russia©️Moscow🅿️ping:25.57ms

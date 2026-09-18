@@ -1,2 +1,0 @@
-vless://67671bce-990e-47fe-96c3-55a869800b00@104.143.223.56:2085?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:29.92ms
-vless://67671bce-990e-47fe-96c3-55a869800b00@104.143.223.56:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#📡🇺🇦®️Ukraine©️Kyiv🅿️ping:29.92ms

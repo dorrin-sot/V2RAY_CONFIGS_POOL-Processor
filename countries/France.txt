@@ -1,3 +1,4 @@
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@88.216.57.128:443?security=reality&encryption=none&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&fp=chrome&type=grpc&sni=usa.superbuba.top&sid=9c2378562188c3cb#📡🇫🇷®️France©️Paris🅿️ping:130.08ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.187.46:22223?security=&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:36.04ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22222?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.77ms
+vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@130.49.77.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#📡🇫🇷®️France©️Paris🅿️ping:1.63ms
+vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@130.49.77.7:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#📡🇫🇷®️France©️Paris🅿️ping:1.63ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:41.82ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:39.11ms

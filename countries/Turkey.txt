@@ -1,3 +1,1 @@
-trojan://wphetm3l4awlpn7y@202.133.90.105:1819?security=none&headerType=none&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:86.06ms
-vless://779317ef-3964-4189-8e0c-d3094a9ffe01@turkey.senbilarsin.ir:4896?encryption=mlkem768x25519plus.native.0rtt.IDdSFAfZ-fcUmp18l1JubLy9Rl9TP78lyG4LMY0UyFA&fp=random&headerType=none&pbk=OB-zrDNApRBNMSqcZagc5NUpWGQSGXOgLO4M91GzoVo&security=reality&sid=1b94d025d119dd86&sni=www.trthaber.com&type=tcp#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:113.29ms
-vless://779317ef-3964-4189-8e0c-d3094a9ffe01@turkey.senbilarsin.ir:4896?security=reality&encryption=mlkem768x25519plus.native.0rtt.IDdSFAfZ-fcUmp18l1JubLy9Rl9TP78lyG4LMY0UyFA&pbk=OB-zrDNApRBNMSqcZagc5NUpWGQSGXOgLO4M91GzoVo&headerType=none&fp=random&type=tcp&sni=www.trthaber.com&sid=1b94d025d119dd86#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:113.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#📡🇹🇷®️Turkey©️Bursa🅿️ping:82.91ms

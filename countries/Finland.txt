@@ -1,1 +1,1 @@
-vless://Tel%3Aarchivd_android@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.0ms
+vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@79.137.184.158:443?path=/xh&security=tls&alpn=h2,http/1.1&encryption=none&host=fin-02.hello-there.ru&fp=firefox&type=xhttp&sni=fin-02.hello-there.ru#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.43ms

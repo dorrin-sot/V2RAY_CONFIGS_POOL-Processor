@@ -1,5 +1,0 @@
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.59.25:22222?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36.21ms
-ss://tmp_user@atomic-prase23893.my-vm.work:8088?type=ws&headerType=none&security=none&encryption=none&path=%2Fapi&host=queuev4.vk.com#📡🇬🇧®️United Kingdom©️Bicester🅿️ping:78.43ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.59.25:22222?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36.21ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.59.25:22223?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:36.45ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.59.25:22224?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:35.35ms

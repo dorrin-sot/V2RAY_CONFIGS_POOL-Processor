@@ -1,2 +1,0 @@
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?host=0403.infinityconfig4.workers.dev&path=%2Fsync&sni=0403.infinityconfig4.workers.dev&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:7.01ms
-vless://60cc6133-190f-4584-a780-f0804327df70@t4.php.rest:53573?pcs=88d03fdc2d85bf516c905f191cffd2fe10af80126700ec0b420c54609317416a&path=%2Fapi&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=pish-data-32.myket.ir#📡🇮🇷®️Iran©️Tehrān (District 5)🅿️ping:111.43ms

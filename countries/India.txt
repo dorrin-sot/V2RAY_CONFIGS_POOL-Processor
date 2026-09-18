@@ -1,0 +1,2 @@
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#📡🇮🇳®️India©️Navi Mumbai (Panvel)🅿️ping:195.71ms
+vless://b82330a7-c64a-46a4-b109-e71b63cb26c4@168.144.154.79:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn#📡🇮🇳®️India©️Bengaluru🅿️ping:163.08ms

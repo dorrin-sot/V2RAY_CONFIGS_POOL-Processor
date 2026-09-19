@@ -1,2 +1,0 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?encryption=none&security=reality&sni=stashfuro-eweqee.ru&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&type=grpc&authority=&serviceName=nexusGrpc&mode=gun#📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.78ms
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?type=grpc&headerType=none&security=reality&encryption=none&sni=stashfuro-eweqee.ru&fp=firefox&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&serviceName=nexusGrpc#📡🇸🇪®️Sweden©️Stockholm🅿️ping:0.78ms

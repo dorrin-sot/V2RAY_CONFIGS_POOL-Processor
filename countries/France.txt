@@ -1,2 +1,2 @@
-vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=reality&encryption=none&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#📡🇫🇷®️France©️Paris🅿️ping:1.44ms
-vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#📡🇫🇷®️France©️Paris🅿️ping:1.44ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.102.10:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.77ms
+vless://nasnet@162.19.10.99:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#📡🇫🇷®️France©️Wattrelos🅿️ping:32.79ms

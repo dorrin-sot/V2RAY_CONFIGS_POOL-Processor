@@ -1,0 +1,2 @@
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pl.bubahero.com&sid=9c2378562188c3cb#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:45.1ms
+vless://f68a9fd4-16c7-46d1-b17c-0a4b224cc00d@93.190.9.24:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:26.89ms

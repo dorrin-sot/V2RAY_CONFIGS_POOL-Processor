@@ -1,2 +1,0 @@
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&security=tls&headerType=none&sni=&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:38.1ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#📡🇬🇧®️United Kingdom©️Canning Town🅿️ping:38.1ms

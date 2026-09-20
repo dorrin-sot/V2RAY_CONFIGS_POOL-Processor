@@ -1,2 +1,0 @@
-vless://465b777b-292d-4b95-8744-955551630700@85.198.51.102:443?encryption=none&path=%2Fmciws&security=&type=ws#📡🇮🇷®️Iran©️Tajrīsh🅿️ping:118.11ms
-vless://ccc252f4-7f23-43b4-a8d5-6c0aee8633f0@g2.haxat.bestvbest.ir:20610?encryption=none&type=tcp&security=reality&sni=doctor-yab.ir&fp=chrome&pbk=lcXIrYi2o8yXrYHR321qQ--5lqVT8a6TKbaGpYTq4CI&sid=1d1a8f9fefeff5e6&allowInsecure=1#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:105.11ms

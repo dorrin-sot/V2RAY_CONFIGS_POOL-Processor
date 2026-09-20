@@ -1,1 +1,1 @@
-vless://971dc1d5-4243-4238-8d23-091a6a06d25a@93.190.8.20:3090?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&type=grpc&security=none&fm=AhmadV2ray&serviceName=vless&encryption=none#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:27.64ms
+vless://8ff5836e-850f-41b8-9817-bd310b9fb13b@t1.legendbusiness.cloud:8443?security=reality&encryption=none&pbk=6iaYmqXybcUmdOG9RlXlphFieBhU6bNPmoukO7WNdGw&headerType=none&fp=chrome&type=tcp&sni=storage-p2.googleapis.com&sid=377d#📡🇹🇷®️Turkey©️Istanbul🅿️ping:233.45ms

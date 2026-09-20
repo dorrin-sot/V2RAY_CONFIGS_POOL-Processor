@@ -1,1 +1,2 @@
-vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#📡🇦🇹®️Austria©️Vienna (Floridsdorf)🅿️ping:42.4ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.218:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fv%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#📡🇦🇹®️Austria©️Vienna🅿️ping:67.93ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Farchive%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#📡🇦🇹®️Austria©️Vienna🅿️ping:44.07ms

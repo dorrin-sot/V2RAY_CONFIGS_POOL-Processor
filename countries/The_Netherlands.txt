@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:69.51ms
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:6.82ms
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:7.19ms
+vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#📡🇳🇱®️The Netherlands©️Dronten🅿️ping:78.35ms
+vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=&path=%2F&security=none&type=ws#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.45ms
+vless://e4371581-c418-4770-b09a-d630f18290a6@cassiopeia.yokkastars.com:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=WFvn-RRJzpt2qV4xwj_R93gDr6dduIjkQKO3De3Y2Hc&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=5d96#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:81.04ms

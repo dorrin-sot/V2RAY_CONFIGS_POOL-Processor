@@ -1,0 +1,2 @@
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf&allowInsecure=1#📡🇨🇿®️Czechia©️Prague🅿️ping:7.9ms
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#📡🇨🇿®️Czechia©️Prague🅿️ping:9.54ms

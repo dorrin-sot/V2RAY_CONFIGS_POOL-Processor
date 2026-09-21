@@ -1,0 +1,1 @@
+vless://ad181c5d-2998-408a-8706-003969e557a7@132.243.231.138:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=se.global-cdn.org&fp=safari&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8&spx=%2F&allowInsecure=1#📡🇸🇪®️Sweden©️Stockholm🅿️ping:1.0ms

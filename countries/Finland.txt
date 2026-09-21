@@ -1,2 +1,1 @@
-vless://4b55becd-697c-4162-a23e-16e740d2f2e1@65.109.180.37:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:0.64ms
-vless://c4107be5-6cf0-8e55-7913-f45b832d6da8@finland.hosting-96.ir:2242?security=reality&encryption=none&pbk=u8Lf72dhxHTC-UIxj9BlZTW52UiyjP-DfqssndWZI24&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google-analytics.com&sid=82e62428#📡🇫🇮®️Finland©️Helsinki🅿️ping:21.07ms
+vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@f45n1.starzone.ir:38479?security=none&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:50.25ms

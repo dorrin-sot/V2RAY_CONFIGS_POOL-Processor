@@ -1,5 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.47ms
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@game.betust.net:443?security=reality&encryption=none&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api14.betust.net&sid=16fbc56c#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:47.05ms
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@snow.betust.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=974acf45#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:49.3ms
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@snow.betust.net:443?security=reality&encryption=none&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=974acf45#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:49.3ms
-vless://4d0c9953-1a82-4439-92a1-13ce2dfefcbc@94.237.110.207:443?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:41.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:48.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:60.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:40.7ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080?type=tcp&headerType=none#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.51ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:49.15ms

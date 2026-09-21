@@ -1,1 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.174:22222?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.39ms
+vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@frz1.starzone.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=delivery.mp.microsoft.com&sid=9e3f5e25c17d2615#📡🇫🇷®️France©️Aubervilliers🅿️ping:55.93ms

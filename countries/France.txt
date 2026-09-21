@@ -1,5 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:65.58ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.1ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22223?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:37.1ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:36.49ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:36.49ms

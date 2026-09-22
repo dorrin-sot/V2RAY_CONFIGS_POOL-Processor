@@ -1,9 +1,0 @@
-ss://aac957fd-afaa-403e-beb4-e93cb2b1c31f@190.93.246.241:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fra.servervless.de&amp;type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:7.78ms
-vless://542102de-829c-454b-a769-a7acb48f617f@190.93.245.101:80?path=%2F&security=none&encryption=none&host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:7.93ms
-vless://70f3c406-63b9-4ca9-b741-8b0c6acaa4bd@190.93.246.241:2095?path=%2F%3Fed%3D2048+%40hopev2ray&security=none&encryption=none&host=de17.vlessx.us&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:8.38ms
-vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8080?type=ws&security=none&encryption=none&path=%2Fkouroshasli_panel&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&headerType=none#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:7.33ms
-vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8880?type=ws&security=none&encryption=none&path=%2Fkouroshasli_panel&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&headerType=none#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:7.42ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@190.93.247.26:2095?host=fuckfangbinxing.pusytroller.gq&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:34.38ms
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@190.93.247.155:80?path=path%2FTELEGRAM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:7.27ms
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80?type=ws&encryption=none&host=edgetunnelworker.xlz.workers.dev&path=%2F%3Fed%3D2560#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:33.97ms
-vless://f739f7e6-98b5-40a5-9c8e-037124e1c1ee@190.93.247.155:80?path=%2Fvless&security=none&encryption=none&host=Nl1.vless.site.&type=ws&sni=nl1.vless.site#📡🇨🇷®️Costa Rica©️Pozos🅿️ping:7.27ms

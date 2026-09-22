@@ -1,0 +1,1 @@
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@154.46.31.118:443?path=%2F&security=tls&encryption=none&insecure=0&host=shuma.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=shuma.ccwu.cc#📡🇷🇴®️Romania©️Voluntari🅿️ping:54.04ms

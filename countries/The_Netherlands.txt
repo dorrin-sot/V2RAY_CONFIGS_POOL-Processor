@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:61.25ms
-vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:40610?encryption=none&headerType=&security=&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.47ms
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=&fp=firefox&type=xhttp&allowInsecure=0&sni=#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:57.11ms
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:57.11ms

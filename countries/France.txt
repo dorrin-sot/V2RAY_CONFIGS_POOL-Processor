@@ -1,2 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.95.192:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:38.25ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.95.192:22224?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:41.18ms
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#📡🇫🇷®️France©️Paris🅿️ping:57.8ms

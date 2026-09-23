@@ -1,2 +1,0 @@
-vless://6d5ed3bc-2e5e-47f4-9162-a60ec3cf41ed@153.76.185.185:3090?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&serviceName=vless&security=none&mode=multi#📡🇨🇿®️Czechia©️Prague🅿️ping:127.48ms
-vless://6d5ed3bc-2e5e-47f4-9162-a60ec3cf41ed@153.76.185.185:3090?encryption=none&type=grpc&serviceName=vless&security=none&mode=multi#📡🇨🇿®️Czechia©️Prague🅿️ping:127.48ms

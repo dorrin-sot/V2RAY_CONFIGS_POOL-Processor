@@ -1,1 +1,1 @@
-trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#📡🇪🇸®️Spain©️Madrid🅿️ping:88.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#📡🇪🇸®️Spain©️Madrid🅿️ping:64.79ms

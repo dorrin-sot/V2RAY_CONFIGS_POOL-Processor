@@ -1,3 +1,2 @@
-vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@slowkd.sadiepinki.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&security=reality&sid=9c2378562188c3cb&sni=slowkd.sadiepinki.com&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:46.84ms
-vless://7cde4592-4758-415f-8b97-c188faa4d1c9@84.32.101.70:443?mode=gun&security=reality&encryption=none&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.8ms
-vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@62.60.245.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=G8SING6Ibc_igZ5vI5578fXCT_mBMRuq_o8_Ymnj2SQ&security=reality&sid=eba1498e012ef580&sni=amazon.de&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.36ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:61.25ms
+vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:40610?encryption=none&headerType=&security=&type=tcp#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.47ms

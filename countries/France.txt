@@ -1,5 +1,2 @@
-vless://cc01f435-d561-4525-bf1f-7a9876d33207@130.49.218.208:5432?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=tls&fp=qq&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:38.93ms
-vless://cc01f435-d561-4525-bf1f-7a9876d33207@130.49.218.208:5432?encryption=none&flow=xtls-rprx-vision&security=tls&fp=qq&type=tcp&headerType=none#📡🇫🇷®️France©️Paris🅿️ping:38.93ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.123.107:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.49ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.123.107:22222?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.49ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.123.107:22224?security=&encryption=none&headerType=&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:38.68ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:34.98ms
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@145.223.70.129:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#📡🇫🇷®️France©️Paris🅿️ping:69.63ms

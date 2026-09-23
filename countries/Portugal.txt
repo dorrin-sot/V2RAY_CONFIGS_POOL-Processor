@@ -1,2 +1,2 @@
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?type=ws&host=Fastapi.Org&path=%2F#📡🇵🇹®️Portugal©️Porto🅿️ping:96.86ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?security=none&type=ws&host=vms.lifetime54.workers.dev&path=/#📡🇵🇹®️Portugal©️Lisbon🅿️ping:7.0ms
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@171.22.129.3:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&serviceName=de2262268grpc&sni=www.tagesschau.de&sid=01dd4a1b292c6177&fp=qq&type=grpc&pbk=o_HrloEGeJF7j3RChs2gC7YzyezRMLlguh7Zqbh1WhY&encryption=none&security=reality#📡🇵🇹®️Portugal©️Porto🅿️ping:79.79ms
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@171.22.129.3:2053?serviceName=de2262268grpc&sni=www.tagesschau.de&sid=01dd4a1b292c6177&fp=qq&type=grpc&pbk=o_HrloEGeJF7j3RChs2gC7YzyezRMLlguh7Zqbh1WhY&encryption=none&security=reality#📡🇵🇹®️Portugal©️Porto🅿️ping:79.79ms

@@ -1,0 +1,2 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.95.192:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:38.25ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.95.192:22224?security=none&encryption=none&headerType=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:41.18ms

@@ -1,1 +1,1 @@
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#📡🇹🇷®️Turkey©️Beylikduzu🅿️ping:125.62ms
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8443?encryption=none&fp=firefox&headerType=none&pbk=yrKUxdxmj4Z5ECKB70SuqjmmjY7KUOtTL9-uWmKLqDw&security=reality&sid=3b3066&sni=www.goo.gl&spx=%2Fa7a0095c32ef80b&type=tcp#📡🇹🇷®️Turkey©️Istanbul🅿️ping:95.82ms

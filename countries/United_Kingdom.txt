@@ -1,0 +1,1 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.56.185:22222?security=none&encryption=none&headerType=none&type=tcp#📡🇬🇧®️United Kingdom©️Beoley🅿️ping:34.2ms

@@ -1,2 +1,0 @@
-vless://a8332d03-40a3-4891-8e8e-50830248515c@poi.mobileemdad.top:42542?security=&encryption=none&host=www.goo.gl&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:19.81ms
-vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality&encryption=none&pbk=ssz8kvl1tH0TUaFREVSV_X-ED0AR-eeaWpKg2jQM8D8&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gag.fl.iki-servers.com#📡🇫🇮®️Finland©️Helsinki🅿️ping:6.21ms

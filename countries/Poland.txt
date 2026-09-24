@@ -1,1 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#📡🇵🇱®️Poland©️Warsaw🅿️ping:39.59ms
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#📡🇵🇱®️Poland©️Warsaw🅿️ping:32.78ms

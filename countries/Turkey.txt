@@ -1,4 +1,1 @@
-vless://79770569-abde-4fdb-90eb-10b99d4adf8f@87.120.106.180:443?security=reality&encryption=none&pbk=f09CLVED0WnerTVrfS_nZ7UUuTHtT_TIiDeJ0z9WCHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.upwork.com&sid=a96e5dd96c4b902d#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:93.53ms
-vless://92834022-0c3c-42ca-9ed4-08049705dc49@158.94.216.42:443?encryption=none&security=none&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:67.97ms
-vless://92834022-0c3c-42ca-9ed4-08049705dc49@158.94.216.42:8080?encryption=none&security=none&type=tcp&headerType=none#📡🇹🇷®️Turkey©️Ataşehir🅿️ping:64.85ms
-vless://ab1e0e78-f18b-46de-ac84-2961ea45be1c@fiso.netbazshop.ir:33017?security=none&encryption=mlkem768x25519plus.native.0rtt.YoqVHL7fCzI4qbWSy3TN6inQG32vJD01ZGgUKvLoQFY&host=fiso.netbazshop.ir&headerType=http&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:111.27ms
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=%2F%3Fed%3D2082&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#📡🇹🇷®️Turkey©️Beylikduzu🅿️ping:117.38ms

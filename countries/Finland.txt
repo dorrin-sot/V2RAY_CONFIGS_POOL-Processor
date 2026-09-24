@@ -1,1 +1,1 @@
-vless://92834022-0c3c-42ca-9ed4-08049705dc49@65.109.178.93:49779?encryption=none&security=none&type=tcp&headerType=none#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.34ms
+vless://e84e0918-68ca-4fcc-a1d1-b566fd9ac7ee@193.23.201.65:5432?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.22ms

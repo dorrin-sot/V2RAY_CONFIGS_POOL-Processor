@@ -1,1 +1,2 @@
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:37.51ms
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA%3D%3D@146.59.116.19:17000#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:101.83ms
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA%3D%3D@146.59.116.19:17000#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:88.33ms

@@ -1,1 +1,0 @@
-vless://82e57623-bf39-454c-8b35-218085c536f3@200.165.234.134:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=api.bitrix24.ru&fp=safari&pbk=hgwbkAtsr7YEr-cXWhRwaHDNniwDeZYydVL3oye1q1U&sid=6f&allowInsecure=1#📡🇧🇷®️Brazil©️São Gonçalo🅿️ping:21.75ms

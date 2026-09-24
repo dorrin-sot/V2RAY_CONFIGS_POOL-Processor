@@ -1,2 +1,1 @@
-vless://1e763426-cbcf-47bc-99be-e7077476249f@l--nd.bntabriz.ir:25565?security=&encryption=none&host=ss-w.bntabriz.ir&headerType=http&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:131.52ms
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@194.150.166.228:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2ba#📡🇬🇧®️United Kingdom©️London🅿️ping:38.33ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.179.240:22222?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:37.11ms

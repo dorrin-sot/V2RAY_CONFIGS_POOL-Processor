@@ -1,2 +1,2 @@
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@146.103.43.8:9543?encryption=none&flow=xtls-rprx-vision&fp=&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.06ms
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@91.196.32.216:9543?encryption=none&flow=xtls-rprx-vision&fp=&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:31.86ms
+vless://ac0c2945-b758-11f1-8181-54db13ea7d40@31.76.249.44:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:35.94ms
+vless://d33dbb2a-104e-4978-ad51-77d91348b87c@91.107.147.213:61335?security=&encryption=none&host=dynu.com&headerType=http&type=tcp#📡🇩🇪®️Germany©️Nuremberg🅿️ping:37.31ms

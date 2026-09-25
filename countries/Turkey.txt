@@ -1,0 +1,2 @@
+vless://6a732af1-21d7-4314-ba02-7bacdb7c0003@93.114.98.221:443?encryption=none&security=tls&sni=00iwuafi1019.dopgangster.com&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.66ms
+vless://6a732af1-21d7-4314-ba02-7bacdb7c0003@93.114.98.221:8443?encryption=mlkem768x25519plus.native.0rtt.NQcOpgEn7mEG-CgYvLvb7qDbbZd7WyQw2SSzgNog1X8&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:65.77ms

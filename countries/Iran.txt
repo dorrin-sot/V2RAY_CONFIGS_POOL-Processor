@@ -1,3 +1,0 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206SXNEY0dMZWUwVmx2ZjNnYkRwTytGdz09OjQyeUhaYkdKTzg3dkpveWlRdnpEcHc9PQ@81.12.33.220:8080#📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:90.52ms
-vless://b9f2cecd-68b7-4a4e-a048-2f2ac120fc0c@193.151.158.55:3000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.d5uV_Zsp95FHCXuY1bimdQEuqpynfAIyt5XVEr4oNVU&security=none&type=tcp&headerType=none#📡🇮🇷®️Iran©️Tehran🅿️ping:89.06ms
-vless://b9f2cecd-68b7-4a4e-a048-2f2ac120fc0c@193.151.158.55:3000?encryption=mlkem768x25519plus.native.0rtt.d5uV_Zsp95FHCXuY1bimdQEuqpynfAIyt5XVEr4oNVU&security=none&type=tcp&headerType=none#📡🇮🇷®️Iran©️Tehran🅿️ping:89.06ms

@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA%3D%3D@146.59.116.19:17000#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:101.83ms
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA%3D%3D@146.59.116.19:17000#📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:88.33ms
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@150.241.103.8:43000?headerType=none&encryption=none&fp=firefox&security=reality&fm=AhmadV2ray&sid=16080c767d510e25&sni=150.241.103.8&spx=%2FAhmadV2ray&pbk=_DGWZQ4zhNofSvUlOPT5yhiuuRepvNeUlcIZQLj8qmk&flow=xtls-rprx-vision&type=tcp#📡🇵🇱®️Poland©️Warsaw🅿️ping:35.56ms
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@150.241.103.8:43000?security=reality&encryption=none&fm=AhmadV2ray&pbk=_DGWZQ4zhNofSvUlOPT5yhiuuRepvNeUlcIZQLj8qmk&headerType=none&fp=firefox&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=150.241.103.8&sid=16080c767d510e25#📡🇵🇱®️Poland©️Warsaw🅿️ping:34.78ms

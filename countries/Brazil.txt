@@ -1,0 +1,1 @@
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-ii.subaru-volga.com:443?encryption=none&fp=random&headerType=none&pbk=Fy5oUXHjwXPsnyRzZAHohjOd4dYkDj9mlIhr-Xh6tTc&security=reality&sid=6fddaa&sni=lineartronic-ii.subaru-volga.com&type=tcp#📡🇧🇷®️Brazil©️Birigui🅿️ping:44.67ms

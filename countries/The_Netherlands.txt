@@ -1,9 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:37.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:34.3ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:29.73ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:41.67ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:52.12ms
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:7.15ms
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=&fp=firefox&type=xhttp&allowInsecure=0&sni=#📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:60.21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.6ms

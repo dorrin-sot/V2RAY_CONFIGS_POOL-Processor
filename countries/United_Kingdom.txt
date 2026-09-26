@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#📡🇬🇧®️United Kingdom©️Totnes🅿️ping:36.79ms
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?security=none&serviceName=vless&sni=%2Ftelegram_tm%28%40azarbayjab1&type=grpc#📡🇬🇧®️United Kingdom©️London🅿️ping:35.02ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@tomaz1337shellbuy.vvzzkontaktezzvv.garden:443?security=reality&encryption=none&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tomaz1337shellbuy.vvzzkontaktezzvv.garden&sid=2e124af254a65e7c#📡🇬🇧®️United Kingdom©️Fareham🅿️ping:84.84ms

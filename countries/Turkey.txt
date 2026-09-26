@@ -1,1 +1,1 @@
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@93.190.9.172:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:26.08ms
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@45.92.219.170:8080?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#📡🇹🇷®️Turkey©️Başakşehir🅿️ping:63.48ms

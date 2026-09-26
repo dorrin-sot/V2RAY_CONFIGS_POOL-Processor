@@ -1,1 +1,2 @@
-vless://4425384jf81ff-646e-4e99-af3e-a9d9a636a44b@freeman.curtvip.ir:20410?encryption=none&security=reality&sni=secureconnect-pa.mtls.clients6.google.com&fp=chrome&pbk=BErODvy5h6Cjw5zWfX_CZ5ODH9p1XbZwU-ZEHyVXEGI&sid=e2ce3e050232978c&type=tcp&headerType=none#📡🇮🇷®️Iran©️Tehran (District 14)🅿️ping:196.98ms
+vless://02572fe7-a220-4554-a4f8-6854a4287e83@tarane.2drive.sbs:80?path=%2Farvancloud.ir&security=none&encryption=none&host=tarane.2drive.sbs&type=ws#📡🇮🇷®️Iran©️Tehrān🅿️ping:50.09ms
+vless://9730ec36-a1d8-4cae-a246-fde2678be5df@service.erisrtg.ir:9098?encryption=none&security=none&type=grpc&headerType=none&mode=gun#📡🇮🇷®️Iran©️Pardīs🅿️ping:146.38ms

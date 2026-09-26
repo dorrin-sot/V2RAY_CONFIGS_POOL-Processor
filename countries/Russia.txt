@@ -1,1 +1,1 @@
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#📡🇷🇺®️Russia©️Moscow🅿️ping:40.03ms
+vless://a0a9daed-6df5-000b-af4b-c3f7b5dca53b@217.144.184.229:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=themozart.musicforest.top&fp=safari&pbk=flg22y0F_54nD02tmm8yNchTkB_O6XZrV2rECwR5pnY&allowInsecure=1#📡🇷🇺®️Russia©️Moscow🅿️ping:45.43ms

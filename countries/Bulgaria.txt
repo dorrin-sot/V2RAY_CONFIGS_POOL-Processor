@@ -1,2 +1,0 @@
-vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?fp=chrome&host=floral-thunder-10d3.82-67d.workers.dev&path=/pyip=TelegramрҹҮЁрҹҮі+@VPNine1&security=none&type=ws#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:7.92ms
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@91.210.166.221:443?type=ws&security=tls&fp=firefox&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr#📡🇧🇬®️Bulgaria©️Sofia🅿️ping:56.97ms

@@ -1,2 +1,0 @@
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@185.87.24.169:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:101.2ms
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@93.190.9.172:3090?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=vless#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:26.74ms

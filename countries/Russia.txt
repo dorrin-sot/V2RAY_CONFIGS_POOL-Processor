@@ -1,2 +1,2 @@
-vless://4254ffc8-87d9-0004-b3c7-0421e879775f@185.186.143.14:443?security=reality&encryption=none&pbk=nKikcOP7PyFvJevamH27_aQNWs-WhylrF8sii96TMmE&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=msk3.maxtelemost.com#📡🇷🇺®️Russia©️Moscow🅿️ping:24.06ms
-vless://e57de345-cc46-4e70-88d6-053d57085857@201.51.3.184:8443?security=reality&encryption=none&pbk=gPaIIv3cDLigMHD-cm9SPvlHJlifMi5nEitdihwuNUM&fp=safari&type=grpc&sni=eh.vk.ru#📡🇷🇺®️Russia©️St Petersburg🅿️ping:49.63ms
+vless://4a9d6057-985a-4531-851c-5b4db77b0409@31.130.149.165:875?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:23.04ms
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#📡🇷🇺®️Russia©️St Petersburg🅿️ping:57.78ms

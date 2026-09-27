@@ -1,2 +1,1 @@
-vless://4a9d6057-985a-4531-851c-5b4db77b0409@31.130.149.165:875?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#📡🇷🇺®️Russia©️Moscow🅿️ping:23.04ms
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#📡🇷🇺®️Russia©️St Petersburg🅿️ping:57.78ms
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#📡🇷🇺®️Russia©️St Petersburg🅿️ping:78.36ms

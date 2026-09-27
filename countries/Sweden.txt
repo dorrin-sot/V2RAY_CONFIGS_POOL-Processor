@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#📡🇸🇪®️Sweden©️Stockholm🅿️ping:29.3ms
+vless://aded9f36-430b-46de-9e66-fdf2d88464c7@sw.bmbrvpn.cc:443?security=reality&encryption=none&pbk=Vrd6nDZblB3XlNd9q5yF2pXIPZ5gukxd1jn6aYrpmFY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw.bmbrvpn.cc&sid=335ef6e104e3#📡🇸🇪®️Sweden©️Stockholm🅿️ping:22.59ms

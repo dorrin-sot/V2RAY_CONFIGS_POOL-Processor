@@ -1,1 +1,2 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.243.18:9872?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&sid=aabb#📡🇷🇺®️Russia©️Moscow🅿️ping:22.53ms
+vless://4254ffc8-87d9-0004-b3c7-0421e879775f@185.186.143.14:443?security=reality&encryption=none&pbk=nKikcOP7PyFvJevamH27_aQNWs-WhylrF8sii96TMmE&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=msk3.maxtelemost.com#📡🇷🇺®️Russia©️Moscow🅿️ping:24.06ms
+vless://e57de345-cc46-4e70-88d6-053d57085857@201.51.3.184:8443?security=reality&encryption=none&pbk=gPaIIv3cDLigMHD-cm9SPvlHJlifMi5nEitdihwuNUM&fp=safari&type=grpc&sni=eh.vk.ru#📡🇷🇺®️Russia©️St Petersburg🅿️ping:49.63ms

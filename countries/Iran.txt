@@ -1,0 +1,1 @@
+vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@tunnel.hosting-96.ir:443?path=%2Fprooo&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tunnel.hosting-96.ir#📡🇮🇷®️Iran©️Tehran🅿️ping:192.38ms

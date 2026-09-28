@@ -1,2 +1,0 @@
-vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@85.115.209.170:2018?security=reality&encryption=none&pbk=Sn8z3wbt2Zpoo3mO3HLW6TZTjN8231Ylka7apFNb2X0&headerType=none&fp=random&type=tcp&sni=gemini.com&sid=cd5f260bcdd9c92d#📡🇬🇧®️United Kingdom©️London🅿️ping:153.49ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#📡🇬🇧®️United Kingdom©️London🅿️ping:29.48ms

@@ -1,0 +1,1 @@
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:443?encryption=none&sni=download.nvidia.com&type=xhttp&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&mode=auto&fp=chrome&path=%2F%3F&security=reality#📡🇫🇮®️Finland©️Helsinki🅿️ping:1.41ms

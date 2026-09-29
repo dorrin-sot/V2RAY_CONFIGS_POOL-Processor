@@ -1,1 +1,5 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=polkakurvich.hohoterz.beer&sid=fcfd621a2f36e3b6#📡🇬🇧®️United Kingdom©️Tottenham🅿️ping:32.4ms
+ss://YWVzLTEyOC1nY206OGIwNzM1MDQzMjhkYTZhNWRiMGE0NDcyZWMwMjE2OGI@82.145.63.24:18669#📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:35.23ms
+vless://2a701f21-2347-4eb2-813e-4867ad819272@146.19.130.192:57890?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:50.68ms
+vless://2a701f21-2347-4eb2-813e-4867ad819272@146.19.130.192:57890?security=&encryption=none&headerType=&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:50.68ms
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:32.82ms
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?security=&encryption=none&type=grpc&serviceName=vless#📡🇬🇧®️United Kingdom©️London🅿️ping:32.82ms

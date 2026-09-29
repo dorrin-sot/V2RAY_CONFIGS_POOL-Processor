@@ -1,1 +1,3 @@
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#📡🇫🇮®️Finland©️Helsinki🅿️ping:4.13ms
+vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F&security=&encryption=none&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:10.1ms
+vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&type=ws&path=/&packetEncoding=xudp#📡🇫🇮®️Finland©️Helsinki🅿️ping:14.27ms
+vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?path=%2F&security=&encryption=none&type=ws#📡🇫🇮®️Finland©️Helsinki🅿️ping:14.27ms

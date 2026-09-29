@@ -1,1 +1,1 @@
-vless://d0054d2b-3fea-486e-9592-ea6ce8d7b380@93.190.9.38:3090?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:25.58ms
+vless://50414e45-4c5f-5a45-5553-092a32c4d246@86.38.214.253:443?path=/stream/PANEL_ZEUS/092a32c4d246/loc-0&security=tls&encryption=none&host=5gz01aehupas.6qzsufeduzts.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=5gz01aehupas.6qzsufeduzts.workers.dev#📡🇹🇷®️Turkey©️Istanbul🅿️ping:1.99ms

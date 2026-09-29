@@ -1,1 +1,0 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl.pleiades.codes:443?security=tls&type=grpc&mode=gun&serviceName=cdn.v1.AssetService&packetEncoding=xudp&sni=assets-nl.pleiades.codes&fp=chrome#📡🇮🇹®️Italy©️Rome🅿️ping:42.19ms

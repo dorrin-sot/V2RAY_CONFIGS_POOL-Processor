@@ -1,2 +1,1 @@
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#📡🇮🇹®️Italy©️Milan🅿️ping:36.53ms
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#📡🇮🇹®️Italy©️Milan🅿️ping:36.53ms
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl.pleiades.codes:443?security=tls&type=grpc&mode=gun&serviceName=cdn.v1.AssetService&packetEncoding=xudp&sni=assets-nl.pleiades.codes&fp=chrome#📡🇮🇹®️Italy©️Rome🅿️ping:42.19ms

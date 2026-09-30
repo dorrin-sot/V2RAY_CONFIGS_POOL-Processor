@@ -1,2 +1,4 @@
-ss://607fbd26-4bd6-4e16-a74b-a0d9894866e7@2.26.3.81:443?security=reality&encryption=none&pbk=fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi03.mcloud.mov#📡🇫🇮®️Finland©️Helsinki🅿️ping:16.55ms
-vless://1c26f714-dfe5-462d-9ae9-88a247ea0e84@0ed543e839f3aa9a.RaVEnlO.iR:1310?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:111.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cTZHUWpDQmI5U0xiZjR5aDMxTkJ2dGlRZXF0Rk1tQQ@Fishy2.pconnectq.ir:2095#📡🇫🇮®️Finland©️Helsinki🅿️ping:13.53ms
+vless://b0490f49-7201-4f8e-b456-f99a4d222f5b@95.85.247.62:443?security=reality&encryption=none&pbk=55-Q43xORYP1vJOssALwSj1t07qUaUiES8PurqO7ZWs&headerType=none&fp=safari&spx=%2F&type=tcp&sni=neder.yandex-mul.fun#📡🇫🇮®️Finland©️Helsinki🅿️ping:29.61ms
+vless://cfd0c89a-8c2d-4cfa-adaf-1f945ca73012@fl-m2.starzone.ir:29247?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=ajax.googleapis.com&sid=c077229044b68285#📡🇫🇮®️Finland©️Helsinki🅿️ping:13.29ms
+vless://cfd0c89a-8c2d-4cfa-adaf-1f945ca73012@fl-m2.starzone.ir:41580?security=&encryption=none&host=dynu.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:20.14ms

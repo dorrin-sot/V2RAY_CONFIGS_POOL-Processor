@@ -1,1 +1,7 @@
-vless://3590b2cc-8aac-4a52-5b35-45d0f9807979@game.celvixo.ir:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#📡🇬🇧®️United Kingdom©️Coventry🅿️ping:111.15ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:39.43ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22222?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:39.43ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22223?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:35.25ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22223?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:40.14ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:40.29ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22224?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:37.09ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22224?encryption=none&security=none&type=tcp#📡🇬🇧®️United Kingdom©️London🅿️ping:40.29ms

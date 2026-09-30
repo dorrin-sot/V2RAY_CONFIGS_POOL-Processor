@@ -1,2 +1,1 @@
-vless://1c26f714-dfe5-462d-9ae9-88a247ea0e84@dbfd83665ca46b38.IROnlY4l.Ir:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:78.93ms
-vless://1c26f714-dfe5-462d-9ae9-88a247ea0e84@dbfd83665ca46b38.IROnlY4l.Ir:8080?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:78.93ms
+vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?security=reality&encryption=none&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=china.letsconnectpoint.com&sid=3b74d85e#📡🇹🇷®️Turkey©️Izmir🅿️ping:261.71ms

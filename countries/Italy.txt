@@ -1,3 +1,0 @@
-vless://dfade3dd-97a4-4e9b-aa5a-2a9a083978d9@104.105.81.98:6018?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.M31lXtWMr7Q3cpC56jAAXjc19LW_6x7fONGkK5_ovgk&security=none&type=tcp&headerType=none#📡🇮🇹®️Italy©️Milan🅿️ping:37.4ms
-vless://dfade3dd-97a4-4e9b-aa5a-2a9a083978d9@104.105.81.98:6018?encryption=mlkem768x25519plus.native.0rtt.M31lXtWMr7Q3cpC56jAAXjc19LW_6x7fONGkK5_ovgk&security=none&type=tcp&headerType=none#📡🇮🇹®️Italy©️Milan🅿️ping:37.4ms
-vless://dfade3dd-97a4-4e9b-aa5a-2a9a083978d9@104.105.81.98:9075?encryption=mlkem768x25519plus.native.0rtt.iGdCxaGVxab3kHiyObkQWXOyLQHPTZsC7R_kuApoDlA&security=none&type=tcp&headerType=none#📡🇮🇹®️Italy©️Milan🅿️ping:39.68ms

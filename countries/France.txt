@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206YWQ1ZTJkZTg4MjgzZjViOTE1YzI1OTgyZTA2YmI0NWI@195.154.81.205:15980#📡🇫🇷®️France©️Paris🅿️ping:35.72ms
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#📡🇫🇷®️France©️Roubaix🅿️ping:38.5ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.191:22224?encryption=none&security=none&type=tcp#📡🇫🇷®️France©️Paris🅿️ping:35.13ms

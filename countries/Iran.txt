@@ -1,1 +1,0 @@
-vless://420b49c9-fff4-4f39-b3b2-b13cbc378b3d@sub.armanx.space:2053?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=chrome&security=tls&serviceName=tunnel-grpc&sni=sub.armanx.space&type=grpc#📡🇮🇷®️Iran©️Kermān🅿️ping:280.24ms

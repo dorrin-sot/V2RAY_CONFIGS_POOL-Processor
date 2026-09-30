@@ -1,0 +1,2 @@
+ss://607fbd26-4bd6-4e16-a74b-a0d9894866e7@2.26.3.81:443?security=reality&encryption=none&pbk=fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi03.mcloud.mov#📡🇫🇮®️Finland©️Helsinki🅿️ping:16.55ms
+vless://1c26f714-dfe5-462d-9ae9-88a247ea0e84@0ed543e839f3aa9a.RaVEnlO.iR:1310?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#📡🇫🇮®️Finland©️Helsinki🅿️ping:111.29ms

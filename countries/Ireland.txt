@@ -1,0 +1,2 @@
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#📡🇮🇪®️Ireland©️Saggart🅿️ping:52.32ms
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#📡🇮🇪®️Ireland©️Dublin🅿️ping:42.42ms

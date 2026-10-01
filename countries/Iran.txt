@@ -1,4 +1,2 @@
-vless://a70bc4f9-1436-442f-9495-bde188f069b0@46.38.142.83:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=%2Ftr%2Fapi%2Fv5%2Fstream&mode=auto&security=tls&sni=clts.ir&fp=chrome&alpn=h2#📡🇮🇷®️Iran©️Mashhad🅿️ping:87.02ms
-vless://a70bc4f9-1436-442f-9495-bde188f069b0@46.38.142.83:443?encryption=none&type=xhttp&path=%2Fde%2Fapi%2Fv5%2Fstream&mode=auto&security=tls&sni=clts.ir&fp=chrome&alpn=h2#📡🇮🇷®️Iran©️Mashhad🅿️ping:87.02ms
-vless://a70bc4f9-1436-442f-9495-bde188f069b0@46.38.142.83:443?encryption=none&type=xhttp&path=%2Fnl%2Fapi%2Fv5%2Fstream&mode=auto&security=tls&sni=clts.ir&fp=chrome&alpn=h2#📡🇮🇷®️Iran©️Mashhad🅿️ping:87.02ms
-vless://a70bc4f9-1436-442f-9495-bde188f069b0@46.38.142.83:443?encryption=none&type=xhttp&path=%2Fse%2Fapi%2Fv5%2Fstream&mode=auto&security=tls&sni=clts.ir&fp=chrome&alpn=h2#📡🇮🇷®️Iran©️Mashhad🅿️ping:87.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVUFkXzlkMm9zQ1NZRE5DV05Kbmd3@p2tun3.greewebservices.ir:1030#📡🇮🇷®️Iran©️Qarchak🅿️ping:146.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVUFkXzlkMm9zQ1NZRE5DV05Kbmd3@p2tun4.greewebservices.ir:1040#📡🇮🇷®️Iran©️Tehran (District 14)🅿️ping:152.4ms

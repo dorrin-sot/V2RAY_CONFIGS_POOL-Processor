@@ -1,1 +1,1 @@
-vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@2.28.141.205:2087?encryption=none&type=http&host=play.google.com&method=GET&packetEncoding=xudp#📡🇬🇧®️United Kingdom©️London🅿️ping:37.69ms
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.231:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome#📡🇬🇧®️United Kingdom©️Stretford🅿️ping:34.5ms

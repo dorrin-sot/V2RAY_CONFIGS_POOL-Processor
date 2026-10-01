@@ -1,1 +1,0 @@
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&alpn=http%2F1.1&encryption=none&host=fdghyt.com&fp=firefox&type=ws&sni=fdghyt.com#📡🇪🇪®️Estonia©️Tallinn🅿️ping:34.44ms

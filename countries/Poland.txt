@@ -1,2 +1,1 @@
-vless://0f4081e7-612b-425f-8def-eebf144aedba@149.86.227.200:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=waypoint.connectserverix.com&sid=9e15546f267baa64#📡🇵🇱®️Poland©️Warsaw🅿️ping:34.42ms
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@145.239.30.17:2053?security=none&type=tcp#📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:34.93ms
+vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#📡🇵🇱®️Poland©️Warsaw (Wola)🅿️ping:37.61ms

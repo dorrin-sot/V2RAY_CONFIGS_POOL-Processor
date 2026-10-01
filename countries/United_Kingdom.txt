@@ -1,0 +1,1 @@
+vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@2.28.141.205:2087?encryption=none&type=http&host=play.google.com&method=GET&packetEncoding=xudp#📡🇬🇧®️United Kingdom©️London🅿️ping:37.69ms

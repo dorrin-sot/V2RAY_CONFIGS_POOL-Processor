@@ -1,1 +1,1 @@
-vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@84.32.215.66:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:39.52ms
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:38.19ms

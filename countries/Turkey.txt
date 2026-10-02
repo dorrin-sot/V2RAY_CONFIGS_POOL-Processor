@@ -1,0 +1,2 @@
+vless://2bae50f6-d040-4632-9607-7ac5e55b1900@4988365eb696f113.IROnlY4l.Ir:8080?path=/&security=none&encryption=none&host=play.google.com&type=ws#📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:76.71ms
+vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?security=reality&encryption=none&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=china.letsconnectpoint.com&sid=3b74d85e#📡🇹🇷®️Turkey©️Izmir🅿️ping:242.59ms

@@ -1,1 +1,1 @@
-vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#📡🇵🇱®️Poland©️Warsaw (Wola)🅿️ping:37.58ms
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?mode=gun&security=reality&encryption=none&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=firefox&type=grpc&sni=www.kayak.com#📡🇵🇱®️Poland©️Jawczyce🅿️ping:56.7ms

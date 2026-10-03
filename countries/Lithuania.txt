@@ -1,1 +1,2 @@
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vangoghhh.info&amp;type=ws&amp;allowInsecure=0&amp;sni=vangoghhh.info#📡🇱🇹®️Lithuania©️Vilnius🅿️ping:7.77ms
+vless://b4090350-b91f-4920-b5c0-c3ffd2798534@84.32.209.77:8081?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=none&encryption=none&type=grpc#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:69.29ms
+vless://b4090350-b91f-4920-b5c0-c3ffd2798534@84.32.209.77:8081?mode=gun&security=none&encryption=none&type=grpc#📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:69.29ms

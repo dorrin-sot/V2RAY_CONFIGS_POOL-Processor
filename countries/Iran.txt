@@ -1,0 +1,2 @@
+vless://06278d74-9385-42e8-be1b-49c78ebc49ea@lv2d.lynch.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#📡🇮🇷®️Iran©️Tehran🅿️ping:128.72ms
+vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#📡🇮🇷®️Iran©️Tehrān🅿️ping:85.98ms
